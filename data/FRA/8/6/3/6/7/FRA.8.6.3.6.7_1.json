@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[2.4856414794922443,48.99898910522472],[2.4881751537324135,48.99843597412115],[2.489787101745719,49.00130081176752],[2.4882471561431885,49.002239227295036],[2.4838831424713703,49.001274108886776],[2.4837920665741535,48.99943923950195],[2.4856414794922443,48.99898910522472]]]},"properties":{"GID_0":"FRA","NAME_0":"France","GID_1":"FRA.8_1","NAME_1":"Île-de-France","GID_2":"FRA.8.6_1","NAME_2":"Val-d'Oise","GID_3":"FRA.8.6.3_1","NAME_3":"Sarcelles","GID_4":"FRA.8.6.3.6_1","NAME_4":"Gonesse","GID_5":"FRA.8.6.3.6.7_1","NAME_5":"Vaudherland","TYPE_5":"Commune simple","ENGTYPE_5":"Commune","CC_5":""}}
+]}

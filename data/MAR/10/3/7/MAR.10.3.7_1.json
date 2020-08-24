@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[-1.7998369932174683,34.50026321411144],[-1.8119469881056602,34.50841140747076],[-1.8334870338439941,34.50070953369146],[-1.8344459533691406,34.48959350585943],[-1.7998369932174683,34.50026321411144]]]},"properties":{"GID_0":"MAR","NAME_0":"Morocco","GID_1":"MAR.10_1","NAME_1":"Oriental","GID_2":"MAR.10.3_1","NAME_2":"Jerada","GID_3":"MAR.10.3.7_1","NAME_3":"NA (Touissit)","GID_4":"MAR.10.3.7.1_1","NAME_4":"Touissit","VARNAME_4":"","TYPE_4":"Commune Urbaine","ENGTYPE_4":"Urban Commune","CC_4":""}}
+]}

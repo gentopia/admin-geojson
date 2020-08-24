@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[-0.5720188021659851,43.3655242919923],[-0.5593426823616028,43.36892318725586],[-0.5587692856788635,43.378215789795036],[-0.5643200874328045,43.38013076782238],[-0.5731572508811951,43.383865356445256],[-0.5799797773361206,43.3728599548341],[-0.5720188021659851,43.3655242919923]]]},"properties":{"GID_0":"FRA","NAME_0":"France","GID_1":"FRA.10_1","NAME_1":"Nouvelle-Aquitaine","GID_2":"FRA.10.11_1","NAME_2":"Pyrénées-Atlantiques","GID_3":"FRA.10.11.3_1","NAME_3":"Pau","GID_4":"FRA.10.11.3.7_1","NAME_4":"Lagor","GID_5":"FRA.10.11.3.7.2_1","NAME_5":"Bésingrand","TYPE_5":"Commune simple","ENGTYPE_5":"Commune","CC_5":""}}
+]}

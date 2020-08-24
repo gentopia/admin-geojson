@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[121.55065155029297,16.49033927917486],[121.5625228881836,16.51305961608898],[121.55032348632812,16.51091957092285],[121.54447174072277,16.51819992065424],[121.53719329834007,16.529100418090877],[121.53566741943382,16.504030227661076],[121.55065155029297,16.49033927917486]]]},"properties":{"GID_0":"PHL","NAME_0":"Philippines","GID_1":"PHL.63_1","NAME_1":"Quirino","NL_NAME_1":"","GID_2":"PHL.63.2_1","NAME_2":"Cabarroguis","NL_NAME_2":"","GID_3":"PHL.63.2.10_1","NAME_3":"Mangandingay","VARNAME_3":"Poblacion","NL_NAME_3":"","TYPE_3":"Barangay","ENGTYPE_3":"Village","CC_3":"","HASC_3":""}}
+]}

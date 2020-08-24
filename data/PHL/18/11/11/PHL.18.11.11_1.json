@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[121.07808685302757,18.60408020019537],[121.07774353027355,18.605360031127987],[121.07734680175793,18.607639312744197],[121.07324981689453,18.60659027099615],[121.07375335693371,18.603479385375977],[121.07808685302757,18.60408020019537]]]},"properties":{"GID_0":"PHL","NAME_0":"Philippines","GID_1":"PHL.18_1","NAME_1":"Cagayan","NL_NAME_1":"","GID_2":"PHL.18.11_1","NAME_2":"Claveria","NL_NAME_2":"","GID_3":"PHL.18.11.11_1","NAME_3":"Centro I","VARNAME_3":"Poblacion","NL_NAME_3":"","TYPE_3":"Barangay","ENGTYPE_3":"Village","CC_3":"","HASC_3":""}}
+]}

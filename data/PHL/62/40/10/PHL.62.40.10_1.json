@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[121.59089660644531,14.032719612121696],[121.59043121337902,14.033209800720215],[121.59024810791027,14.032999992370662],[121.58998107910156,14.03269004821783],[121.59020996093773,14.031889915466309],[121.59089660644531,14.032719612121696]]]},"properties":{"GID_0":"PHL","NAME_0":"Philippines","GID_1":"PHL.62_1","NAME_1":"Quezon","NL_NAME_1":"","GID_2":"PHL.62.40_1","NAME_2":"Tayabas City","NL_NAME_2":"","GID_3":"PHL.62.40.10_1","NAME_3":"Angustias Zone II","VARNAME_3":"","NL_NAME_3":"","TYPE_3":"Barangay","ENGTYPE_3":"Village","CC_3":"","HASC_3":""}}
+]}

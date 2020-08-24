@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[124.19859313964844,7.680960178375301],[124.19777679443371,7.69989013671875],[124.19288635253906,7.723690032959041],[124.18547821044922,7.722909927368221],[124.18441009521496,7.6875],[124.1958236694336,7.682219982147217],[124.19859313964844,7.680960178375301]]]},"properties":{"GID_0":"PHL","NAME_0":"Philippines","GID_1":"PHL.42_1","NAME_1":"Lanao del Sur","NL_NAME_1":"","GID_2":"PHL.42.4_1","NAME_2":"Bayang","NL_NAME_2":"","GID_3":"PHL.42.4.45_1","NAME_3":"Tangcal Proper","VARNAME_3":"Poblacion","NL_NAME_3":"","TYPE_3":"Barangay","ENGTYPE_3":"Village","CC_3":"","HASC_3":""}}
+]}

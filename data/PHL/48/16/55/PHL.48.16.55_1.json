@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[123.73391723632824,8.1081800460816],[123.75179290771484,8.102589607238883],[123.74147033691406,8.1161403656007],[123.73391723632824,8.1081800460816]]]},"properties":{"GID_0":"PHL","NAME_0":"Philippines","GID_1":"PHL.48_1","NAME_1":"Misamis Occidental","NL_NAME_1":"","GID_2":"PHL.48.16_1","NAME_2":"Tangub City","NL_NAME_2":"","GID_3":"PHL.48.16.55_1","NAME_3":"Villaba","VARNAME_3":"","NL_NAME_3":"","TYPE_3":"Barangay","ENGTYPE_3":"Village","CC_3":"","HASC_3":""}}
+]}

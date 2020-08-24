@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[2.658493041992301,49.03659057617193],[2.66851186752325,49.04393005371088],[2.6688864231110188,49.05381011962902],[2.6601605415344807,49.06181716918945],[2.6460175514220623,49.06508636474621],[2.644442558288631,49.06328964233393],[2.643233537674007,49.04409790039074],[2.658493041992301,49.03659057617193]]]},"properties":{"GID_0":"FRA","NAME_0":"France","GID_1":"FRA.8_1","NAME_1":"Île-de-France","GID_2":"FRA.8.4_1","NAME_2":"Seine-et-Marne","GID_3":"FRA.8.4.2_1","NAME_3":"Meaux","GID_4":"FRA.8.4.2.3_1","NAME_4":"Dammartin-en-Goële","GID_5":"FRA.8.4.2.3.8_1","NAME_5":"Longperrier","TYPE_5":"Commune simple","ENGTYPE_5":"Commune","CC_5":""}}
+]}

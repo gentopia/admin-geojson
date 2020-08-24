@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[-0.08310926705593147,44.824096679687614],[-0.07876443862909355,44.82336044311529],[-0.06849059462547302,44.82926940917969],[-0.06811648607254028,44.8381805419923],[-0.08287323266267776,44.833637237548885],[-0.0915057510137558,44.830123901367244],[-0.08310926705593147,44.824096679687614]]]},"properties":{"GID_0":"FRA","NAME_0":"France","GID_1":"FRA.10_1","NAME_1":"Nouvelle-Aquitaine","GID_2":"FRA.10.7_1","NAME_2":"Gironde","GID_3":"FRA.10.7.6_1","NAME_3":"Libourne","GID_4":"FRA.10.7.6.8_1","NAME_4":"Pujols","GID_5":"FRA.10.7.6.8.2_1","NAME_5":"Civrac-sur-Dordogne","TYPE_5":"Commune simple","ENGTYPE_5":"Commune","CC_5":""}}
+]}

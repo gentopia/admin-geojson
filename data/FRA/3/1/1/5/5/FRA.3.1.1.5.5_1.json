@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[-2.097646236419621,48.399780273437614],[-2.0873925685882,48.387290954589844],[-2.0663185119628906,48.393047332763615],[-2.067948102950936,48.396186828613224],[-2.0772197246550945,48.398693084716854],[-2.0802688598632244,48.41131591796875],[-2.097646236419621,48.399780273437614]]]},"properties":{"GID_0":"FRA","NAME_0":"France","GID_1":"FRA.3_1","NAME_1":"Bretagne","GID_2":"FRA.3.1_1","NAME_2":"Côtes-d'Armor","GID_3":"FRA.3.1.1_1","NAME_3":"Dinan","GID_4":"FRA.3.1.1.5_1","NAME_4":"Dinan-Ouest","GID_5":"FRA.3.1.1.5.5_1","NAME_5":"Le Hinglé","TYPE_5":"Commune simple","ENGTYPE_5":"Commune","CC_5":""}}
+]}

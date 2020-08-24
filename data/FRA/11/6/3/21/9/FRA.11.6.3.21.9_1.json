@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[1.7168356180191608,43.34946823120117],[1.730086803436393,43.36299514770508],[1.7288988828659058,43.36429595947271],[1.7154475450516316,43.372467041015625],[1.707808017730713,43.36993789672857],[1.6947077512741657,43.371131896972656],[1.7016621828079224,43.36190414428711],[1.7168356180191608,43.34946823120117]]]},"properties":{"GID_0":"FRA","NAME_0":"France","GID_1":"FRA.11_1","NAME_1":"Occitanie","GID_2":"FRA.11.6_1","NAME_2":"Haute-Garonne","GID_3":"FRA.11.6.3_1","NAME_3":"Toulouse","GID_4":"FRA.11.6.3.21_1","NAME_4":"Villefranche-de-Lauragais","GID_5":"FRA.11.6.3.21.9_1","NAME_5":"Montclar-Lauragais","TYPE_5":"Commune simple","ENGTYPE_5":"Commune","CC_5":""}}
+]}

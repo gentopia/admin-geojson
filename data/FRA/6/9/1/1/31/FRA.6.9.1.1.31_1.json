@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[6.54019212722784,49.22958374023443],[6.562151908874625,49.24635314941406],[6.538536548614616,49.251960754394645],[6.52469110488903,49.24829864501959],[6.518544673919678,49.2393913269043],[6.54019212722784,49.22958374023443]]]},"properties":{"GID_0":"FRA","NAME_0":"France","GID_1":"FRA.6_1","NAME_1":"Grand Est","GID_2":"FRA.6.9_1","NAME_2":"Moselle","GID_3":"FRA.6.9.1_1","NAME_3":"Boulay-Moselle","GID_4":"FRA.6.9.1.1_1","NAME_4":"Boulay-Moselle","GID_5":"FRA.6.9.1.1.31_1","NAME_5":"Velving","TYPE_5":"Commune simple","ENGTYPE_5":"Commune","CC_5":""}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[1.7691845893859863,42.74526977539074],[1.779372930526847,42.75279617309582],[1.7971444129944985,42.75963592529297],[1.775009274482727,42.768798828125],[1.772332191467342,42.76725769042969],[1.7691845893859863,42.74526977539074]]]},"properties":{"GID_0":"FRA","NAME_0":"France","GID_1":"FRA.11_1","NAME_1":"Occitanie","GID_2":"FRA.11.1_1","NAME_2":"Ariège","GID_3":"FRA.11.1.1_1","NAME_3":"Foix","GID_4":"FRA.11.1.1.6_1","NAME_4":"Les Cabannes","GID_5":"FRA.11.1.1.6.21_1","NAME_5":"Unac","TYPE_5":"Commune simple","ENGTYPE_5":"Commune","CC_5":""}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[0.0934724509716034,43.338088989257756],[0.11129271984100342,43.33884429931652],[0.1190489307046505,43.34701156616211],[0.09000007063150406,43.34359359741211],[0.08969213068490944,43.34358596801758],[0.0934724509716034,43.338088989257756]]]},"properties":{"GID_0":"FRA","NAME_0":"France","GID_1":"FRA.11_1","NAME_1":"Occitanie","GID_2":"FRA.11.7_1","NAME_2":"Hautes-Pyrénées","GID_3":"FRA.11.7.3_1","NAME_3":"Tarbes","GID_4":"FRA.11.7.3.10_1","NAME_4":"Rabastens-de-Bigorre","GID_5":"FRA.11.7.3.10.24_1","NAME_5":"Ugnouas","TYPE_5":"Commune simple","ENGTYPE_5":"Commune","CC_5":""}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[2.971813678741455,49.18753051757824],[2.9694962501527016,49.209941864013786],[2.952857494354305,49.20332717895508],[2.9406242370606037,49.19883728027344],[2.9409639835358234,49.189674377441406],[2.9630777835847084,49.185791015625114],[2.971813678741455,49.18753051757824]]]},"properties":{"GID_0":"FRA","NAME_0":"France","GID_1":"FRA.7_1","NAME_1":"Hauts-de-France","GID_2":"FRA.7.3_1","NAME_2":"Oise","GID_3":"FRA.7.3.4_1","NAME_3":"Senlis","GID_4":"FRA.7.3.4.1_1","NAME_4":"Betz","GID_5":"FRA.7.3.4.1.19_1","NAME_5":"Ormoy-le-Davien","TYPE_5":"Commune simple","ENGTYPE_5":"Commune","CC_5":""}}
+]}

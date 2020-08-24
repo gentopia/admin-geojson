@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[6.4613184928893475,46.86217880249035],[6.462949275970573,46.87622451782232],[6.46453857421875,46.88991165161133],[6.447444915771484,46.91110229492199],[6.424379825591984,46.89471817016607],[6.441511631011963,46.86766815185547],[6.4613184928893475,46.86217880249035]]]},"properties":{"GID_0":"FRA","NAME_0":"France","GID_1":"FRA.2_1","NAME_1":"Bourgogne-Franche-Comté","GID_2":"FRA.2.2_1","NAME_2":"Doubs","GID_3":"FRA.2.2.3_1","NAME_3":"Pontarlier","GID_4":"FRA.2.2.3.7_1","NAME_4":"Pontarlier","GID_5":"FRA.2.2.3.7.23_1","NAME_5":"Verrières-de-Joux","TYPE_5":"Commune simple","ENGTYPE_5":"Commune","CC_5":""}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[124.38668060302734,8.102849960327148],[124.38440704345703,8.104049682617188],[124.3772430419923,8.114740371704215],[124.37615966796886,8.084919929504395],[124.38455200195324,8.084070205688477],[124.38668060302734,8.102849960327148]]]},"properties":{"GID_0":"PHL","NAME_0":"Philippines","GID_1":"PHL.42_1","NAME_1":"Lanao del Sur","NL_NAME_1":"","GID_2":"PHL.42.14_1","NAME_2":"Kapai","NL_NAME_2":"","GID_3":"PHL.42.14.7_1","NAME_3":"Doronan","VARNAME_3":"","NL_NAME_3":"","TYPE_3":"Barangay","ENGTYPE_3":"Village","CC_3":"","HASC_3":""}}
+]}

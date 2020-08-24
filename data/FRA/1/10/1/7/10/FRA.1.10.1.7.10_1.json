@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[3.5034503936768147,45.44105911254883],[3.4915127754211426,45.45225906372082],[3.4926493167877197,45.45925140380854],[3.479609727859497,45.46359252929699],[3.4595749378203777,45.4548721313476],[3.4534876346587566,45.44736862182617],[3.470485448837337,45.44239044189459],[3.5034503936768147,45.44105911254883]]]},"properties":{"GID_0":"FRA","NAME_0":"France","GID_1":"FRA.1_1","NAME_1":"Auvergne-Rhône-Alpes","GID_2":"FRA.1.10_1","NAME_2":"Puy-de-Dôme","GID_3":"FRA.1.10.1_1","NAME_3":"Ambert","GID_4":"FRA.1.10.1.7_1","NAME_4":"Saint-Germain-l'Herm","GID_5":"FRA.1.10.1.7.10_1","NAME_5":"Sainte-Catherine","TYPE_5":"Commune simple","ENGTYPE_5":"Commune","CC_5":""}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[4.60712289810192,46.93550872802746],[4.614327907562256,46.941673278808594],[4.617511272430477,46.943927764892635],[4.613141059875488,46.94904708862305],[4.59580850601202,46.95216369628906],[4.586871623992863,46.952816009521484],[4.585557937622184,46.94345092773443],[4.60712289810192,46.93550872802746]]]},"properties":{"GID_0":"FRA","NAME_0":"France","GID_1":"FRA.2_1","NAME_1":"Bourgogne-Franche-Comté","GID_2":"FRA.2.6_1","NAME_2":"Saône-et-Loire","GID_3":"FRA.2.6.1_1","NAME_3":"Autun","GID_4":"FRA.2.6.1.5_1","NAME_4":"Épinac","GID_5":"FRA.2.6.1.5.4_1","NAME_5":"Épertully","TYPE_5":"Commune simple","ENGTYPE_5":"Commune","CC_5":""}}
+]}

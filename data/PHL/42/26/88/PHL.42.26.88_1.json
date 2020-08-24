@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[124.2997817993164,8.001970291137752],[124.30033111572266,8.002519607544002],[124.30072784423828,8.002909660339412],[124.29852294921886,8.004320144653263],[124.29781341552734,8.002369880676326],[124.2997817993164,8.001970291137752]]]},"properties":{"GID_0":"PHL","NAME_0":"Philippines","GID_1":"PHL.42_1","NAME_1":"Lanao del Sur","NL_NAME_1":"","GID_2":"PHL.42.26_1","NAME_2":"Marawi City","NL_NAME_2":"","GID_3":"PHL.42.26.88_1","NAME_3":"Timbangalan","VARNAME_3":"","NL_NAME_3":"","TYPE_3":"Barangay","ENGTYPE_3":"Village","CC_3":"","HASC_3":""}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[0.7631718516350929,48.084007263183594],[0.7456826567649841,48.10315704345709],[0.7327305674552917,48.080177307128906],[0.7242904901505085,48.07588195800787],[0.7381473779677776,48.07131195068371],[0.7637676000595661,48.07277679443365],[0.7631718516350929,48.084007263183594]]]},"properties":{"GID_0":"FRA","NAME_0":"France","GID_1":"FRA.12_1","NAME_1":"Pays de la Loire","GID_2":"FRA.12.4_1","NAME_2":"Sarthe","GID_3":"FRA.12.4.3_1","NAME_3":"Mamers","GID_4":"FRA.12.4.3.11_1","NAME_4":"Montmirail","GID_5":"FRA.12.4.3.11.1_1","NAME_5":"Champrond","TYPE_5":"Commune simple","ENGTYPE_5":"Commune","CC_5":""}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[124.3440170288086,7.984769821166935],[124.34205627441406,7.985260009765625],[124.33959197998047,7.983310222625732],[124.33920288085938,7.982749938964844],[124.33949279785168,7.982180118560791],[124.34314727783214,7.98157978057867],[124.3440170288086,7.984769821166935]]]},"properties":{"GID_0":"PHL","NAME_0":"Philippines","GID_1":"PHL.42_1","NAME_1":"Lanao del Sur","NL_NAME_1":"","GID_2":"PHL.42.12_1","NAME_2":"Ditsaan-Ramain","NL_NAME_2":"","GID_3":"PHL.42.12.14_1","NAME_3":"Dangimprampiai","VARNAME_3":"","NL_NAME_3":"","TYPE_3":"Barangay","ENGTYPE_3":"Village","CC_3":"","HASC_3":""}}
+]}

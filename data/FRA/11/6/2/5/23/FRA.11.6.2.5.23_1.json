@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[0.5888181924821083,43.20891571044933],[0.5968762636185261,43.20862960815441],[0.6085442304611774,43.212963104248104],[0.6083457469940186,43.21894454956066],[0.5952344536782448,43.22205352783209],[0.576958358287925,43.212432861328125],[0.5888181924821083,43.20891571044933]]]},"properties":{"GID_0":"FRA","NAME_0":"France","GID_1":"FRA.11_1","NAME_1":"Occitanie","GID_2":"FRA.11.6_1","NAME_2":"Haute-Garonne","GID_3":"FRA.11.6.2_1","NAME_3":"Saint-Gaudens","GID_4":"FRA.11.6.2.5_1","NAME_4":"Boulogne-sur-Gesse","GID_5":"FRA.11.6.2.5.23_1","NAME_5":"Sarrecave","TYPE_5":"Commune simple","ENGTYPE_5":"Commune","CC_5":""}}
+]}

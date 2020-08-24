@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[-0.8244997262954712,48.90380859375006],[-0.8326774835586548,48.91748428344732],[-0.8521009683609009,48.91910934448242],[-0.8612244725227356,48.916503906250114],[-0.8496254682540325,48.89711380004894],[-0.8240152597427368,48.899448394775334],[-0.8244997262954712,48.90380859375006]]]},"properties":{"GID_0":"FRA","NAME_0":"France","GID_1":"FRA.9_1","NAME_1":"Normandie","GID_2":"FRA.9.1_1","NAME_2":"Calvados","GID_3":"FRA.9.1.4_1","NAME_3":"Vire","GID_4":"FRA.9.1.4.3_1","NAME_4":"Le Bény-Bocage","GID_5":"FRA.9.1.4.3.9_1","NAME_5":"Le Reculey","TYPE_5":"Commune simple","ENGTYPE_5":"Commune","CC_5":""}}
+]}

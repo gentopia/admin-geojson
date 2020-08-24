@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[58.389919281005916,22.987514495849723],[58.54103088378906,23.022348403930778],[58.58768844604492,23.24950027465826],[58.33501052856451,23.48868560791027],[58.11881637573242,23.46195220947277],[58.389919281005916,22.987514495849723]]]},"properties":{"GID_0":"OMN","NAME_0":"Oman","GID_1":"OMN.1_1","NAME_1":"Ad Dakhliyah","NL_NAME_1":"","GID_2":"OMN.1.4_1","NAME_2":"Bid Bid","VARNAME_2":"","NL_NAME_2":"","TYPE_2":"Wilayat","ENGTYPE_2":"Province","CC_2":"","HASC_2":"OM.DA.BB"}}
+]}

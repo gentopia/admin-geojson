@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[1.6072971820831867,43.08663940429693],[1.5996853113175007,43.08573150634777],[1.595414161682072,43.07360458374035],[1.6035295724869911,43.070354461670036],[1.6213207244873047,43.06931686401367],[1.6189574003219604,43.085063934326286],[1.6072971820831867,43.08663940429693]]]},"properties":{"GID_0":"FRA","NAME_0":"France","GID_1":"FRA.11_1","NAME_1":"Occitanie","GID_2":"FRA.11.1_1","NAME_2":"Ariège","GID_3":"FRA.11.1.2_1","NAME_3":"Pamiers","GID_4":"FRA.11.1.2.5_1","NAME_4":"Pamiers-Ouest","GID_5":"FRA.11.1.2.5.1_1","NAME_5":"Benagues","TYPE_5":"Commune simple","ENGTYPE_5":"Commune","CC_5":""}}
+]}

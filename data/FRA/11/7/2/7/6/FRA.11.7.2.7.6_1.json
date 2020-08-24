@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[0.6055133342743488,42.93422317504883],[0.6011319160461426,42.94749832153326],[0.5871652364730835,42.96114730834961],[0.579230546951294,42.9642906188966],[0.5738584995269775,42.95477676391613],[0.6055133342743488,42.93422317504883]]]},"properties":{"GID_0":"FRA","NAME_0":"France","GID_1":"FRA.11_1","NAME_1":"Occitanie","GID_2":"FRA.11.7_1","NAME_2":"Hautes-Pyrénées","GID_3":"FRA.11.7.2_1","NAME_3":"Bagnères-de-Bigorre","GID_4":"FRA.11.7.2.7_1","NAME_4":"Mauléon-Barousse","GID_5":"FRA.11.7.2.7.6_1","NAME_5":"Cazarilh","TYPE_5":"Commune simple","ENGTYPE_5":"Commune","CC_5":""}}
+]}

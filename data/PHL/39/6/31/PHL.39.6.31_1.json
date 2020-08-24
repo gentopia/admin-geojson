@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[120.46465301513672,16.849229812622184],[120.43351745605469,16.863149642944336],[120.43199157714844,16.852329254150504],[120.46301269531261,16.843999862671012],[120.46465301513672,16.849229812622184]]]},"properties":{"GID_0":"PHL","NAME_0":"Philippines","GID_1":"PHL.39_1","NAME_1":"La Union","NL_NAME_1":"","GID_2":"PHL.39.6_1","NAME_2":"Bangar","NL_NAME_2":"","GID_3":"PHL.39.6.31_1","NAME_3":"Sinapangan Norte","VARNAME_3":"","NL_NAME_3":"","TYPE_3":"Barangay","ENGTYPE_3":"Village","CC_3":"","HASC_3":""}}
+]}

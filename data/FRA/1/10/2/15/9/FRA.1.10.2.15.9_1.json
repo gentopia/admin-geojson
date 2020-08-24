@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[3.3431255817414467,45.739749908447266],[3.3518009185791584,45.73283386230469],[3.370211124420166,45.75151443481457],[3.366126298904476,45.76014709472662],[3.349287509918213,45.7603874206543],[3.3431255817414467,45.739749908447266]]]},"properties":{"GID_0":"FRA","NAME_0":"France","GID_1":"FRA.1_1","NAME_1":"Auvergne-Rhône-Alpes","GID_2":"FRA.1.10_1","NAME_2":"Puy-de-Dôme","GID_3":"FRA.1.10.2_1","NAME_3":"Clermont-Ferrand","GID_4":"FRA.1.10.2.15_1","NAME_4":"Vertaizon","GID_5":"FRA.1.10.2.15.9_1","NAME_5":"Reignat","TYPE_5":"Commune simple","ENGTYPE_5":"Commune","CC_5":""}}
+]}

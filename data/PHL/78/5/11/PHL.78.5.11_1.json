@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[119.98509216308594,15.328760147094727],[119.98201751708984,15.33006954193121],[119.98042297363293,15.322710037231502],[119.98388671875011,15.320770263671932],[119.98509216308594,15.328760147094727]]]},"properties":{"GID_0":"PHL","NAME_0":"Philippines","GID_1":"PHL.78_1","NAME_1":"Zambales","NL_NAME_1":"","GID_2":"PHL.78.5_1","NAME_2":"Iba","NL_NAME_2":"","GID_3":"PHL.78.5.11_1","NAME_3":"Zone 3 Poblacion","VARNAME_3":"Botlay","NL_NAME_3":"","TYPE_3":"Barangay","ENGTYPE_3":"Village","CC_3":"","HASC_3":""}}
+]}

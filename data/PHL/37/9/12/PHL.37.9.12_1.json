@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[121.47852325439453,16.669279098510856],[121.47715759277355,16.672359466552734],[121.47647857666016,16.673929214477653],[121.47434997558594,16.672740936279297],[121.47615814209007,16.668539047241154],[121.47852325439453,16.669279098510856]]]},"properties":{"GID_0":"PHL","NAME_0":"Philippines","GID_1":"PHL.37_1","NAME_1":"Isabela","NL_NAME_1":"","GID_2":"PHL.37.9_1","NAME_2":"Cordon","NL_NAME_2":"","GID_3":"PHL.37.9.12_1","NAME_3":"Osmena","VARNAME_3":"Centro Sur Este","NL_NAME_3":"","TYPE_3":"Barangay","ENGTYPE_3":"Village","CC_3":"","HASC_3":""}}
+]}

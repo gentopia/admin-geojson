@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[124.61329650878906,12.099049568176383],[124.62896728515625,12.10171985626232],[124.6266098022461,12.112440109253043],[124.61946868896507,12.11083984375],[124.60933685302734,12.108719825744572],[124.61329650878906,12.099049568176383]]]},"properties":{"GID_0":"PHL","NAME_0":"Philippines","GID_1":"PHL.66_1","NAME_1":"Samar","NL_NAME_1":"","GID_2":"PHL.66.3_1","NAME_2":"Calbayog City","NL_NAME_2":"","GID_3":"PHL.66.3.64_1","NAME_3":"Guimbaoyan Norte","VARNAME_3":"","NL_NAME_3":"","TYPE_3":"Barangay","ENGTYPE_3":"Village","CC_3":"","HASC_3":""}}
+]}

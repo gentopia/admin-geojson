@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[124.15471649169933,7.73492002487194],[124.15740966796875,7.734300136566276],[124.1637191772461,7.733230113983211],[124.1700668334961,7.795450210571403],[124.16648101806652,7.796559810638541],[124.16475677490257,7.797200202942008],[124.15471649169933,7.73492002487194]]]},"properties":{"GID_0":"PHL","NAME_0":"Philippines","GID_1":"PHL.42_1","NAME_1":"Lanao del Sur","NL_NAME_1":"","GID_2":"PHL.42.5_1","NAME_2":"Binidayan","NL_NAME_2":"","GID_3":"PHL.42.5.6_1","NAME_3":"Bubonga-Ranao","VARNAME_3":"","NL_NAME_3":"","TYPE_3":"Barangay","ENGTYPE_3":"Village","CC_3":"","HASC_3":""}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[121.66140747070324,17.79738044738781],[121.66620635986328,17.80567932128912],[121.64820098876976,17.808820724487305],[121.64779663085938,17.799310684204045],[121.66140747070324,17.79738044738781]]]},"properties":{"GID_0":"PHL","NAME_0":"Philippines","GID_1":"PHL.18_1","NAME_1":"Cagayan","NL_NAME_1":"","GID_2":"PHL.18.4_1","NAME_2":"Amulung","NL_NAME_2":"","GID_3":"PHL.18.4.17_1","NAME_3":"Casingsingan Norte","VARNAME_3":"","NL_NAME_3":"","TYPE_3":"Barangay","ENGTYPE_3":"Village","CC_3":"","HASC_3":""}}
+]}

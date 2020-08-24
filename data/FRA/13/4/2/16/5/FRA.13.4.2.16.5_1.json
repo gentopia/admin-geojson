@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[6.3355841636657715,44.57634353637701],[6.3407588005067055,44.55238723754894],[6.345957279205436,44.5465545654298],[6.358265399932861,44.541225433349666],[6.371164321899471,44.544139862060604],[6.372685909271297,44.55104827880865],[6.361036300659293,44.56977462768555],[6.3355841636657715,44.57634353637701]]]},"properties":{"GID_0":"FRA","NAME_0":"France","GID_1":"FRA.13_1","NAME_1":"Provence-Alpes-Côte d'Azur","GID_2":"FRA.13.4_1","NAME_2":"Hautes-Alpes","GID_3":"FRA.13.4.2_1","NAME_3":"Gap","GID_4":"FRA.13.4.2.16_1","NAME_4":"Savines-le-Lac","GID_5":"FRA.13.4.2.16.5_1","NAME_5":"Saint-Apollinaire","TYPE_5":"Commune simple","ENGTYPE_5":"Commune","CC_5":""}}
+]}

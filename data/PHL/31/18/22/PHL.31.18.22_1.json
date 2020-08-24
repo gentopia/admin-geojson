@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[125.51228332519531,11.16320991516119],[125.51093292236328,11.170419692993221],[125.5059585571289,11.194160461425781],[125.46370697021496,11.198269844055176],[125.45742034912121,11.186750411987362],[125.51228332519531,11.16320991516119]]]},"properties":{"GID_0":"PHL","NAME_0":"Philippines","GID_1":"PHL.31_1","NAME_1":"Eastern Samar","NL_NAME_1":"","GID_2":"PHL.31.18_1","NAME_2":"Quinapondan","NL_NAME_2":"","GID_3":"PHL.31.18.22_1","NAME_3":"San Vicente","VARNAME_3":"","NL_NAME_3":"","TYPE_3":"Barangay","ENGTYPE_3":"Village","CC_3":"","HASC_3":""}}
+]}

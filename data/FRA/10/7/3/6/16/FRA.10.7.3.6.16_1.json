@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[-0.35570454597473145,44.790374755859375],[-0.3452054858206566,44.804260253906364],[-0.3505462110042572,44.81867980957037],[-0.3679716885089306,44.81093597412121],[-0.3669848144054413,44.794681549072266],[-0.35570454597473145,44.790374755859375]]]},"properties":{"GID_0":"FRA","NAME_0":"France","GID_1":"FRA.10_1","NAME_1":"Nouvelle-Aquitaine","GID_2":"FRA.10.7_1","NAME_2":"Gironde","GID_3":"FRA.10.7.3_1","NAME_3":"Bordeaux","GID_4":"FRA.10.7.3.6_1","NAME_4":"Créon","GID_5":"FRA.10.7.3.6.16_1","NAME_5":"Le Pout","TYPE_5":"Commune simple","ENGTYPE_5":"Commune","CC_5":""}}
+]}

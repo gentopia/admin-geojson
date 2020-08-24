@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[123.7332763671875,12.493450164795036],[123.74163055419922,12.496479988098201],[123.74772644042969,12.499139785766715],[123.7413101196289,12.511650085449276],[123.72839355468761,12.504099845886287],[123.7332763671875,12.493450164795036]]]},"properties":{"GID_0":"PHL","NAME_0":"Philippines","GID_1":"PHL.46_1","NAME_1":"Masbate","NL_NAME_1":"","GID_2":"PHL.46.18_1","NAME_2":"San Fernando","NL_NAME_2":"","GID_3":"PHL.46.18.18_1","NAME_3":"Minio","VARNAME_3":"","NL_NAME_3":"","TYPE_3":"Barangay","ENGTYPE_3":"Village","CC_3":"","HASC_3":""}}
+]}

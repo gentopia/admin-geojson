@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[-1.0007491111754803,49.02552413940424],[-1.039851188659668,49.02465438842779],[-1.0430283546446617,49.01605606079107],[-1.0353490114212036,49.01147842407232],[-1.020523190498352,49.009151458740234],[-1.0007491111754803,49.02552413940424]]]},"properties":{"GID_0":"FRA","NAME_0":"France","GID_1":"FRA.9_1","NAME_1":"Normandie","GID_2":"FRA.9.3_1","NAME_2":"Manche","GID_3":"FRA.9.3.4_1","NAME_3":"Saint-Lô","GID_4":"FRA.9.3.4.11_1","NAME_4":"Torigni-sur-Vire","GID_5":"FRA.9.3.4.11.2_1","NAME_5":"Brectouville","TYPE_5":"Commune simple","ENGTYPE_5":"Commune","CC_5":""}}
+]}

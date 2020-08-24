@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[6.589493274688834,48.73247909545904],[6.579742431640625,48.73497772216797],[6.562183856964111,48.756111145019474],[6.547832489013729,48.75511932373058],[6.538634300232047,48.75139236450207],[6.546300411224479,48.73517608642578],[6.567092895507756,48.72494888305664],[6.589493274688834,48.73247909545904]]]},"properties":{"GID_0":"FRA","NAME_0":"France","GID_1":"FRA.6_1","NAME_1":"Grand Est","GID_2":"FRA.6.7_1","NAME_2":"Meurthe-et-Moselle","GID_3":"FRA.6.7.2_1","NAME_3":"Lunéville","GID_4":"FRA.6.7.2.1_1","NAME_4":"Arracourt","GID_5":"FRA.6.7.2.1.7_1","NAME_5":"Juvrecourt","TYPE_5":"Commune simple","ENGTYPE_5":"Commune","CC_5":""}}
+]}

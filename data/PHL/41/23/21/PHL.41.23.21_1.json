@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[123.92755126953136,7.961550235748291],[123.93296813964844,7.969389915466309],[123.89412689208996,8.00160026550293],[123.88733673095703,7.994110107421989],[123.90339660644531,7.977960109710693],[123.92755126953136,7.961550235748291]]]},"properties":{"GID_0":"PHL","NAME_0":"Philippines","GID_1":"PHL.41_1","NAME_1":"Lanao del Norte","NL_NAME_1":"","GID_2":"PHL.41.23_1","NAME_2":"Tubod","NL_NAME_2":"","GID_3":"PHL.41.23.21_1","NAME_3":"Taden","VARNAME_3":"","NL_NAME_3":"","TYPE_3":"Barangay","ENGTYPE_3":"Village","CC_3":"","HASC_3":""}}
+]}

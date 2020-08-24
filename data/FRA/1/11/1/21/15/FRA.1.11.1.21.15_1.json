@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[4.80685997009283,45.84336471557617],[4.810691833496151,45.83014678955084],[4.814407348632926,45.82793426513683],[4.827760219573975,45.830032348632926],[4.8387842178345295,45.83412170410162],[4.831996917724666,45.8396568298341],[4.80685997009283,45.84336471557617]]]},"properties":{"GID_0":"FRA","NAME_0":"France","GID_1":"FRA.1_1","NAME_1":"Auvergne-Rhône-Alpes","GID_2":"FRA.1.11_1","NAME_2":"Rhône","GID_3":"FRA.1.11.1_1","NAME_3":"Lyon","GID_4":"FRA.1.11.1.21_1","NAME_4":"Neuville-sur-Saône","GID_5":"FRA.1.11.1.21.15_1","NAME_5":"Saint-Romain-au-Mont-d'Or","TYPE_5":"Commune simple","ENGTYPE_5":"Commune","CC_5":""}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[2.5059382915497963,48.46115875244146],[2.5144076347351074,48.463893890380916],[2.522207736969108,48.471878051757926],[2.511369228363094,48.48659515380854],[2.510364055633545,48.48844528198242],[2.5024595260620117,48.484249114990234],[2.5059382915497963,48.46115875244146]]]},"properties":{"GID_0":"FRA","NAME_0":"France","GID_1":"FRA.8_1","NAME_1":"Île-de-France","GID_2":"FRA.8.4_1","NAME_2":"Seine-et-Marne","GID_3":"FRA.8.4.3_1","NAME_3":"Melun","GID_4":"FRA.8.4.3.9_1","NAME_4":"Perthes","GID_5":"FRA.8.4.3.9.11_1","NAME_5":"Saint-Germain-sur-École","TYPE_5":"Commune simple","ENGTYPE_5":"Commune","CC_5":""}}
+]}

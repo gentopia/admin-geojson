@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[123.08970642089844,7.772809982299918],[123.08538818359398,7.810420036315918],[123.08027648925793,7.8133301734924885],[123.07276916503906,7.793910026550407],[123.06733703613293,7.774559974670467],[123.08970642089844,7.772809982299918]]]},"properties":{"GID_0":"PHL","NAME_0":"Philippines","GID_1":"PHL.81_1","NAME_1":"Zamboanga Sibugay","NL_NAME_1":"","GID_2":"PHL.81.2_1","NAME_2":"Buug","NL_NAME_2":"","GID_3":"PHL.81.2.26_1","NAME_3":"Talamimi","VARNAME_3":"","NL_NAME_3":"","TYPE_3":"Barangay","ENGTYPE_3":"Village","CC_3":"","HASC_3":""}}
+]}

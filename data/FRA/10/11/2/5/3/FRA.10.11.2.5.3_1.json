@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[-0.4988989233970642,43.26560211181652],[-0.5045223236083984,43.287986755371094],[-0.517967939376831,43.28491973876953],[-0.5200369954108623,43.275001525878906],[-0.5081624388693626,43.26496124267584],[-0.4988989233970642,43.26560211181652]]]},"properties":{"GID_0":"FRA","NAME_0":"France","GID_1":"FRA.10_1","NAME_1":"Nouvelle-Aquitaine","GID_2":"FRA.10.11_1","NAME_2":"Pyrénées-Atlantiques","GID_3":"FRA.10.11.2_1","NAME_3":"Oloron-Sainte-Marie","GID_4":"FRA.10.11.2.5_1","NAME_4":"Lasseube","GID_5":"FRA.10.11.2.5.3_1","NAME_5":"Lacommande","TYPE_5":"Commune simple","ENGTYPE_5":"Commune","CC_5":""}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[123.23562622070312,7.88500022888195],[123.22086334228527,7.894670009613094],[123.2029266357423,7.884950160980338],[123.20639038085938,7.87087011337286],[123.23562622070312,7.88500022888195]]]},"properties":{"GID_0":"PHL","NAME_0":"Philippines","GID_1":"PHL.80_1","NAME_1":"Zamboanga del Sur","NL_NAME_1":"","GID_2":"PHL.80.26_1","NAME_2":"Tigbao","NL_NAME_2":"","GID_3":"PHL.80.26.6_1","NAME_3":"Lacarayan","VARNAME_3":"","NL_NAME_3":"","TYPE_3":"Barangay","ENGTYPE_3":"Village","CC_3":"","HASC_3":""}}
+]}

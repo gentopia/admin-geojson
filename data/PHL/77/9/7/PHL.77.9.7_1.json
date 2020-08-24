@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[120.50400543212902,5.173020839691219],[120.50444793701172,5.175351142883358],[120.50234985351562,5.17607498168951],[120.50196075439453,5.17838716506958],[120.49466705322277,5.1739959716796875],[120.4954071044923,5.167894840240535],[120.50400543212902,5.173020839691219]]]},"properties":{"GID_0":"PHL","NAME_0":"Philippines","GID_1":"PHL.77_1","NAME_1":"Tawi-Tawi","NL_NAME_1":"","GID_2":"PHL.77.9_1","NAME_2":"South Ubian","NL_NAME_2":"","GID_3":"PHL.77.9.7_1","NAME_3":"Bunay Bunay Lookan","VARNAME_3":"","NL_NAME_3":"","TYPE_3":"Barangay","ENGTYPE_3":"Village","CC_3":"","HASC_3":""}}
+]}

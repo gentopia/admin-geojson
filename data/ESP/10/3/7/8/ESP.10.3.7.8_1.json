@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[-0.3388729989528656,39.55478286743164],[-0.3397749960422516,39.55393981933594],[-0.340487003326416,39.553012847900504],[-0.3385469913481529,39.552299499511776],[-0.3388729989528656,39.55478286743164]]]},"properties":{"GID_0":"ESP","NAME_0":"Spain","GID_1":"ESP.10_1","NAME_1":"Comunidad Valenciana","GID_2":"ESP.10.3_1","NAME_2":"Valencia","GID_3":"ESP.10.3.7_1","NAME_3":"Horta Nord","GID_4":"ESP.10.3.7.8_1","NAME_4":"Emperador","VARNAME_4":"","TYPE_4":"Municipality","ENGTYPE_4":"Municipality","CC_4":""}}
+]}

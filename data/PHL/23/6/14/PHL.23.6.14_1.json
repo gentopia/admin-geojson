@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[124.16200256347656,14.026709556579533],[124.16342926025402,14.037549972534123],[124.15592956542969,14.040539741516227],[124.15276336669933,14.032010078430176],[124.16200256347656,14.026709556579533]]]},"properties":{"GID_0":"PHL","NAME_0":"Philippines","GID_1":"PHL.23_1","NAME_1":"Catanduanes","NL_NAME_1":"","GID_2":"PHL.23.6_1","NAME_2":"Pandan","NL_NAME_2":"","GID_3":"PHL.23.6.14_1","NAME_3":"Pandan Del Norte","VARNAME_3":"Poblacion","NL_NAME_3":"","TYPE_3":"Barangay","ENGTYPE_3":"Village","CC_3":"","HASC_3":""}}
+]}

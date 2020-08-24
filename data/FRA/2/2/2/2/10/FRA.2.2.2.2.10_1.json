@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[6.463531017303524,47.39178085327154],[6.470119953155574,47.396198272705135],[6.469649791717643,47.40655517578131],[6.450811386108455,47.40855026245123],[6.440577983856315,47.39759826660162],[6.442831039428825,47.39198303222656],[6.447228431701717,47.39186096191412],[6.463531017303524,47.39178085327154]]]},"properties":{"GID_0":"FRA","NAME_0":"France","GID_1":"FRA.2_1","NAME_1":"Bourgogne-Franche-Comté","GID_2":"FRA.2.2_1","NAME_2":"Doubs","GID_3":"FRA.2.2.2_1","NAME_3":"Montbéliard","GID_4":"FRA.2.2.2.2_1","NAME_4":"Clerval","GID_5":"FRA.2.2.2.2.10_1","NAME_5":"L'Hôpital-Saint-Lieffroy","TYPE_5":"Commune simple","ENGTYPE_5":"Commune","CC_5":""}}
+]}

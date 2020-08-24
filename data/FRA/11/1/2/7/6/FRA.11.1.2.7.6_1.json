@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[1.7039184570311932,43.1536598205567],[1.6949129104614258,43.13511657714855],[1.720095634460506,43.127243041992244],[1.7327238321304321,43.131591796875],[1.7318140268326943,43.14283370971691],[1.7293004989624023,43.14876174926769],[1.7039184570311932,43.1536598205567]]]},"properties":{"GID_0":"FRA","NAME_0":"France","GID_1":"FRA.11_1","NAME_1":"Occitanie","GID_2":"FRA.11.1_1","NAME_2":"Ariège","GID_3":"FRA.11.1.2_1","NAME_3":"Pamiers","GID_4":"FRA.11.1.2.7_1","NAME_4":"Saverdun","GID_5":"FRA.11.1.2.7.6_1","NAME_5":"La Bastide-de-Lordat","TYPE_5":"Commune simple","ENGTYPE_5":"Commune","CC_5":""}}
+]}

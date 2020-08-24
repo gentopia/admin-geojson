@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[122.13896179199241,6.653190135955754],[122.14611053466797,6.655859947204647],[122.1443862915039,6.657090187072868],[122.14331817626953,6.658080101013184],[122.13604736328125,6.6549901962279705],[122.13896179199241,6.653190135955754]]]},"properties":{"GID_0":"PHL","NAME_0":"Philippines","GID_1":"PHL.9_1","NAME_1":"Basilan","NL_NAME_1":"","GID_2":"PHL.9.5_1","NAME_2":"Lamitan City","NL_NAME_2":"","GID_3":"PHL.9.5.29_1","NAME_3":"Maganda","VARNAME_3":"","NL_NAME_3":"","TYPE_3":"Barangay","ENGTYPE_3":"Village","CC_3":"","HASC_3":""}}
+]}

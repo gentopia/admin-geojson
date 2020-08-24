@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[-0.9211400151252747,40.90498352050787],[-0.9329360127449036,40.89905166625988],[-0.9269080162047771,40.89666366577154],[-0.9226920008658794,40.8970947265625],[-0.9211400151252747,40.90498352050787]]]},"properties":{"GID_0":"ESP","NAME_0":"Spain","GID_1":"ESP.2_1","NAME_1":"Aragón","GID_2":"ESP.2.2_1","NAME_2":"Teruel","GID_3":"ESP.2.2.2_1","NAME_3":"n.a. (249)","GID_4":"ESP.2.2.2.28_1","NAME_4":"Jurisdicción de Segura de los Baños y Vivel del Río Martín","VARNAME_4":"","TYPE_4":"Municipality","ENGTYPE_4":"Municipality","CC_4":""}}
+]}

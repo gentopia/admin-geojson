@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[122.28852844238293,12.559980392456055],[122.30087280273438,12.56947994232172],[122.28315734863304,12.574370384216365],[122.28009796142601,12.574480056762809],[122.28002166748047,12.559679985046387],[122.28852844238293,12.559980392456055]]]},"properties":{"GID_0":"PHL","NAME_0":"Philippines","GID_1":"PHL.65_1","NAME_1":"Romblon","NL_NAME_1":"","GID_2":"PHL.65.11_1","NAME_2":"Romblon","NL_NAME_2":"","GID_3":"PHL.65.11.1_1","NAME_3":"Agbaluto","VARNAME_3":"","NL_NAME_3":"","TYPE_3":"Barangay","ENGTYPE_3":"Village","CC_3":"","HASC_3":""}}
+]}

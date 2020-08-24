@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[5.39980506896984,47.597164154052734],[5.408894062042293,47.59795761108404],[5.427088737487907,47.59286117553722],[5.4559326171875,47.59768676757818],[5.471052169799918,47.608219146728516],[5.440170764923096,47.6297721862793],[5.425594806671143,47.63207244873058],[5.39980506896984,47.597164154052734]]]},"properties":{"GID_0":"FRA","NAME_0":"France","GID_1":"FRA.2_1","NAME_1":"Bourgogne-Franche-Comté","GID_2":"FRA.2.1_1","NAME_2":"Côte-d'Or","GID_3":"FRA.2.1.2_1","NAME_3":"Dijon","GID_4":"FRA.2.1.2.7_1","NAME_4":"Fontaine-Française","GID_5":"FRA.2.1.2.7.8_1","NAME_5":"Orain","TYPE_5":"Commune simple","ENGTYPE_5":"Commune","CC_5":""}}
+]}

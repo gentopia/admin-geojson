@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[2.1882095336914062,48.54693603515625],[2.205041170120353,48.56008529663097],[2.2111184597016518,48.569618225097656],[2.19851469993597,48.57566833496088],[2.1814658641816322,48.564056396484375],[2.1735174655914875,48.5515403747558],[2.1882095336914062,48.54693603515625]]]},"properties":{"GID_0":"FRA","NAME_0":"France","GID_1":"FRA.8_1","NAME_1":"Île-de-France","GID_2":"FRA.8.1_1","NAME_2":"Essonne","GID_3":"FRA.8.1.1_1","NAME_3":"Étampes","GID_4":"FRA.8.1.1.6_1","NAME_4":"Saint-Chéron","GID_5":"FRA.8.1.1.6.10_1","NAME_5":"Saint-Yon","TYPE_5":"Commune simple","ENGTYPE_5":"Commune","CC_5":""}}
+]}

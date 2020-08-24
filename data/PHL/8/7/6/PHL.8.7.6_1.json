@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[121.47679901123058,15.796210289001465],[121.47691345214866,15.797100067138672],[121.47714233398449,15.797769546508789],[121.46788787841797,15.798299789428768],[121.46719360351585,15.79656982421875],[121.47679901123058,15.796210289001465]]]},"properties":{"GID_0":"PHL","NAME_0":"Philippines","GID_1":"PHL.8_1","NAME_1":"Aurora","NL_NAME_1":"","GID_2":"PHL.8.7_1","NAME_2":"Maria Aurora","NL_NAME_2":"","GID_3":"PHL.8.7.6_1","NAME_3":"Barangay II","VARNAME_3":"Poblacion","NL_NAME_3":"","TYPE_3":"Barangay","ENGTYPE_3":"Village","CC_3":"","HASC_3":""}}
+]}

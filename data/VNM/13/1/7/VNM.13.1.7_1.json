@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[105.14850616455084,9.17789363861084],[105.14932250976574,9.180915832519474],[105.14654541015625,9.18299674987793],[105.1436157226562,9.178816795349121],[105.14626312255871,9.177286148071403],[105.14850616455084,9.17789363861084]]]},"properties":{"GID_0":"VNM","NAME_0":"Vietnam","GID_1":"VNM.13_1","NAME_1":"Cà Mau","NL_NAME_1":"","GID_2":"VNM.13.1_1","NAME_2":"Cà Mau","NL_NAME_2":"","GID_3":"VNM.13.1.7_1","NAME_3":"Phường 2","VARNAME_3":"Ward 2","NL_NAME_3":"","TYPE_3":"Phường","ENGTYPE_3":"Ward","CC_3":"","HASC_3":""}}
+]}

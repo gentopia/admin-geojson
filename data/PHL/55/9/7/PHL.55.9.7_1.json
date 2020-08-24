@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[121.04591369628918,15.560139656067008],[121.04022979736328,15.574150085449162],[121.01880645751964,15.574130058288631],[121.0172805786134,15.560480117797795],[121.03444671630871,15.556139945983887],[121.04591369628918,15.560139656067008]]]},"properties":{"GID_0":"PHL","NAME_0":"Philippines","GID_1":"PHL.55_1","NAME_1":"Nueva Ecija","NL_NAME_1":"","GID_2":"PHL.55.9_1","NAME_2":"General Mamerto Natividad","NL_NAME_2":"","GID_3":"PHL.55.9.7_1","NAME_3":"Kabulihan","VARNAME_3":"","NL_NAME_3":"","TYPE_3":"Barangay","ENGTYPE_3":"Village","CC_3":"","HASC_3":""}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[4.772856235504264,43.78237533569347],[4.767544746398983,43.79623413085932],[4.755436420440731,43.79121780395508],[4.75549411773693,43.78783035278326],[4.759004116058463,43.781574249267635],[4.772856235504264,43.78237533569347]]]},"properties":{"GID_0":"FRA","NAME_0":"France","GID_1":"FRA.13_1","NAME_1":"Provence-Alpes-Côte d'Azur","GID_2":"FRA.13.3_1","NAME_2":"Bouches-du-Rhône","GID_3":"FRA.13.3.2_1","NAME_3":"Arles","GID_4":"FRA.13.3.2.9_1","NAME_4":"Tarascon","GID_5":"FRA.13.3.2.9.2_1","NAME_5":"Mas-Blanc-des-Alpilles","TYPE_5":"Commune simple","ENGTYPE_5":"Commune","CC_5":""}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[140.62570190429688,-2.691957235336247],[140.6245880126953,-2.6767935752868652],[140.58509826660156,-2.665025472640991],[140.5811462402345,-2.6789557933806805],[140.5927734375001,-2.682201862335205],[140.62570190429688,-2.691957235336247]]]},"properties":{"GID_0":"IDN","NAME_0":"Indonesia","GID_1":"IDN.23_1","NAME_1":"Papua","GID_2":"IDN.23.7_1","NAME_2":"Jayapura","GID_3":"IDN.23.7.14_1","NAME_3":"Sentani Timur","GID_4":"IDN.23.7.14.6_1","NAME_4":"Puai","VARNAME_4":"","TYPE_4":"Desa","ENGTYPE_4":"Village","CC_4":"9403240001"}}
+]}

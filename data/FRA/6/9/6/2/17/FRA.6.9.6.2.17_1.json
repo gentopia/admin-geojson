@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[7.056080341339168,48.64200210571289],[7.0633044242859455,48.634227752685604],[7.073244571685905,48.627510070800895],[7.08614444732666,48.63679504394537],[7.070228099823055,48.63920593261719],[7.056080341339168,48.64200210571289]]]},"properties":{"GID_0":"FRA","NAME_0":"France","GID_1":"FRA.6_1","NAME_1":"Grand Est","GID_2":"FRA.6.9_1","NAME_2":"Moselle","GID_3":"FRA.6.9.6_1","NAME_3":"Sarrebourg","GID_4":"FRA.6.9.6.2_1","NAME_4":"Lorquin","GID_5":"FRA.6.9.6.2.17_1","NAME_5":"Vasperviller","TYPE_5":"Commune simple","ENGTYPE_5":"Commune","CC_5":""}}
+]}

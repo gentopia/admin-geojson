@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[3.279968500137443,49.004467010498104],[3.291425943374634,49.017326354980526],[3.2838006019592285,49.025402069091854],[3.255183696746826,49.020099639892635],[3.2502524852753254,49.012481689453125],[3.254958391189689,49.01317596435558],[3.279968500137443,49.004467010498104]]]},"properties":{"GID_0":"FRA","NAME_0":"France","GID_1":"FRA.7_1","NAME_1":"Hauts-de-France","GID_2":"FRA.7.1_1","NAME_2":"Aisne","GID_3":"FRA.7.1.1_1","NAME_3":"Château-Thierry","GID_4":"FRA.7.1.1.1_1","NAME_4":"Charly-sur-Marne","GID_5":"FRA.7.1.1.1.6_1","NAME_5":"Domptin","TYPE_5":"Commune simple","ENGTYPE_5":"Commune","CC_5":""}}
+]}

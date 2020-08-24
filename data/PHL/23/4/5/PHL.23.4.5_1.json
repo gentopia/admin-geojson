@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[124.2596664428711,13.783880233764592],[124.25877380371094,13.784339904785156],[124.1473388671875,13.788510322570858],[124.14507293701172,13.782130241394043],[124.1422576904298,13.774239540100098],[124.2596664428711,13.783880233764592]]]},"properties":{"GID_0":"PHL","NAME_0":"Philippines","GID_1":"PHL.23_1","NAME_1":"Catanduanes","NL_NAME_1":"","GID_2":"PHL.23.4_1","NAME_2":"Caramoran","NL_NAME_2":"","GID_3":"PHL.23.4.5_1","NAME_3":"Bulalacao","VARNAME_3":"","NL_NAME_3":"","TYPE_3":"Barangay","ENGTYPE_3":"Village","CC_3":"","HASC_3":""}}
+]}

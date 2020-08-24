@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[0.9968076348304749,43.02398300170904],[1.0010892152787392,43.02889251708996],[0.9931534528732868,43.039558410644645],[0.9844563603402321,43.044876098632926],[0.9890416860581013,43.023395538330135],[0.9968076348304749,43.02398300170904]]]},"properties":{"GID_0":"FRA","NAME_0":"France","GID_1":"FRA.11_1","NAME_1":"Occitanie","GID_2":"FRA.11.1_1","NAME_2":"Ariège","GID_3":"FRA.11.1.3_1","NAME_3":"Saint-Girons","GID_4":"FRA.11.1.3.5_1","NAME_4":"Saint-Lizier","GID_5":"FRA.11.1.3.5.8_1","NAME_5":"Mauvezin-de-Prat","TYPE_5":"Commune simple","ENGTYPE_5":"Commune","CC_5":""}}
+]}

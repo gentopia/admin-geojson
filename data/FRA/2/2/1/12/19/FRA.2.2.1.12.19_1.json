@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[6.293200969696045,47.3340950012207],[6.2924938201904865,47.3389892578125],[6.289463043213004,47.34359741210943],[6.278081893920842,47.35020065307623],[6.283731937408504,47.33832931518555],[6.276968955993652,47.33415985107433],[6.293200969696045,47.3340950012207]]]},"properties":{"GID_0":"FRA","NAME_0":"France","GID_1":"FRA.2_1","NAME_1":"Bourgogne-Franche-Comté","GID_2":"FRA.2.2_1","NAME_2":"Doubs","GID_3":"FRA.2.2.1_1","NAME_3":"Besançon","GID_4":"FRA.2.2.1.12_1","NAME_4":"Roulans","GID_5":"FRA.2.2.1.12.19_1","NAME_5":"Séchin","TYPE_5":"Commune simple","ENGTYPE_5":"Commune","CC_5":""}}
+]}

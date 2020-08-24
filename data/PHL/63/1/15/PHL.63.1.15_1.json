@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[121.65244293212902,16.51129913330078],[121.64881134033214,16.5159206390382],[121.64138031005871,16.524950027465877],[121.63601684570324,16.524150848388672],[121.64353942871094,16.509330749511662],[121.65244293212902,16.51129913330078]]]},"properties":{"GID_0":"PHL","NAME_0":"Philippines","GID_1":"PHL.63_1","NAME_1":"Quirino","NL_NAME_1":"","GID_2":"PHL.63.1_1","NAME_2":"Aglipay","NL_NAME_2":"","GID_3":"PHL.63.1.15_1","NAME_3":"Rang-Ayan","VARNAME_3":"","NL_NAME_3":"","TYPE_3":"Barangay","ENGTYPE_3":"Village","CC_3":"","HASC_3":""}}
+]}

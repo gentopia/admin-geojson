@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[100.08950042724621,0.9118663072586628],[100.08038330078125,0.9159911870956421],[100.06171417236328,0.9244396090507507],[100.02710723876964,0.8908807039260864],[100.06491088867199,0.8637111783028217],[100.08950042724621,0.9118663072586628]]]},"properties":{"GID_0":"IDN","NAME_0":"Indonesia","GID_1":"IDN.32_1","NAME_1":"Sumatera Utara","GID_2":"IDN.32.22_1","NAME_2":"Padang Lawas","GID_3":"IDN.32.22.3_1","NAME_3":"Batang Lubu Sutam","GID_4":"IDN.32.22.3.15_1","NAME_4":"Papaso","VARNAME_4":"","TYPE_4":"Desa","ENGTYPE_4":"Village","CC_4":"1221060028"}}
+]}

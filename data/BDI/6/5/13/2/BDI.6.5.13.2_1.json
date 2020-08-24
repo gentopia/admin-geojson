@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[29.195175170898494,-2.922553062438965],[29.19640541076666,-2.9231879711150555],[29.196794509887752,-2.9249629974364666],[29.200517654418945,-2.9271399974823],[29.2007350921632,-2.920871973037663],[29.199148178100643,-2.918570041656494],[29.195175170898494,-2.922553062438965]]]},"properties":{"GID_0":"BDI","NAME_0":"Burundi","GID_1":"BDI.6_1","NAME_1":"Cibitoke","GID_2":"BDI.6.5_1","NAME_2":"Murwi","GID_3":"BDI.6.5.13_1","NAME_3":"Manege","GID_4":"BDI.6.5.13.2_1","NAME_4":"Bucuzi II","VARNAME_4":"","TYPE_4":"Sous Colline","ENGTYPE_4":"Sous Colline","CC_4":""}}
+]}

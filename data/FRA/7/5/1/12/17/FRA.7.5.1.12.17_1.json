@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[1.7864171266556355,49.87813949584961],[1.763154387474117,49.8851318359375],[1.7476845979690552,49.870132446289176],[1.756508946418876,49.85599136352539],[1.7632458209992024,49.860137939453125],[1.7764607667923542,49.875308990478516],[1.7864171266556355,49.87813949584961]]]},"properties":{"GID_0":"FRA","NAME_0":"France","GID_1":"FRA.7_1","NAME_1":"Hauts-de-France","GID_2":"FRA.7.5_1","NAME_2":"Somme","GID_3":"FRA.7.5.1_1","NAME_3":"Abbeville","GID_4":"FRA.7.5.1.12_1","NAME_4":"Oisemont","GID_5":"FRA.7.5.1.12.17_1","NAME_5":"Le Mazis","TYPE_5":"Commune simple","ENGTYPE_5":"Commune","CC_5":""}}
+]}

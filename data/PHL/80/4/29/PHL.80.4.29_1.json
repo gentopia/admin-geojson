@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[123.28299713134777,7.5871601104737465],[123.2928237915039,7.597909927368164],[123.3023681640625,7.607940196991024],[123.28546905517601,7.6146697998046875],[123.27233123779308,7.594260215759334],[123.28299713134777,7.5871601104737465]]]},"properties":{"GID_0":"PHL","NAME_0":"Philippines","GID_1":"PHL.80_1","NAME_1":"Zamboanga del Sur","NL_NAME_1":"","GID_2":"PHL.80.4_1","NAME_2":"Dinas","NL_NAME_2":"","GID_3":"PHL.80.4.29_1","NAME_3":"Upper Sibul","VARNAME_3":"","NL_NAME_3":"","TYPE_3":"Barangay","ENGTYPE_3":"Village","CC_3":"","HASC_3":""}}
+]}

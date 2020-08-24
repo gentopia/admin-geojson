@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[120.59773254394531,15.441690444946289],[120.61607360839844,15.443329811096135],[120.6167984008789,15.452460289001465],[120.59835052490234,15.45055007934576],[120.59750366210949,15.448149681091365],[120.59773254394531,15.441690444946289]]]},"properties":{"GID_0":"PHL","NAME_0":"Philippines","GID_1":"PHL.76_1","NAME_1":"Tarlac","NL_NAME_1":"","GID_2":"PHL.76.17_1","NAME_2":"Tarlac City","NL_NAME_2":"","GID_3":"PHL.76.17.22_1","NAME_3":"Capehan","VARNAME_3":"","NL_NAME_3":"","TYPE_3":"Barangay","ENGTYPE_3":"Village","CC_3":"","HASC_3":""}}
+]}

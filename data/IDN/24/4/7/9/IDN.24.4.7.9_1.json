@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[102.07230377197271,-0.3806096613407135],[102.08874511718756,-0.38076046109199524],[102.08869171142584,-0.3735139966010479],[102.07230377197271,-0.3735085129737854],[102.07230377197271,-0.3806096613407135]]]},"properties":{"GID_0":"IDN","NAME_0":"Indonesia","GID_1":"IDN.24_1","NAME_1":"Riau","GID_2":"IDN.24.4_1","NAME_2":"Indragiri Hulu","GID_3":"IDN.24.4.7_1","NAME_3":"Lubuk Batu Jaya","GID_4":"IDN.24.4.7.9_1","NAME_4":"Tasik Juang","VARNAME_4":"","TYPE_4":"Desa","ENGTYPE_4":"Village","CC_4":"1402043029"}}
+]}

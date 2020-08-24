@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[124.0738525390625,7.699450016021672],[124.07422637939464,7.713940143585319],[124.07710266113281,7.7224798202515785],[124.06768035888683,7.723569869995174],[124.06202697753906,7.703010082244873],[124.0738525390625,7.699450016021672]]]},"properties":{"GID_0":"PHL","NAME_0":"Philippines","GID_1":"PHL.42_1","NAME_1":"Lanao del Sur","NL_NAME_1":"","GID_2":"PHL.42.40_1","NAME_2":"Tubaran","NL_NAME_2":"","GID_3":"PHL.42.40.21_1","NAME_3":"Wago","VARNAME_3":"","NL_NAME_3":"","TYPE_3":"Barangay","ENGTYPE_3":"Village","CC_3":"","HASC_3":""}}
+]}

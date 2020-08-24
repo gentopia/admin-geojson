@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[2.047875165939388,50.03900146484375],[2.031819105148429,50.05091476440424],[2.0150766372680664,50.04961013793945],[2.00582408905035,50.034832000732536],[2.0260028839111897,50.032669067382926],[2.030250787735042,50.0270881652832],[2.047875165939388,50.03900146484375]]]},"properties":{"GID_0":"FRA","NAME_0":"France","GID_1":"FRA.7_1","NAME_1":"Hauts-de-France","GID_2":"FRA.7.5_1","NAME_2":"Somme","GID_3":"FRA.7.5.2_1","NAME_3":"Amiens","GID_4":"FRA.7.5.2.18_1","NAME_4":"Picquigny","GID_5":"FRA.7.5.2.18.4_1","NAME_5":"Bouchon","TYPE_5":"Commune simple","ENGTYPE_5":"Commune","CC_5":""}}
+]}

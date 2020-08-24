@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[-96.0656509399414,43.85272979736328],[-96.06278991699219,44.198688507080135],[-96.07875061035156,44.19929885864269],[-96.4537506103515,44.198329925537166],[-96.45316314697266,43.85147857666021],[-96.0656509399414,43.85272979736328]]]},"properties":{"GID_0":"USA","NAME_0":"United States","GID_1":"USA.24_1","NAME_1":"Minnesota","NL_NAME_1":"","GID_2":"USA.24.60_1","NAME_2":"Pipestone","VARNAME_2":"","NL_NAME_2":"","TYPE_2":"County","ENGTYPE_2":"County","CC_2":"","HASC_2":"US.MN.PS"}}
+]}

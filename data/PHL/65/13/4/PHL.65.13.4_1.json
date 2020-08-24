@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[122.06041717529308,12.541769981384334],[122.04360198974621,12.546110153198299],[122.03228759765625,12.538350105285588],[122.05130767822266,12.52880001068121],[122.06041717529308,12.541769981384334]]]},"properties":{"GID_0":"PHL","NAME_0":"Philippines","GID_1":"PHL.65_1","NAME_1":"Romblon","NL_NAME_1":"","GID_2":"PHL.65.13_1","NAME_2":"San Andres","NL_NAME_2":"","GID_3":"PHL.65.13.4_1","NAME_3":"Juncarlo","VARNAME_3":"","NL_NAME_3":"","TYPE_3":"Barangay","ENGTYPE_3":"Village","CC_3":"","HASC_3":""}}
+]}

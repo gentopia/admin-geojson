@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[-1.1707569360732464,48.67070007324219],[-1.1683348417281536,48.660797119140625],[-1.1346933841705322,48.65439605712902],[-1.1275479793548584,48.6663436889649],[-1.149805545806828,48.672477722168026],[-1.1707569360732464,48.67070007324219]]]},"properties":{"GID_0":"FRA","NAME_0":"France","GID_1":"FRA.9_1","NAME_1":"Normandie","GID_2":"FRA.9.3_1","NAME_2":"Manche","GID_3":"FRA.9.3.1_1","NAME_3":"Avranches","GID_4":"FRA.9.3.1.3_1","NAME_4":"Brécey","GID_5":"FRA.9.3.1.3.5_1","NAME_5":"La Chapelle-Urée","TYPE_5":"Commune simple","ENGTYPE_5":"Commune","CC_5":""}}
+]}

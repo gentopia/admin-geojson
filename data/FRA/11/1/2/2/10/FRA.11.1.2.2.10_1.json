@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[1.2962832450867836,43.189285278320426],[1.276631951332206,43.195549011230526],[1.2663506269455524,43.19147872924816],[1.2681423425674438,43.190780639648494],[1.284919023513794,43.18068313598633],[1.2936557531356812,43.18124389648443],[1.2962832450867836,43.189285278320426]]]},"properties":{"GID_0":"FRA","NAME_0":"France","GID_1":"FRA.11_1","NAME_1":"Occitanie","GID_2":"FRA.11.1_1","NAME_2":"Ariège","GID_3":"FRA.11.1.2_1","NAME_3":"Pamiers","GID_4":"FRA.11.1.2.2_1","NAME_4":"Le Mas-d'Azil","GID_5":"FRA.11.1.2.2.10_1","NAME_5":"Loubaut","TYPE_5":"Commune simple","ENGTYPE_5":"Commune","CC_5":""}}
+]}

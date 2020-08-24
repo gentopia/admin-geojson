@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[2.80949330329895,49.50194168090832],[2.8165085315704914,49.512161254882926],[2.7984609603882404,49.517631530761776],[2.77662372589117,49.514225006103516],[2.776076793670768,49.50989151000982],[2.7878193855285645,49.503910064697266],[2.794450044631958,49.49534606933605],[2.80949330329895,49.50194168090832]]]},"properties":{"GID_0":"FRA","NAME_0":"France","GID_1":"FRA.7_1","NAME_1":"Hauts-de-France","GID_2":"FRA.7.3_1","NAME_2":"Oise","GID_3":"FRA.7.3.3_1","NAME_3":"Compiègne","GID_4":"FRA.7.3.3.11_1","NAME_4":"Ribécourt-Dreslincourt","GID_5":"FRA.7.3.3.11.17_1","NAME_5":"Vandélicourt","TYPE_5":"Commune simple","ENGTYPE_5":"Commune","CC_5":""}}
+]}

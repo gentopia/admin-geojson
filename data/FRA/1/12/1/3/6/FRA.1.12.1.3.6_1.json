@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[6.390233039855957,45.60317230224615],[6.3933019638060955,45.622249603271484],[6.355723857879752,45.63951110839844],[6.348574638366642,45.637504577636776],[6.354162216186637,45.631759643554744],[6.351928710937614,45.62499618530279],[6.390233039855957,45.60317230224615]]]},"properties":{"GID_0":"FRA","NAME_0":"France","GID_1":"FRA.1_1","NAME_1":"Auvergne-Rhône-Alpes","GID_2":"FRA.1.12_1","NAME_2":"Savoie","GID_3":"FRA.1.12.1_1","NAME_3":"Albertville","GID_4":"FRA.1.12.1.3_1","NAME_4":"Albertville-Sud","GID_5":"FRA.1.12.1.3.6_1","NAME_5":"Monthion","TYPE_5":"Commune simple","ENGTYPE_5":"Commune","CC_5":""}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[125.5586166381836,8.95946979522705],[125.55811309814464,8.960949897766113],[125.55753326416027,8.962439537048397],[125.5570068359375,8.963609695434627],[125.55348968505882,8.96271991729742],[125.55381774902344,8.96039009094244],[125.55449676513683,8.95779991149908],[125.5586166381836,8.95946979522705]]]},"properties":{"GID_0":"PHL","NAME_0":"Philippines","GID_1":"PHL.2_1","NAME_1":"Agusan del Norte","NL_NAME_1":"","GID_2":"PHL.2.2_1","NAME_2":"Butuan City","NL_NAME_2":"","GID_3":"PHL.2.2.31_1","NAME_3":"Diego Silang Poblacion","VARNAME_3":"Barangay 6","NL_NAME_3":"","TYPE_3":"Barangay","ENGTYPE_3":"Village","CC_3":"","HASC_3":""}}
+]}

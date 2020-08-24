@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[2.6822874546051594,48.849205017089844],[2.6972613334655193,48.85428237915039],[2.7098538875579834,48.85428619384777],[2.7094547748565105,48.86476135253912],[2.696453571319637,48.866607666015625],[2.677300453186035,48.857925415039176],[2.6822874546051594,48.849205017089844]]]},"properties":{"GID_0":"FRA","NAME_0":"France","GID_1":"FRA.8_1","NAME_1":"Île-de-France","GID_2":"FRA.8.4_1","NAME_2":"Seine-et-Marne","GID_3":"FRA.8.4.5_1","NAME_3":"Torcy","GID_4":"FRA.8.4.5.4_1","NAME_4":"Lagny-sur-Marne","GID_5":"FRA.8.4.5.4.1_1","NAME_5":"Gouvernes","TYPE_5":"Commune simple","ENGTYPE_5":"Commune","CC_5":""}}
+]}

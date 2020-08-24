@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[5.504459381103516,43.388092041015625],[5.5110058784484295,43.383682250976506],[5.544676780700797,43.390789031982536],[5.553747653961295,43.39855957031244],[5.555925369262695,43.40506362915045],[5.537132740020809,43.40275955200201],[5.504459381103516,43.388092041015625]]]},"properties":{"GID_0":"FRA","NAME_0":"France","GID_1":"FRA.13_1","NAME_1":"Provence-Alpes-Côte d'Azur","GID_2":"FRA.13.3_1","NAME_2":"Bouches-du-Rhône","GID_3":"FRA.13.3.4_1","NAME_3":"Marseille","GID_4":"FRA.13.3.4.22_1","NAME_4":"Roquevaire","GID_5":"FRA.13.3.4.22.3_1","NAME_5":"Cadolive","TYPE_5":"Commune simple","ENGTYPE_5":"Commune","CC_5":""}}
+]}

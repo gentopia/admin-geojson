@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[123.70033264160168,12.075469970703239],[123.72103881835938,12.089200019836426],[123.70279693603538,12.123629570007438],[123.68328094482422,12.110489845275879],[123.70033264160168,12.075469970703239]]]},"properties":{"GID_0":"PHL","NAME_0":"Philippines","GID_1":"PHL.46_1","NAME_1":"Masbate","NL_NAME_1":"","GID_2":"PHL.46.6_1","NAME_2":"Cawayan","NL_NAME_2":"","GID_3":"PHL.46.6.33_1","NAME_3":"Taberna","VARNAME_3":"","NL_NAME_3":"","TYPE_3":"Barangay","ENGTYPE_3":"Village","CC_3":"","HASC_3":""}}
+]}

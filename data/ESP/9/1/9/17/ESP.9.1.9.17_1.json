@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[-1.8361469507216839,42.83390045166021],[-1.8414709568023113,42.83888626098633],[-1.8465280532836346,42.83621215820324],[-1.844791054725647,42.8308372497558],[-1.8361469507216839,42.83390045166021]]]},"properties":{"GID_0":"ESP","NAME_0":"Spain","GID_1":"ESP.9_1","NAME_1":"Comunidad Foral de Navarra","GID_2":"ESP.9.1_1","NAME_2":"Navarra","GID_3":"ESP.9.1.9_1","NAME_3":"n.a. (193)","GID_4":"ESP.9.1.9.17_1","NAME_4":"Facería 35","VARNAME_4":"","TYPE_4":"Municipality","ENGTYPE_4":"Municipality","CC_4":""}}
+]}

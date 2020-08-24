@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[31.363004684448242,30.128850936889762],[31.34593391418457,30.13868522644043],[31.31969070434576,30.130506515502987],[31.314880371093864,30.113531112670955],[31.324899673461857,30.106756210327262],[31.363004684448242,30.128850936889762]]]},"properties":{"GID_0":"EGY","NAME_0":"Egypt","GID_1":"EGY.11_1","NAME_1":"Al Qahirah","NL_NAME_1":"","GID_2":"EGY.11.2_1","NAME_2":"'Ain Schams","VARNAME_2":"Ain Shams","NL_NAME_2":"","TYPE_2":"Kism","ENGTYPE_2":"Subdivision","CC_2":"","HASC_2":"EG.QH.ES"}}
+]}

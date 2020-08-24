@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[123.92922973632824,10.925149917602596],[123.94561004638683,10.925239562988281],[123.94664001464844,10.945440292358455],[123.93892669677757,10.948430061340332],[123.93282318115257,10.935110092163086],[123.92922973632824,10.925149917602596]]]},"properties":{"GID_0":"PHL","NAME_0":"Philippines","GID_1":"PHL.25_1","NAME_1":"Cebu","NL_NAME_1":"","GID_2":"PHL.25.44_1","NAME_2":"San Remigio","NL_NAME_2":"","GID_3":"PHL.25.44.16_1","NAME_3":"Libaong","VARNAME_3":"","NL_NAME_3":"","TYPE_3":"Barangay","ENGTYPE_3":"Village","CC_3":"","HASC_3":""}}
+]}

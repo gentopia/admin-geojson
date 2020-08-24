@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[5.2417707443237305,45.57458496093756],[5.250807285308895,45.574108123779354],[5.263012886047363,45.58339309692383],[5.239644050598258,45.59148406982422],[5.230931758880672,45.57554244995117],[5.2417707443237305,45.57458496093756]]]},"properties":{"GID_0":"FRA","NAME_0":"France","GID_1":"FRA.1_1","NAME_1":"Auvergne-Rhône-Alpes","GID_2":"FRA.1.8_1","NAME_2":"Isère","GID_3":"FRA.1.8.2_1","NAME_3":"La Tour-du-Pin","GID_4":"FRA.1.8.2.2_1","NAME_4":"Bourgoin-Jallieu-Sud","GID_5":"FRA.1.8.2.2.4_1","NAME_5":"Domarin","TYPE_5":"Commune simple","ENGTYPE_5":"Commune","CC_5":""}}
+]}

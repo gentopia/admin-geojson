@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[124.37581634521484,7.971240043640194],[124.37660217285156,7.971980094909668],[124.3705062866211,7.979350090026799],[124.36309814453125,7.973499774932918],[124.36463928222679,7.970630168914852],[124.3670883178711,7.966070175170842],[124.37581634521484,7.971240043640194]]]},"properties":{"GID_0":"PHL","NAME_0":"Philippines","GID_1":"PHL.42_1","NAME_1":"Lanao del Sur","NL_NAME_1":"","GID_2":"PHL.42.6_1","NAME_2":"Buadiposo-Buntong","NL_NAME_2":"","GID_3":"PHL.42.6.15_1","NAME_3":"Kalakala","VARNAME_3":"","NL_NAME_3":"","TYPE_3":"Barangay","ENGTYPE_3":"Village","CC_3":"","HASC_3":""}}
+]}

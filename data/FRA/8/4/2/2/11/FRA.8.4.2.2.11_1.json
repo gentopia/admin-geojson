@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[2.884658575058097,48.88145446777344],[2.9004204273225014,48.8888397216798],[2.904344558715877,48.89817810058605],[2.896436929702759,48.91019439697277],[2.8663554191589355,48.9150390625],[2.850320577621517,48.906551361083984],[2.847522497177181,48.89772415161127],[2.884658575058097,48.88145446777344]]]},"properties":{"GID_0":"FRA","NAME_0":"France","GID_1":"FRA.8_1","NAME_1":"Île-de-France","GID_2":"FRA.8.4_1","NAME_2":"Seine-et-Marne","GID_3":"FRA.8.4.2_1","NAME_3":"Meaux","GID_4":"FRA.8.4.2.2_1","NAME_4":"Crécy-la-Chapelle","GID_5":"FRA.8.4.2.2.11_1","NAME_5":"Quincy-Voisins","TYPE_5":"Commune simple","ENGTYPE_5":"Commune","CC_5":""}}
+]}

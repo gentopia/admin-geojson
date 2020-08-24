@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[123.97279357910156,11.170479774475211],[123.97914123535156,11.171239852905273],[123.98689270019531,11.181229591369629],[123.97519683837902,11.192070007324219],[123.97279357910156,11.170479774475211]]]},"properties":{"GID_0":"PHL","NAME_0":"Philippines","GID_1":"PHL.25_1","NAME_1":"Cebu","NL_NAME_1":"","GID_2":"PHL.25.32_1","NAME_2":"Medellin","NL_NAME_2":"","GID_3":"PHL.25.32.7_1","NAME_3":"Dalingding Sur","VARNAME_3":"","NL_NAME_3":"","TYPE_3":"Barangay","ENGTYPE_3":"Village","CC_3":"","HASC_3":""}}
+]}

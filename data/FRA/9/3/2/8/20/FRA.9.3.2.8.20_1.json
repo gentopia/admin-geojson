@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[-1.4259393215178875,49.471042633056754],[-1.4199984073638348,49.480827331543026],[-1.4243168830871582,49.49103164672857],[-1.4329110383987427,49.49534225463867],[-1.4353159666060833,49.48878479003906],[-1.439787745475769,49.472568511963004],[-1.4259393215178875,49.471042633056754]]]},"properties":{"GID_0":"FRA","NAME_0":"France","GID_1":"FRA.9_1","NAME_1":"Normandie","GID_2":"FRA.9.3_1","NAME_2":"Manche","GID_3":"FRA.9.3.2_1","NAME_3":"Cherbourg","GID_4":"FRA.9.3.2.8_1","NAME_4":"Montebourg","GID_5":"FRA.9.3.2.8.20_1","NAME_5":"Sortosville","TYPE_5":"Commune simple","ENGTYPE_5":"Commune","CC_5":""}}
+]}

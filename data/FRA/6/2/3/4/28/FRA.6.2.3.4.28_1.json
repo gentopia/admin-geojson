@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[4.082104682922477,48.174934387206974],[4.092357158660889,48.18404388427746],[4.0743169784547035,48.19885253906256],[4.061458110809326,48.201316833496094],[4.056615352630729,48.19206619262695],[4.082104682922477,48.174934387206974]]]},"properties":{"GID_0":"FRA","NAME_0":"France","GID_1":"FRA.6_1","NAME_1":"Grand Est","GID_2":"FRA.6.2_1","NAME_2":"Aube","GID_3":"FRA.6.2.3_1","NAME_3":"Troyes","GID_4":"FRA.6.2.3.4_1","NAME_4":"Bouilly","GID_5":"FRA.6.2.3.4.28_1","NAME_5":"Villy-le-Maréchal","TYPE_5":"Commune simple","ENGTYPE_5":"Commune","CC_5":""}}
+]}

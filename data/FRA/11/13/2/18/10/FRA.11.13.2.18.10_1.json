@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[1.9644182920455933,43.55308914184582],[1.9600164890289307,43.544067382812614],[1.9646315574645996,43.52959823608404],[1.9809755086898804,43.53684997558594],[1.9868566989899819,43.54631805419933],[1.9782756567000774,43.55443572998047],[1.9644182920455933,43.55308914184582]]]},"properties":{"GID_0":"FRA","NAME_0":"France","GID_1":"FRA.11_1","NAME_1":"Occitanie","GID_2":"FRA.11.13_1","NAME_2":"Tarn","GID_3":"FRA.11.13.2_1","NAME_3":"Castres","GID_4":"FRA.11.13.2.18_1","NAME_4":"Puylaurens","GID_5":"FRA.11.13.2.18.10_1","NAME_5":"Saint-Sernin-lès-Lavaur","TYPE_5":"Commune simple","ENGTYPE_5":"Commune","CC_5":""}}
+]}

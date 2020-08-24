@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[2.4959495067597004,49.27469635009777],[2.508241415023747,49.279541015625],[2.5107793807983967,49.288665771484375],[2.4956204891204834,49.302753448486385],[2.485436916351432,49.299709320068416],[2.4772853851319496,49.284793853759766],[2.4959495067597004,49.27469635009777]]]},"properties":{"GID_0":"FRA","NAME_0":"France","GID_1":"FRA.7_1","NAME_1":"Hauts-de-France","GID_2":"FRA.7.3_1","NAME_2":"Oise","GID_3":"FRA.7.3.4_1","NAME_3":"Senlis","GID_4":"FRA.7.3.4.3_1","NAME_4":"Creil-Nogent-sur-Oise","GID_5":"FRA.7.3.4.3.2_1","NAME_5":"Villers-Saint-Paul","TYPE_5":"Commune simple","ENGTYPE_5":"Commune","CC_5":""}}
+]}

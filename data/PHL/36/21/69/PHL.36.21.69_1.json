@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[122.5695037841798,10.693449974060059],[122.5694503784182,10.696020126342887],[122.56812286376964,10.695560455322322],[122.56802368164062,10.693229675293082],[122.5695037841798,10.693449974060059]]]},"properties":{"GID_0":"PHL","NAME_0":"Philippines","GID_1":"PHL.36_1","NAME_1":"Iloilo","NL_NAME_1":"","GID_2":"PHL.36.21_1","NAME_2":"Iloilo City","NL_NAME_2":"","GID_3":"PHL.36.21.69_1","NAME_3":"Kauswagan","VARNAME_3":"","NL_NAME_3":"","TYPE_3":"Barangay","ENGTYPE_3":"Village","CC_3":"","HASC_3":""}}
+]}

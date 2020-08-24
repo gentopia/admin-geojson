@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[7.21762847900402,47.65785980224604],[7.231661319732723,47.66152572631847],[7.245980739593563,47.67027282714844],[7.238946437835807,47.687194824218864],[7.216391563415527,47.675617218017635],[7.221713542938232,47.66698837280279],[7.21762847900402,47.65785980224604]]]},"properties":{"GID_0":"FRA","NAME_0":"France","GID_1":"FRA.6_1","NAME_1":"Grand Est","GID_2":"FRA.6.4_1","NAME_2":"Haut-Rhin","GID_3":"FRA.6.4.1_1","NAME_3":"Altkirch","GID_4":"FRA.6.4.1.1_1","NAME_4":"Altkirch","GID_5":"FRA.6.4.1.1.21_1","NAME_5":"Spechbach-le-Bas","TYPE_5":"Commune simple","ENGTYPE_5":"Commune","CC_5":""}}
+]}

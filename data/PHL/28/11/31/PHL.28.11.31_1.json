@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[125.21035766601585,6.719329833984375],[125.21127319335938,6.711209774017391],[125.21917724609386,6.711719989776611],[125.21874237060547,6.72117996215826],[125.21035766601585,6.719329833984375]]]},"properties":{"GID_0":"PHL","NAME_0":"Philippines","GID_1":"PHL.28_1","NAME_1":"Davao del Sur","NL_NAME_1":"","GID_2":"PHL.28.11_1","NAME_2":"Matanao","NL_NAME_2":"","GID_3":"PHL.28.11.31_1","NAME_3":"Tamlangon","VARNAME_3":"","NL_NAME_3":"","TYPE_3":"Barangay","ENGTYPE_3":"Village","CC_3":"","HASC_3":""}}
+]}

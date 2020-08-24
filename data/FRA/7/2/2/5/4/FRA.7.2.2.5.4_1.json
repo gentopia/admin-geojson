@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[3.369718551635856,50.07076644897461],[3.383543491363639,50.079517364501896],[3.3869407176970867,50.08576583862316],[3.363678216934261,50.0924911499024],[3.3619894981385414,50.082744598388786],[3.369718551635856,50.07076644897461]]]},"properties":{"GID_0":"FRA","NAME_0":"France","GID_1":"FRA.7_1","NAME_1":"Hauts-de-France","GID_2":"FRA.7.2_1","NAME_2":"Nord","GID_3":"FRA.7.2.2_1","NAME_3":"Cambrai","GID_4":"FRA.7.2.2.5_1","NAME_4":"Clary","GID_5":"FRA.7.2.2.5.4_1","NAME_5":"Caullery","TYPE_5":"Commune simple","ENGTYPE_5":"Commune","CC_5":""}}
+]}

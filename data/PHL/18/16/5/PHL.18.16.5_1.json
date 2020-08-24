@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[121.7284164428711,18.226640701294002],[121.72738647460949,18.24086952209467],[121.71987915039062,18.240730285644588],[121.71527099609375,18.240270614624023],[121.71534729003918,18.22794914245617],[121.7284164428711,18.226640701294002]]]},"properties":{"GID_0":"PHL","NAME_0":"Philippines","GID_1":"PHL.18_1","NAME_1":"Cagayan","NL_NAME_1":"","GID_2":"PHL.18.16_1","NAME_2":"Lal-Lo","NL_NAME_2":"","GID_3":"PHL.18.16.5_1","NAME_3":"Bical","VARNAME_3":"","NL_NAME_3":"","TYPE_3":"Barangay","ENGTYPE_3":"Village","CC_3":"","HASC_3":""}}
+]}

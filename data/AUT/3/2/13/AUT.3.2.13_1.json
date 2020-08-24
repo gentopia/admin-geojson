@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[16.161376953125114,47.93426132202154],[16.197647094726676,47.92985534667969],[16.166906356811467,47.93940734863281],[16.161376953125114,47.93426132202154]]]},"properties":{"GID_0":"AUT","NAME_0":"Austria","GID_1":"AUT.3_1","NAME_1":"Niederösterreich","NL_NAME_1":"","GID_2":"AUT.3.2_1","NAME_2":"Baden","NL_NAME_2":"","GID_3":"AUT.3.2.13_1","NAME_3":"Hirtenberg","VARNAME_3":"","NL_NAME_3":"","TYPE_3":"Gemeinde","ENGTYPE_3":"Municipality","CC_3":"30615","HASC_3":""}}
+]}

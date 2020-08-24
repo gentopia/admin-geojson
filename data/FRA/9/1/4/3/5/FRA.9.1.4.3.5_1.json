@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[-0.8850528597831158,48.88802719116211],[-0.8887739181518555,48.90127944946295],[-0.8938141465187073,48.89617919921881],[-0.9067727923392681,48.893623352050724],[-0.918193817138615,48.88154602050787],[-0.8850528597831158,48.88802719116211]]]},"properties":{"GID_0":"FRA","NAME_0":"France","GID_1":"FRA.9_1","NAME_1":"Normandie","GID_2":"FRA.9.1_1","NAME_2":"Calvados","GID_3":"FRA.9.1.4_1","NAME_3":"Vire","GID_4":"FRA.9.1.4.3_1","NAME_4":"Le Bény-Bocage","GID_5":"FRA.9.1.4.3.5_1","NAME_5":"Étouvy","TYPE_5":"Commune simple","ENGTYPE_5":"Commune","CC_5":""}}
+]}

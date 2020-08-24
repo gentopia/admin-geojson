@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[1.0812431573868366,49.19947814941412],[1.0833247900010292,49.20885467529308],[1.0823024511337849,49.21162796020519],[1.063530087471122,49.21331405639654],[1.0621380805969238,49.216392517089844],[1.06363761425024,49.195411682128906],[1.0812431573868366,49.19947814941412]]]},"properties":{"GID_0":"FRA","NAME_0":"France","GID_1":"FRA.9_1","NAME_1":"Normandie","GID_2":"FRA.9.2_1","NAME_2":"Eure","GID_3":"FRA.9.2.3_1","NAME_3":"Les Andelys","GID_4":"FRA.9.2.3.9_1","NAME_4":"Louviers-Sud","GID_5":"FRA.9.2.3.9.3_1","NAME_5":"Crasville","TYPE_5":"Commune simple","ENGTYPE_5":"Commune","CC_5":""}}
+]}

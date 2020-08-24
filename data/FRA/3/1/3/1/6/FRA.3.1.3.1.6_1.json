@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[-3.2717788219451904,48.709716796875114],[-3.270008087158203,48.714492797851676],[-3.300023317337036,48.71588516235357],[-3.3097586631774334,48.70878219604498],[-3.3090660572052,48.702720642089844],[-3.295897960662785,48.704868316650504],[-3.2717788219451904,48.709716796875114]]]},"properties":{"GID_0":"FRA","NAME_0":"France","GID_1":"FRA.3_1","NAME_1":"Bretagne","GID_2":"FRA.3.1_1","NAME_2":"Côtes-d'Armor","GID_3":"FRA.3.1.3_1","NAME_3":"Lannion","GID_4":"FRA.3.1.3.1_1","NAME_4":"La Roche-Derrien","GID_5":"FRA.3.1.3.1.6_1","NAME_5":"Mantallot","TYPE_5":"Commune simple","ENGTYPE_5":"Commune","CC_5":""}}
+]}

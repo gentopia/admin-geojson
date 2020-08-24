@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[2.102565288543701,42.71159744262707],[2.1138060092927162,42.724498748779354],[2.1005353927611736,42.73171615600586],[2.087574958801383,42.722820281982536],[2.088968992233333,42.71166229248058],[2.102565288543701,42.71159744262707]]]},"properties":{"GID_0":"FRA","NAME_0":"France","GID_1":"FRA.11_1","NAME_1":"Occitanie","GID_2":"FRA.11.1_1","NAME_2":"Ariège","GID_3":"FRA.11.1.1_1","NAME_3":"Foix","GID_4":"FRA.11.1.1.7_1","NAME_4":"Quérigut","GID_5":"FRA.11.1.1.7.4_1","NAME_5":"Le Puch","TYPE_5":"Commune simple","ENGTYPE_5":"Commune","CC_5":""}}
+]}

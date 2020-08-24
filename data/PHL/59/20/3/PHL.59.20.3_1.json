@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[119.54031372070312,10.396630287170524],[119.52828216552734,10.454959869384766],[119.50994110107433,10.487299919128532],[119.490966796875,10.4796400070191],[119.5179672241211,10.391650199890137],[119.54031372070312,10.396630287170524]]]},"properties":{"GID_0":"PHL","NAME_0":"Philippines","GID_1":"PHL.59_1","NAME_1":"Palawan","NL_NAME_1":"","GID_2":"PHL.59.20_1","NAME_2":"Roxas","NL_NAME_2":"","GID_3":"PHL.59.20.3_1","NAME_3":"Bagong Bayan","VARNAME_3":"","NL_NAME_3":"","TYPE_3":"Barangay","ENGTYPE_3":"Village","CC_3":"","HASC_3":""}}
+]}

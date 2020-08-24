@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[-0.35311987996095695,49.24759674072277],[-0.3324536681175232,49.25044631958008],[-0.32080209255218506,49.26162719726568],[-0.3338054418562706,49.26564025878912],[-0.34092944860458374,49.26758575439459],[-0.35311987996095695,49.24759674072277]]]},"properties":{"GID_0":"FRA","NAME_0":"France","GID_1":"FRA.9_1","NAME_1":"Normandie","GID_2":"FRA.9.1_1","NAME_2":"Calvados","GID_3":"FRA.9.1.2_1","NAME_3":"Caen","GID_4":"FRA.9.1.2.19_1","NAME_4":"Ouistreham","GID_5":"FRA.9.1.2.19.6_1","NAME_5":"Périers-sur-le-Dan","TYPE_5":"Commune simple","ENGTYPE_5":"Commune","CC_5":""}}
+]}

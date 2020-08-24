@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[104.14285278320312,-3.7411670684814453],[104.17235565185558,-3.758148193359318],[104.17485809326183,-3.7596390247343834],[104.18421173095697,-3.745342493057194],[104.15218353271479,-3.724886417388916],[104.14285278320312,-3.7411670684814453]]]},"properties":{"GID_0":"IDN","NAME_0":"Indonesia","GID_1":"IDN.31_1","NAME_1":"Sumatera Selatan","GID_2":"IDN.31.5_1","NAME_2":"Muara Enim","GID_3":"IDN.31.5.8_1","NAME_3":"Lubai","GID_4":"IDN.31.5.8.8_1","NAME_4":"Karang Sari","VARNAME_4":"","TYPE_4":"Desa","ENGTYPE_4":"Village","CC_4":"1603032019"}}
+]}

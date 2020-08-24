@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[124.18453216552734,8.021809577941895],[124.20443725585949,8.027569770813045],[124.22728729248047,8.039039611816406],[124.22415924072266,8.043230056762638],[124.18527221679688,8.026829719543514],[124.18453216552734,8.021809577941895]]]},"properties":{"GID_0":"PHL","NAME_0":"Philippines","GID_1":"PHL.41_1","NAME_1":"Lanao del Norte","NL_NAME_1":"","GID_2":"PHL.41.16_1","NAME_2":"Pantar","NL_NAME_2":"","GID_3":"PHL.41.16.21_1","NAME_3":"West Pantar","VARNAME_3":"","NL_NAME_3":"","TYPE_3":"Barangay","ENGTYPE_3":"Village","CC_3":"","HASC_3":""}}
+]}

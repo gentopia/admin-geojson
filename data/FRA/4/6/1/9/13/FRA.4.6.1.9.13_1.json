@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[2.6004843711853596,48.04017257690441],[2.624150276184025,48.065437316894645],[2.6056442260742756,48.07887649536144],[2.592935085296631,48.06914138793957],[2.5884737968445393,48.052341461181754],[2.5967934131622314,48.04908752441406],[2.6004843711853596,48.04017257690441]]]},"properties":{"GID_0":"FRA","NAME_0":"France","GID_1":"FRA.4_1","NAME_1":"Centre-Val de Loire","GID_2":"FRA.4.6_1","NAME_2":"Loiret","GID_3":"FRA.4.6.1_1","NAME_3":"Montargis","GID_4":"FRA.4.6.1.9_1","NAME_4":"Ferrières-en-Gâtinais","GID_5":"FRA.4.6.1.9.13_1","NAME_5":"Mignerette","TYPE_5":"Commune simple","ENGTYPE_5":"Commune","CC_5":""}}
+]}

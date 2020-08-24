@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[122.94306182861328,7.662350177764893],[122.95124816894531,7.672880172729606],[122.95423126220714,7.676390171051082],[122.95005798339844,7.67504978179943],[122.93797302246105,7.665450096130485],[122.93994903564453,7.659920215606633],[122.94306182861328,7.662350177764893]]]},"properties":{"GID_0":"PHL","NAME_0":"Philippines","GID_1":"PHL.81_1","NAME_1":"Zamboanga Sibugay","NL_NAME_1":"","GID_2":"PHL.81.4_1","NAME_2":"Imelda","NL_NAME_2":"","GID_3":"PHL.81.4.13_1","NAME_3":"Mali Little Baguio","VARNAME_3":"","NL_NAME_3":"","TYPE_3":"Barangay","ENGTYPE_3":"Village","CC_3":"","HASC_3":""}}
+]}

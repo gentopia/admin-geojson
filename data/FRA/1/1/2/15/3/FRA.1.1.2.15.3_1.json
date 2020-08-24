@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[4.849115371704158,45.91286849975597],[4.851360797882137,45.92361450195318],[4.8257536888123695,45.91193389892578],[4.8106751441955,45.90975189208996],[4.8040990829467205,45.898067474365234],[4.805177211761588,45.89632797241205],[4.849115371704158,45.91286849975597]]]},"properties":{"GID_0":"FRA","NAME_0":"France","GID_1":"FRA.1_1","NAME_1":"Auvergne-Rhône-Alpes","GID_2":"FRA.1.1_1","NAME_2":"Ain","GID_3":"FRA.1.1.2_1","NAME_3":"Bourg-en-Bresse","GID_4":"FRA.1.1.2.15_1","NAME_4":"Reyrieux","GID_5":"FRA.1.1.2.15.3_1","NAME_5":"Massieux","TYPE_5":"Commune simple","ENGTYPE_5":"Commune","CC_5":""}}
+]}

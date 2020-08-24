@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[-0.6945763230323792,43.2077751159668],[-0.6639316082000732,43.22321701049805],[-0.6570810079574585,43.23169708251953],[-0.6627342700957684,43.23519897460943],[-0.6772530078887371,43.242511749267635],[-0.6945763230323792,43.2077751159668]]]},"properties":{"GID_0":"FRA","NAME_0":"France","GID_1":"FRA.10_1","NAME_1":"Nouvelle-Aquitaine","GID_2":"FRA.10.11_1","NAME_2":"Pyrénées-Atlantiques","GID_3":"FRA.10.11.2_1","NAME_3":"Oloron-Sainte-Marie","GID_4":"FRA.10.11.2.10_1","NAME_4":"Oloron-Sainte-Marie-Ouest","GID_5":"FRA.10.11.2.10.9_1","NAME_5":"Orin","TYPE_5":"Commune simple","ENGTYPE_5":"Commune","CC_5":""}}
+]}

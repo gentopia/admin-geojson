@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[4.314906120300407,44.65990066528326],[4.300113677978459,44.65741348266607],[4.300609588623104,44.64939117431635],[4.323074340820426,44.64509963989252],[4.331918239593563,44.64683151245117],[4.314906120300407,44.65990066528326]]]},"properties":{"GID_0":"FRA","NAME_0":"France","GID_1":"FRA.1_1","NAME_1":"Auvergne-Rhône-Alpes","GID_2":"FRA.1.3_1","NAME_2":"Ardèche","GID_3":"FRA.1.3.1_1","NAME_3":"Largentière","GID_4":"FRA.1.3.1.10_1","NAME_4":"Thueyts","GID_5":"FRA.1.3.1.10.7_1","NAME_5":"Lalevade-d'Ardèche","TYPE_5":"Commune simple","ENGTYPE_5":"Commune","CC_5":""}}
+]}

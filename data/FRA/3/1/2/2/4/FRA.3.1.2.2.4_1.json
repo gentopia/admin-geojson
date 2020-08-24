@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[-3.4210214614868164,48.50140380859381],[-3.4019389152526287,48.499954223632756],[-3.3971755504607586,48.50887680053711],[-3.401352643966618,48.519264221191406],[-3.411463975906372,48.520179748535156],[-3.4202253818511963,48.51695251464844],[-3.4210214614868164,48.50140380859381]]]},"properties":{"GID_0":"FRA","NAME_0":"France","GID_1":"FRA.3_1","NAME_1":"Bretagne","GID_2":"FRA.3.1_1","NAME_2":"Côtes-d'Armor","GID_3":"FRA.3.1.2_1","NAME_3":"Guingamp","GID_4":"FRA.3.1.2.2_1","NAME_4":"Belle-Isle-en-Terre","GID_5":"FRA.3.1.2.2.4_1","NAME_5":"Loc-Envel","TYPE_5":"Commune simple","ENGTYPE_5":"Commune","CC_5":""}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[3.431205034256095,49.29123306274414],[3.442218780517578,49.30143356323248],[3.448707818985042,49.3141822814942],[3.434226036071891,49.318721771240234],[3.4219870567322346,49.303493499755916],[3.4223861694337074,49.29347610473644],[3.431205034256095,49.29123306274414]]]},"properties":{"GID_0":"FRA","NAME_0":"France","GID_1":"FRA.7_1","NAME_1":"Hauts-de-France","GID_2":"FRA.7.1_1","NAME_2":"Aisne","GID_3":"FRA.7.1.4_1","NAME_3":"Soissons","GID_4":"FRA.7.1.4.2_1","NAME_4":"Oulchy-le-Château","GID_5":"FRA.7.1.4.2.19_1","NAME_5":"Nampteuil-sous-Muret","TYPE_5":"Commune simple","ENGTYPE_5":"Commune","CC_5":""}}
+]}

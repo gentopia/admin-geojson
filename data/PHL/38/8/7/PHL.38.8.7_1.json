@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[121.13654327392578,17.271480560302734],[121.11489868164085,17.271329879760742],[121.1146469116211,17.25885963439947],[121.12507629394543,17.258779525756893],[121.13654327392578,17.271480560302734]]]},"properties":{"GID_0":"PHL","NAME_0":"Philippines","GID_1":"PHL.38_1","NAME_1":"Kalinga","NL_NAME_1":"","GID_2":"PHL.38.8_1","NAME_2":"Tinglayan","NL_NAME_2":"","GID_3":"PHL.38.8.7_1","NAME_3":"Butbut","VARNAME_3":"Butbut-Ngibat","NL_NAME_3":"","TYPE_3":"Barangay","ENGTYPE_3":"Village","CC_3":"","HASC_3":""}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[-0.42378756403923035,48.749828338623104],[-0.4037576913833618,48.751644134521484],[-0.3961575925349621,48.7559814453125],[-0.40506118535995483,48.76202392578119],[-0.4174512028694153,48.76408004760742],[-0.4276348650455475,48.757827758789006],[-0.42378756403923035,48.749828338623104]]]},"properties":{"GID_0":"FRA","NAME_0":"France","GID_1":"FRA.9_1","NAME_1":"Normandie","GID_2":"FRA.9.4_1","NAME_2":"Orne","GID_3":"FRA.9.4.2_1","NAME_3":"Argentan","GID_4":"FRA.9.4.2.4_1","NAME_4":"Athis-de-l'Orne","GID_5":"FRA.9.4.2.4.8_1","NAME_5":"Les Tourailles","TYPE_5":"Commune simple","ENGTYPE_5":"Commune","CC_5":""}}
+]}

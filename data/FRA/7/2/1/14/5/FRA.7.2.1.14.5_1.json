@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[4.057528495788574,50.2077522277832],[4.064030647277832,50.213523864746094],[4.0610089302064125,50.218914031982536],[4.0464825630189125,50.21968460083019],[4.037425041198844,50.216861724853516],[4.030485630035457,50.20458984375],[4.0335164070129395,50.20707702636719],[4.057528495788574,50.2077522277832]]]},"properties":{"GID_0":"FRA","NAME_0":"France","GID_1":"FRA.7_1","NAME_1":"Hauts-de-France","GID_2":"FRA.7.2_1","NAME_2":"Nord","GID_3":"FRA.7.2.1_1","NAME_3":"Avesnes-sur-Helpe","GID_4":"FRA.7.2.1.14_1","NAME_4":"Solre-le-Château","GID_5":"FRA.7.2.1.14.5_1","NAME_5":"Choisies","TYPE_5":"Commune simple","ENGTYPE_5":"Commune","CC_5":""}}
+]}

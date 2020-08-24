@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[1.7063335180282593,49.07775115966797],[1.711142659187317,49.072067260742244],[1.7123622894287678,49.05601882934582],[1.720777869224662,49.05266571044933],[1.7244176864624592,49.05487823486334],[1.741317391395512,49.07286071777355],[1.7063335180282593,49.07775115966797]]]},"properties":{"GID_0":"FRA","NAME_0":"France","GID_1":"FRA.8_1","NAME_1":"Île-de-France","GID_2":"FRA.8.6_1","NAME_2":"Val-d'Oise","GID_3":"FRA.8.6.2_1","NAME_3":"Pontoise","GID_4":"FRA.8.6.2.12_1","NAME_4":"Magny-en-Vexin","GID_5":"FRA.8.6.2.12.24_1","NAME_5":"Vienne-en-Arthies","TYPE_5":"Commune simple","ENGTYPE_5":"Commune","CC_5":""}}
+]}

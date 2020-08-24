@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[123.32054901123047,13.342840194702262],[123.3215789794923,13.347669601440373],[123.32171630859386,13.354399681091309],[123.30943298339844,13.348859786987305],[123.31109619140636,13.34130001068121],[123.32054901123047,13.342840194702262]]]},"properties":{"GID_0":"PHL","NAME_0":"Philippines","GID_1":"PHL.20_1","NAME_1":"Camarines Sur","NL_NAME_1":"","GID_2":"PHL.20.4_1","NAME_2":"Bato","NL_NAME_2":"","GID_3":"PHL.20.4.16_1","NAME_3":"Neighborhood","VARNAME_3":"","NL_NAME_3":"","TYPE_3":"Barangay","ENGTYPE_3":"Village","CC_3":"","HASC_3":""}}
+]}

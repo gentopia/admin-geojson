@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[6.620725154876652,49.284626007080135],[6.622202396392822,49.289997100830135],[6.61674165725708,49.29550933837885],[6.603127002716121,49.29974746704113],[6.584097862243652,49.298171997070256],[6.584984779358024,49.296283721923885],[6.601146697998047,49.288127899170036],[6.620725154876652,49.284626007080135]]]},"properties":{"GID_0":"FRA","NAME_0":"France","GID_1":"FRA.6_1","NAME_1":"Grand Est","GID_2":"FRA.6.9_1","NAME_2":"Moselle","GID_3":"FRA.6.9.1_1","NAME_3":"Boulay-Moselle","GID_4":"FRA.6.9.1.2_1","NAME_4":"Bouzonville","GID_5":"FRA.6.9.1.2.32_1","NAME_5":"Vœlfling-lès-Bouzonville","TYPE_5":"Commune simple","ENGTYPE_5":"Commune","CC_5":""}}
+]}

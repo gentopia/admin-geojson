@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[2.856384515762443,48.22154617309582],[2.8716869354249184,48.23548507690441],[2.872591495513973,48.245750427246094],[2.883810043334961,48.253131866455135],[2.8599948883057777,48.256374359130916],[2.836928844452018,48.25173568725586],[2.828904867172241,48.23335266113281],[2.856384515762443,48.22154617309582]]]},"properties":{"GID_0":"FRA","NAME_0":"France","GID_1":"FRA.8_1","NAME_1":"Île-de-France","GID_2":"FRA.8.4_1","NAME_2":"Seine-et-Marne","GID_3":"FRA.8.4.1_1","NAME_3":"Fontainebleau","GID_4":"FRA.8.4.1.4_1","NAME_4":"Lorrez-le-Bocage-Préaux","GID_5":"FRA.8.4.1.4.9_1","NAME_5":"Paley","TYPE_5":"Commune simple","ENGTYPE_5":"Commune","CC_5":""}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[121.6797866821289,16.705680847168026],[121.67674255371094,16.710180282592773],[121.67075347900402,16.71574020385748],[121.66648864746094,16.708629608154354],[121.67157745361328,16.70116996765131],[121.6797866821289,16.705680847168026]]]},"properties":{"GID_0":"PHL","NAME_0":"Philippines","GID_1":"PHL.37_1","NAME_1":"Isabela","NL_NAME_1":"","GID_2":"PHL.37.13_1","NAME_2":"Echague","NL_NAME_2":"","GID_3":"PHL.37.13.10_1","NAME_3":"Cabugao","VARNAME_3":"Poblacion","NL_NAME_3":"","TYPE_3":"Barangay","ENGTYPE_3":"Village","CC_3":"","HASC_3":""}}
+]}

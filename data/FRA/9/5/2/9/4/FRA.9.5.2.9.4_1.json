@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[0.5608264207840534,49.53943252563482],[0.5709782242775532,49.54710006713873],[0.5646464228630066,49.552116394043026],[0.5547608733178322,49.55307769775396],[0.5448846220970722,49.541404724121094],[0.5567748546600342,49.53776168823248],[0.5608264207840534,49.53943252563482]]]},"properties":{"GID_0":"FRA","NAME_0":"France","GID_1":"FRA.9_1","NAME_1":"Normandie","GID_2":"FRA.9.5_1","NAME_2":"Seine-Maritime","GID_3":"FRA.9.5.2_1","NAME_3":"Le Havre","GID_4":"FRA.9.5.2.9_1","NAME_4":"Lillebonne","GID_5":"FRA.9.5.2.9.4_1","NAME_5":"La Trinité-du-Mont","TYPE_5":"Commune simple","ENGTYPE_5":"Commune","CC_5":""}}
+]}

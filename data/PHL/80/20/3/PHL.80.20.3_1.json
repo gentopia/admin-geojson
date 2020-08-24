@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[123.47245025634777,8.016369819641227],[123.4661865234375,8.027839660644588],[123.46353912353516,8.032150268554688],[123.45127868652355,8.02571964263916],[123.45345306396484,8.02334022521984],[123.45655059814476,8.015569686889705],[123.47245025634777,8.016369819641227]]]},"properties":{"GID_0":"PHL","NAME_0":"Philippines","GID_1":"PHL.80_1","NAME_1":"Zamboanga del Sur","NL_NAME_1":"","GID_2":"PHL.80.20_1","NAME_2":"Ramon Magsaysay","NL_NAME_2":"","GID_3":"PHL.80.20.3_1","NAME_3":"Bambong Diut","VARNAME_3":"","NL_NAME_3":"","TYPE_3":"Barangay","ENGTYPE_3":"Village","CC_3":"","HASC_3":""}}
+]}

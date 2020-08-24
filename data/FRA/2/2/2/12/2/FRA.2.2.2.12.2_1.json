@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[6.851818084716797,47.526199340820426],[6.856435775756836,47.53377151489269],[6.859879970550594,47.547554016113395],[6.855715274810848,47.54794311523449],[6.8306360244751545,47.54643630981445],[6.836632251739559,47.536514282226676],[6.851818084716797,47.526199340820426]]]},"properties":{"GID_0":"FRA","NAME_0":"France","GID_1":"FRA.2_1","NAME_1":"Bourgogne-Franche-Comté","GID_2":"FRA.2.2_1","NAME_2":"Doubs","GID_3":"FRA.2.2.2_1","NAME_3":"Montbéliard","GID_4":"FRA.2.2.2.12_1","NAME_4":"Sochaux-Grand-Charmont","GID_5":"FRA.2.2.2.12.2_1","NAME_5":"Nommay","TYPE_5":"Commune simple","ENGTYPE_5":"Commune","CC_5":""}}
+]}

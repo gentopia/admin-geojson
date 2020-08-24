@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[5.818014621734676,45.23965072631836],[5.814120769500732,45.24866104125982],[5.799075126647892,45.26020050048834],[5.777563571929932,45.241466522216854],[5.793778419494686,45.227321624755916],[5.818014621734676,45.23965072631836]]]},"properties":{"GID_0":"FRA","NAME_0":"France","GID_1":"FRA.1_1","NAME_1":"Auvergne-Rhône-Alpes","GID_2":"FRA.1.8_1","NAME_2":"Isère","GID_3":"FRA.1.8.1_1","NAME_3":"Grenoble","GID_4":"FRA.1.8.1.25_1","NAME_4":"Saint-Ismier","GID_5":"FRA.1.8.1.25.2_1","NAME_5":"Biviers","TYPE_5":"Commune simple","ENGTYPE_5":"Commune","CC_5":""}}
+]}

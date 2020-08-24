@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[124.40254211425781,7.038720130920467],[124.40016937255871,7.024260044097957],[124.40667724609386,7.0200300216674805],[124.41300964355469,7.013889789581356],[124.43009185791027,7.021140098571834],[124.41558074951183,7.031139850616569],[124.40254211425781,7.038720130920467]]]},"properties":{"GID_0":"PHL","NAME_0":"Philippines","GID_1":"PHL.44_1","NAME_1":"Maguindanao","NL_NAME_1":"","GID_2":"PHL.44.8_1","NAME_2":"Datu Anggal Midtimbang","NL_NAME_2":"","GID_3":"PHL.44.8.5_1","NAME_3":"Nunangan","VARNAME_3":"Nunangen","NL_NAME_3":"","TYPE_3":"Barangay","ENGTYPE_3":"Village","CC_3":"","HASC_3":""}}
+]}

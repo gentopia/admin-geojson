@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[0.6926627159119789,43.25761413574219],[0.7212898731231121,43.2647819519043],[0.7025728821754456,43.27558898925781],[0.6908804774284363,43.27968597412121],[0.6718519926071735,43.268344879150504],[0.6851404309273903,43.25575256347656],[0.6926627159119789,43.25761413574219]]]},"properties":{"GID_0":"FRA","NAME_0":"France","GID_1":"FRA.11_1","NAME_1":"Occitanie","GID_2":"FRA.11.6_1","NAME_2":"Haute-Garonne","GID_3":"FRA.11.6.2_1","NAME_3":"Saint-Gaudens","GID_4":"FRA.11.6.2.5_1","NAME_4":"Boulogne-sur-Gesse","GID_5":"FRA.11.6.2.5.21_1","NAME_5":"Saint-Pé-Delbosc","TYPE_5":"Commune simple","ENGTYPE_5":"Commune","CC_5":""}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[120.75176239013683,15.141519546508846],[120.75769805908214,15.181229591369743],[120.76094055175793,15.204560279846191],[120.72191619873047,15.163350105285701],[120.72611999511719,15.147100448608398],[120.75176239013683,15.141519546508846]]]},"properties":{"GID_0":"PHL","NAME_0":"Philippines","GID_1":"PHL.60_1","NAME_1":"Pampanga","NL_NAME_1":"","GID_2":"PHL.60.3_1","NAME_2":"Arayat","NL_NAME_2":"","GID_3":"PHL.60.3.27_1","NAME_3":"San Roque Bitas","VARNAME_3":"","NL_NAME_3":"","TYPE_3":"Barangay","ENGTYPE_3":"Village","CC_3":"","HASC_3":""}}
+]}

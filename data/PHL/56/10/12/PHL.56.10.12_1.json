@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[121.43122863769531,16.39259910583496],[121.44376373291027,16.399400711059627],[121.448486328125,16.417179107666016],[121.43128967285156,16.410469055175838],[121.43122863769531,16.39259910583496]]]},"properties":{"GID_0":"PHL","NAME_0":"Philippines","GID_1":"PHL.56_1","NAME_1":"Nueva Vizcaya","NL_NAME_1":"","GID_2":"PHL.56.10_1","NAME_2":"Kasibu","NL_NAME_2":"","GID_3":"PHL.56.10.12_1","NAME_3":"Didipio","VARNAME_3":"","NL_NAME_3":"","TYPE_3":"Barangay","ENGTYPE_3":"Village","CC_3":"","HASC_3":""}}
+]}

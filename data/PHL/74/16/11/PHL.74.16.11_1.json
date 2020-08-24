@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[126.03582763671875,9.91553020477295],[126.0479965209961,9.917949676513729],[126.05252838134777,9.93313980102539],[126.04051971435547,9.934490203857479],[126.03778076171886,9.922010421753043],[126.03582763671875,9.91553020477295]]]},"properties":{"GID_0":"PHL","NAME_0":"Philippines","GID_1":"PHL.74_1","NAME_1":"Surigao del Norte","NL_NAME_1":"","GID_2":"PHL.74.16_1","NAME_2":"San Isidro","NL_NAME_2":"","GID_3":"PHL.74.16.11_1","NAME_3":"Tambacan","VARNAME_3":"","NL_NAME_3":"","TYPE_3":"Barangay","ENGTYPE_3":"Village","CC_3":"","HASC_3":""}}
+]}

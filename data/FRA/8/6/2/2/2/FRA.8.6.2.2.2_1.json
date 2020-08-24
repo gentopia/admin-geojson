@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[2.3105928897858234,49.18487548828119],[2.301197052002067,49.18388748168945],[2.299505233764762,49.1771507263183],[2.28875994682312,49.16970825195318],[2.286412954330501,49.15991973876953],[2.2941548824310303,49.151153564453125],[2.311918258667106,49.15016937255854],[2.3105928897858234,49.18487548828119]]]},"properties":{"GID_0":"FRA","NAME_0":"France","GID_1":"FRA.8_1","NAME_1":"Île-de-France","GID_2":"FRA.8.6_1","NAME_2":"Val-d'Oise","GID_3":"FRA.8.6.2_1","NAME_3":"Pontoise","GID_4":"FRA.8.6.2.2_1","NAME_4":"Beaumont-sur-Oise","GID_5":"FRA.8.6.2.2.2_1","NAME_5":"Bernes-sur-Oise","TYPE_5":"Commune simple","ENGTYPE_5":"Commune","CC_5":""}}
+]}

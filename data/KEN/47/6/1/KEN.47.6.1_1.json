@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[35.060565948486385,1.5051424503326984],[35.06067657470709,1.5050880908966633],[35.06106948852539,1.5049045085906414],[35.061649322509766,1.5047860145568848],[35.061908721923885,1.504846692085323],[35.060565948486385,1.5051424503326984]]]},"properties":{"GID_0":"KEN","NAME_0":"Kenya","GID_1":"KEN.47_1","NAME_1":"West Pokot","NL_NAME_1":"","GID_2":"KEN.47.6_1","NAME_2":"unknown 8","NL_NAME_2":"","GID_3":"KEN.47.6.1_1","NAME_3":"unknown 8","VARNAME_3":"","NL_NAME_3":"","TYPE_3":"Ward","ENGTYPE_3":"Ward","CC_3":"0","HASC_3":""}}
+]}

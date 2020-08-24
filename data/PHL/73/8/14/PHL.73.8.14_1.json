@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[121.24786376953136,5.9969401359558105],[121.2393035888673,5.9919500350953285],[121.23042297363281,5.9867701530455975],[121.23342132568371,5.978579998016414],[121.25093078613293,5.978439807891846],[121.24786376953136,5.9969401359558105]]]},"properties":{"GID_0":"PHL","NAME_0":"Philippines","GID_1":"PHL.73_1","NAME_1":"Sulu","NL_NAME_1":"","GID_2":"PHL.73.8_1","NAME_2":"Old Panamao","NL_NAME_2":"","GID_3":"PHL.73.8.14_1","NAME_3":"Kawasan","VARNAME_3":"","NL_NAME_3":"","TYPE_3":"Barangay","ENGTYPE_3":"Village","CC_3":"","HASC_3":""}}
+]}

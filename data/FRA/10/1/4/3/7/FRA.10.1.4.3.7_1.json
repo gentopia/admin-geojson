@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[-0.24802953004831352,45.80548095703125],[-0.22981473803514518,45.82056808471691],[-0.25446391105651855,45.83264923095709],[-0.26923131942749023,45.8190269470216],[-0.2750338613986969,45.806251525878906],[-0.24802953004831352,45.80548095703125]]]},"properties":{"GID_0":"FRA","NAME_0":"France","GID_1":"FRA.10_1","NAME_1":"Nouvelle-Aquitaine","GID_2":"FRA.10.1_1","NAME_2":"Charente-Maritime","GID_3":"FRA.10.1.4_1","NAME_3":"Saint-Jean-d'Angély","GID_4":"FRA.10.1.4.3_1","NAME_4":"Matha","GID_5":"FRA.10.1.4.3.7_1","NAME_5":"Brie-sous-Matha","TYPE_5":"Commune simple","ENGTYPE_5":"Commune","CC_5":""}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[126.03568267822277,9.848159790039062],[126.07446289062511,9.84928035736084],[126.0745773315432,9.852549552917594],[126.07479095458996,9.858119964599553],[126.03784179687511,9.85900974273676],[126.03568267822277,9.848159790039062]]]},"properties":{"GID_0":"PHL","NAME_0":"Philippines","GID_1":"PHL.74_1","NAME_1":"Surigao del Norte","NL_NAME_1":"","GID_2":"PHL.74.12_1","NAME_2":"Pilar","NL_NAME_2":"","GID_3":"PHL.74.12.10_1","NAME_3":"Mabini","VARNAME_3":"","NL_NAME_3":"","TYPE_3":"Barangay","ENGTYPE_3":"Village","CC_3":"","HASC_3":""}}
+]}

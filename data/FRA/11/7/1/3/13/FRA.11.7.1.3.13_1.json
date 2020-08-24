@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[0.022564254701194386,43.07952117919922],[0.036021824926137924,43.08574295043951],[0.030455691739973645,43.09801101684582],[0.027961403131598672,43.098983764648494],[0.01289157755678616,43.08684158325195],[0.0150580490008565,43.08126449584955],[0.022564254701194386,43.07952117919922]]]},"properties":{"GID_0":"FRA","NAME_0":"France","GID_1":"FRA.11_1","NAME_1":"Occitanie","GID_2":"FRA.11.7_1","NAME_2":"Hautes-Pyrénées","GID_3":"FRA.11.7.1_1","NAME_3":"Argelès-Gazost","GID_4":"FRA.11.7.1.3_1","NAME_4":"Lourdes-Est","GID_5":"FRA.11.7.1.3.13_1","NAME_5":"Gez-ez-Angles","TYPE_5":"Commune simple","ENGTYPE_5":"Commune","CC_5":""}}
+]}

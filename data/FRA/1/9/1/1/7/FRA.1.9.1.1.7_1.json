@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[3.9361326694488525,45.76481628417963],[3.940366983413753,45.76714324951172],[3.942679166793937,45.77294921875006],[3.933328628540039,45.77933883666998],[3.928577423095703,45.774631500244084],[3.9361326694488525,45.76481628417963]]]},"properties":{"GID_0":"FRA","NAME_0":"France","GID_1":"FRA.1_1","NAME_1":"Auvergne-Rhône-Alpes","GID_2":"FRA.1.9_1","NAME_2":"Loire","GID_3":"FRA.1.9.1_1","NAME_3":"Montbrison","GID_4":"FRA.1.9.1.1_1","NAME_4":"Boën","GID_5":"FRA.1.9.1.1.7_1","NAME_5":"L'Hôpital-sous-Rochefort","TYPE_5":"Commune simple","ENGTYPE_5":"Commune","CC_5":""}}
+]}

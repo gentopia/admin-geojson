@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[1.592931270599479,49.23629379272461],[1.6000635623933022,49.22847366333008],[1.614966869354248,49.23639678955078],[1.6141709089279743,49.244579315185604],[1.592931270599479,49.23629379272461]]]},"properties":{"GID_0":"FRA","NAME_0":"France","GID_1":"FRA.9_1","NAME_1":"Normandie","GID_2":"FRA.9.2_1","NAME_2":"Eure","GID_3":"FRA.9.2.3_1","NAME_3":"Les Andelys","GID_4":"FRA.9.2.3.2_1","NAME_4":"Étrépagny","GID_5":"FRA.9.2.3.2.11_1","NAME_5":"Les Thilliers-en-Vexin","TYPE_5":"Commune simple","ENGTYPE_5":"Commune","CC_5":""}}
+]}

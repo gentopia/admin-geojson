@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[1.7672406435013386,49.132209777832145],[1.7836915254593464,49.14474105834961],[1.7739455699921791,49.15230178833019],[1.7521998882293133,49.146217346191406],[1.7425311803818317,49.147006988525504],[1.7415443658829304,49.137977600097656],[1.7672406435013386,49.132209777832145]]]},"properties":{"GID_0":"FRA","NAME_0":"France","GID_1":"FRA.8_1","NAME_1":"Île-de-France","GID_2":"FRA.8.6_1","NAME_2":"Val-d'Oise","GID_3":"FRA.8.6.2_1","NAME_3":"Pontoise","GID_4":"FRA.8.6.2.12_1","NAME_4":"Magny-en-Vexin","GID_5":"FRA.8.6.2.12.13_1","NAME_5":"Hodent","TYPE_5":"Commune simple","ENGTYPE_5":"Commune","CC_5":""}}
+]}

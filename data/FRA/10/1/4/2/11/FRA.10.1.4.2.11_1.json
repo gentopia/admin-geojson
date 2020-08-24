@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[-0.4399692118167877,46.046970367431754],[-0.44147205352783203,46.050914764404354],[-0.46932289004325867,46.055305480956974],[-0.4712473154067993,46.048675537109375],[-0.45915502309799194,46.03219604492199],[-0.4399692118167877,46.046970367431754]]]},"properties":{"GID_0":"FRA","NAME_0":"France","GID_1":"FRA.10_1","NAME_1":"Nouvelle-Aquitaine","GID_2":"FRA.10.1_1","NAME_2":"Charente-Maritime","GID_3":"FRA.10.1.4_1","NAME_3":"Saint-Jean-d'Angély","GID_4":"FRA.10.1.4.2_1","NAME_4":"Loulay","GID_5":"FRA.10.1.4.2.11_1","NAME_5":"Saint-Martial","TYPE_5":"Commune simple","ENGTYPE_5":"Commune","CC_5":""}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[0.5857480168343727,43.02342605590832],[0.5918253660202026,43.02237319946289],[0.5926419496536255,43.02603530883795],[0.5932195186615559,43.03544998168957],[0.5801473259925842,43.034194946289176],[0.5726645588874817,43.03742599487305],[0.5857480168343727,43.02342605590832]]]},"properties":{"GID_0":"FRA","NAME_0":"France","GID_1":"FRA.11_1","NAME_1":"Occitanie","GID_2":"FRA.11.6_1","NAME_2":"Haute-Garonne","GID_3":"FRA.11.6.2_1","NAME_3":"Saint-Gaudens","GID_4":"FRA.11.6.2.4_1","NAME_4":"Barbazan","GID_5":"FRA.11.6.2.4.24_1","NAME_5":"Valcabrère","TYPE_5":"Commune simple","ENGTYPE_5":"Commune","CC_5":""}}
+]}

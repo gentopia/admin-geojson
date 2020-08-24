@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[0.291071355342865,43.1653671264649],[0.29658505320554696,43.165775299072266],[0.2985199689865681,43.17567062377941],[0.28274685144435807,43.176883697509766],[0.2819842696189312,43.174011230468864],[0.29017958045017167,43.17179870605469],[0.291071355342865,43.1653671264649]]]},"properties":{"GID_0":"FRA","NAME_0":"France","GID_1":"FRA.11_1","NAME_1":"Occitanie","GID_2":"FRA.11.7_1","NAME_2":"Hautes-Pyrénées","GID_3":"FRA.11.7.3_1","NAME_3":"Tarbes","GID_4":"FRA.11.7.3.13_1","NAME_4":"Tournay","GID_5":"FRA.11.7.3.13.8_1","NAME_5":"Castéra-Lanusse","TYPE_5":"Commune simple","ENGTYPE_5":"Commune","CC_5":""}}
+]}

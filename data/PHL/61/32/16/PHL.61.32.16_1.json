@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[120.63085174560558,15.847479820251465],[120.62925720214844,15.852190017700252],[120.61308288574241,15.85116004943842],[120.61492919921875,15.84601974487316],[120.63085174560558,15.847479820251465]]]},"properties":{"GID_0":"PHL","NAME_0":"Philippines","GID_1":"PHL.61_1","NAME_1":"Pangasinan","NL_NAME_1":"","GID_2":"PHL.61.32_1","NAME_2":"Rosales","NL_NAME_2":"","GID_3":"PHL.61.32.16_1","NAME_3":"Guiling","VARNAME_3":"","NL_NAME_3":"","TYPE_3":"Barangay","ENGTYPE_3":"Village","CC_3":"","HASC_3":""}}
+]}

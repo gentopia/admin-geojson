@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[-0.19940400123596191,38.92505264282232],[-0.19249300658697166,38.923347473144474],[-0.18420399725437164,38.92591094970709],[-0.18066899478435516,38.92895126342785],[-0.19508700072759666,38.92895126342785],[-0.19625799357891083,38.92709732055664],[-0.19940400123596191,38.92505264282232]]]},"properties":{"GID_0":"ESP","NAME_0":"Spain","GID_1":"ESP.10_1","NAME_1":"Comunidad Valenciana","GID_2":"ESP.10.3_1","NAME_2":"Valencia","GID_3":"ESP.10.3.11_1","NAME_3":"n.a. (221)","GID_4":"ESP.10.3.11.10_1","NAME_4":"Beniflá","VARNAME_4":"Beniflà","TYPE_4":"Municipality","ENGTYPE_4":"Municipality","CC_4":""}}
+]}

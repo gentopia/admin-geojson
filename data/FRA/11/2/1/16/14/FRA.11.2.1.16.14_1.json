@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[2.5340323448180584,43.250236511230526],[2.5668861865997314,43.229408264160156],[2.576799631118888,43.25647735595703],[2.5758514404297443,43.259910583496094],[2.5663414001464844,43.25935745239269],[2.5485050678253174,43.258026123046875],[2.5340323448180584,43.250236511230526]]]},"properties":{"GID_0":"FRA","NAME_0":"France","GID_1":"FRA.11_1","NAME_1":"Occitanie","GID_2":"FRA.11.2_1","NAME_2":"Aude","GID_3":"FRA.11.2.1_1","NAME_3":"Carcassonne","GID_4":"FRA.11.2.1.16_1","NAME_4":"Peyriac-Minervois","GID_5":"FRA.11.2.1.16.14_1","NAME_5":"Saint-Frichoux","TYPE_5":"Commune simple","ENGTYPE_5":"Commune","CC_5":""}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[120.87609863281273,16.908489227294922],[120.86943817138683,16.918340682983455],[120.86170196533203,16.93001937866211],[120.84898376464844,16.93168067932129],[120.84808349609386,16.911319732666016],[120.87609863281273,16.908489227294922]]]},"properties":{"GID_0":"PHL","NAME_0":"Philippines","GID_1":"PHL.50_1","NAME_1":"Mountain Province","NL_NAME_1":"","GID_2":"PHL.50.10_1","NAME_2":"Tadian","NL_NAME_2":"","GID_3":"PHL.50.10.6_1","NAME_3":"Cadad-Anan","VARNAME_3":"","NL_NAME_3":"","TYPE_3":"Barangay","ENGTYPE_3":"Village","CC_3":"","HASC_3":""}}
+]}

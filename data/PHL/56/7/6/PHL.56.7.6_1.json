@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[121.359130859375,16.606710433960075],[121.31919860839855,16.60158920288086],[121.3211669921875,16.585039138794002],[121.32666015625011,16.56727027893072],[121.35881805419922,16.566869735717887],[121.359130859375,16.606710433960075]]]},"properties":{"GID_0":"PHL","NAME_0":"Philippines","GID_1":"PHL.56_1","NAME_1":"Nueva Vizcaya","NL_NAME_1":"","GID_2":"PHL.56.7_1","NAME_2":"Diadi","NL_NAME_2":"","GID_3":"PHL.56.7.6_1","NAME_3":"Decabacan","VARNAME_3":"","NL_NAME_3":"","TYPE_3":"Barangay","ENGTYPE_3":"Village","CC_3":"","HASC_3":""}}
+]}

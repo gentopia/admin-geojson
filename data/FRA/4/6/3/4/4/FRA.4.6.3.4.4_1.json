@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[2.2652459144592285,48.095619201660156],[2.2666928768159096,48.115272521972656],[2.229635238647518,48.11582946777344],[2.2236139774323647,48.10399246215826],[2.229004383087215,48.095504760742244],[2.247171878814754,48.09038543701183],[2.2652459144592285,48.095619201660156]]]},"properties":{"GID_0":"FRA","NAME_0":"France","GID_1":"FRA.4_1","NAME_1":"Centre-Val de Loire","GID_2":"FRA.4.6_1","NAME_2":"Loiret","GID_3":"FRA.4.6.3_1","NAME_3":"Pithiviers","GID_4":"FRA.4.6.3.4_1","NAME_4":"Pithiviers","GID_5":"FRA.4.6.3.4.4_1","NAME_5":"Bouzonville-aux-Bois","TYPE_5":"Commune simple","ENGTYPE_5":"Commune","CC_5":""}}
+]}

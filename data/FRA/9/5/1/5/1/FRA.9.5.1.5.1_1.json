@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[1.5549476146697998,49.79187011718756],[1.5703396797180744,49.78993225097656],[1.5903077125548748,49.79463958740246],[1.576801538467521,49.82355117797846],[1.5645506381988525,49.82950592041027],[1.5508022308350178,49.81911087036144],[1.5549476146697998,49.79187011718756]]]},"properties":{"GID_0":"FRA","NAME_0":"France","GID_1":"FRA.9_1","NAME_1":"Normandie","GID_2":"FRA.9.5_1","NAME_2":"Seine-Maritime","GID_3":"FRA.9.5.1_1","NAME_3":"Dieppe","GID_4":"FRA.9.5.1.5_1","NAME_4":"Blangy-sur-Bresle","GID_5":"FRA.9.5.1.5.1_1","NAME_5":"Aubermesnil-aux-Érables","TYPE_5":"Commune simple","ENGTYPE_5":"Commune","CC_5":""}}
+]}

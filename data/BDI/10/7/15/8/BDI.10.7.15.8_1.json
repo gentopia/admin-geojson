@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[30.113647460937614,-2.6954829692840008],[30.11713218688965,-2.6925530433654785],[30.11614608764654,-2.68743896484375],[30.110851287841854,-2.691452980041504],[30.1123428344726,-2.6917619705200195],[30.113647460937614,-2.6954829692840008]]]},"properties":{"GID_0":"BDI","NAME_0":"Burundi","GID_1":"BDI.10_1","NAME_1":"Kirundo","GID_2":"BDI.10.7_1","NAME_2":"Vumbi","GID_3":"BDI.10.7.15_1","NAME_3":"Kigobe","GID_4":"BDI.10.7.15.8_1","NAME_4":"Rwakara","VARNAME_4":"","TYPE_4":"Sous Colline","ENGTYPE_4":"Sous Colline","CC_4":""}}
+]}

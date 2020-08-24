@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[4.845343589782715,45.524318695068416],[4.856960773468131,45.52147674560547],[4.861328601837158,45.51684951782232],[4.871813774108944,45.527637481689396],[4.855437755584774,45.53072738647461],[4.845343589782715,45.524318695068416]]]},"properties":{"GID_0":"FRA","NAME_0":"France","GID_1":"FRA.1_1","NAME_1":"Auvergne-Rhône-Alpes","GID_2":"FRA.1.11_1","NAME_2":"Rhône","GID_3":"FRA.1.11.1_1","NAME_3":"Lyon","GID_4":"FRA.1.11.1.3_1","NAME_4":"Condrieu","GID_5":"FRA.1.11.1.3.8_1","NAME_5":"Sainte-Colombe","TYPE_5":"Commune simple","ENGTYPE_5":"Commune","CC_5":""}}
+]}

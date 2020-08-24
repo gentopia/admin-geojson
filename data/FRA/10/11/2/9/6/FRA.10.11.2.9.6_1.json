@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[-0.6206175684928894,43.204246520996094],[-0.6137640476226807,43.19956970214855],[-0.609276294708252,43.20063018798828],[-0.5961188077926067,43.214656829833984],[-0.5948708653450012,43.228027343750114],[-0.6025307178497314,43.22468185424816],[-0.6206175684928894,43.204246520996094]]]},"properties":{"GID_0":"FRA","NAME_0":"France","GID_1":"FRA.10_1","NAME_1":"Nouvelle-Aquitaine","GID_2":"FRA.10.11_1","NAME_2":"Pyrénées-Atlantiques","GID_3":"FRA.10.11.2_1","NAME_3":"Oloron-Sainte-Marie","GID_4":"FRA.10.11.2.9_1","NAME_4":"Oloron-Sainte-Marie-Est","GID_5":"FRA.10.11.2.9.6_1","NAME_5":"Estos","TYPE_5":"Commune simple","ENGTYPE_5":"Commune","CC_5":""}}
+]}

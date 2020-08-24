@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[120.40492248535156,17.552070617675724],[120.40865325927746,17.553989410400447],[120.41488647460938,17.55468940734869],[120.40675354003918,17.55719947814947],[120.40492248535156,17.552070617675724]]]},"properties":{"GID_0":"PHL","NAME_0":"Philippines","GID_1":"PHL.35_1","NAME_1":"Ilocos Sur","NL_NAME_1":"","GID_2":"PHL.35.34_1","NAME_2":"Vigan City","NL_NAME_2":"","GID_3":"PHL.35.34.15_1","NAME_3":"Bongtolan","VARNAME_3":"","NL_NAME_3":"","TYPE_3":"Barangay","ENGTYPE_3":"Village","CC_3":"","HASC_3":""}}
+]}

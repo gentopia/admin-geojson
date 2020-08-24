@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[5.009721279144287,47.12459945678722],[4.979372501373234,47.13679504394531],[4.965355396270866,47.12084960937506],[4.986843585968131,47.115356445312614],[5.009721279144287,47.12459945678722]]]},"properties":{"GID_0":"FRA","NAME_0":"France","GID_1":"FRA.2_1","NAME_1":"Bourgogne-Franche-Comté","GID_2":"FRA.2.1_1","NAME_2":"Côte-d'Or","GID_3":"FRA.2.1.1_1","NAME_3":"Beaune","GID_4":"FRA.2.1.1.8_1","NAME_4":"Nuits-Saint-Georges","GID_5":"FRA.2.1.1.8.1_1","NAME_5":"Agencourt","TYPE_5":"Commune simple","ENGTYPE_5":"Commune","CC_5":""}}
+]}

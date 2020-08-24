@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[5.597105503082275,48.834716796875],[5.600898265838737,48.832603454589844],[5.594927787780875,48.817543029785156],[5.613070964813232,48.80707931518566],[5.6494488716126625,48.819210052490234],[5.624021530151481,48.82001113891607],[5.611825466155949,48.831169128418026],[5.597105503082275,48.834716796875]]]},"properties":{"GID_0":"FRA","NAME_0":"France","GID_1":"FRA.6_1","NAME_1":"Grand Est","GID_2":"FRA.6.8_1","NAME_2":"Meuse","GID_3":"FRA.6.8.2_1","NAME_3":"Commercy","GID_4":"FRA.6.8.2.1_1","NAME_4":"Commercy","GID_5":"FRA.6.8.2.1.17_1","NAME_5":"Saint-Julien-sous-les-Côtes","TYPE_5":"Commune simple","ENGTYPE_5":"Commune","CC_5":""}}
+]}

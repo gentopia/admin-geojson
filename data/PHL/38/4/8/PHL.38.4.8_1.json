@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[121.37359619140636,17.50400924682623],[121.37130737304699,17.558780670166072],[121.34832000732422,17.557369232177734],[121.35060119628906,17.512340545654297],[121.35159301757812,17.497680664062614],[121.37359619140636,17.50400924682623]]]},"properties":{"GID_0":"PHL","NAME_0":"Philippines","GID_1":"PHL.38_1","NAME_1":"Kalinga","NL_NAME_1":"","GID_2":"PHL.38.4_1","NAME_2":"Pinukpuk","NL_NAME_2":"","GID_3":"PHL.38.4.8_1","NAME_3":"Bayao","VARNAME_3":"","NL_NAME_3":"","TYPE_3":"Barangay","ENGTYPE_3":"Village","CC_3":"","HASC_3":""}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[4.597522735595703,49.6272544860841],[4.62565803527832,49.63092803955084],[4.629947662353516,49.660530090332145],[4.609050750732536,49.66701889038086],[4.590389251709098,49.62744903564453],[4.597522735595703,49.6272544860841]]]},"properties":{"GID_0":"FRA","NAME_0":"France","GID_1":"FRA.6_1","NAME_1":"Grand Est","GID_2":"FRA.6.1_1","NAME_2":"Ardennes","GID_3":"FRA.6.1.1_1","NAME_3":"Charleville-Mézières","GID_4":"FRA.6.1.1.11_1","NAME_4":"Omont","GID_5":"FRA.6.1.1.11.6_1","NAME_5":"Montigny-sur-Vence","TYPE_5":"Commune simple","ENGTYPE_5":"Commune","CC_5":""}}
+]}

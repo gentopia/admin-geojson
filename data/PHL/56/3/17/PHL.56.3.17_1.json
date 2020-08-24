@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[121.04837799072277,16.210760116577262],[121.02760314941418,16.241859436035213],[121.00022888183594,16.228130340576172],[121.05370330810558,16.19886970520014],[121.04837799072277,16.210760116577262]]]},"properties":{"GID_0":"PHL","NAME_0":"Philippines","GID_1":"PHL.56_1","NAME_1":"Nueva Vizcaya","NL_NAME_1":"","GID_2":"PHL.56.3_1","NAME_2":"Aritao","NL_NAME_2":"","GID_3":"PHL.56.3.17_1","NAME_3":"Ocao-Capiniaan","VARNAME_3":"","NL_NAME_3":"","TYPE_3":"Barangay","ENGTYPE_3":"Village","CC_3":"","HASC_3":""}}
+]}

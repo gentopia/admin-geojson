@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[124.18048095703125,13.990449905395565],[124.235107421875,14.013099670410213],[124.20295715332043,14.0277099609375],[124.18048095703125,13.990449905395565]]]},"properties":{"GID_0":"PHL","NAME_0":"Philippines","GID_1":"PHL.23_1","NAME_1":"Catanduanes","NL_NAME_1":"","GID_2":"PHL.23.6_1","NAME_2":"Pandan","NL_NAME_2":"","GID_3":"PHL.23.6.20_1","NAME_3":"San Isidro","VARNAME_3":"Langob","NL_NAME_3":"","TYPE_3":"Barangay","ENGTYPE_3":"Village","CC_3":"","HASC_3":""}}
+]}

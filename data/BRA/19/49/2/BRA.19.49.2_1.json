@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[-43.41061782836914,-22.791936874389535],[-43.39655303955078,-22.77740478515625],[-43.41632461547846,-22.764825820922795],[-43.42337036132807,-22.764404296874943],[-43.429927825927734,-22.769441604614258],[-43.42716598510742,-22.773607254028263],[-43.41061782836914,-22.791936874389535]]]},"properties":{"GID_0":"BRA","NAME_0":"Brazil","GID_1":"BRA.19_1","NAME_1":"Rio de Janeiro","NL_NAME_1":"","GID_2":"BRA.19.49_1","NAME_2":"Nova Iguaçu","NL_NAME_2":"","GID_3":"BRA.19.49.2_1","NAME_3":"Banco de Areia","VARNAME_3":"","NL_NAME_3":"","TYPE_3":"Distrito","ENGTYPE_3":"District","CC_3":"","HASC_3":""}}
+]}

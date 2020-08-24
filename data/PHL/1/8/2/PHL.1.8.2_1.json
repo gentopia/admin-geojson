@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[120.67098236083984,17.639759063720703],[120.68937683105491,17.659139633178768],[120.67968750000011,17.664970397949332],[120.66464233398449,17.649660110473633],[120.67098236083984,17.639759063720703]]]},"properties":{"GID_0":"PHL","NAME_0":"Philippines","GID_1":"PHL.1_1","NAME_1":"Abra","NL_NAME_1":"","GID_2":"PHL.1.8_1","NAME_2":"La Paz","NL_NAME_2":"","GID_3":"PHL.1.8.2_1","NAME_3":"Bulbulala","VARNAME_3":"","NL_NAME_3":"","TYPE_3":"Barangay","ENGTYPE_3":"Village","CC_3":"","HASC_3":""}}
+]}

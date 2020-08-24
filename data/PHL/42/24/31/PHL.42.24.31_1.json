@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[124.0737075805664,7.644269943237418],[124.08305358886719,7.654399871826172],[124.07449340820312,7.662079811096305],[124.07200622558594,7.663879871368522],[124.0611572265625,7.658440113067627],[124.0737075805664,7.644269943237418]]]},"properties":{"GID_0":"PHL","NAME_0":"Philippines","GID_1":"PHL.42_1","NAME_1":"Lanao del Sur","NL_NAME_1":"","GID_2":"PHL.42.24_1","NAME_2":"Malabang","NL_NAME_2":"","GID_3":"PHL.42.24.31_1","NAME_3":"Rebocun","VARNAME_3":"","NL_NAME_3":"","TYPE_3":"Barangay","ENGTYPE_3":"Village","CC_3":"","HASC_3":""}}
+]}

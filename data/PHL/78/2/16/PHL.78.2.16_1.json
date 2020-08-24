@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[120.05639648437511,15.161239624023438],[120.06816864013683,15.162520408630314],[120.0684814453125,15.169440269470215],[120.05549621582031,15.16781997680664],[120.05639648437511,15.161239624023438]]]},"properties":{"GID_0":"PHL","NAME_0":"Philippines","GID_1":"PHL.78_1","NAME_1":"Zambales","NL_NAME_1":"","GID_2":"PHL.78.2_1","NAME_2":"Cabangan","NL_NAME_2":"","GID_3":"PHL.78.2.16_1","NAME_3":"San Antonio","VARNAME_3":"","NL_NAME_3":"","TYPE_3":"Barangay","ENGTYPE_3":"Village","CC_3":"","HASC_3":""}}
+]}

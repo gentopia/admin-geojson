@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[125.94850921630882,8.517760276794434],[125.98367309570324,8.537750244140568],[125.9759521484375,8.551520347595215],[125.9434814453125,8.533390045166072],[125.94850921630882,8.517760276794434]]]},"properties":{"GID_0":"PHL","NAME_0":"Philippines","GID_1":"PHL.3_1","NAME_1":"Agusan del Sur","NL_NAME_1":"","GID_2":"PHL.3.8_1","NAME_2":"San Francisco","NL_NAME_2":"","GID_3":"PHL.3.8.23_1","NAME_3":"Pisa-An","VARNAME_3":"","NL_NAME_3":"","TYPE_3":"Barangay","ENGTYPE_3":"Village","CC_3":"","HASC_3":""}}
+]}

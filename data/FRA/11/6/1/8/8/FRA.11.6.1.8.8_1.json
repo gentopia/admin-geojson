@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[1.372233271598816,43.485630035400334],[1.3841140270234291,43.489894866943416],[1.3924224376679035,43.4871444702149],[1.3884055614472572,43.495967864990234],[1.370010733604488,43.50473785400402],[1.356541633605957,43.49629211425787],[1.372233271598816,43.485630035400334]]]},"properties":{"GID_0":"FRA","NAME_0":"France","GID_1":"FRA.11_1","NAME_1":"Occitanie","GID_2":"FRA.11.6_1","NAME_2":"Haute-Garonne","GID_3":"FRA.11.6.1_1","NAME_3":"Muret","GID_4":"FRA.11.6.1.8_1","NAME_4":"Portet-sur-Garonne","GID_5":"FRA.11.6.1.8.8_1","NAME_5":"Roquettes","TYPE_5":"Commune simple","ENGTYPE_5":"Commune","CC_5":""}}
+]}

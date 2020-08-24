@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[5.99870061874401,45.5449790954591],[5.9986829757691,45.55532455444336],[5.992889404296932,45.56467056274414],[5.973677635192985,45.55903625488281],[5.968379020690975,45.53601837158209],[5.969438076019401,45.534729003906364],[5.992409706115836,45.53985595703131],[5.99870061874401,45.5449790954591]]]},"properties":{"GID_0":"FRA","NAME_0":"France","GID_1":"FRA.1_1","NAME_1":"Auvergne-Rhône-Alpes","GID_2":"FRA.1.12_1","NAME_2":"Savoie","GID_3":"FRA.1.12.2_1","NAME_3":"Chambéry","GID_4":"FRA.1.12.2.10_1","NAME_4":"La Ravoire","GID_5":"FRA.1.12.2.10.2_1","NAME_5":"Challes-les-Eaux","TYPE_5":"Commune simple","ENGTYPE_5":"Commune","CC_5":""}}
+]}

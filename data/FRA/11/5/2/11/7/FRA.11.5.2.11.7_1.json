@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[0.3233085572720711,43.82345199584961],[0.33364009857189103,43.83791351318365],[0.33289584517484627,43.849060058593864],[0.334131300449485,43.855644226074276],[0.31151407957077026,43.85580062866222],[0.3135185837746235,43.83011627197271],[0.3233085572720711,43.82345199584961]]]},"properties":{"GID_0":"FRA","NAME_0":"France","GID_1":"FRA.11_1","NAME_1":"Occitanie","GID_2":"FRA.11.5_1","NAME_2":"Gers","GID_3":"FRA.11.5.2_1","NAME_3":"Condom","GID_4":"FRA.11.5.2.11_1","NAME_4":"Valence-sur-Baïse","GID_5":"FRA.11.5.2.11.7_1","NAME_5":"Lagardère","TYPE_5":"Commune simple","ENGTYPE_5":"Commune","CC_5":""}}
+]}

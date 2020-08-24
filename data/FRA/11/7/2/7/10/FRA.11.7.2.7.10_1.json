@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[0.575648784637508,42.99633026123047],[0.5540632009506794,43.000671386718864],[0.5458671450615498,43.003734588623104],[0.5420225262641907,43.00101852416992],[0.5689200758934021,42.991634368896484],[0.575648784637508,42.99633026123047]]]},"properties":{"GID_0":"FRA","NAME_0":"France","GID_1":"FRA.11_1","NAME_1":"Occitanie","GID_2":"FRA.11.7_1","NAME_2":"Hautes-Pyrénées","GID_3":"FRA.11.7.2_1","NAME_3":"Bagnères-de-Bigorre","GID_4":"FRA.11.7.2.7_1","NAME_4":"Mauléon-Barousse","GID_5":"FRA.11.7.2.7.10_1","NAME_5":"Gaudent","TYPE_5":"Commune simple","ENGTYPE_5":"Commune","CC_5":""}}
+]}

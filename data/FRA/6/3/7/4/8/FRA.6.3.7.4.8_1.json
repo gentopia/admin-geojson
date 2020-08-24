@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[7.892667770385742,49.01179885864258],[7.900344371795711,49.00389862060547],[7.923585414886475,49.02643203735363],[7.914921760559196,49.029697418213004],[7.894937038421631,49.026847839355526],[7.898423671722412,49.0173454284668],[7.892667770385742,49.01179885864258]]]},"properties":{"GID_0":"FRA","NAME_0":"France","GID_1":"FRA.6_1","NAME_1":"Grand Est","GID_2":"FRA.6.3_1","NAME_2":"Bas-Rhin","GID_3":"FRA.6.3.7_1","NAME_3":"Wissembourg","GID_4":"FRA.6.3.7.4_1","NAME_4":"Wissembourg","GID_5":"FRA.6.3.7.4.8_1","NAME_5":"Rott","TYPE_5":"Commune simple","ENGTYPE_5":"Commune","CC_5":""}}
+]}

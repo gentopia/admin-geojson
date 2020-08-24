@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[3.4089989662171547,50.36878967285156],[3.421873569488639,50.3540153503418],[3.4305686950683594,50.360000610351506],[3.442676067352295,50.36272430419922],[3.440232753753719,50.36901473999035],[3.430690765380973,50.37102508544933],[3.429722309112549,50.37763595581049],[3.4089989662171547,50.36878967285156]]]},"properties":{"GID_0":"FRA","NAME_0":"France","GID_1":"FRA.7_1","NAME_1":"Hauts-de-France","GID_2":"FRA.7.2_1","NAME_2":"Nord","GID_3":"FRA.7.2.6_1","NAME_3":"Valenciennes","GID_4":"FRA.7.2.6.9_1","NAME_4":"Valenciennes-Nord","GID_5":"FRA.7.2.6.9.2_1","NAME_5":"Bellaing","TYPE_5":"Commune simple","ENGTYPE_5":"Commune","CC_5":""}}
+]}

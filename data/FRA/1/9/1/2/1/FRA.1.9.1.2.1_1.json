@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[4.465222835540715,45.5765266418457],[4.463423728942985,45.579784393310604],[4.467813968658561,45.5857505798341],[4.474516868591252,45.59470748901373],[4.460840702056942,45.60100173950201],[4.452983379364014,45.59003448486334],[4.45161342620861,45.584270477295036],[4.465222835540715,45.5765266418457]]]},"properties":{"GID_0":"FRA","NAME_0":"France","GID_1":"FRA.1_1","NAME_1":"Auvergne-Rhône-Alpes","GID_2":"FRA.1.9_1","NAME_2":"Loire","GID_3":"FRA.1.9.1_1","NAME_3":"Montbrison","GID_4":"FRA.1.9.1.2_1","NAME_4":"Chazelles-sur-Lyon","GID_5":"FRA.1.9.1.2.1_1","NAME_5":"Châtelus","TYPE_5":"Commune simple","ENGTYPE_5":"Commune","CC_5":""}}
+]}

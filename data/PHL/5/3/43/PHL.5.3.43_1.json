@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[123.6719436645509,13.184089660644531],[123.66790771484386,13.185919761657829],[123.66716766357433,13.182330131530819],[123.66842651367188,13.178930282592773],[123.6719436645509,13.184089660644531]]]},"properties":{"GID_0":"PHL","NAME_0":"Philippines","GID_1":"PHL.5_1","NAME_1":"Albay","NL_NAME_1":"","GID_2":"PHL.5.3_1","NAME_2":"Camalig","NL_NAME_2":"","GID_3":"PHL.5.3.43_1","NAME_3":"Sumlang","VARNAME_3":"","NL_NAME_3":"","TYPE_3":"Barangay","ENGTYPE_3":"Village","CC_3":"","HASC_3":""}}
+]}

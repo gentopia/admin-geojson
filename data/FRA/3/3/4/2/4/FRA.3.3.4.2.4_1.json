@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[-1.8583210706710815,48.559997558593864],[-1.8391730785369873,48.56509399414068],[-1.8421684503555298,48.57530975341797],[-1.8500810861587524,48.57891845703119],[-1.869067430496159,48.58035659790039],[-1.8699127435684204,48.56856918334961],[-1.8583210706710815,48.559997558593864]]]},"properties":{"GID_0":"FRA","NAME_0":"France","GID_1":"FRA.3_1","NAME_1":"Bretagne","GID_2":"FRA.3.3_1","NAME_2":"Ille-et-Vilaine","GID_3":"FRA.3.3.4_1","NAME_3":"Saint-Malo","GID_4":"FRA.3.3.4.2_1","NAME_4":"Châteauneuf-d'Ille-et-Vilaine","GID_5":"FRA.3.3.4.2.4_1","NAME_5":"Lillemer","TYPE_5":"Commune simple","ENGTYPE_5":"Commune","CC_5":""}}
+]}

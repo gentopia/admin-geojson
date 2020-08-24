@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[124.15395355224621,7.892509937286434],[124.15841674804688,7.8843398094177815],[124.15886688232433,7.884759902954102],[124.15966796875011,7.885359764099178],[124.15574645996094,7.893249988555908],[124.15395355224621,7.892509937286434]]]},"properties":{"GID_0":"PHL","NAME_0":"Philippines","GID_1":"PHL.42_1","NAME_1":"Lanao del Sur","NL_NAME_1":"","GID_2":"PHL.42.41_1","NAME_2":"Tugaya","NL_NAME_2":"","GID_3":"PHL.42.41.7_1","NAME_3":"Dandanun","VARNAME_3":"","NL_NAME_3":"","TYPE_3":"Barangay","ENGTYPE_3":"Village","CC_3":"","HASC_3":""}}
+]}

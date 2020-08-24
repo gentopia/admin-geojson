@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[125.18218231201183,12.36015987396246],[125.16751861572277,12.34158992767334],[125.16322326660156,12.331660270690975],[125.20717620849621,12.326990127563477],[125.18218231201183,12.36015987396246]]]},"properties":{"GID_0":"PHL","NAME_0":"Philippines","GID_1":"PHL.31_1","NAME_1":"Eastern Samar","NL_NAME_1":"","GID_2":"PHL.31.11_1","NAME_2":"Jipapad","NL_NAME_2":"","GID_3":"PHL.31.11.1_1","NAME_3":"Agsaman","VARNAME_3":"","NL_NAME_3":"","TYPE_3":"Barangay","ENGTYPE_3":"Village","CC_3":"","HASC_3":""}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[124.92299652099621,10.905070304870605],[124.9219665527346,10.912010192871207],[124.91397857666027,10.908820152282715],[124.90025329589855,10.904680252075195],[124.89893341064464,10.895680427551326],[124.92299652099621,10.905070304870605]]]},"properties":{"GID_0":"PHL","NAME_0":"Philippines","GID_1":"PHL.43_1","NAME_1":"Leyte","NL_NAME_1":"","GID_2":"PHL.43.22_1","NAME_2":"La Paz","NL_NAME_2":"","GID_3":"PHL.43.22.29_1","NAME_3":"Quiong","VARNAME_3":"","NL_NAME_3":"","TYPE_3":"Barangay","ENGTYPE_3":"Village","CC_3":"","HASC_3":""}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[5.022182464599723,48.69042968750006],[5.006402015686092,48.698856353759766],[4.9906654357910725,48.69072341918957],[4.98842811584467,48.684429168701286],[5.007433891296444,48.68006896972656],[5.020404815673885,48.68450927734381],[5.022182464599723,48.69042968750006]]]},"properties":{"GID_0":"FRA","NAME_0":"France","GID_1":"FRA.6_1","NAME_1":"Grand Est","GID_2":"FRA.6.8_1","NAME_2":"Meuse","GID_3":"FRA.6.8.1_1","NAME_3":"Bar-le-Duc","GID_4":"FRA.6.8.1.1_1","NAME_4":"Ancerville","GID_5":"FRA.6.8.1.1.3_1","NAME_5":"Baudonvilliers","TYPE_5":"Commune simple","ENGTYPE_5":"Commune","CC_5":""}}
+]}

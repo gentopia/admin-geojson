@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[-1.381537914276123,49.55701446533203],[-1.3602511882781414,49.561977386474666],[-1.3622452020645142,49.571922302246094],[-1.3688029050827026,49.57709503173828],[-1.3763073682784466,49.575340270996094],[-1.3810771703720093,49.56733703613281],[-1.381537914276123,49.55701446533203]]]},"properties":{"GID_0":"FRA","NAME_0":"France","GID_1":"FRA.9_1","NAME_1":"Normandie","GID_2":"FRA.9.3_1","NAME_2":"Manche","GID_3":"FRA.9.3.2_1","NAME_3":"Cherbourg","GID_4":"FRA.9.3.2.9_1","NAME_4":"Quettehou","GID_5":"FRA.9.3.2.9.16_1","NAME_5":"Videcosville","TYPE_5":"Commune simple","ENGTYPE_5":"Commune","CC_5":""}}
+]}

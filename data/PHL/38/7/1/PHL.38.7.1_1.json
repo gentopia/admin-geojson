@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[121.33556365966797,17.322469711303768],[121.33586883544922,17.337280273437614],[121.28318786621105,17.336950302124023],[121.26007080078136,17.336399078369254],[121.26048278808605,17.32131004333496],[121.33556365966797,17.322469711303768]]]},"properties":{"GID_0":"PHL","NAME_0":"Philippines","GID_1":"PHL.38_1","NAME_1":"Kalinga","NL_NAME_1":"","GID_2":"PHL.38.7_1","NAME_2":"Tanudan","NL_NAME_2":"","GID_3":"PHL.38.7.1_1","NAME_3":"Anggacan","VARNAME_3":"","NL_NAME_3":"","TYPE_3":"Barangay","ENGTYPE_3":"Village","CC_3":"","HASC_3":""}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[-122.4555053710937,49.987697601318416],[-122.45611572265625,49.99169921875],[-122.4564208984375,49.99267578125],[-122.45739746093744,49.989929199218864],[-122.4564208984375,49.98907470703125],[-122.45561218261719,49.98783111572277],[-122.4555053710937,49.987697601318416]]]},"properties":{"GID_0":"CAN","NAME_0":"Canada","GID_1":"CAN.2_1","NAME_1":"British Columbia","NL_NAME_1":"","GID_2":"CAN.2.13_1","NAME_2":"Fraser Valley","NL_NAME_2":"","GID_3":"CAN.2.13.43_1","NAME_3":"Sachteen 2","VARNAME_3":"","NL_NAME_3":"","TYPE_3":"Réserve Indienne","ENGTYPE_3":"Indian Reserve","CC_3":"","HASC_3":""}}
+]}

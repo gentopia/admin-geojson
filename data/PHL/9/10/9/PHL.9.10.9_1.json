@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[122.22783660888695,6.599070072174186],[122.25134277343761,6.599740028381348],[122.24600219726574,6.613880157470817],[122.22222137451172,6.614550113677922],[122.22783660888695,6.599070072174186]]]},"properties":{"GID_0":"PHL","NAME_0":"Philippines","GID_1":"PHL.9_1","NAME_1":"Basilan","NL_NAME_1":"","GID_2":"PHL.9.10_1","NAME_2":"Tuburan","NL_NAME_2":"","GID_3":"PHL.9.10.9_1","NAME_3":"Sinulatan","VARNAME_3":"","NL_NAME_3":"","TYPE_3":"Barangay","ENGTYPE_3":"Village","CC_3":"","HASC_3":""}}
+]}

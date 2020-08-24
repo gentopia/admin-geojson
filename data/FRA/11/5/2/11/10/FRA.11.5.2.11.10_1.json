@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[0.4544437825679779,43.90227890014654],[0.4806768596172333,43.90013885498058],[0.4854718744754791,43.90549087524414],[0.47573170065885506,43.916225433349666],[0.4578486084938618,43.91670227050787],[0.45261934399616166,43.91162490844732],[0.4544437825679779,43.90227890014654]]]},"properties":{"GID_0":"FRA","NAME_0":"France","GID_1":"FRA.11_1","NAME_1":"Occitanie","GID_2":"FRA.11.5_1","NAME_2":"Gers","GID_3":"FRA.11.5.2_1","NAME_3":"Condom","GID_4":"FRA.11.5.2.11_1","NAME_4":"Valence-sur-Baïse","GID_5":"FRA.11.5.2.11.10_1","NAME_5":"Roquepine","TYPE_5":"Commune simple","ENGTYPE_5":"Commune","CC_5":""}}
+]}

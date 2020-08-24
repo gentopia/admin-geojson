@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[-124.89146423339838,54.57999038696295],[-124.89694213867188,54.57983779907232],[-124.89679718017572,54.57756805419922],[-124.8967514038086,54.57693862915045],[-124.89563751220703,54.5769157409668],[-124.8918685913086,54.57683181762707],[-124.89146423339838,54.57999038696295]]]},"properties":{"GID_0":"CAN","NAME_0":"Canada","GID_1":"CAN.2_1","NAME_1":"British Columbia","NL_NAME_1":"","GID_2":"CAN.2.2_1","NAME_2":"Bulkley-Nechako","NL_NAME_2":"","GID_3":"CAN.2.2.4_1","NAME_3":"Bihlk'a 6","VARNAME_3":"","NL_NAME_3":"","TYPE_3":"Réserve Indienne","ENGTYPE_3":"Indian Reserve","CC_3":"","HASC_3":""}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[121.0901870727539,6.0077900886535645],[121.09072113037121,6.016009807586784],[121.06707763671886,6.012110233306942],[121.06790161132812,6.0020699501038735],[121.0901870727539,6.0077900886535645]]]},"properties":{"GID_0":"PHL","NAME_0":"Philippines","GID_1":"PHL.73_1","NAME_1":"Sulu","NL_NAME_1":"","GID_2":"PHL.73.16_1","NAME_2":"Talipao","NL_NAME_2":"","GID_3":"PHL.73.16.30_1","NAME_3":"Lumbayao","VARNAME_3":"","NL_NAME_3":"","TYPE_3":"Barangay","ENGTYPE_3":"Village","CC_3":"","HASC_3":""}}
+]}

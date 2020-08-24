@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[121.16242980957043,14.52295970916748],[121.1551971435548,14.529789924621696],[121.15078735351574,14.525440216064453],[121.15926361083984,14.52011966705328],[121.16242980957043,14.52295970916748]]]},"properties":{"GID_0":"PHL","NAME_0":"Philippines","GID_1":"PHL.64_1","NAME_1":"Rizal","NL_NAME_1":"","GID_2":"PHL.64.1_1","NAME_2":"Angono","NL_NAME_2":"","GID_3":"PHL.64.1.7_1","NAME_3":"San Pedro","VARNAME_3":"","NL_NAME_3":"","TYPE_3":"Barangay","ENGTYPE_3":"Village","CC_3":"","HASC_3":""}}
+]}

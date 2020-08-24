@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[121.21602630615246,15.62001037597662],[121.21121978759788,15.635009765624943],[121.19503784179699,15.631629943847656],[121.18231964111328,15.62808990478527],[121.18385314941406,15.614009857177791],[121.21602630615246,15.62001037597662]]]},"properties":{"GID_0":"PHL","NAME_0":"Philippines","GID_1":"PHL.55_1","NAME_1":"Nueva Ecija","NL_NAME_1":"","GID_2":"PHL.55.2_1","NAME_2":"Bongabon","NL_NAME_2":"","GID_3":"PHL.55.2.1_1","NAME_3":"Antipolo","VARNAME_3":"","NL_NAME_3":"","TYPE_3":"Barangay","ENGTYPE_3":"Village","CC_3":"","HASC_3":""}}
+]}

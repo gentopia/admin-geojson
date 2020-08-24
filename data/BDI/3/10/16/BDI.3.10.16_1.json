@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[29.45286750793457,-3.5150630474090576],[29.45838165283203,-3.512887954711914],[29.46121788024908,-3.5096800327301025],[29.457660675048828,-3.509001970291081],[29.451164245605526,-3.511281967163029],[29.448833465576286,-3.5148379802703857],[29.45286750793457,-3.5150630474090576]]]},"properties":{"GID_0":"BDI","NAME_0":"Burundi","GID_1":"BDI.3_1","NAME_1":"Bujumbura Rural","GID_2":"BDI.3.10_1","NAME_2":"Mutambu","GID_3":"BDI.3.10.16_1","NAME_3":"Vumbiro","GID_4":"BDI.3.10.16.1_1","NAME_4":"Vumbiro","VARNAME_4":"","TYPE_4":"Sous Colline","ENGTYPE_4":"Sous Colline","CC_4":""}}
+]}

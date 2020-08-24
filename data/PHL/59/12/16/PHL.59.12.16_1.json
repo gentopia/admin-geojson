@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[119.52828216552734,10.454959869384766],[119.58772277832043,10.476059913635254],[119.56725311279297,10.514550209045353],[119.50994110107433,10.487299919128532],[119.52828216552734,10.454959869384766]]]},"properties":{"GID_0":"PHL","NAME_0":"Philippines","GID_1":"PHL.59_1","NAME_1":"Palawan","NL_NAME_1":"","GID_2":"PHL.59.12_1","NAME_2":"Dumaran","NL_NAME_2":"","GID_3":"PHL.59.12.16_1","NAME_3":"Tanatanaon","VARNAME_3":"","NL_NAME_3":"","TYPE_3":"Barangay","ENGTYPE_3":"Village","CC_3":"","HASC_3":""}}
+]}

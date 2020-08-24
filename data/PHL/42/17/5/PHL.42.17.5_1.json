@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[124.46247100830078,7.840680122375545],[124.46253967285168,7.848080158233586],[124.45333099365257,7.850719928741569],[124.45423889160156,7.83705997467041],[124.46283721923828,7.834410190582275],[124.46247100830078,7.840680122375545]]]},"properties":{"GID_0":"PHL","NAME_0":"Philippines","GID_1":"PHL.42_1","NAME_1":"Lanao del Sur","NL_NAME_1":"","GID_2":"PHL.42.17_1","NAME_2":"Lumba-Bayabao","NL_NAME_2":"","GID_3":"PHL.42.17.5_1","NAME_3":"Baugan","VARNAME_3":"","NL_NAME_3":"","TYPE_3":"Barangay","ENGTYPE_3":"Village","CC_3":"","HASC_3":""}}
+]}

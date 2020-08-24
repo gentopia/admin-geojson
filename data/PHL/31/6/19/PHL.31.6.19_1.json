@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[125.32093048095703,12.069950103759766],[125.32894897460938,12.083729743957576],[125.31996154785156,12.09027004241949],[125.3064193725586,12.08137035369873],[125.3134536743164,12.07536983489996],[125.32093048095703,12.069950103759766]]]},"properties":{"GID_0":"PHL","NAME_0":"Philippines","GID_1":"PHL.31_1","NAME_1":"Eastern Samar","NL_NAME_1":"","GID_2":"PHL.31.6_1","NAME_2":"Dolores","NL_NAME_2":"","GID_3":"PHL.31.6.19_1","NAME_3":"Cabago-An","VARNAME_3":"","NL_NAME_3":"","TYPE_3":"Barangay","ENGTYPE_3":"Village","CC_3":"","HASC_3":""}}
+]}

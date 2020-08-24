@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[121.03433227539062,15.659489631652946],[121.03957366943371,15.667610168456974],[121.02596282958984,15.671770095825252],[121.00517272949219,15.660630226135254],[121.01260375976562,15.648909568786564],[121.03433227539062,15.659489631652946]]]},"properties":{"GID_0":"PHL","NAME_0":"Philippines","GID_1":"PHL.55_1","NAME_1":"Nueva Ecija","NL_NAME_1":"","GID_2":"PHL.55.15_1","NAME_2":"Llanera","NL_NAME_2":"","GID_3":"PHL.55.15.2_1","NAME_3":"Bagumbayan","VARNAME_3":"Poblacion","NL_NAME_3":"","TYPE_3":"Barangay","ENGTYPE_3":"Village","CC_3":"","HASC_3":""}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[5.641093730926514,48.48429489135748],[5.646495819091911,48.48616409301758],[5.61899375915533,48.5013160705567],[5.598907470703239,48.501857757568416],[5.60022687911993,48.49514007568371],[5.588396072387752,48.483715057373104],[5.590332508087215,48.47713851928722],[5.641093730926514,48.48429489135748]]]},"properties":{"GID_0":"FRA","NAME_0":"France","GID_1":"FRA.6_1","NAME_1":"Grand Est","GID_2":"FRA.6.8_1","NAME_2":"Meuse","GID_3":"FRA.6.8.2_1","NAME_3":"Commercy","GID_4":"FRA.6.8.2.2_1","NAME_4":"Gondrecourt-le-Château","GID_5":"FRA.6.8.2.2.18_1","NAME_5":"Vouthon-Bas","TYPE_5":"Commune simple","ENGTYPE_5":"Commune","CC_5":""}}
+]}

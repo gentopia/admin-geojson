@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[2.178356409072933,50.03475570678711],[2.168349504470939,50.04294204711914],[2.167049169540519,50.05676651000988],[2.136717319488639,50.045383453369084],[2.1390202045440674,50.03952407836914],[2.156257629394588,50.0294570922851],[2.178356409072933,50.03475570678711]]]},"properties":{"GID_0":"FRA","NAME_0":"France","GID_1":"FRA.7_1","NAME_1":"Hauts-de-France","GID_2":"FRA.7.5_1","NAME_2":"Somme","GID_3":"FRA.7.5.2_1","NAME_3":"Amiens","GID_4":"FRA.7.5.2.14_1","NAME_4":"Domart-en-Ponthieu","GID_5":"FRA.7.5.2.14.2_1","NAME_5":"Berteaucourt-les-Dames","TYPE_5":"Commune simple","ENGTYPE_5":"Commune","CC_5":""}}
+]}

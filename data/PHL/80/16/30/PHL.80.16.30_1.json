@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[123.27693176269543,8.032349586486816],[123.260986328125,8.014060020446834],[123.28485107421875,8.004400253296012],[123.29531860351562,8.023320198059082],[123.29103088378918,8.026040077209416],[123.27693176269543,8.032349586486816]]]},"properties":{"GID_0":"PHL","NAME_0":"Philippines","GID_1":"PHL.80_1","NAME_1":"Zamboanga del Sur","NL_NAME_1":"","GID_2":"PHL.80.16_1","NAME_2":"Midsalip","NL_NAME_2":"","GID_3":"PHL.80.16.30_1","NAME_3":"Sigapod","VARNAME_3":"","NL_NAME_3":"","TYPE_3":"Barangay","ENGTYPE_3":"Village","CC_3":"","HASC_3":""}}
+]}

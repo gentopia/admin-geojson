@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[3.788658618927059,49.469505310058594],[3.7935876846314613,49.48058319091797],[3.7979891300201984,49.48152542114269],[3.7815487384796143,49.48991775512707],[3.7706434726715656,49.485870361328125],[3.7662038803101154,49.47680282592768],[3.788658618927059,49.469505310058594]]]},"properties":{"GID_0":"FRA","NAME_0":"France","GID_1":"FRA.7_1","NAME_1":"Hauts-de-France","GID_2":"FRA.7.1_1","NAME_2":"Aisne","GID_3":"FRA.7.1.2_1","NAME_3":"Laon","GID_4":"FRA.7.1.2.4_1","NAME_4":"Craonne","GID_5":"FRA.7.1.2.4.31_1","NAME_5":"Sainte-Croix","TYPE_5":"Commune simple","ENGTYPE_5":"Commune","CC_5":""}}
+]}

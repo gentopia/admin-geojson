@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[-40.84731292724604,-11.774067878723145],[-40.93937683105469,-11.850899696350098],[-40.97906494140625,-11.884024620056039],[-40.883438110351506,-11.981293678283691],[-40.84731292724604,-11.774067878723145]]]},"properties":{"GID_0":"BRA","NAME_0":"Brazil","GID_1":"BRA.5_1","NAME_1":"Bahia","NL_NAME_1":"","GID_2":"BRA.5.387_1","NAME_2":"Tapiramutá","NL_NAME_2":"","GID_3":"BRA.5.387.2_1","NAME_3":"Volta Grande","VARNAME_3":"","NL_NAME_3":"","TYPE_3":"Distrito","ENGTYPE_3":"District","CC_3":"","HASC_3":""}}
+]}

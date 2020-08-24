@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[3.8249688148499104,50.268096923828125],[3.841928243637085,50.27363204956066],[3.8329727649689858,50.284538269043026],[3.8080673217774574,50.289634704589844],[3.814162015914917,50.27732086181646],[3.8218119144439697,50.26607131958008],[3.8249688148499104,50.268096923828125]]]},"properties":{"GID_0":"FRA","NAME_0":"France","GID_1":"FRA.7_1","NAME_1":"Hauts-de-France","GID_2":"FRA.7.2_1","NAME_2":"Nord","GID_3":"FRA.7.2.1_1","NAME_3":"Avesnes-sur-Helpe","GID_4":"FRA.7.2.1.4_1","NAME_4":"Bavay","GID_5":"FRA.7.2.1.4.2_1","NAME_5":"Audignies","TYPE_5":"Commune simple","ENGTYPE_5":"Commune","CC_5":""}}
+]}

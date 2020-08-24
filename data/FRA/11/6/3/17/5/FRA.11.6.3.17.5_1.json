@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[1.5225579738617512,43.65469741821295],[1.5350521802903359,43.65226364135748],[1.5447165966034504,43.65678787231451],[1.529638648033199,43.673423767089844],[1.5122263431549072,43.6745338439942],[1.5057313442231361,43.66969299316412],[1.5225579738617512,43.65469741821295]]]},"properties":{"GID_0":"FRA","NAME_0":"France","GID_1":"FRA.11_1","NAME_1":"Occitanie","GID_2":"FRA.11.6_1","NAME_2":"Haute-Garonne","GID_3":"FRA.11.6.3_1","NAME_3":"Toulouse","GID_4":"FRA.11.6.3.17_1","NAME_4":"Toulouse 15e  Canton","GID_5":"FRA.11.6.3.17.5_1","NAME_5":"Rouffiac-Tolosan","TYPE_5":"Commune simple","ENGTYPE_5":"Commune","CC_5":""}}
+]}

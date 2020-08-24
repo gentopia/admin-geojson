@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[122.55725097656261,10.719849586486816],[122.55799102783203,10.719269752502441],[122.55870819091797,10.719969749450684],[122.55886840820312,10.720159530639648],[122.55811309814453,10.720849990844783],[122.55725097656261,10.719849586486816]]]},"properties":{"GID_0":"PHL","NAME_0":"Philippines","GID_1":"PHL.36_1","NAME_1":"Iloilo","NL_NAME_1":"","GID_2":"PHL.36.21_1","NAME_2":"Iloilo City","NL_NAME_2":"","GID_3":"PHL.36.21.47_1","NAME_3":"El 98 Castilla","VARNAME_3":"Claudio Lopez","NL_NAME_3":"","TYPE_3":"Barangay","ENGTYPE_3":"Village","CC_3":"","HASC_3":""}}
+]}

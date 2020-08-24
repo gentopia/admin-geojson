@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[3.315974950790462,45.38379669189459],[3.3123674392700195,45.392181396484375],[3.3003635406495277,45.389144897460994],[3.3076536655426025,45.380966186523494],[3.315974950790462,45.38379669189459]]]},"properties":{"GID_0":"FRA","NAME_0":"France","GID_1":"FRA.1_1","NAME_1":"Auvergne-Rhône-Alpes","GID_2":"FRA.1.6_1","NAME_2":"Haute-Loire","GID_3":"FRA.1.6.1_1","NAME_3":"Brioude","GID_4":"FRA.1.6.1.1_1","NAME_4":"Auzon","GID_5":"FRA.1.6.1.1.6_1","NAME_5":"Frugerès-les-Mines","TYPE_5":"Commune simple","ENGTYPE_5":"Commune","CC_5":""}}
+]}

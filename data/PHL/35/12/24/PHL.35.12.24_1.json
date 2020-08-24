@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[120.42507171630871,17.683460235595703],[120.42125701904308,17.68456077575695],[120.42211151123047,17.68240928649908],[120.42369842529308,17.681039810180778],[120.42484283447277,17.680679321289062],[120.42507171630871,17.683460235595703]]]},"properties":{"GID_0":"PHL","NAME_0":"Philippines","GID_1":"PHL.35_1","NAME_1":"Ilocos Sur","NL_NAME_1":"","GID_2":"PHL.35.12_1","NAME_2":"Magsingal","NL_NAME_2":"","GID_3":"PHL.35.12.24_1","NAME_3":"San Clemente","VARNAME_3":"Poblacion","NL_NAME_3":"","TYPE_3":"Barangay","ENGTYPE_3":"Village","CC_3":"","HASC_3":""}}
+]}

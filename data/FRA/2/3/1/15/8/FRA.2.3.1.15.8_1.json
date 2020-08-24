@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[6.14154767990118,47.80213928222662],[6.145458698272762,47.80858230590832],[6.1447796821595375,47.83327484130871],[6.126387119293213,47.82851409912121],[6.118539333343563,47.815814971923885],[6.124963283538818,47.79929733276367],[6.14154767990118,47.80213928222662]]]},"properties":{"GID_0":"FRA","NAME_0":"France","GID_1":"FRA.2_1","NAME_1":"Bourgogne-Franche-Comté","GID_2":"FRA.2.3_1","NAME_2":"Haute-Saône","GID_3":"FRA.2.3.1_1","NAME_3":"Lure","GID_4":"FRA.2.3.1.15_1","NAME_4":"Vauvillers","GID_5":"FRA.2.3.1.15.8_1","NAME_5":"Cubry-lès-Faverney","TYPE_5":"Commune simple","ENGTYPE_5":"Commune","CC_5":""}}
+]}

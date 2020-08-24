@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[124.13532257080078,7.7573800086976235],[124.13701629638672,7.772570133209285],[124.12313842773438,7.774290084838924],[124.12212371826172,7.765639781951961],[124.12165832519543,7.761650085449162],[124.13532257080078,7.7573800086976235]]]},"properties":{"GID_0":"PHL","NAME_0":"Philippines","GID_1":"PHL.42_1","NAME_1":"Lanao del Sur","NL_NAME_1":"","GID_2":"PHL.42.30_1","NAME_2":"Pagayawan","NL_NAME_2":"","GID_3":"PHL.42.30.18_1","NAME_3":"Rubokun","VARNAME_3":"","NL_NAME_3":"","TYPE_3":"Barangay","ENGTYPE_3":"Village","CC_3":"","HASC_3":""}}
+]}

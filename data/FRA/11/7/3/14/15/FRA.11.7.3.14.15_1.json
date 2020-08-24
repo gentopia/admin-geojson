@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[0.27297419309621773,43.29819869995117],[0.27682286500930786,43.30646896362316],[0.27983662486076355,43.31390762329113],[0.26810908317577287,43.32310867309582],[0.24528355896478615,43.30773162841808],[0.26428714394580766,43.292724609375],[0.27297419309621773,43.29819869995117]]]},"properties":{"GID_0":"FRA","NAME_0":"France","GID_1":"FRA.11_1","NAME_1":"Occitanie","GID_2":"FRA.11.7_1","NAME_2":"Hautes-Pyrénées","GID_3":"FRA.11.7.3_1","NAME_3":"Tarbes","GID_4":"FRA.11.7.3.14_1","NAME_4":"Trie-sur-Baïse","GID_5":"FRA.11.7.3.14.15_1","NAME_5":"Osmets","TYPE_5":"Commune simple","ENGTYPE_5":"Commune","CC_5":""}}
+]}

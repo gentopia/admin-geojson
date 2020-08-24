@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[4.87842321395874,44.490398406982536],[4.872174263000488,44.49961090087902],[4.878485679626408,44.51953887939453],[4.876974582672176,44.529727935791016],[4.840420246124268,44.53327941894531],[4.837286949157658,44.51203536987305],[4.841107368469238,44.49450302124029],[4.87842321395874,44.490398406982536]]]},"properties":{"GID_0":"FRA","NAME_0":"France","GID_1":"FRA.1_1","NAME_1":"Auvergne-Rhône-Alpes","GID_2":"FRA.1.5_1","NAME_2":"Drôme","GID_3":"FRA.1.5.2_1","NAME_3":"Nyons","GID_4":"FRA.1.5.2.6_1","NAME_4":"Montélimar  2e  Canton","GID_5":"FRA.1.5.2.6.9_1","NAME_5":"Rochefort-en-Valdaine","TYPE_5":"Commune simple","ENGTYPE_5":"Commune","CC_5":""}}
+]}

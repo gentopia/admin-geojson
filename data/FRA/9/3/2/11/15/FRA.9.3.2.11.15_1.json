@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[-1.4942181110381512,49.41382598876953],[-1.4847967624663738,49.41117095947271],[-1.4806565046310425,49.4054527282716],[-1.4650477170944214,49.40491485595709],[-1.4561197757720379,49.4085578918457],[-1.4699605703353882,49.41621017456055],[-1.4915022850036053,49.416385650634766],[-1.4942181110381512,49.41382598876953]]]},"properties":{"GID_0":"FRA","NAME_0":"France","GID_1":"FRA.9_1","NAME_1":"Normandie","GID_2":"FRA.9.3_1","NAME_2":"Manche","GID_3":"FRA.9.3.2_1","NAME_3":"Cherbourg","GID_4":"FRA.9.3.2.11_1","NAME_4":"Saint-Sauveur-le-Vicomte","GID_5":"FRA.9.3.2.11.15_1","NAME_5":"Reigneville-Bocage","TYPE_5":"Commune simple","ENGTYPE_5":"Commune","CC_5":""}}
+]}

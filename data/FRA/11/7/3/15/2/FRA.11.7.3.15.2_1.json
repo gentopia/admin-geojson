@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[0.09374872595083161,43.39495468139654],[0.09551452845346375,43.40228271484381],[0.08644463866954766,43.423889160156364],[0.08251909911638222,43.42457580566412],[0.06750469654804192,43.40339279174816],[0.07532593607908211,43.39502334594721],[0.09374872595083161,43.39495468139654]]]},"properties":{"GID_0":"FRA","NAME_0":"France","GID_1":"FRA.11_1","NAME_1":"Occitanie","GID_2":"FRA.11.7_1","NAME_2":"Hautes-Pyrénées","GID_3":"FRA.11.7.3_1","NAME_3":"Tarbes","GID_4":"FRA.11.7.3.15_1","NAME_4":"Vic-en-Bigorre","GID_5":"FRA.11.7.3.15.2_1","NAME_5":"Artagnan","TYPE_5":"Commune simple","ENGTYPE_5":"Commune","CC_5":""}}
+]}

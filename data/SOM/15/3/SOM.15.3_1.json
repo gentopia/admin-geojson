@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[44.180000305175724,1.4200010299682617],[44.380001068115234,1.5099990367890541],[44.50999832153326,1.6600010395051186],[43.88000106811529,1.8800009489059448],[43.58000183105469,1.7599999904633137],[44.180000305175724,1.4200010299682617]]]},"properties":{"GID_0":"SOM","NAME_0":"Somalia","GID_1":"SOM.15_1","NAME_1":"Shabeellaha Hoose","NL_NAME_1":"","GID_2":"SOM.15.3_1","NAME_2":"Kuntuwaaray","VARNAME_2":"Kurtunwaarey| Kurtun Warrey","NL_NAME_2":"","TYPE_2":"District","ENGTYPE_2":"District","CC_2":"","HASC_2":"SO.SH.KU"}}
+]}

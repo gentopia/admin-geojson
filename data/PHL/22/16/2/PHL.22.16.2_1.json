@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[122.70905303955078,11.453470230102596],[122.67987060546875,11.450570106506404],[122.67327880859386,11.43268013000494],[122.67861938476574,11.426609992980957],[122.68382263183594,11.436249732971191],[122.70905303955078,11.453470230102596]]]},"properties":{"GID_0":"PHL","NAME_0":"Philippines","GID_1":"PHL.22_1","NAME_1":"Capiz","NL_NAME_1":"","GID_2":"PHL.22.16_1","NAME_2":"Sigma","NL_NAME_2":"","GID_3":"PHL.22.16.2_1","NAME_3":"Amaga","VARNAME_3":"","NL_NAME_3":"","TYPE_3":"Barangay","ENGTYPE_3":"Village","CC_3":"","HASC_3":""}}
+]}

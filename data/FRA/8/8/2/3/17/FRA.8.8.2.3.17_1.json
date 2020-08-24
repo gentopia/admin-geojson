@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[1.8360379934311482,48.78104019165039],[1.8560473918914226,48.78095245361328],[1.8711690902709393,48.79917907714855],[1.8417552709579468,48.8006210327149],[1.8360379934311482,48.78104019165039]]]},"properties":{"GID_0":"FRA","NAME_0":"France","GID_1":"FRA.8_1","NAME_1":"Île-de-France","GID_2":"FRA.8.8_1","NAME_2":"Yvelines","GID_3":"FRA.8.8.2_1","NAME_3":"Rambouillet","GID_4":"FRA.8.8.2.3_1","NAME_4":"Montfort-l'Amaury","GID_5":"FRA.8.8.2.3.17_1","NAME_5":"Mareil-le-Guyon","TYPE_5":"Commune simple","ENGTYPE_5":"Commune","CC_5":""}}
+]}

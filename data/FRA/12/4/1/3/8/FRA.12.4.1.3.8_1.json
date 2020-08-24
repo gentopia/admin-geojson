@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[0.6502732038499062,47.7549285888673],[0.6511995196343605,47.75511932373058],[0.6749850511550903,47.76877593994146],[0.6690173745156471,47.78884506225586],[0.665347635746059,47.7911758422851],[0.6518004536629292,47.7872047424317],[0.6373509764671894,47.773208618164176],[0.6502732038499062,47.7549285888673]]]},"properties":{"GID_0":"FRA","NAME_0":"France","GID_1":"FRA.12_1","NAME_1":"Pays de la Loire","GID_2":"FRA.12.4_1","NAME_2":"Sarthe","GID_3":"FRA.12.4.1_1","NAME_3":"La Flèche","GID_4":"FRA.12.4.1.3_1","NAME_4":"La Chartre-sur-le-Loir","GID_5":"FRA.12.4.1.3.8_1","NAME_5":"Poncé-sur-le-Loir","TYPE_5":"Commune simple","ENGTYPE_5":"Commune","CC_5":""}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[-94.77462005615229,56.33343505859369],[-94.7747573852539,56.33352661132818],[-94.77501678466791,56.33349609375],[-94.77503204345703,56.33340072631836],[-94.77481079101557,56.33330535888672],[-94.77462005615229,56.33343505859369]]]},"properties":{"GID_0":"CAN","NAME_0":"Canada","GID_1":"CAN.3_1","NAME_1":"Manitoba","NL_NAME_1":"","GID_2":"CAN.3.15_1","NAME_2":"Division No. 23","NL_NAME_2":"","GID_3":"CAN.3.15.6_1","NAME_3":"Gillam","VARNAME_3":"","NL_NAME_3":"","TYPE_3":"Établissemnet Indien","ENGTYPE_3":"Indian Settlement","CC_3":"","HASC_3":""}}
+]}

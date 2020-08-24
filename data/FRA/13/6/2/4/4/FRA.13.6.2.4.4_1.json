@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[4.884374141693172,43.9819450378418],[4.883970737457275,43.95276641845709],[4.918015480041447,43.95389556884771],[4.913894653320369,43.95995330810547],[4.928947925567741,43.967647552490234],[4.911173820495719,43.993309020996094],[4.884374141693172,43.9819450378418]]]},"properties":{"GID_0":"FRA","NAME_0":"France","GID_1":"FRA.13_1","NAME_1":"Provence-Alpes-Côte d'Azur","GID_2":"FRA.13.6_1","NAME_2":"Vaucluse","GID_3":"FRA.13.6.2_1","NAME_3":"Avignon","GID_4":"FRA.13.6.2.4_1","NAME_4":"Bédarrides","GID_5":"FRA.13.6.2.4.4_1","NAME_5":"Vedène","TYPE_5":"Commune simple","ENGTYPE_5":"Commune","CC_5":""}}
+]}

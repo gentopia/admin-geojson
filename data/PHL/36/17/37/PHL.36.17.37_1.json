@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[122.66400909423828,10.83240032196045],[122.67717742919922,10.834699630737418],[122.68768310546875,10.841759681701717],[122.67839813232433,10.84873008728033],[122.66562652587902,10.843779563903809],[122.66400909423828,10.83240032196045]]]},"properties":{"GID_0":"PHL","NAME_0":"Philippines","GID_1":"PHL.36_1","NAME_1":"Iloilo","NL_NAME_1":"","GID_2":"PHL.36.17_1","NAME_2":"Dumangas","NL_NAME_2":"","GID_3":"PHL.36.17.37_1","NAME_3":"Pulao","VARNAME_3":"","NL_NAME_3":"","TYPE_3":"Barangay","ENGTYPE_3":"Village","CC_3":"","HASC_3":""}}
+]}

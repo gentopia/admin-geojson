@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[3.2659356594085125,49.338912963867244],[3.2478704452515785,49.343948364257756],[3.2315800189972492,49.33752059936535],[3.2341294288635822,49.32639312744152],[3.250718832016105,49.327072143554744],[3.265382766723633,49.338375091552734],[3.2659356594085125,49.338912963867244]]]},"properties":{"GID_0":"FRA","NAME_0":"France","GID_1":"FRA.7_1","NAME_1":"Hauts-de-France","GID_2":"FRA.7.1_1","NAME_2":"Aisne","GID_3":"FRA.7.1.4_1","NAME_3":"Soissons","GID_4":"FRA.7.1.4.4_1","NAME_4":"Soissons-Sud","GID_5":"FRA.7.1.4.4.6_1","NAME_5":"Missy-aux-Bois","TYPE_5":"Commune simple","ENGTYPE_5":"Commune","CC_5":""}}
+]}

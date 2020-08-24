@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[2.9361326694488525,49.47000503540045],[2.9104702472687336,49.46825408935558],[2.890398502349967,49.47108840942383],[2.8747112751008217,49.46801757812506],[2.8744380474091713,49.461273193359375],[2.912126779556388,49.45102691650396],[2.94159293174755,49.45878982543951],[2.9361326694488525,49.47000503540045]]]},"properties":{"GID_0":"FRA","NAME_0":"France","GID_1":"FRA.7_1","NAME_1":"Hauts-de-France","GID_2":"FRA.7.3_1","NAME_2":"Oise","GID_3":"FRA.7.3.3_1","NAME_3":"Compiègne","GID_4":"FRA.7.3.3.11_1","NAME_4":"Ribécourt-Dreslincourt","GID_5":"FRA.7.3.3.11.6_1","NAME_5":"Le Plessis-Brion","TYPE_5":"Commune simple","ENGTYPE_5":"Commune","CC_5":""}}
+]}

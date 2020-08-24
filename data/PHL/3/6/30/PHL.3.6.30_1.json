@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[125.86612701416027,8.5701198577882],[125.86090087890625,8.562279701232967],[125.8797073364259,8.55547046661377],[125.88797760009766,8.564539909362736],[125.88329315185558,8.57221984863287],[125.87085723876953,8.576660156249943],[125.86612701416027,8.5701198577882]]]},"properties":{"GID_0":"PHL","NAME_0":"Philippines","GID_1":"PHL.3_1","NAME_1":"Agusan del Sur","NL_NAME_1":"","GID_2":"PHL.3.6_1","NAME_2":"Prosperidad","NL_NAME_2":"","GID_3":"PHL.3.6.30_1","NAME_3":"San Vicente","VARNAME_3":"","NL_NAME_3":"","TYPE_3":"Barangay","ENGTYPE_3":"Village","CC_3":"","HASC_3":""}}
+]}

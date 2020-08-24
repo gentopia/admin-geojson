@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[1.4202779531478882,42.98810577392578],[1.4372065067292397,42.9837379455567],[1.4482344388961792,42.989635467529354],[1.4511919021606445,42.99955749511719],[1.4239730834960938,42.995510101318416],[1.4174317121505169,42.99317169189459],[1.4202779531478882,42.98810577392578]]]},"properties":{"GID_0":"FRA","NAME_0":"France","GID_1":"FRA.11_1","NAME_1":"Occitanie","GID_2":"FRA.11.1_1","NAME_2":"Ariège","GID_3":"FRA.11.1.1_1","NAME_3":"Foix","GID_4":"FRA.11.1.1.4_1","NAME_4":"La Bastide-de-Sérou","GID_5":"FRA.11.1.1.4.11_1","NAME_5":"Nescus","TYPE_5":"Commune simple","ENGTYPE_5":"Commune","CC_5":""}}
+]}

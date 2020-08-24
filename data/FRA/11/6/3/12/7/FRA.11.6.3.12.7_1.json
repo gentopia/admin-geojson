@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[1.952508568763676,43.49044799804699],[1.9205701351165771,43.505142211914176],[1.9170792102814858,43.50147247314459],[1.9208700656892006,43.48983383178711],[1.9453903436661335,43.4816780090332],[1.951732277870235,43.48625564575195],[1.952508568763676,43.49044799804699]]]},"properties":{"GID_0":"FRA","NAME_0":"France","GID_1":"FRA.11_1","NAME_1":"Occitanie","GID_2":"FRA.11.6_1","NAME_2":"Haute-Garonne","GID_3":"FRA.11.6.3_1","NAME_3":"Toulouse","GID_4":"FRA.11.6.3.12_1","NAME_4":"Revel","GID_5":"FRA.11.6.3.12.7_1","NAME_5":"Nogaret","TYPE_5":"Commune simple","ENGTYPE_5":"Commune","CC_5":""}}
+]}

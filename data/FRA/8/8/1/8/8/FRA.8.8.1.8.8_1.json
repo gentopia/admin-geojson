@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[1.9070594310760498,49.01225662231451],[1.9149516820907024,49.01598739624018],[1.9194740056992714,49.014823913574276],[1.931983470916748,49.017490386963004],[1.9378021955490112,49.02177810668951],[1.912473678588924,49.04161071777355],[1.905083656311092,49.02556610107433],[1.9070594310760498,49.01225662231451]]]},"properties":{"GID_0":"FRA","NAME_0":"France","GID_1":"FRA.8_1","NAME_1":"Île-de-France","GID_2":"FRA.8.8_1","NAME_2":"Yvelines","GID_3":"FRA.8.8.1_1","NAME_3":"Mantes-la-Jolie","GID_4":"FRA.8.8.1.8_1","NAME_4":"Meulan-en-Yvelines","GID_5":"FRA.8.8.1.8.8_1","NAME_5":"Tessancourt-sur-Aubette","TYPE_5":"Commune simple","ENGTYPE_5":"Commune","CC_5":""}}
+]}

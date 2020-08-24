@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[1.454097032547054,43.00182723999029],[1.4670469760894775,42.99735641479492],[1.4765144586564247,42.99848937988287],[1.4831563234329792,43.00317764282232],[1.4822006225586506,43.01393127441412],[1.4608788490296547,43.01319885253912],[1.454097032547054,43.00182723999029]]]},"properties":{"GID_0":"FRA","NAME_0":"France","GID_1":"FRA.11_1","NAME_1":"Occitanie","GID_2":"FRA.11.1_1","NAME_2":"Ariège","GID_3":"FRA.11.1.1_1","NAME_3":"Foix","GID_4":"FRA.11.1.1.4_1","NAME_4":"La Bastide-de-Sérou","GID_5":"FRA.11.1.1.4.9_1","NAME_5":"Montels","TYPE_5":"Commune simple","ENGTYPE_5":"Commune","CC_5":""}}
+]}

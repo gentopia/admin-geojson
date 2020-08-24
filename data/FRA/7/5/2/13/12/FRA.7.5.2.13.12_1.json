@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[2.5657358169555664,49.99314117431646],[2.57708573341381,50.002197265625],[2.5772330760956947,50.011299133300895],[2.5630924701691242,50.01215362548828],[2.546231508255005,50.00696563720703],[2.5444192886353107,50.000778198242244],[2.5657358169555664,49.99314117431646]]]},"properties":{"GID_0":"FRA","NAME_0":"France","GID_1":"FRA.7_1","NAME_1":"Hauts-de-France","GID_2":"FRA.7.5_1","NAME_2":"Somme","GID_3":"FRA.7.5.2_1","NAME_3":"Amiens","GID_4":"FRA.7.5.2.13_1","NAME_4":"Corbie","GID_5":"FRA.7.5.2.13.12_1","NAME_5":"Hénencourt","TYPE_5":"Commune simple","ENGTYPE_5":"Commune","CC_5":""}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[1.9676877260208698,50.56137847900402],[1.960769414901847,50.56202697753906],[1.9507029056549072,50.55821990966797],[1.9536730051041218,50.540077209472656],[1.9733072519303505,50.54564285278332],[1.9751837253571125,50.55241775512695],[1.9676877260208698,50.56137847900402]]]},"properties":{"GID_0":"FRA","NAME_0":"France","GID_1":"FRA.7_1","NAME_1":"Hauts-de-France","GID_2":"FRA.7.4_1","NAME_2":"Pas-de-Calais","GID_3":"FRA.7.4.6_1","NAME_3":"Montreuil","GID_4":"FRA.7.4.6.6_1","NAME_4":"Hucqueliers","GID_5":"FRA.7.4.6.6.3_1","NAME_5":"Avesnes","TYPE_5":"Commune simple","ENGTYPE_5":"Commune","CC_5":""}}
+]}

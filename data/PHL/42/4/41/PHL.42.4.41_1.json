@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[124.18929290771484,7.7746901512146565],[124.19046020507812,7.776609897613525],[124.18919372558605,7.784470081329289],[124.18792724609375,7.784639835357723],[124.1877212524414,7.779210090637264],[124.18744659423851,7.775790214538688],[124.18929290771484,7.7746901512146565]]]},"properties":{"GID_0":"PHL","NAME_0":"Philippines","GID_1":"PHL.42_1","NAME_1":"Lanao del Sur","NL_NAME_1":"","GID_2":"PHL.42.4_1","NAME_2":"Bayang","NL_NAME_2":"","GID_3":"PHL.42.4.41_1","NAME_3":"Sultan Pandapatan","VARNAME_3":"","NL_NAME_3":"","TYPE_3":"Barangay","ENGTYPE_3":"Village","CC_3":"","HASC_3":""}}
+]}

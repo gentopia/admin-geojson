@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[-4.375428676605111,48.57773590087902],[-4.368699073791504,48.5884246826173],[-4.344343185424748,48.61491775512695],[-4.348862171173039,48.61604690551758],[-4.382974624633675,48.611091613769645],[-4.398034572601318,48.58650970458996],[-4.375428676605111,48.57773590087902]]]},"properties":{"GID_0":"FRA","NAME_0":"France","GID_1":"FRA.3_1","NAME_1":"Bretagne","GID_2":"FRA.3.2_1","NAME_2":"Finistère","GID_3":"FRA.3.2.1_1","NAME_3":"Brest","GID_4":"FRA.3.2.1.9_1","NAME_4":"Lesneven","GID_5":"FRA.3.2.1.9.10_1","NAME_5":"Saint-Frégant","TYPE_5":"Commune simple","ENGTYPE_5":"Commune","CC_5":""}}
+]}

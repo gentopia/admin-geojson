@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[124.43315887451183,6.91572999954235],[124.44544219970703,6.926869869232178],[124.4423294067384,6.934559822082463],[124.44010162353516,6.932829856872615],[124.43879699707031,6.931670188903865],[124.42732238769531,6.92281007766735],[124.43315887451183,6.91572999954235]]]},"properties":{"GID_0":"PHL","NAME_0":"Philippines","GID_1":"PHL.44_1","NAME_1":"Maguindanao","NL_NAME_1":"","GID_2":"PHL.44.14_1","NAME_2":"Datu Unsay","NL_NAME_2":"","GID_3":"PHL.44.14.4_1","NAME_3":"Maitumaig","VARNAME_3":"","NL_NAME_3":"","TYPE_3":"Barangay","ENGTYPE_3":"Village","CC_3":"","HASC_3":""}}
+]}

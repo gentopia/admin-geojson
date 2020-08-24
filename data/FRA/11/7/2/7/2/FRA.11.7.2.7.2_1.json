@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[0.583749532699585,42.985786437988395],[0.5883985161781311,42.98392105102545],[0.5890173316003029,42.99438095092779],[0.5859228372573853,42.99716567993164],[0.5786785483361427,42.999797821045036],[0.5769274830819313,42.99652862548828],[0.583749532699585,42.985786437988395]]]},"properties":{"GID_0":"FRA","NAME_0":"France","GID_1":"FRA.11_1","NAME_1":"Occitanie","GID_2":"FRA.11.7_1","NAME_2":"Hautes-Pyrénées","GID_3":"FRA.11.7.2_1","NAME_3":"Bagnères-de-Bigorre","GID_4":"FRA.11.7.2.7_1","NAME_4":"Mauléon-Barousse","GID_5":"FRA.11.7.2.7.2_1","NAME_5":"Antichan","TYPE_5":"Commune simple","ENGTYPE_5":"Commune","CC_5":""}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[120.88044738769531,17.073379516601562],[120.8786087036134,17.06757926940918],[120.87738037109375,17.06179046630865],[120.87650299072277,17.056299209594783],[120.89742279052734,17.058900833129883],[120.89978027343761,17.068729400634766],[120.88044738769531,17.073379516601562]]]},"properties":{"GID_0":"PHL","NAME_0":"Philippines","GID_1":"PHL.50_1","NAME_1":"Mountain Province","NL_NAME_1":"","GID_2":"PHL.50.9_1","NAME_2":"Sagada","NL_NAME_2":"","GID_3":"PHL.50.9.8_1","NAME_3":"Demang","VARNAME_3":"Poblacion","NL_NAME_3":"","TYPE_3":"Barangay","ENGTYPE_3":"Village","CC_3":"","HASC_3":""}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[7.504997730255241,48.43545913696295],[7.494515419006348,48.43766021728521],[7.468640327453613,48.4346809387207],[7.461369037628231,48.4300651550293],[7.4624648094177815,48.42622756958002],[7.495491504669133,48.4247093200683],[7.504997730255241,48.43545913696295]]]},"properties":{"GID_0":"FRA","NAME_0":"France","GID_1":"FRA.6_1","NAME_1":"Grand Est","GID_2":"FRA.6.3_1","NAME_2":"Bas-Rhin","GID_3":"FRA.6.3.4_1","NAME_3":"Sélestat-Erstein","GID_4":"FRA.6.3.4.5_1","NAME_4":"Obernai","GID_5":"FRA.6.3.4.5.3_1","NAME_5":"Goxwiller","TYPE_5":"Commune simple","ENGTYPE_5":"Commune","CC_5":""}}
+]}

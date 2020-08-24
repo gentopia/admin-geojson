@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[5.188330650329647,43.86009216308605],[5.214590549469108,43.85609817504883],[5.2154912948609535,43.86616134643555],[5.198824882507267,43.87122344970703],[5.188330650329647,43.86009216308605]]]},"properties":{"GID_0":"FRA","NAME_0":"France","GID_1":"FRA.13_1","NAME_1":"Provence-Alpes-Côte d'Azur","GID_2":"FRA.13.6_1","NAME_2":"Vaucluse","GID_3":"FRA.13.6.1_1","NAME_3":"Apt","GID_4":"FRA.13.6.1.5_1","NAME_4":"Gordes","GID_5":"FRA.13.6.1.5.1_1","NAME_5":"Beaumettes","TYPE_5":"Commune simple","ENGTYPE_5":"Commune","CC_5":""}}
+]}

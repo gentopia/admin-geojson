@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[-123.49287414550781,49.412788391113395],[-123.49199676513672,49.41301727294922],[-123.49163818359375,49.41328811645502],[-123.49150085449219,49.41355133056652],[-123.49360656738281,49.413585662841854],[-123.49369049072266,49.41263961791998],[-123.49287414550781,49.412788391113395]]]},"properties":{"GID_0":"CAN","NAME_0":"Canada","GID_1":"CAN.2_1","NAME_1":"British Columbia","NL_NAME_1":"","GID_2":"CAN.2.27_1","NAME_2":"Sunshine Coast","NL_NAME_2":"","GID_3":"CAN.2.27.2_1","NAME_3":"Chekwelp 26A","VARNAME_3":"","NL_NAME_3":"","TYPE_3":"Réserve Indienne","ENGTYPE_3":"Indian Reserve","CC_3":"","HASC_3":""}}
+]}

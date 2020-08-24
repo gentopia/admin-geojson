@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[3.649921655655021,45.049057006835994],[3.6499903202056885,45.032001495361385],[3.6581058502197266,45.02888488769537],[3.6720075607299805,45.03187942504894],[3.678922176361141,45.03663635253906],[3.677134037017879,45.04314041137707],[3.649921655655021,45.049057006835994]]]},"properties":{"GID_0":"FRA","NAME_0":"France","GID_1":"FRA.1_1","NAME_1":"Auvergne-Rhône-Alpes","GID_2":"FRA.1.6_1","NAME_2":"Haute-Loire","GID_3":"FRA.1.6.2_1","NAME_3":"Le Puy-en-Velay","GID_4":"FRA.1.6.2.13_1","NAME_4":"Loudes","GID_5":"FRA.1.6.2.13.2_1","NAME_5":"Le Vernet","TYPE_5":"Commune simple","ENGTYPE_5":"Commune","CC_5":""}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[123.84092712402355,13.776180267334098],[123.86337280273438,13.778450012207031],[123.8648681640625,13.778639793396053],[123.86473083496116,13.794210433959961],[123.84007263183594,13.7887802124024],[123.84092712402355,13.776180267334098]]]},"properties":{"GID_0":"PHL","NAME_0":"Philippines","GID_1":"PHL.20_1","NAME_1":"Camarines Sur","NL_NAME_1":"","GID_2":"PHL.20.13_1","NAME_2":"Caramoan","NL_NAME_2":"","GID_3":"PHL.20.13.48_1","NAME_3":"Terogo","VARNAME_3":"","NL_NAME_3":"","TYPE_3":"Barangay","ENGTYPE_3":"Village","CC_3":"","HASC_3":""}}
+]}

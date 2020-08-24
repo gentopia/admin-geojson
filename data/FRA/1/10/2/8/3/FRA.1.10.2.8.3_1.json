@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[3.0891523361206055,45.81466293334972],[3.1212389469147297,45.81835174560558],[3.13775897026062,45.84811401367199],[3.084054946899471,45.84146499633795],[3.081778049469051,45.83525466918957],[3.0854854583740803,45.83337020874035],[3.0891523361206055,45.81466293334972]]]},"properties":{"GID_0":"FRA","NAME_0":"France","GID_1":"FRA.1_1","NAME_1":"Auvergne-Rhône-Alpes","GID_2":"FRA.1.10_1","NAME_2":"Puy-de-Dôme","GID_3":"FRA.1.10.2_1","NAME_3":"Clermont-Ferrand","GID_4":"FRA.1.10.2.8_1","NAME_4":"Gerzat","GID_5":"FRA.1.10.2.8.3_1","NAME_5":"Cébazat","TYPE_5":"Commune simple","ENGTYPE_5":"Commune","CC_5":""}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[120.81797027587902,17.02889060974121],[120.8270034790039,17.02969932556158],[120.82243347167969,17.04389953613287],[120.80812072753906,17.044700622558707],[120.80959320068371,17.033039093017578],[120.81797027587902,17.02889060974121]]]},"properties":{"GID_0":"PHL","NAME_0":"Philippines","GID_1":"PHL.50_1","NAME_1":"Mountain Province","NL_NAME_1":"","GID_2":"PHL.50.10_1","NAME_2":"Tadian","NL_NAME_2":"","GID_3":"PHL.50.10.15_1","NAME_3":"Masla","VARNAME_3":"","NL_NAME_3":"","TYPE_3":"Barangay","ENGTYPE_3":"Village","CC_3":"","HASC_3":""}}
+]}

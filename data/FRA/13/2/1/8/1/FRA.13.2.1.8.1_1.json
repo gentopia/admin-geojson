@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[6.929398536682186,43.61340713500988],[6.9291090965271,43.616596221923885],[6.915475845336914,43.62395477294933],[6.902492046356258,43.623413085937614],[6.894469738006535,43.611022949218864],[6.911990642547607,43.59833145141613],[6.9167194366456215,43.59878158569336],[6.929398536682186,43.61340713500988]]]},"properties":{"GID_0":"FRA","NAME_0":"France","GID_1":"FRA.13_1","NAME_1":"Provence-Alpes-Côte d'Azur","GID_2":"FRA.13.2_1","NAME_2":"Alpes-Maritimes","GID_3":"FRA.13.2.1_1","NAME_3":"Grasse","GID_4":"FRA.13.2.1.8_1","NAME_4":"Grasse-Sud","GID_5":"FRA.13.2.1.8.1_1","NAME_5":"Auribeau-sur-Siagne","TYPE_5":"Commune simple","ENGTYPE_5":"Commune","CC_5":""}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[2.61621189117443,48.924789428710994],[2.602598428726253,48.929355621338004],[2.592341661453247,48.92502212524414],[2.5890488624572754,48.909976959228516],[2.5923681259155273,48.9077033996582],[2.612488508224544,48.904335021972656],[2.61621189117443,48.924789428710994]]]},"properties":{"GID_0":"FRA","NAME_0":"France","GID_1":"FRA.8_1","NAME_1":"Île-de-France","GID_2":"FRA.8.4_1","NAME_2":"Seine-et-Marne","GID_3":"FRA.8.4.5_1","NAME_3":"Torcy","GID_4":"FRA.8.4.5.3_1","NAME_4":"Claye-Souilly","GID_5":"FRA.8.4.5.3.3_1","NAME_5":"Courtry","TYPE_5":"Commune simple","ENGTYPE_5":"Commune","CC_5":""}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[122.01622772216797,10.830590248108024],[122.00962829589844,10.822540283203239],[122.01818084716797,10.821539878845329],[122.02696228027344,10.823289871215877],[122.01892852783203,10.833930015564022],[122.01622772216797,10.830590248108024]]]},"properties":{"GID_0":"PHL","NAME_0":"Philippines","GID_1":"PHL.6_1","NAME_1":"Antique","NL_NAME_1":"","GID_2":"PHL.6.15_1","NAME_2":"Sibalom","NL_NAME_2":"","GID_3":"PHL.6.15.32_1","NAME_3":"Igdagmay","VARNAME_3":"","NL_NAME_3":"","TYPE_3":"Barangay","ENGTYPE_3":"Village","CC_3":"","HASC_3":""}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[3.902195930481014,43.67559432983393],[3.902144193649349,43.65497970581066],[3.9228155612946694,43.65489578247076],[3.926652193069458,43.66069412231457],[3.918931484222412,43.66851806640631],[3.902195930481014,43.67559432983393]]]},"properties":{"GID_0":"FRA","NAME_0":"France","GID_1":"FRA.11_1","NAME_1":"Occitanie","GID_2":"FRA.11.8_1","NAME_2":"Hérault","GID_3":"FRA.11.8.3_1","NAME_3":"Montpellier","GID_4":"FRA.11.8.3.2_1","NAME_4":"Castries","GID_5":"FRA.11.8.3.2.8_1","NAME_5":"Jacou","TYPE_5":"Commune simple","ENGTYPE_5":"Commune","CC_5":""}}
+]}

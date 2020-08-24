@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[7.347607135772705,48.219753265380916],[7.363074302673397,48.212749481201286],[7.377650260925293,48.214542388916016],[7.382845401763916,48.21945953369146],[7.36176061630249,48.22604370117199],[7.347607135772705,48.219753265380916]]]},"properties":{"GID_0":"FRA","NAME_0":"France","GID_1":"FRA.6_1","NAME_1":"Grand Est","GID_2":"FRA.6.4_1","NAME_2":"Haut-Rhin","GID_3":"FRA.6.4.5_1","NAME_3":"Ribeauvillé","GID_4":"FRA.6.4.5.3_1","NAME_4":"Ribeauvillé","GID_5":"FRA.6.4.5.3.8_1","NAME_5":"Rorschwihr","TYPE_5":"Commune simple","ENGTYPE_5":"Commune","CC_5":""}}
+]}

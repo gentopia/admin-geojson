@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[-51.99633026123041,-28.77561187744135],[-52.00302124023432,-28.774721145629883],[-52.0060920715332,-28.775455474853516],[-52.005821228027344,-28.786470413208008],[-51.99539566040028,-28.78666877746582],[-51.99633026123041,-28.77561187744135]]]},"properties":{"GID_0":"BRA","NAME_0":"Brazil","GID_1":"BRA.21_1","NAME_1":"Rio Grande do Sul","NL_NAME_1":"","GID_2":"BRA.21.442_1","NAME_2":"União da Serra","NL_NAME_2":"","GID_3":"BRA.21.442.3_1","NAME_3":"União da Serra","VARNAME_3":"","NL_NAME_3":"","TYPE_3":"Distrito","ENGTYPE_3":"District","CC_3":"","HASC_3":""}}
+]}

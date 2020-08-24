@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[2.416790962219352,49.242321014404354],[2.4373657703400795,49.23925399780279],[2.4418072700501057,49.24499893188488],[2.431131839752311,49.25178146362305],[2.4165384769440266,49.25252914428711],[2.416790962219352,49.242321014404354]]]},"properties":{"GID_0":"FRA","NAME_0":"France","GID_1":"FRA.7_1","NAME_1":"Hauts-de-France","GID_2":"FRA.7.3_1","NAME_2":"Oise","GID_3":"FRA.7.3.4_1","NAME_3":"Senlis","GID_4":"FRA.7.3.4.6_1","NAME_4":"Montataire","GID_5":"FRA.7.3.4.6.9_1","NAME_5":"Thiverny","TYPE_5":"Commune simple","ENGTYPE_5":"Commune","CC_5":""}}
+]}

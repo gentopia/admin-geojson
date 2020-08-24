@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[-0.06281756609678268,44.650257110595646],[-0.04694695025676765,44.631946563720646],[-0.04505186527961769,44.63190078735363],[-0.032146830111685176,44.63217163085949],[-0.027972310781478882,44.65827178955084],[-0.058461740612983704,44.66394424438488],[-0.06281756609678268,44.650257110595646]]]},"properties":{"GID_0":"FRA","NAME_0":"France","GID_1":"FRA.10_1","NAME_1":"Nouvelle-Aquitaine","GID_2":"FRA.10.7_1","NAME_2":"Gironde","GID_3":"FRA.10.7.4_1","NAME_3":"Langon","GID_4":"FRA.10.7.4.13_1","NAME_4":"Sauveterre-de-Guyenne","GID_5":"FRA.10.7.4.13.14_1","NAME_5":"Saint-Martin-de-Lerm","TYPE_5":"Commune simple","ENGTYPE_5":"Commune","CC_5":""}}
+]}

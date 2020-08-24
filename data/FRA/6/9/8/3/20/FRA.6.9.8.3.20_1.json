@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[6.3709077835084145,49.426883697509766],[6.38494873046875,49.43296813964855],[6.3821821212768555,49.43578720092768],[6.388939380645809,49.451675415039176],[6.371556758880672,49.45405960083019],[6.365287303924617,49.43689727783203],[6.3709077835084145,49.426883697509766]]]},"properties":{"GID_0":"FRA","NAME_0":"France","GID_1":"FRA.6_1","NAME_1":"Grand Est","GID_2":"FRA.6.9_1","NAME_2":"Moselle","GID_3":"FRA.6.9.8_1","NAME_3":"Thionville-Est","GID_4":"FRA.6.9.8.3_1","NAME_4":"Sierck-les-Bains","GID_5":"FRA.6.9.8.3.20_1","NAME_5":"Rustroff","TYPE_5":"Commune simple","ENGTYPE_5":"Commune","CC_5":""}}
+]}

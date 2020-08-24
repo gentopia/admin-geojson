@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[120.92993164062511,14.43017959594738],[120.92691802978516,14.434980392456112],[120.92603302001953,14.43445014953619],[120.92899322509777,14.430170059204045],[120.92962646484375,14.429220199585018],[120.92993164062511,14.43017959594738]]]},"properties":{"GID_0":"PHL","NAME_0":"Philippines","GID_1":"PHL.24_1","NAME_1":"Cavite","NL_NAME_1":"","GID_2":"PHL.24.10_1","NAME_2":"Imus","NL_NAME_2":"","GID_3":"PHL.24.10.58_1","NAME_3":"Medicion  I-C","VARNAME_3":"","NL_NAME_3":"","TYPE_3":"Barangay","ENGTYPE_3":"Village","CC_3":"","HASC_3":""}}
+]}

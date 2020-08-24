@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[55.4715576171875,25.343095779418945],[55.462547302246094,25.348485946655387],[55.45649719238281,25.340147018432617],[55.465335845947266,25.334407806396484],[55.4715576171875,25.343095779418945]]]},"properties":{"GID_0":"ARE","NAME_0":"United Arab Emirates","GID_1":"ARE.6_1","NAME_1":"Sharjah","NL_NAME_1":"الشارقة","GID_2":"ARE.6.52_1","NAME_2":"Al Yash","NL_NAME_2":"","GID_3":"ARE.6.52.1_1","NAME_3":"","VARNAME_3":"","NL_NAME_3":"","TYPE_3":"","ENGTYPE_3":"","CC_3":"","HASC_3":""}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[7.292163848876896,43.77764892578131],[7.316559314727897,43.784461975097656],[7.301766872406006,43.800960540771484],[7.301218509674072,43.823593139648494],[7.293006420135555,43.82181930541998],[7.285398006439323,43.81480789184582],[7.272428989410514,43.81596755981457],[7.292163848876896,43.77764892578131]]]},"properties":{"GID_0":"FRA","NAME_0":"France","GID_1":"FRA.13_1","NAME_1":"Provence-Alpes-Côte d'Azur","GID_2":"FRA.13.2_1","NAME_2":"Alpes-Maritimes","GID_3":"FRA.13.2.2_1","NAME_3":"Nice","GID_4":"FRA.13.2.2.3_1","NAME_4":"Contes","GID_5":"FRA.13.2.2.3.4_1","NAME_5":"Châteauneuf-Villevieille","TYPE_5":"Commune simple","ENGTYPE_5":"Commune","CC_5":""}}
+]}

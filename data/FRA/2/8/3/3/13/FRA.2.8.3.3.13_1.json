@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[3.213784694671631,48.24578857421881],[3.2329721450806232,48.234657287597656],[3.2472119331359863,48.24413299560558],[3.2425556182861897,48.25095367431646],[3.213784694671631,48.24578857421881]]]},"properties":{"GID_0":"FRA","NAME_0":"France","GID_1":"FRA.2_1","NAME_1":"Bourgogne-Franche-Comté","GID_2":"FRA.2.8_1","NAME_2":"Yonne","GID_3":"FRA.2.8.3_1","NAME_3":"Sens","GID_4":"FRA.2.8.3.3_1","NAME_4":"Pont-sur-Yonne","GID_5":"FRA.2.8.3.3.13_1","NAME_5":"Villenavotte","TYPE_5":"Commune simple","ENGTYPE_5":"Commune","CC_5":""}}
+]}

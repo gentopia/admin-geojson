@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[120.394287109375,16.58013916015625],[120.41078186035168,16.586200714111385],[120.41584014892578,16.59589958190918],[120.41969299316418,16.60511970520014],[120.40180969238293,16.602600097656193],[120.394287109375,16.58013916015625]]]},"properties":{"GID_0":"PHL","NAME_0":"Philippines","GID_1":"PHL.39_1","NAME_1":"La Union","NL_NAME_1":"","GID_2":"PHL.39.14_1","NAME_2":"San Fernando City","NL_NAME_2":"","GID_3":"PHL.39.14.43_1","NAME_3":"Pao Sur","VARNAME_3":"","NL_NAME_3":"","TYPE_3":"Barangay","ENGTYPE_3":"Village","CC_3":"","HASC_3":""}}
+]}

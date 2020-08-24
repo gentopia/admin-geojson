@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[120.0576171875,15.155119895935059],[120.06887817382812,15.156849861145076],[120.06816864013683,15.162520408630314],[120.05639648437511,15.161239624023438],[120.05692291259777,15.158419609069767],[120.0576171875,15.155119895935059]]]},"properties":{"GID_0":"PHL","NAME_0":"Philippines","GID_1":"PHL.78_1","NAME_1":"Zambales","NL_NAME_1":"","GID_2":"PHL.78.2_1","NAME_2":"Cabangan","NL_NAME_2":"","GID_3":"PHL.78.2.8_1","NAME_3":"Del Carmen","VARNAME_3":"Poblacion","NL_NAME_3":"","TYPE_3":"Barangay","ENGTYPE_3":"Village","CC_3":"","HASC_3":""}}
+]}

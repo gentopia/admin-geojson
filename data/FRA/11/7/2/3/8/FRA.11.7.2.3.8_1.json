@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[0.4215849339962574,42.819004058837834],[0.4214810431004139,42.82382583618164],[0.4091553688049885,42.8250465393067],[0.40999707579618416,42.817680358886776],[0.41825276613235474,42.815883636474666],[0.4215849339962574,42.819004058837834]]]},"properties":{"GID_0":"FRA","NAME_0":"France","GID_1":"FRA.11_1","NAME_1":"Occitanie","GID_2":"FRA.11.7_1","NAME_2":"Hautes-Pyrénées","GID_3":"FRA.11.7.2_1","NAME_3":"Bagnères-de-Bigorre","GID_4":"FRA.11.7.2.3_1","NAME_4":"Bordères-Louron","GID_5":"FRA.11.7.2.3.8_1","NAME_5":"Estarvielle","TYPE_5":"Commune simple","ENGTYPE_5":"Commune","CC_5":""}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[5.154479980468864,43.94167327880865],[5.124635696411133,43.931552886963004],[5.1061530113220215,43.911746978759766],[5.113705158233586,43.90753173828131],[5.127832889556885,43.90771484375006],[5.143178462982235,43.91546249389654],[5.154479980468864,43.94167327880865]]]},"properties":{"GID_0":"FRA","NAME_0":"France","GID_1":"FRA.13_1","NAME_1":"Provence-Alpes-Côte d'Azur","GID_2":"FRA.13.6_1","NAME_2":"Vaucluse","GID_3":"FRA.13.6.2_1","NAME_3":"Avignon","GID_4":"FRA.13.6.2.6_1","NAME_4":"L'Isle-sur-la-Sorgue","GID_5":"FRA.13.6.2.6.3_1","NAME_5":"Fontaine-de-Vaucluse","TYPE_5":"Commune simple","ENGTYPE_5":"Commune","CC_5":""}}
+]}

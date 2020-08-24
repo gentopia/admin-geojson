@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[124.83616638183605,10.321459770202637],[124.8434524536134,10.327719688415584],[124.84779357910168,10.33440971374523],[124.83386993408214,10.334730148315487],[124.83148956298828,10.321809768676758],[124.83616638183605,10.321459770202637]]]},"properties":{"GID_0":"PHL","NAME_0":"Philippines","GID_1":"PHL.43_1","NAME_1":"Leyte","NL_NAME_1":"","GID_2":"PHL.43.6_1","NAME_2":"Bato","NL_NAME_2":"","GID_3":"PHL.43.6.27_1","NAME_3":"San Agustin","VARNAME_3":"","NL_NAME_3":"","TYPE_3":"Barangay","ENGTYPE_3":"Village","CC_3":"","HASC_3":""}}
+]}

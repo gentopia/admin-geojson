@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[4.660417556762695,47.325847625732536],[4.638859272003231,47.331520080566406],[4.630880355835075,47.32828140258795],[4.626693248748779,47.31553649902344],[4.637697696685848,47.3108177185058],[4.659824848175106,47.31523895263683],[4.660417556762695,47.325847625732536]]]},"properties":{"GID_0":"FRA","NAME_0":"France","GID_1":"FRA.2_1","NAME_1":"Bourgogne-Franche-Comté","GID_2":"FRA.2.1_1","NAME_2":"Côte-d'Or","GID_3":"FRA.2.1.2_1","NAME_3":"Dijon","GID_4":"FRA.2.1.2.17_1","NAME_4":"Sombernon","GID_5":"FRA.2.1.2.17.21_1","NAME_5":"Saint-Anthot","TYPE_5":"Commune simple","ENGTYPE_5":"Commune","CC_5":""}}
+]}

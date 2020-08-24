@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[7.702625274658146,48.61607360839855],[7.689417839050407,48.6217041015625],[7.683256149291992,48.61938095092779],[7.688226222991943,48.61083984375006],[7.705402374267635,48.60585403442394],[7.701237201690674,48.61046218872082],[7.702625274658146,48.61607360839855]]]},"properties":{"GID_0":"FRA","NAME_0":"France","GID_1":"FRA.6_1","NAME_1":"Grand Est","GID_2":"FRA.6.3_1","NAME_2":"Bas-Rhin","GID_3":"FRA.6.3.5_1","NAME_3":"Strasbourg-Campagne","GID_4":"FRA.6.3.5.6_1","NAME_4":"Mundolsheim","GID_5":"FRA.6.3.5.6.7_1","NAME_5":"Mittelhausbergen","TYPE_5":"Commune simple","ENGTYPE_5":"Commune","CC_5":""}}
+]}

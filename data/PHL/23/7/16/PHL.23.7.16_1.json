@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[124.30055999755882,13.910730361938533],[124.29936218261719,13.91289043426525],[124.2961196899414,13.911319732666072],[124.2918930053711,13.91011047363287],[124.29086303710949,13.907819747924918],[124.30055999755882,13.910730361938533]]]},"properties":{"GID_0":"PHL","NAME_0":"Philippines","GID_1":"PHL.23_1","NAME_1":"Catanduanes","NL_NAME_1":"","GID_2":"PHL.23.7_1","NAME_2":"Panganiban","NL_NAME_2":"","GID_3":"PHL.23.7.16_1","NAME_3":"San Nicolas","VARNAME_3":"Poblacion","NL_NAME_3":"","TYPE_3":"Barangay","ENGTYPE_3":"Village","CC_3":"","HASC_3":""}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[-0.2055861800908474,45.8756675720216],[-0.20056648552417755,45.89387893676758],[-0.23051020503044128,45.90620422363281],[-0.24745854735368766,45.88776397705084],[-0.23503048717964248,45.87963104248041],[-0.2157537341117859,45.875007629394645],[-0.2055861800908474,45.8756675720216]]]},"properties":{"GID_0":"FRA","NAME_0":"France","GID_1":"FRA.10_1","NAME_1":"Nouvelle-Aquitaine","GID_2":"FRA.10.1_1","NAME_2":"Charente-Maritime","GID_3":"FRA.10.1.4_1","NAME_3":"Saint-Jean-d'Angély","GID_4":"FRA.10.1.4.3_1","NAME_4":"Matha","GID_5":"FRA.10.1.4.3.11_1","NAME_5":"Gourvillette","TYPE_5":"Commune simple","ENGTYPE_5":"Commune","CC_5":""}}
+]}

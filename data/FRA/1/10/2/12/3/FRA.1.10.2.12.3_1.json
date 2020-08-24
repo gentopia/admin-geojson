@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[3.0470976829529377,45.81914520263683],[3.0437519550324055,45.80635833740246],[3.044084072113094,45.803108215332145],[3.0578582286834717,45.80123138427746],[3.0743839740753174,45.8069305419923],[3.0669715404511066,45.820880889892635],[3.0470976829529377,45.81914520263683]]]},"properties":{"GID_0":"FRA","NAME_0":"France","GID_1":"FRA.1_1","NAME_1":"Auvergne-Rhône-Alpes","GID_2":"FRA.1.10_1","NAME_2":"Puy-de-Dôme","GID_3":"FRA.1.10.2_1","NAME_3":"Clermont-Ferrand","GID_4":"FRA.1.10.2.12_1","NAME_4":"Royat","GID_5":"FRA.1.10.2.12.3_1","NAME_5":"Nohanent","TYPE_5":"Commune simple","ENGTYPE_5":"Commune","CC_5":""}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[4.709626674652213,46.24902343750006],[4.743918895721549,46.24916839599615],[4.747803211212158,46.25127029418957],[4.7425990104674725,46.254604339599666],[4.734563827514705,46.2579612731933],[4.715515136718807,46.25838470458996],[4.709626674652213,46.24902343750006]]]},"properties":{"GID_0":"FRA","NAME_0":"France","GID_1":"FRA.2_1","NAME_1":"Bourgogne-Franche-Comté","GID_2":"FRA.2.6_1","NAME_2":"Saône-et-Loire","GID_3":"FRA.2.6.5_1","NAME_3":"Mâcon","GID_4":"FRA.2.6.5.2_1","NAME_4":"La Chapelle-de-Guinchay","GID_5":"FRA.2.6.5.2.11_1","NAME_5":"Saint-Vérand","TYPE_5":"Commune simple","ENGTYPE_5":"Commune","CC_5":""}}
+]}

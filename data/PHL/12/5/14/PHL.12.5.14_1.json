@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[121.05674743652355,13.7564697265625],[121.05890655517578,13.7560396194458],[121.05915832519531,13.75669002532959],[121.05877685546875,13.757069587707576],[121.0580062866211,13.757329940796012],[121.0569305419923,13.757379531860408],[121.05674743652355,13.7564697265625]]]},"properties":{"GID_0":"PHL","NAME_0":"Philippines","GID_1":"PHL.12_1","NAME_1":"Batangas","NL_NAME_1":"","GID_2":"PHL.12.5_1","NAME_2":"Batangas City","NL_NAME_2":"","GID_3":"PHL.12.5.14_1","NAME_3":"Barangay 15","VARNAME_3":"Poblacion","NL_NAME_3":"","TYPE_3":"Barangay","ENGTYPE_3":"Village","CC_3":"","HASC_3":""}}
+]}

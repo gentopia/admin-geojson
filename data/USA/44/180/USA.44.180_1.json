@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[-102.16246032714838,35.62031936645508],[-102.16239929199219,35.627719879150504],[-103.04088592529291,35.622451782226676],[-103.04209899902344,35.186050415039176],[-102.16758728027338,35.183151245117244],[-102.16246032714838,35.62031936645508]]]},"properties":{"GID_0":"USA","NAME_0":"United States","GID_1":"USA.44_1","NAME_1":"Texas","NL_NAME_1":"","GID_2":"USA.44.180_1","NAME_2":"Oldham","VARNAME_2":"","NL_NAME_2":"","TYPE_2":"County","ENGTYPE_2":"County","CC_2":"","HASC_2":"US.TX.OL"}}
+]}

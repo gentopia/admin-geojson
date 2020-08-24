@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[0.02594423294073067,43.169506072998104],[0.03739659115677796,43.159126281738395],[0.05082277208578034,43.16057586669922],[0.037736143916902165,43.17144775390625],[0.02594423294073067,43.169506072998104]]]},"properties":{"GID_0":"FRA","NAME_0":"France","GID_1":"FRA.11_1","NAME_1":"Occitanie","GID_2":"FRA.11.7_1","NAME_2":"Hautes-Pyrénées","GID_3":"FRA.11.7.3_1","NAME_3":"Tarbes","GID_4":"FRA.11.7.3.8_1","NAME_4":"Ossun","GID_5":"FRA.11.7.3.8.6_1","NAME_5":"Hibarette","TYPE_5":"Commune simple","ENGTYPE_5":"Commune","CC_5":""}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[123.17363739013672,7.808499813079891],[123.18093872070335,7.799399852752742],[123.20610046386719,7.800370216369743],[123.20564270019531,7.824649810791129],[123.17994689941406,7.822219848632869],[123.17363739013672,7.808499813079891]]]},"properties":{"GID_0":"PHL","NAME_0":"Philippines","GID_1":"PHL.80_1","NAME_1":"Zamboanga del Sur","NL_NAME_1":"","GID_2":"PHL.80.12_1","NAME_2":"Lakewood","NL_NAME_2":"","GID_3":"PHL.80.12.14_1","NAME_3":"Tubod","VARNAME_3":"","NL_NAME_3":"","TYPE_3":"Barangay","ENGTYPE_3":"Village","CC_3":"","HASC_3":""}}
+]}

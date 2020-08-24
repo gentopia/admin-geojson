@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[121.06865692138672,6.058819770813045],[121.07042694091797,6.065939903259334],[121.05349731445324,6.078239917755184],[121.05043792724632,6.065869808196965],[121.06256103515625,6.062839984893799],[121.06865692138672,6.058819770813045]]]},"properties":{"GID_0":"PHL","NAME_0":"Philippines","GID_1":"PHL.73_1","NAME_1":"Sulu","NL_NAME_1":"","GID_2":"PHL.73.14_1","NAME_2":"Patikul","NL_NAME_2":"","GID_3":"PHL.73.14.23_1","NAME_3":"Sandah","VARNAME_3":"","NL_NAME_3":"","TYPE_3":"Barangay","ENGTYPE_3":"Village","CC_3":"","HASC_3":""}}
+]}

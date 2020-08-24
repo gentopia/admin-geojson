@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[46.810817718505916,39.80367660522455],[46.81676483154297,39.8423423767091],[46.79816818237305,39.85680770874029],[46.75133132934582,39.84829330444347],[46.7334823608399,39.812599182128906],[46.7691764831543,39.788806915283146],[46.810817718505916,39.80367660522455]]]},"properties":{"GID_0":"AZE","NAME_0":"Azerbaijan","GID_1":"AZE.10_1","NAME_1":"Yukhari-Karabakh","NL_NAME_1":"","GID_2":"AZE.10.4_1","NAME_2":"Khankendi  (Nagorno-Karabakh)","VARNAME_2":"Khankendy","NL_NAME_2":"","TYPE_2":"City","ENGTYPE_2":"City","CC_2":"","HASC_2":"AZ.XA"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[1.0667463541031452,49.096416473388786],[1.050605297088623,49.1031608581543],[1.0381717681884766,49.099433898925724],[1.0234736204147907,49.09048843383795],[1.0429530143737793,49.076549530029354],[1.054511785507259,49.08265686035156],[1.0667463541031452,49.096416473388786]]]},"properties":{"GID_0":"FRA","NAME_0":"France","GID_1":"FRA.9_1","NAME_1":"Normandie","GID_2":"FRA.9.2_1","NAME_2":"Eure","GID_3":"FRA.9.2.2_1","NAME_3":"Évreux","GID_4":"FRA.9.2.2.5_1","NAME_4":"Évreux-Nord","GID_5":"FRA.9.2.2.5.2_1","NAME_5":"Bacquepuis","TYPE_5":"Commune simple","ENGTYPE_5":"Commune","CC_5":""}}
+]}

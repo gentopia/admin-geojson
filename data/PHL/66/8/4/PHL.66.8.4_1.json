@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[125.16438293457031,11.71695995330822],[125.16429901123047,11.718549728393668],[125.1635971069336,11.732029914856014],[125.06829071044933,11.711020469665527],[125.06790924072277,11.705690383911246],[125.16438293457031,11.71695995330822]]]},"properties":{"GID_0":"PHL","NAME_0":"Philippines","GID_1":"PHL.66_1","NAME_1":"Samar","NL_NAME_1":"","GID_2":"PHL.66.8_1","NAME_2":"Hinabangan","NL_NAME_2":"","GID_3":"PHL.66.8.4_1","NAME_3":"Cabalagnan","VARNAME_3":"","NL_NAME_3":"","TYPE_3":"Barangay","ENGTYPE_3":"Village","CC_3":"","HASC_3":""}}
+]}

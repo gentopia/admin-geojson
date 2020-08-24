@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[121.1915283203125,14.469940185546989],[121.19825744628929,14.471030235290584],[121.19700622558594,14.474749565124569],[121.19513702392578,14.479089736938533],[121.18977355957031,14.475640296936092],[121.1915283203125,14.469940185546989]]]},"properties":{"GID_0":"PHL","NAME_0":"Philippines","GID_1":"PHL.64_1","NAME_1":"Rizal","NL_NAME_1":"","GID_2":"PHL.64.4_1","NAME_2":"Binangonan","NL_NAME_2":"","GID_3":"PHL.64.4.19_1","NAME_3":"Layunan","VARNAME_3":"Poblacion","NL_NAME_3":"","TYPE_3":"Barangay","ENGTYPE_3":"Village","CC_3":"","HASC_3":""}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[112.56542205810558,-6.991090774536133],[112.56638336181652,-6.98863410949707],[112.56439208984375,-6.987987041473389],[112.56194305419922,-6.987362384796143],[112.56095886230469,-6.9894843101501465],[112.56542205810558,-6.991090774536133]]]},"properties":{"GID_0":"IDN","NAME_0":"Indonesia","GID_1":"IDN.11_1","NAME_1":"Jawa Timur","GID_2":"IDN.11.7_1","NAME_2":"Gresik","GID_3":"IDN.11.7.15_1","NAME_3":"Sidayu","GID_4":"IDN.11.7.15.11_1","NAME_4":"Pengulu","VARNAME_4":"","TYPE_4":"Desa","ENGTYPE_4":"Village","CC_4":"3525130015"}}
+]}

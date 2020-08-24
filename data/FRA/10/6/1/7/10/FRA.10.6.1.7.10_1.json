@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[0.6736446022987934,44.83826065063488],[0.6740632057189941,44.852302551269645],[0.6465251445770264,44.85162353515625],[0.6380675435066792,44.85430908203125],[0.6318099498749916,44.84534835815441],[0.6433748006821247,44.84160232543945],[0.6736446022987934,44.83826065063488]]]},"properties":{"GID_0":"FRA","NAME_0":"France","GID_1":"FRA.10_1","NAME_1":"Nouvelle-Aquitaine","GID_2":"FRA.10.6_1","NAME_2":"Dordogne","GID_3":"FRA.10.6.1_1","NAME_3":"Bergerac","GID_4":"FRA.10.6.1.7_1","NAME_4":"Lalinde","GID_5":"FRA.10.6.1.7.10_1","NAME_5":"Saint-Capraise-de-Lalinde","TYPE_5":"Commune simple","ENGTYPE_5":"Commune","CC_5":""}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[4.633527278900203,47.34519195556652],[4.613541126251221,47.35944366455084],[4.5994629859924885,47.35526275634771],[4.600018024444694,47.34500122070324],[4.636694431305045,47.33914184570307],[4.633527278900203,47.34519195556652]]]},"properties":{"GID_0":"FRA","NAME_0":"France","GID_1":"FRA.2_1","NAME_1":"Bourgogne-Franche-Comté","GID_2":"FRA.2.1_1","NAME_2":"Côte-d'Or","GID_3":"FRA.2.1.3_1","NAME_3":"Montbard","GID_4":"FRA.2.1.3.12_1","NAME_4":"Vitteaux","GID_5":"FRA.2.1.3.12.11_1","NAME_5":"Marcellois","TYPE_5":"Commune simple","ENGTYPE_5":"Commune","CC_5":""}}
+]}

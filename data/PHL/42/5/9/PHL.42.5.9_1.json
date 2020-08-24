@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[124.16475677490257,7.797200202942008],[124.16648101806652,7.796559810638541],[124.16710662841808,7.8010401725768475],[124.16580963134766,7.801700115203801],[124.16114807128918,7.802959918975887],[124.1601333618164,7.798439979553336],[124.16475677490257,7.797200202942008]]]},"properties":{"GID_0":"PHL","NAME_0":"Philippines","GID_1":"PHL.42_1","NAME_1":"Lanao del Sur","NL_NAME_1":"","GID_2":"PHL.42.5_1","NAME_2":"Binidayan","NL_NAME_2":"","GID_3":"PHL.42.5.9_1","NAME_3":"Kialilidan","VARNAME_3":"","NL_NAME_3":"","TYPE_3":"Barangay","ENGTYPE_3":"Village","CC_3":"","HASC_3":""}}
+]}

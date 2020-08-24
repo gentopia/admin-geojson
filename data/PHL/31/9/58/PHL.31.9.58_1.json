@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[125.71846008300781,11.058349609375],[125.72869873046875,11.062370300292969],[125.72754669189453,11.06424999237072],[125.7260513305664,11.067999839782829],[125.71700286865246,11.06048965454113],[125.71846008300781,11.058349609375]]]},"properties":{"GID_0":"PHL","NAME_0":"Philippines","GID_1":"PHL.31_1","NAME_1":"Eastern Samar","NL_NAME_1":"","GID_2":"PHL.31.9_1","NAME_2":"Guiuan","NL_NAME_2":"","GID_3":"PHL.31.9.58_1","NAME_3":"Timala","VARNAME_3":"","NL_NAME_3":"","TYPE_3":"Barangay","ENGTYPE_3":"Village","CC_3":"","HASC_3":""}}
+]}

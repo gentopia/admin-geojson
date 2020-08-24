@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[3.6475958824157715,49.315959930420036],[3.6628036499023438,49.31914901733404],[3.6691606044769856,49.324748992920036],[3.651796817779598,49.339382171630916],[3.633703231811637,49.32344055175787],[3.6475958824157715,49.315959930420036]]]},"properties":{"GID_0":"FRA","NAME_0":"France","GID_1":"FRA.7_1","NAME_1":"Hauts-de-France","GID_2":"FRA.7.1_1","NAME_2":"Aisne","GID_3":"FRA.7.1.4_1","NAME_3":"Soissons","GID_4":"FRA.7.1.4.1_1","NAME_4":"Braine","GID_5":"FRA.7.1.4.1.26_1","NAME_5":"Perles","TYPE_5":"Commune simple","ENGTYPE_5":"Commune","CC_5":""}}
+]}

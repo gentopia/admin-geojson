@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[0.8901853561401367,47.77240753173834],[0.8961265087127117,47.78192520141596],[0.8974896669388386,47.792049407958984],[0.8730818629264263,47.794994354248104],[0.8901853561401367,47.77240753173834]]]},"properties":{"GID_0":"FRA","NAME_0":"France","GID_1":"FRA.4_1","NAME_1":"Centre-Val de Loire","GID_2":"FRA.4.5_1","NAME_2":"Loir-et-Cher","GID_3":"FRA.4.5.3_1","NAME_3":"Vendôme","GID_4":"FRA.4.5.3.3_1","NAME_4":"Montoire-sur-le-Loir","GID_5":"FRA.4.5.3.3.7_1","NAME_5":"Les Roches-l'Évêque","TYPE_5":"Commune simple","ENGTYPE_5":"Commune","CC_5":""}}
+]}

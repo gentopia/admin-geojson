@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[1.7187284231186482,49.865707397460994],[1.7311185598373982,49.8710823059082],[1.725183010101432,49.87552261352545],[1.711814999580497,49.87416839599621],[1.7187284231186482,49.865707397460994]]]},"properties":{"GID_0":"FRA","NAME_0":"France","GID_1":"FRA.7_1","NAME_1":"Hauts-de-France","GID_2":"FRA.7.5_1","NAME_2":"Somme","GID_3":"FRA.7.5.1_1","NAME_3":"Abbeville","GID_4":"FRA.7.5.1.12_1","NAME_4":"Oisemont","GID_5":"FRA.7.5.1.12.26_1","NAME_5":"Saint-Léger-sur-Bresle","TYPE_5":"Commune simple","ENGTYPE_5":"Commune","CC_5":""}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[31.245615005493164,30.063493728637752],[31.252876281738338,30.067131042480582],[31.256462097168026,30.079509735107422],[31.24606513977062,30.08013916015625],[31.245615005493164,30.063493728637752]]]},"properties":{"GID_0":"EGY","NAME_0":"Egypt","GID_1":"EGY.11_1","NAME_1":"Al Qahirah","NL_NAME_1":"","GID_2":"EGY.11.38_1","NAME_2":"Shubra","VARNAME_2":"","NL_NAME_2":"","TYPE_2":"Kism","ENGTYPE_2":"Subdivision","CC_2":"","HASC_2":"EG.QH.SH"}}
+]}

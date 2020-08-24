@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[105.64959716796886,9.82743167877203],[105.69856262207037,9.835684776306096],[105.6889877319336,9.852847099304256],[105.66545867919916,9.894727706909237],[105.65002441406244,9.874368667602596],[105.64959716796886,9.82743167877203]]]},"properties":{"GID_0":"VNM","NAME_0":"Vietnam","GID_1":"VNM.24_1","NAME_1":"Hậu Giang","NL_NAME_1":"","GID_2":"VNM.24.6_1","NAME_2":"Phụng Hiệp","NL_NAME_2":"","GID_3":"VNM.24.6.1_1","NAME_3":"Bình Thành","VARNAME_3":"Binh Thanh","NL_NAME_3":"","TYPE_3":"Xã","ENGTYPE_3":"Ward","CC_3":"","HASC_3":""}}
+]}

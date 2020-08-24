@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[123.99411773681652,11.845319747924862],[124.00337219238281,11.85114955902111],[123.99391174316418,11.868880271911735],[123.98547363281261,11.860699653625488],[123.98056793212902,11.856180191040153],[123.99411773681652,11.845319747924862]]]},"properties":{"GID_0":"PHL","NAME_0":"Philippines","GID_1":"PHL.46_1","NAME_1":"Masbate","NL_NAME_1":"","GID_2":"PHL.46.9_1","NAME_2":"Esperanza","NL_NAME_2":"","GID_3":"PHL.46.9.18_1","NAME_3":"Tawad","VARNAME_3":"","NL_NAME_3":"","TYPE_3":"Barangay","ENGTYPE_3":"Village","CC_3":"","HASC_3":""}}
+]}

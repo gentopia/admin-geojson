@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[0.5747767090797993,42.79519271850586],[0.587989091873169,42.796779632568416],[0.5914153456688496,42.8093147277832],[0.5782976746559712,42.812717437744084],[0.5767215490341187,42.80831909179693],[0.5701649188996498,42.79593658447271],[0.5747767090797993,42.79519271850586]]]},"properties":{"GID_0":"FRA","NAME_0":"France","GID_1":"FRA.11_1","NAME_1":"Occitanie","GID_2":"FRA.11.6_1","NAME_2":"Haute-Garonne","GID_3":"FRA.11.6.2_1","NAME_3":"Saint-Gaudens","GID_4":"FRA.11.6.2.3_1","NAME_4":"Bagnères-de-Luchon","GID_5":"FRA.11.6.2.3.10_1","NAME_5":"Cazaril-Laspènes","TYPE_5":"Commune simple","ENGTYPE_5":"Commune","CC_5":""}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[-47.932365417480355,-15.851327896118164],[-47.93171310424805,-15.84483528137207],[-47.953506469726506,-15.84043121337885],[-47.95428848266596,-15.847826957702637],[-47.95877838134754,-15.875707626342773],[-47.934783935546875,-15.85994815826416],[-47.932365417480355,-15.851327896118164]]]},"properties":{"GID_0":"BRA","NAME_0":"Brazil","GID_1":"BRA.7_1","NAME_1":"Distrito Federal","NL_NAME_1":"","GID_2":"BRA.7.1_1","NAME_2":"Brasília","NL_NAME_2":"","GID_3":"BRA.7.1.3_1","NAME_3":"Candangolandia","VARNAME_3":"","NL_NAME_3":"","TYPE_3":"Distrito","ENGTYPE_3":"District","CC_3":"","HASC_3":""}}
+]}

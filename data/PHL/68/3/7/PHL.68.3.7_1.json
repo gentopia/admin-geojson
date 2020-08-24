@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[123.59922790527366,9.154040336609],[123.5814208984375,9.158960342407283],[123.58064270019531,9.157380104064998],[123.57415008544922,9.142620086670036],[123.59819030761719,9.139240264892521],[123.59922790527366,9.154040336609]]]},"properties":{"GID_0":"PHL","NAME_0":"Philippines","GID_1":"PHL.68_1","NAME_1":"Siquijor","NL_NAME_1":"","GID_2":"PHL.68.3_1","NAME_2":"Lazi","NL_NAME_2":"","GID_3":"PHL.68.3.7_1","NAME_3":"Kimba","VARNAME_3":"","NL_NAME_3":"","TYPE_3":"Barangay","ENGTYPE_3":"Village","CC_3":"","HASC_3":""}}
+]}

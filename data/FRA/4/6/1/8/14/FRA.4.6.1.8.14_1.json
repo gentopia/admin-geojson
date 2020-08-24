@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[2.9071590900420574,48.04623031616222],[2.9288227558135986,48.0535774230957],[2.9519605636597817,48.07050704956049],[2.920786142349243,48.07839965820324],[2.914590835571289,48.07299804687506],[2.9055826663971516,48.049747467041016],[2.9071590900420574,48.04623031616222]]]},"properties":{"GID_0":"FRA","NAME_0":"France","GID_1":"FRA.4_1","NAME_1":"Centre-Val de Loire","GID_2":"FRA.4.6_1","NAME_2":"Loiret","GID_3":"FRA.4.6.1_1","NAME_3":"Montargis","GID_4":"FRA.4.6.1.8_1","NAME_4":"Courtenay","GID_5":"FRA.4.6.1.8.14_1","NAME_5":"Saint-Loup-de-Gonois","TYPE_5":"Commune simple","ENGTYPE_5":"Commune","CC_5":""}}
+]}

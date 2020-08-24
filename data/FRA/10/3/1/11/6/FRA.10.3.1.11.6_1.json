@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[1.597927093505973,45.19304275512707],[1.6070764064789955,45.1923446655274],[1.6170445680618855,45.185832977294865],[1.628196716308537,45.191669464111385],[1.6333576440811726,45.200920104980526],[1.6150720119477455,45.20169448852539],[1.6024900674820515,45.198501586914176],[1.597927093505973,45.19304275512707]]]},"properties":{"GID_0":"FRA","NAME_0":"France","GID_1":"FRA.10_1","NAME_1":"Nouvelle-Aquitaine","GID_2":"FRA.10.3_1","NAME_2":"Corrèze","GID_3":"FRA.10.3.1_1","NAME_3":"Brive-la-Gaillarde","GID_4":"FRA.10.3.1.11_1","NAME_4":"Malemort-sur-Corrèze","GID_5":"FRA.10.3.1.11.6_1","NAME_5":"Venarsal","TYPE_5":"Commune simple","ENGTYPE_5":"Commune","CC_5":""}}
+]}

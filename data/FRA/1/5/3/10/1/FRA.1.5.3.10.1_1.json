@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[5.046812057495174,45.123832702636776],[5.066250801086483,45.13032150268566],[5.080051898956356,45.1438560485841],[5.057413578033447,45.15779495239252],[5.0517687797546955,45.155223846435604],[5.046812057495174,45.123832702636776]]]},"properties":{"GID_0":"FRA","NAME_0":"France","GID_1":"FRA.1_1","NAME_1":"Auvergne-Rhône-Alpes","GID_2":"FRA.1.5_1","NAME_2":"Drôme","GID_3":"FRA.1.5.3_1","NAME_3":"Valence","GID_4":"FRA.1.5.3.10_1","NAME_4":"Saint-Donat-sur-l'Herbasse","GID_5":"FRA.1.5.3.10.1_1","NAME_5":"Arthémonay","TYPE_5":"Commune simple","ENGTYPE_5":"Commune","CC_5":""}}
+]}

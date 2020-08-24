@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[123.35205841064464,9.446680068969727],[123.35164642334007,9.456469535827637],[123.32550048828125,9.449250221252555],[123.32657623291016,9.43949985504156],[123.35205841064464,9.446680068969727]]]},"properties":{"GID_0":"PHL","NAME_0":"Philippines","GID_1":"PHL.25_1","NAME_1":"Cebu","NL_NAME_1":"","GID_2":"PHL.25.46_1","NAME_2":"Santander","NL_NAME_2":"","GID_3":"PHL.25.46.3_1","NAME_3":"Candamiang","VARNAME_3":"","NL_NAME_3":"","TYPE_3":"Barangay","ENGTYPE_3":"Village","CC_3":"","HASC_3":""}}
+]}

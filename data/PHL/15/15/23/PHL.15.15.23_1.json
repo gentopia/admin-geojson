@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[124.0198211669923,9.910750389099178],[124.02304840087902,9.911930084228516],[124.0263671875,9.912619590759277],[124.02842712402355,9.922719955444393],[124.01856231689453,9.920709609985408],[124.0198211669923,9.910750389099178]]]},"properties":{"GID_0":"PHL","NAME_0":"Philippines","GID_1":"PHL.15_1","NAME_1":"Bohol","NL_NAME_1":"","GID_2":"PHL.15.15_1","NAME_2":"Clarin","NL_NAME_2":"","GID_3":"PHL.15.15.23_1","NAME_3":"Tubod","VARNAME_3":"","NL_NAME_3":"","TYPE_3":"Barangay","ENGTYPE_3":"Village","CC_3":"","HASC_3":""}}
+]}

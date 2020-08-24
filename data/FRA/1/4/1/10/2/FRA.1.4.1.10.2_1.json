@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[2.2087206840515705,44.9130973815918],[2.196789026260376,44.908329010009766],[2.1960544586182777,44.88531112670904],[2.1973898410797688,44.88225936889654],[2.212466478347835,44.8746223449707],[2.2213814258576576,44.88189697265619],[2.2233333587647053,44.8955078125],[2.2087206840515705,44.9130973815918]]]},"properties":{"GID_0":"FRA","NAME_0":"France","GID_1":"FRA.1_1","NAME_1":"Auvergne-Rhône-Alpes","GID_2":"FRA.1.4_1","NAME_2":"Cantal","GID_3":"FRA.1.4.1_1","NAME_3":"Aurillac","GID_4":"FRA.1.4.1.10_1","NAME_4":"Saint-Mamet-la-Salvetat","GID_5":"FRA.1.4.1.10.2_1","NAME_5":"La Ségalassière","TYPE_5":"Commune simple","ENGTYPE_5":"Commune","CC_5":""}}
+]}

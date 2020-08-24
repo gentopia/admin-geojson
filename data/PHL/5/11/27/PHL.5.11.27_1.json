@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[123.69378662109375,13.405449867248592],[123.68406677246094,13.42333030700695],[123.66750335693382,13.414859771728572],[123.67842102050793,13.410889625549316],[123.69378662109375,13.405449867248592]]]},"properties":{"GID_0":"PHL","NAME_0":"Philippines","GID_1":"PHL.5_1","NAME_1":"Albay","NL_NAME_1":"","GID_2":"PHL.5.11_1","NAME_2":"Malinao","NL_NAME_2":"","GID_3":"PHL.5.11.27_1","NAME_3":"Tagoytoy","VARNAME_3":"","NL_NAME_3":"","TYPE_3":"Barangay","ENGTYPE_3":"Village","CC_3":"","HASC_3":""}}
+]}

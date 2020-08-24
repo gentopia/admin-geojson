@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[2.02799129486084,50.081115722656364],[2.0404360294341473,50.08217620849615],[2.0437705516816322,50.08447265625006],[2.0327727794648354,50.09830093383795],[2.029164791107121,50.09640502929682],[2.021070480346623,50.088954925537166],[2.02799129486084,50.081115722656364]]]},"properties":{"GID_0":"FRA","NAME_0":"France","GID_1":"FRA.7_1","NAME_1":"Hauts-de-France","GID_2":"FRA.7.5_1","NAME_2":"Somme","GID_3":"FRA.7.5.1_1","NAME_3":"Abbeville","GID_4":"FRA.7.5.1.4_1","NAME_4":"Ailly-le-Haut-Clocher","GID_5":"FRA.7.5.1.4.9_1","NAME_5":"Ergnies","TYPE_5":"Commune simple","ENGTYPE_5":"Commune","CC_5":""}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[3.7959709167481606,50.258392333984375],[3.7870802879333496,50.273933410644645],[3.7870714664459797,50.28417587280268],[3.767445087432975,50.28001022338867],[3.752885580062923,50.269618988037166],[3.77632999420166,50.256328582763615],[3.7959709167481606,50.258392333984375]]]},"properties":{"GID_0":"FRA","NAME_0":"France","GID_1":"FRA.7_1","NAME_1":"Hauts-de-France","GID_2":"FRA.7.2_1","NAME_2":"Nord","GID_3":"FRA.7.2.1_1","NAME_3":"Avesnes-sur-Helpe","GID_4":"FRA.7.2.1.4_1","NAME_4":"Bavay","GID_5":"FRA.7.2.1.4.14_1","NAME_5":"Obies","TYPE_5":"Commune simple","ENGTYPE_5":"Commune","CC_5":""}}
+]}

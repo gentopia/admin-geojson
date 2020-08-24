@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[0.1148032620549202,44.81986236572277],[0.1140271946788971,44.8194465637207],[0.10798395425081253,44.80528640747082],[0.12656214833259583,44.803295135498104],[0.1313775777817341,44.812084197998104],[0.12740790843969307,44.8199195861817],[0.1148032620549202,44.81986236572277]]]},"properties":{"GID_0":"FRA","NAME_0":"France","GID_1":"FRA.10_1","NAME_1":"Nouvelle-Aquitaine","GID_2":"FRA.10.7_1","NAME_2":"Gironde","GID_3":"FRA.10.7.6_1","NAME_3":"Libourne","GID_4":"FRA.10.7.6.9_1","NAME_4":"Sainte-Foy-la-Grande","GID_5":"FRA.10.7.6.9.10_1","NAME_5":"Saint-Avit-de-Soulège","TYPE_5":"Commune simple","ENGTYPE_5":"Commune","CC_5":""}}
+]}

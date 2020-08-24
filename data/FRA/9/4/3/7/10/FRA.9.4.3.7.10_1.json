@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[0.7183164954185486,48.49900436401373],[0.7203032970429035,48.5003395080567],[0.7159250974656288,48.50603485107433],[0.7171965837479775,48.51229476928711],[0.7014688849449158,48.52377319335949],[0.7050253748894306,48.47687149047857],[0.7111923694611164,48.493755340576115],[0.7183164954185486,48.49900436401373]]]},"properties":{"GID_0":"FRA","NAME_0":"France","GID_1":"FRA.9_1","NAME_1":"Normandie","GID_2":"FRA.9.4_1","NAME_2":"Orne","GID_3":"FRA.9.4.3_1","NAME_3":"Mortagne-au-Perche","GID_4":"FRA.9.4.3.7_1","NAME_4":"Longny-au-Perche","GID_5":"FRA.9.4.3.7.10_1","NAME_5":"Monceaux-au-Perche","TYPE_5":"Commune simple","ENGTYPE_5":"Commune","CC_5":""}}
+]}

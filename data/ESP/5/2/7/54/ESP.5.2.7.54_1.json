@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[-3.318846940994149,42.002494812011776],[-3.3116769790648846,42.00542449951166],[-3.3126730918884277,42.01170730590826],[-3.3194470405578613,42.01143264770502],[-3.3213980197905357,42.015079498291016],[-3.318846940994149,42.002494812011776]]]},"properties":{"GID_0":"ESP","NAME_0":"Spain","GID_1":"ESP.5_1","NAME_1":"Castilla y León","GID_2":"ESP.5.2_1","NAME_2":"Burgos","GID_3":"ESP.5.2.7_1","NAME_3":"n.a. (65)","GID_4":"ESP.5.2.7.54_1","NAME_4":"Ledanía de Barbadillo del Mercado, La Revilla, Salas de los Infantes y Villanueva de Río Ubierna","VARNAME_4":"","TYPE_4":"Municipality","ENGTYPE_4":"Municipality","CC_4":""}}
+]}

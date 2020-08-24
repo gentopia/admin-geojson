@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[124.15293884277355,10.031180381774846],[124.1455535888673,10.038330078125],[124.13874053955078,10.04164028167736],[124.13712310791027,10.038020133972168],[124.15293884277355,10.031180381774846]]]},"properties":{"GID_0":"PHL","NAME_0":"Philippines","GID_1":"PHL.15_1","NAME_1":"Bohol","NL_NAME_1":"","GID_2":"PHL.15.10_1","NAME_2":"Buenavista","NL_NAME_2":"","GID_3":"PHL.15.10.21_1","NAME_3":"Lapacan Norte","VARNAME_3":"","NL_NAME_3":"","TYPE_3":"Barangay","ENGTYPE_3":"Village","CC_3":"","HASC_3":""}}
+]}

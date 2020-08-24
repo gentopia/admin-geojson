@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[109.2887191772461,-0.4465608298778534],[109.2703094482423,-0.4698793888092041],[109.31133270263683,-0.49192118644714355],[109.33065032958984,-0.46846458315849304],[109.2887191772461,-0.4465608298778534]]]},"properties":{"GID_0":"IDN","NAME_0":"Indonesia","GID_1":"IDN.12_1","NAME_1":"Kalimantan Barat","GID_2":"IDN.12.6_1","NAME_2":"Kubu Raya","GID_3":"IDN.12.6.3_1","NAME_3":"Kubu","GID_4":"IDN.12.6.3.10_1","NAME_4":"Pelita Jaya","VARNAME_4":"","TYPE_4":"Desa","ENGTYPE_4":"Village","CC_4":"6112030010"}}
+]}

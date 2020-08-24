@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[123.84333038330078,9.843660354614315],[123.84784698486328,9.848250389099235],[123.84262847900402,9.859230041503906],[123.84111785888683,9.858449935913143],[123.83631134033226,9.854660034179688],[123.84333038330078,9.843660354614315]]]},"properties":{"GID_0":"PHL","NAME_0":"Philippines","GID_1":"PHL.15_1","NAME_1":"Bohol","NL_NAME_1":"","GID_2":"PHL.15.31_1","NAME_2":"Loon","NL_NAME_2":"","GID_3":"PHL.15.31.7_1","NAME_3":"Bahi","VARNAME_3":"","NL_NAME_3":"","TYPE_3":"Barangay","ENGTYPE_3":"Village","CC_3":"","HASC_3":""}}
+]}

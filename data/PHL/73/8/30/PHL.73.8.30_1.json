@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[121.23889160156261,5.9514198303223225],[121.24272918701183,5.958089828491211],[121.24659729003906,5.964630126953182],[121.23558044433594,5.972970008850041],[121.23507690429699,5.952390193939152],[121.23889160156261,5.9514198303223225]]]},"properties":{"GID_0":"PHL","NAME_0":"Philippines","GID_1":"PHL.73_1","NAME_1":"Sulu","NL_NAME_1":"","GID_2":"PHL.73.8_1","NAME_2":"Old Panamao","NL_NAME_2":"","GID_3":"PHL.73.8.30_1","NAME_3":"Tubig Jati","VARNAME_3":"","NL_NAME_3":"","TYPE_3":"Barangay","ENGTYPE_3":"Village","CC_3":"","HASC_3":""}}
+]}

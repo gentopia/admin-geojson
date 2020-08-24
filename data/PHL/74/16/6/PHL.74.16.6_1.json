@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[126.04902648925804,9.971639633178825],[126.06783294677734,9.97315979003912],[126.06822967529297,9.97752952575695],[126.05226135253929,9.981880187988281],[126.04902648925804,9.971639633178825]]]},"properties":{"GID_0":"PHL","NAME_0":"Philippines","GID_1":"PHL.74_1","NAME_1":"Surigao del Norte","NL_NAME_1":"","GID_2":"PHL.74.16_1","NAME_2":"San Isidro","NL_NAME_2":"","GID_3":"PHL.74.16.6_1","NAME_3":"Pelaez","VARNAME_3":"","NL_NAME_3":"","TYPE_3":"Barangay","ENGTYPE_3":"Village","CC_3":"","HASC_3":""}}
+]}

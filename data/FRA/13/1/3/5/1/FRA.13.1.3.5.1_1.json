@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[6.328241348266658,44.13660049438471],[6.304863452911434,44.108650207519645],[6.3000807762146565,44.09346389770519],[6.313231468200684,44.09670639038097],[6.340864181518555,44.09470367431652],[6.3622760772706215,44.106956481933594],[6.362251758575496,44.11035537719732],[6.328241348266658,44.13660049438471]]]},"properties":{"GID_0":"FRA","NAME_0":"France","GID_1":"FRA.13_1","NAME_1":"Provence-Alpes-Côte d'Azur","GID_2":"FRA.13.1_1","NAME_2":"Alpes-de-Haute-Provence","GID_3":"FRA.13.1.3_1","NAME_3":"Digne-les-Bains","GID_4":"FRA.13.1.3.5_1","NAME_4":"La Javie","GID_5":"FRA.13.1.3.5.1_1","NAME_5":"Archail","TYPE_5":"Commune simple","ENGTYPE_5":"Commune","CC_5":""}}
+]}

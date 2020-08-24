@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[44.71655654907232,16.030485153198356],[44.7755126953125,16.109907150268555],[44.7764129638673,16.11112022399908],[44.67573547363281,16.15253067016613],[44.59402465820324,16.03028869628912],[44.71655654907232,16.030485153198356]]]},"properties":{"GID_0":"YEM","NAME_0":"Yemen","GID_1":"YEM.6_1","NAME_1":"Al Jawf","NL_NAME_1":"الجوف","GID_2":"YEM.6.1_1","NAME_2":"Al Ghayl","VARNAME_2":"","NL_NAME_2":"الغيل","TYPE_2":"Muderiah","ENGTYPE_2":"District","CC_2":"1608","HASC_2":""}}
+]}

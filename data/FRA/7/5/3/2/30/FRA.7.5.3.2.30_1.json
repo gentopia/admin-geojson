@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[2.670065402984619,49.640766143798885],[2.6539671421052162,49.62719726562494],[2.6533854007720947,49.617065429687614],[2.6729977130889893,49.62139892578131],[2.687612771987915,49.61775207519537],[2.6889340877533527,49.6256561279298],[2.670065402984619,49.640766143798885]]]},"properties":{"GID_0":"FRA","NAME_0":"France","GID_1":"FRA.7_1","NAME_1":"Hauts-de-France","GID_2":"FRA.7.5_1","NAME_2":"Somme","GID_3":"FRA.7.5.3_1","NAME_3":"Montdidier","GID_4":"FRA.7.5.3.2_1","NAME_4":"Montdidier","GID_5":"FRA.7.5.3.2.30_1","NAME_5":"Remaugies","TYPE_5":"Commune simple","ENGTYPE_5":"Commune","CC_5":""}}
+]}

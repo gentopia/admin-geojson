@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[124.93866729736328,11.119250297546387],[124.9581069946289,11.12112998962408],[124.9713134765625,11.130459785461483],[124.95966339111328,11.136710166931152],[124.93866729736328,11.119250297546387]]]},"properties":{"GID_0":"PHL","NAME_0":"Philippines","GID_1":"PHL.43_1","NAME_1":"Leyte","NL_NAME_1":"","GID_2":"PHL.43.31_1","NAME_2":"Palo","NL_NAME_2":"","GID_3":"PHL.43.31.12_1","NAME_3":"Capirawan","VARNAME_3":"","NL_NAME_3":"","TYPE_3":"Barangay","ENGTYPE_3":"Village","CC_3":"","HASC_3":""}}
+]}

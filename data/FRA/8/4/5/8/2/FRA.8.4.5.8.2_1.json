@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[2.7102866172790527,48.90392684936529],[2.7030413150786785,48.90900802612305],[2.6879017353057293,48.91065216064453],[2.6929993629455566,48.89993667602545],[2.7075936794281574,48.89763641357416],[2.7102866172790527,48.90392684936529]]]},"properties":{"GID_0":"FRA","NAME_0":"France","GID_1":"FRA.8_1","NAME_1":"Île-de-France","GID_2":"FRA.8.4_1","NAME_2":"Seine-et-Marne","GID_3":"FRA.8.4.5_1","NAME_3":"Torcy","GID_4":"FRA.8.4.5.8_1","NAME_4":"Thorigny-sur-Marne","GID_5":"FRA.8.4.5.8.2_1","NAME_5":"Carnetin","TYPE_5":"Commune simple","ENGTYPE_5":"Commune","CC_5":""}}
+]}

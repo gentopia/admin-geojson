@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[3.1864566802979084,48.44523620605469],[3.1986339092255207,48.45431900024414],[3.2014412879944416,48.459918975830135],[3.1944637298583416,48.47502899169922],[3.1670846939086914,48.46813201904297],[3.1783843040467445,48.4493522644043],[3.1864566802979084,48.44523620605469]]]},"properties":{"GID_0":"FRA","NAME_0":"France","GID_1":"FRA.8_1","NAME_1":"Île-de-France","GID_2":"FRA.8.4_1","NAME_2":"Seine-et-Marne","GID_3":"FRA.8.4.4_1","NAME_3":"Provins","GID_4":"FRA.8.4.4.2_1","NAME_4":"Donnemarie-Dontilly","GID_5":"FRA.8.4.4.2.9_1","NAME_5":"Luisetaines","TYPE_5":"Commune simple","ENGTYPE_5":"Commune","CC_5":""}}
+]}

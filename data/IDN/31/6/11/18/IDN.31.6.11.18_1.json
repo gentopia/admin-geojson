@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[104.06373596191406,-2.5567934513090904],[104.04798889160168,-2.5415096282958416],[104.04044342041016,-2.5443501472472008],[104.03434753417969,-2.546642065048161],[104.04856109619152,-2.5649960041045574],[104.06373596191406,-2.5567934513090904]]]},"properties":{"GID_0":"IDN","NAME_0":"Indonesia","GID_1":"IDN.31_1","NAME_1":"Sumatera Selatan","GID_2":"IDN.31.6_1","NAME_2":"Musi Banyuasin","GID_3":"IDN.31.6.11_1","NAME_3":"Sungai Lilin","GID_4":"IDN.31.6.11.18_1","NAME_4":"Sukadamai Baru","VARNAME_4":"","TYPE_4":"Desa","ENGTYPE_4":"Village","CC_4":"1606090019"}}
+]}

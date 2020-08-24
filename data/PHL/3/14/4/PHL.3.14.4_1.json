@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[125.9081802368164,8.049960136413574],[125.89956665039062,8.073619842529297],[125.88324737548828,8.066140174865723],[125.8814163208009,8.065290451049805],[125.88226318359375,8.040630340576172],[125.91036224365257,8.043060302734375],[125.9081802368164,8.049960136413574]]]},"properties":{"GID_0":"PHL","NAME_0":"Philippines","GID_1":"PHL.3_1","NAME_1":"Agusan del Sur","NL_NAME_1":"","GID_2":"PHL.3.14_1","NAME_2":"Veruela","NL_NAME_2":"","GID_3":"PHL.3.14.4_1","NAME_3":"Caigangan","VARNAME_3":"","NL_NAME_3":"","TYPE_3":"Barangay","ENGTYPE_3":"Village","CC_3":"","HASC_3":""}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[120.71145629882812,14.884630203247127],[120.70781707763672,14.903089523315543],[120.70594787597656,14.900710105895996],[120.70855712890625,14.884209632873592],[120.71025848388672,14.884510040283317],[120.71145629882812,14.884630203247127]]]},"properties":{"GID_0":"PHL","NAME_0":"Philippines","GID_1":"PHL.60_1","NAME_1":"Pampanga","NL_NAME_1":"","GID_2":"PHL.60.10_1","NAME_2":"Macabebe","NL_NAME_2":"","GID_3":"PHL.60.10.21_1","NAME_3":"Santo Niño","VARNAME_3":"","NL_NAME_3":"","TYPE_3":"Barangay","ENGTYPE_3":"Village","CC_3":"","HASC_3":""}}
+]}

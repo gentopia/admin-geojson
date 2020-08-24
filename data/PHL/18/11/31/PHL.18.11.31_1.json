@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[121.08759307861328,18.5698299407959],[121.0948486328125,18.569580078125057],[121.09475708007824,18.57247924804699],[121.08857727050804,18.572389602661133],[121.0884475708009,18.571569442749023],[121.08809661865234,18.570709228515682],[121.08759307861328,18.5698299407959]]]},"properties":{"GID_0":"PHL","NAME_0":"Philippines","GID_1":"PHL.18_1","NAME_1":"Cagayan","NL_NAME_1":"","GID_2":"PHL.18.11_1","NAME_2":"Claveria","NL_NAME_2":"","GID_3":"PHL.18.11.31_1","NAME_3":"San Antonio","VARNAME_3":"Sayad/Bimekel","NL_NAME_3":"","TYPE_3":"Barangay","ENGTYPE_3":"Village","CC_3":"","HASC_3":""}}
+]}

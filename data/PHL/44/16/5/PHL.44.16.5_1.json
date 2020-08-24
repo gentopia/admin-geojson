@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[124.3699874877932,6.933290004730225],[124.36199188232433,6.938340187072754],[124.3538589477539,6.942279815673885],[124.33006286621094,6.94629001617426],[124.33361816406261,6.9332799911498455],[124.3699874877932,6.933290004730225]]]},"properties":{"GID_0":"PHL","NAME_0":"Philippines","GID_1":"PHL.44_1","NAME_1":"Maguindanao","NL_NAME_1":"","GID_2":"PHL.44.16_1","NAME_2":"Guindulungan","NL_NAME_2":"","GID_3":"PHL.44.16.5_1","NAME_3":"Kateman","VARNAME_3":"","NL_NAME_3":"","TYPE_3":"Barangay","ENGTYPE_3":"Village","CC_3":"","HASC_3":""}}
+]}

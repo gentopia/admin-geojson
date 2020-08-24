@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[120.61522674560558,16.435829162597713],[120.62415313720714,16.434370040893555],[120.63120269775413,16.432910919189567],[120.63107299804699,16.449329376220817],[120.61299896240234,16.4537296295166],[120.61522674560558,16.435829162597713]]]},"properties":{"GID_0":"PHL","NAME_0":"Philippines","GID_1":"PHL.13_1","NAME_1":"Benguet","NL_NAME_1":"","GID_2":"PHL.13.10_1","NAME_2":"La Trinidad","NL_NAME_2":"","GID_3":"PHL.13.10.6_1","NAME_3":"Beckel","VARNAME_3":"","NL_NAME_3":"","TYPE_3":"Barangay","ENGTYPE_3":"Village","CC_3":"","HASC_3":""}}
+]}

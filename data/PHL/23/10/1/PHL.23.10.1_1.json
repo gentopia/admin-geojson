@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[124.24964141845714,13.811030387878532],[124.26924133300781,13.850749969482536],[124.25184631347656,13.859470367431697],[124.18750000000011,13.86161994934082],[124.23519134521496,13.809949874878043],[124.24964141845714,13.811030387878532]]]},"properties":{"GID_0":"PHL","NAME_0":"Philippines","GID_1":"PHL.23_1","NAME_1":"Catanduanes","NL_NAME_1":"","GID_2":"PHL.23.10_1","NAME_2":"Viga","NL_NAME_2":"","GID_3":"PHL.23.10.1_1","NAME_3":"Almojuela","VARNAME_3":"","NL_NAME_3":"","TYPE_3":"Barangay","ENGTYPE_3":"Village","CC_3":"","HASC_3":""}}
+]}

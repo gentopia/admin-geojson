@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[121.27890014648438,17.502990722656307],[121.27974700927746,17.510240554809627],[121.28224945068371,17.531389236450195],[121.25919342041016,17.534290313720703],[121.25354766845703,17.505220413208008],[121.27890014648438,17.502990722656307]]]},"properties":{"GID_0":"PHL","NAME_0":"Philippines","GID_1":"PHL.38_1","NAME_1":"Kalinga","NL_NAME_1":"","GID_2":"PHL.38.1_1","NAME_2":"Balbalan","NL_NAME_2":"","GID_3":"PHL.38.1.1_1","NAME_3":"Ababa-An","VARNAME_3":"","NL_NAME_3":"","TYPE_3":"Barangay","ENGTYPE_3":"Village","CC_3":"","HASC_3":""}}
+]}

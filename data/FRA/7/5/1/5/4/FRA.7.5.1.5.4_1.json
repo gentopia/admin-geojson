@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[1.479180335998592,50.07523727416998],[1.4911959171295734,50.09505462646496],[1.4685730934144203,50.09975051879883],[1.4657872915269081,50.097202301025504],[1.4592418670654865,50.080970764160156],[1.4698436260223957,50.07473373413097],[1.479180335998592,50.07523727416998]]]},"properties":{"GID_0":"FRA","NAME_0":"France","GID_1":"FRA.7_1","NAME_1":"Hauts-de-France","GID_2":"FRA.7.5_1","NAME_2":"Somme","GID_3":"FRA.7.5.1_1","NAME_3":"Abbeville","GID_4":"FRA.7.5.1.5_1","NAME_4":"Ault","GID_5":"FRA.7.5.1.5.4_1","NAME_5":"Friaucourt","TYPE_5":"Commune simple","ENGTYPE_5":"Commune","CC_5":""}}
+]}

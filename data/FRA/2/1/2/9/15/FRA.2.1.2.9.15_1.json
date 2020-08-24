@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[5.262016773223877,47.21883010864269],[5.256276130676383,47.22631835937506],[5.248007297515983,47.225856781005916],[5.242936134338436,47.23011779785162],[5.243019104003906,47.21562576293957],[5.262016773223877,47.21883010864269]]]},"properties":{"GID_0":"FRA","NAME_0":"France","GID_1":"FRA.2_1","NAME_1":"Bourgogne-Franche-Comté","GID_2":"FRA.2.1_1","NAME_2":"Côte-d'Or","GID_3":"FRA.2.1.2_1","NAME_3":"Dijon","GID_4":"FRA.2.1.2.9_1","NAME_4":"Genlis","GID_5":"FRA.2.1.2.9.15_1","NAME_5":"Longeault","TYPE_5":"Commune simple","ENGTYPE_5":"Commune","CC_5":""}}
+]}

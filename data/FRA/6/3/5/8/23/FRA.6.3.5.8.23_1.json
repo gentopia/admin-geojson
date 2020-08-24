@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[7.525078296661377,48.65610885620117],[7.524616241455192,48.66207885742182],[7.484767436981201,48.65970611572271],[7.4884018898009685,48.65736770629894],[7.5064716339112465,48.65275955200201],[7.525078296661377,48.65610885620117]]]},"properties":{"GID_0":"FRA","NAME_0":"France","GID_1":"FRA.6_1","NAME_1":"Grand Est","GID_2":"FRA.6.3_1","NAME_2":"Bas-Rhin","GID_3":"FRA.6.3.5_1","NAME_3":"Strasbourg-Campagne","GID_4":"FRA.6.3.5.8_1","NAME_4":"Truchtersheim","GID_5":"FRA.6.3.5.8.23_1","NAME_5":"Wintzenheim-Kochersberg","TYPE_5":"Commune simple","ENGTYPE_5":"Commune","CC_5":""}}
+]}

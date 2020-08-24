@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[122.97503662109375,7.553880214691105],[122.96817016601562,7.560430049896354],[122.95989227294933,7.572040081024284],[122.9561767578125,7.555689811706657],[122.97503662109375,7.553880214691105]]]},"properties":{"GID_0":"PHL","NAME_0":"Philippines","GID_1":"PHL.81_1","NAME_1":"Zamboanga Sibugay","NL_NAME_1":"","GID_2":"PHL.81.1_1","NAME_2":"Alicia","NL_NAME_2":"","GID_3":"PHL.81.1.9_1","NAME_3":"Kapatagan","VARNAME_3":"","NL_NAME_3":"","TYPE_3":"Barangay","ENGTYPE_3":"Village","CC_3":"","HASC_3":""}}
+]}

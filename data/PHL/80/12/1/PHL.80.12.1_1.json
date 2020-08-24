@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[123.10700988769543,7.857299804687557],[123.10611724853516,7.841670036315918],[123.10572814941406,7.830729961395264],[123.13291168212902,7.838669776916561],[123.13706970214866,7.8398900032044025],[123.1465072631836,7.857850074768066],[123.10700988769543,7.857299804687557]]]},"properties":{"GID_0":"PHL","NAME_0":"Philippines","GID_1":"PHL.80_1","NAME_1":"Zamboanga del Sur","NL_NAME_1":"","GID_2":"PHL.80.12_1","NAME_2":"Lakewood","NL_NAME_2":"","GID_3":"PHL.80.12.1_1","NAME_3":"Bagong Kahayag","VARNAME_3":"","NL_NAME_3":"","TYPE_3":"Barangay","ENGTYPE_3":"Village","CC_3":"","HASC_3":""}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[6.571481704712028,46.37964630126959],[6.544797420501823,46.37807083129894],[6.535586833953971,46.37139129638672],[6.537024497985897,46.3684539794923],[6.553331375122127,46.362113952636776],[6.562391757965088,46.364086151123104],[6.571481704712028,46.37964630126959]]]},"properties":{"GID_0":"FRA","NAME_0":"France","GID_1":"FRA.1_1","NAME_1":"Auvergne-Rhône-Alpes","GID_2":"FRA.1.7_1","NAME_2":"Haute-Savoie","GID_3":"FRA.1.7.5_1","NAME_3":"Thonon-les-Bains","GID_4":"FRA.1.7.5.4_1","NAME_4":"Évian-les-Bains","GID_5":"FRA.1.7.5.4.2_1","NAME_5":"Champanges","TYPE_5":"Commune simple","ENGTYPE_5":"Commune","CC_5":""}}
+]}

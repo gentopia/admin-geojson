@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[122.16084289550781,6.510159969329834],[122.14792633056663,6.50993013381958],[122.15113830566406,6.4986400604248615],[122.17868804931652,6.498270034790153],[122.17653656005882,6.510280132293701],[122.16084289550781,6.510159969329834]]]},"properties":{"GID_0":"PHL","NAME_0":"Philippines","GID_1":"PHL.9_1","NAME_1":"Basilan","NL_NAME_1":"","GID_2":"PHL.9.9_1","NAME_2":"Tipo-Tipo","NL_NAME_2":"","GID_3":"PHL.9.9.5_1","NAME_3":"Bohe-Tambak","VARNAME_3":"","NL_NAME_3":"","TYPE_3":"Barangay","ENGTYPE_3":"Village","CC_3":"","HASC_3":""}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[7.515351295471248,48.133132934570426],[7.520334243774471,48.1494979858399],[7.470139503479061,48.16017532348633],[7.4638352394104,48.158420562744254],[7.4670238494873615,48.14278030395519],[7.485649585723877,48.13710021972662],[7.515351295471248,48.133132934570426]]]},"properties":{"GID_0":"FRA","NAME_0":"France","GID_1":"FRA.6_1","NAME_1":"Grand Est","GID_2":"FRA.6.4_1","NAME_2":"Haut-Rhin","GID_3":"FRA.6.4.2_1","NAME_3":"Colmar","GID_4":"FRA.6.4.2.1_1","NAME_4":"Andolsheim","GID_5":"FRA.6.4.2.1.7_1","NAME_5":"Grussenheim","TYPE_5":"Commune simple","ENGTYPE_5":"Commune","CC_5":""}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[123.49830627441406,13.380700111389274],[123.50489044189453,13.39317989349371],[123.50724029541016,13.398189544677734],[123.47664642333996,13.388560295105094],[123.49830627441406,13.380700111389274]]]},"properties":{"GID_0":"PHL","NAME_0":"Philippines","GID_1":"PHL.20_1","NAME_1":"Camarines Sur","NL_NAME_1":"","GID_2":"PHL.20.7_1","NAME_2":"Buhi","NL_NAME_2":"","GID_3":"PHL.20.7.26_1","NAME_3":"San Jose Salay","VARNAME_3":"","NL_NAME_3":"","TYPE_3":"Barangay","ENGTYPE_3":"Village","CC_3":"","HASC_3":""}}
+]}

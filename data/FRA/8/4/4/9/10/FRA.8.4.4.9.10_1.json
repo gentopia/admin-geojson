@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[3.323740482330436,48.656948089599666],[3.331137657165584,48.67589187622082],[3.3214652538300697,48.686576843261776],[3.3126964569092934,48.687740325927734],[3.301420211792106,48.68291473388672],[3.3124029636383625,48.654533386230526],[3.323740482330436,48.656948089599666]]]},"properties":{"GID_0":"FRA","NAME_0":"France","GID_1":"FRA.8_1","NAME_1":"Île-de-France","GID_2":"FRA.8.4_1","NAME_2":"Seine-et-Marne","GID_3":"FRA.8.4.4_1","NAME_3":"Provins","GID_4":"FRA.8.4.4.9_1","NAME_4":"Villiers-Saint-Georges","GID_5":"FRA.8.4.4.9.10_1","NAME_5":"Les Marêts","TYPE_5":"Commune simple","ENGTYPE_5":"Commune","CC_5":""}}
+]}

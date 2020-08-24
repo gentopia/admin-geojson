@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[123.27340698242188,13.548999786377067],[123.27583312988281,13.550439834594783],[123.27245330810547,13.555439949035701],[123.27023315429699,13.55360031127924],[123.27340698242188,13.548999786377067]]]},"properties":{"GID_0":"PHL","NAME_0":"Philippines","GID_1":"PHL.20_1","NAME_1":"Camarines Sur","NL_NAME_1":"","GID_2":"PHL.20.30_1","NAME_2":"Pili","NL_NAME_2":"","GID_3":"PHL.20.30.18_1","NAME_3":"San Antonio","VARNAME_3":"Poblacion","NL_NAME_3":"","TYPE_3":"Barangay","ENGTYPE_3":"Village","CC_3":"","HASC_3":""}}
+]}

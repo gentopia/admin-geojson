@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[125.45834350585949,11.79862022399908],[125.45651245117188,11.80652046203619],[125.45638275146484,11.80774021148676],[125.45271301269531,11.807539939880371],[125.4490966796875,11.807350158691406],[125.4494400024414,11.800959587097168],[125.45834350585949,11.79862022399908]]]},"properties":{"GID_0":"PHL","NAME_0":"Philippines","GID_1":"PHL.31_1","NAME_1":"Eastern Samar","NL_NAME_1":"","GID_2":"PHL.31.22_1","NAME_2":"Sulat","NL_NAME_2":"","GID_3":"PHL.31.22.6_1","NAME_3":"Loyola Heights","VARNAME_3":"Poblacion","NL_NAME_3":"","TYPE_3":"Barangay","ENGTYPE_3":"Village","CC_3":"","HASC_3":""}}
+]}

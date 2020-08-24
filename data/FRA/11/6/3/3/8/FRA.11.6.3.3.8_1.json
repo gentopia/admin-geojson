@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[1.7865320444107624,43.54430770874029],[1.7904369831085205,43.53981018066412],[1.8024797439575195,43.537078857421875],[1.8153401613235474,43.55403137207031],[1.8076996803284828,43.55733108520519],[1.7948327064515297,43.55550384521496],[1.7865320444107624,43.54430770874029]]]},"properties":{"GID_0":"FRA","NAME_0":"France","GID_1":"FRA.11_1","NAME_1":"Occitanie","GID_2":"FRA.11.6_1","NAME_2":"Haute-Garonne","GID_3":"FRA.11.6.3_1","NAME_3":"Toulouse","GID_4":"FRA.11.6.3.3_1","NAME_4":"Caraman","GID_5":"FRA.11.6.3.3.8_1","NAME_5":"La Salvetat-Lauragais","TYPE_5":"Commune simple","ENGTYPE_5":"Commune","CC_5":""}}
+]}

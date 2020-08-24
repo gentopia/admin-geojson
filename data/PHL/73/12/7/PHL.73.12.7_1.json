@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[120.98145294189464,5.920360088348389],[120.98243713378906,5.93310022354126],[120.96309661865246,5.935639858245963],[120.96180725097668,5.9282197952271645],[120.96051788330078,5.918759822845573],[120.98145294189464,5.920360088348389]]]},"properties":{"GID_0":"PHL","NAME_0":"Philippines","GID_1":"PHL.73_1","NAME_1":"Sulu","NL_NAME_1":"","GID_2":"PHL.73.12_1","NAME_2":"Parang","NL_NAME_2":"","GID_3":"PHL.73.12.7_1","NAME_3":"Buli Bawang","VARNAME_3":"","NL_NAME_3":"","TYPE_3":"Barangay","ENGTYPE_3":"Village","CC_3":"","HASC_3":""}}
+]}

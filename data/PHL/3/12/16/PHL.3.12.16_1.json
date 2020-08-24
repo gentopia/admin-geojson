@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[125.7410125732423,8.422249794006348],[125.75877380371105,8.422450065612793],[125.75933074951183,8.463040351867733],[125.74659729003906,8.46265029907238],[125.74199676513683,8.462510108947754],[125.74194335937523,8.446570396423283],[125.7410125732423,8.422249794006348]]]},"properties":{"GID_0":"PHL","NAME_0":"Philippines","GID_1":"PHL.3_1","NAME_1":"Agusan del Sur","NL_NAME_1":"","GID_2":"PHL.3.12_1","NAME_2":"Talacogon","NL_NAME_2":"","GID_3":"PHL.3.12.16_1","NAME_3":"Zillovia","VARNAME_3":"","NL_NAME_3":"","TYPE_3":"Barangay","ENGTYPE_3":"Village","CC_3":"","HASC_3":""}}
+]}

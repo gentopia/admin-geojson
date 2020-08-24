@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[-1.6161932945251465,49.294490814208984],[-1.6118531227111816,49.32093811035156],[-1.6191209554671673,49.3242645263673],[-1.6322981119155884,49.32342529296881],[-1.6340965032577515,49.31584548950195],[-1.632829546928349,49.29162597656256],[-1.6161932945251465,49.294490814208984]]]},"properties":{"GID_0":"FRA","NAME_0":"France","GID_1":"FRA.9_1","NAME_1":"Normandie","GID_2":"FRA.9.3_1","NAME_2":"Manche","GID_3":"FRA.9.3.3_1","NAME_3":"Coutances","GID_4":"FRA.9.3.3.5_1","NAME_4":"La Haye-du-Puits","GID_5":"FRA.9.3.3.5.2_1","NAME_5":"Baudreville","TYPE_5":"Commune simple","ENGTYPE_5":"Commune","CC_5":""}}
+]}

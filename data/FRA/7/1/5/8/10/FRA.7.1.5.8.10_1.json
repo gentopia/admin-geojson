@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[3.6087465286254883,50.03010559082037],[3.594225406646842,50.04391860961914],[3.579240560531616,50.04709625244146],[3.5717453956604572,50.03549194335943],[3.5800561904907227,50.026901245117244],[3.588842153549308,50.030704498291016],[3.6087465286254883,50.03010559082037]]]},"properties":{"GID_0":"FRA","NAME_0":"France","GID_1":"FRA.7_1","NAME_1":"Hauts-de-France","GID_2":"FRA.7.1_1","NAME_2":"Aisne","GID_3":"FRA.7.1.5_1","NAME_3":"Vervins","GID_4":"FRA.7.1.5.8_1","NAME_4":"Wassigny","GID_5":"FRA.7.1.5.8.10_1","NAME_5":"Ribeauville","TYPE_5":"Commune simple","ENGTYPE_5":"Commune","CC_5":""}}
+]}

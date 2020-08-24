@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[124.08178710937523,7.791890144348258],[124.08392333984386,7.79626989364624],[124.07417297363293,7.798570156097526],[124.07377624511741,7.797639846801815],[124.07280731201172,7.793769836425781],[124.08178710937523,7.791890144348258]]]},"properties":{"GID_0":"PHL","NAME_0":"Philippines","GID_1":"PHL.42_1","NAME_1":"Lanao del Sur","NL_NAME_1":"","GID_2":"PHL.42.34_1","NAME_2":"Pualas","NL_NAME_2":"","GID_3":"PHL.42.34.9_1","NAME_3":"Diamla","VARNAME_3":"","NL_NAME_3":"","TYPE_3":"Barangay","ENGTYPE_3":"Village","CC_3":"","HASC_3":""}}
+]}

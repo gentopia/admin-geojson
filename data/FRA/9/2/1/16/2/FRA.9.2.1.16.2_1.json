@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[0.529347479343528,49.28152465820324],[0.5192579627037617,49.2832145690918],[0.508040904998893,49.27634811401367],[0.5012885928155129,49.2576522827149],[0.518596649169865,49.26321792602539],[0.538321852684021,49.2634162902832],[0.529347479343528,49.28152465820324]]]},"properties":{"GID_0":"FRA","NAME_0":"France","GID_1":"FRA.9_1","NAME_1":"Normandie","GID_2":"FRA.9.2_1","NAME_2":"Eure","GID_3":"FRA.9.2.1_1","NAME_3":"Bernay","GID_4":"FRA.9.2.1.16_1","NAME_4":"Saint-Georges-du-Vièvre","GID_5":"FRA.9.2.1.16.2_1","NAME_5":"La Noë-Poulain","TYPE_5":"Commune simple","ENGTYPE_5":"Commune","CC_5":""}}
+]}

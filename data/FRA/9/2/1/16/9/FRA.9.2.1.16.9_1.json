@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[0.5571391582489582,49.19911193847662],[0.5777999758720966,49.20870208740246],[0.5813747644425007,49.214160919189396],[0.5770669579507057,49.2196617126466],[0.5540145635605427,49.21526336669922],[0.5571391582489582,49.19911193847662]]]},"properties":{"GID_0":"FRA","NAME_0":"France","GID_1":"FRA.9_1","NAME_1":"Normandie","GID_2":"FRA.9.2_1","NAME_2":"Eure","GID_3":"FRA.9.2.1_1","NAME_3":"Bernay","GID_4":"FRA.9.2.1.16_1","NAME_4":"Saint-Georges-du-Vièvre","GID_5":"FRA.9.2.1.16.9_1","NAME_5":"Saint-Georges-du-Mesnil","TYPE_5":"Commune simple","ENGTYPE_5":"Commune","CC_5":""}}
+]}

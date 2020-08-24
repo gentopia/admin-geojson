@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[3.9738402366638184,49.05893707275402],[3.9609038829804604,49.06082916259771],[3.959538936615104,49.058788299560604],[3.9641706943511963,49.04959869384777],[3.9690439701079754,49.04975891113287],[3.9738402366638184,49.05893707275402]]]},"properties":{"GID_0":"FRA","NAME_0":"France","GID_1":"FRA.6_1","NAME_1":"Grand Est","GID_2":"FRA.6.6_1","NAME_2":"Marne","GID_3":"FRA.6.6.2_1","NAME_3":"Épernay","GID_4":"FRA.6.6.2.3_1","NAME_4":"Ay","GID_5":"FRA.6.6.2.3.14_1","NAME_5":"Magenta","TYPE_5":"Commune simple","ENGTYPE_5":"Commune","CC_5":""}}
+]}

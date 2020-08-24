@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[2.6797156333924477,49.582244873046875],[2.701416254043636,49.58923721313482],[2.6921925544739906,49.596717834472656],[2.6741018295288654,49.60002517700195],[2.669194221496582,49.59991073608404],[2.670723199844417,49.58142089843744],[2.6797156333924477,49.582244873046875]]]},"properties":{"GID_0":"FRA","NAME_0":"France","GID_1":"FRA.7_1","NAME_1":"Hauts-de-France","GID_2":"FRA.7.3_1","NAME_2":"Oise","GID_3":"FRA.7.3.3_1","NAME_3":"Compiègne","GID_4":"FRA.7.3.3.10_1","NAME_4":"Ressons-sur-Matz","GID_5":"FRA.7.3.3.10.12_1","NAME_5":"Hainvillers","TYPE_5":"Commune simple","ENGTYPE_5":"Commune","CC_5":""}}
+]}

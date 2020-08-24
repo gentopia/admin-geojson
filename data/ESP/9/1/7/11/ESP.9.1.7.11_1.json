@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[-1.4703129529953003,42.53615951538086],[-1.4742039442062378,42.540424346923885],[-1.478369951248169,42.53733062744152],[-1.4732240438460735,42.535125732421875],[-1.4703129529953003,42.53615951538086]]]},"properties":{"GID_0":"ESP","NAME_0":"Spain","GID_1":"ESP.9_1","NAME_1":"Comunidad Foral de Navarra","GID_2":"ESP.9.1_1","NAME_2":"Navarra","GID_3":"ESP.9.1.7_1","NAME_3":"n.a. (191)","GID_4":"ESP.9.1.7.11_1","NAME_4":"Facería de Lerga y Ujué","VARNAME_4":"","TYPE_4":"Municipality","ENGTYPE_4":"Municipality","CC_4":""}}
+]}

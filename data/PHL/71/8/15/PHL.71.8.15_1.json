@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[124.91597747802734,10.202630043029842],[124.91441345214855,10.206629753112793],[124.88754272460938,10.207349777221793],[124.88664245605469,10.199850082397518],[124.91597747802734,10.202630043029842]]]},"properties":{"GID_0":"PHL","NAME_0":"Philippines","GID_1":"PHL.71_1","NAME_1":"Southern Leyte","NL_NAME_1":"","GID_2":"PHL.71.8_1","NAME_2":"Maasin City","NL_NAME_2":"","GID_3":"PHL.71.8.15_1","NAME_3":"Cabadiangan","VARNAME_3":"","NL_NAME_3":"","TYPE_3":"Barangay","ENGTYPE_3":"Village","CC_3":"","HASC_3":""}}
+]}

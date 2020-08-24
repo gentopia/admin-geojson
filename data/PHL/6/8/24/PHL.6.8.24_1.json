@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[122.0768508911134,11.13302993774414],[122.07737731933605,11.14811038970953],[122.06501770019543,11.141010284423771],[122.06803131103527,11.132069587707463],[122.07482147216797,11.131669998168945],[122.0768508911134,11.13302993774414]]]},"properties":{"GID_0":"PHL","NAME_0":"Philippines","GID_1":"PHL.6_1","NAME_1":"Antique","NL_NAME_1":"","GID_2":"PHL.6.8_1","NAME_2":"Laua-An","NL_NAME_2":"","GID_3":"PHL.6.8.24_1","NAME_3":"Lupa-An","VARNAME_3":"","NL_NAME_3":"","TYPE_3":"Barangay","ENGTYPE_3":"Village","CC_3":"","HASC_3":""}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[-0.081124447286129,48.94241714477539],[-0.0632008314132122,48.94428253173834],[-0.06740393489599228,48.95948028564453],[-0.07413127273321152,48.963008880615234],[-0.08749694377183914,48.962303161621094],[-0.07815125584596672,48.94827270507818],[-0.081124447286129,48.94241714477539]]]},"properties":{"GID_0":"FRA","NAME_0":"France","GID_1":"FRA.9_1","NAME_1":"Normandie","GID_2":"FRA.9.1_1","NAME_2":"Calvados","GID_3":"FRA.9.1.2_1","NAME_3":"Caen","GID_4":"FRA.9.1.2.18_1","NAME_4":"Morteaux-Coulibœuf","GID_5":"FRA.9.1.2.18.19_1","NAME_5":"Vicques","TYPE_5":"Commune simple","ENGTYPE_5":"Commune","CC_5":""}}
+]}

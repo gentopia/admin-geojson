@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[1.9339245557785034,49.17334747314459],[1.9323508739472572,49.17650604248047],[1.9126331806182861,49.17829895019537],[1.894980430603141,49.18416213989269],[1.8767650127410889,49.175308227539176],[1.8825683593750568,49.16249465942383],[1.9339245557785034,49.17334747314459]]]},"properties":{"GID_0":"FRA","NAME_0":"France","GID_1":"FRA.7_1","NAME_1":"Hauts-de-France","GID_2":"FRA.7.3_1","NAME_2":"Oise","GID_3":"FRA.7.3.1_1","NAME_3":"Beauvais","GID_4":"FRA.7.3.1.5_1","NAME_4":"Chaumont-en-Vexin","GID_5":"FRA.7.3.1.5.4_1","NAME_5":"Bouconvillers","TYPE_5":"Commune simple","ENGTYPE_5":"Commune","CC_5":""}}
+]}

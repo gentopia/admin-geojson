@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[3.4643204212189858,50.47747039794933],[3.4656879901887123,50.486919403076286],[3.452556848526001,50.49117660522461],[3.443185329437256,50.49593353271496],[3.432314157485962,50.485233306884766],[3.4313089847565834,50.47958374023432],[3.435293197631893,50.478302001953125],[3.4643204212189858,50.47747039794933]]]},"properties":{"GID_0":"FRA","NAME_0":"France","GID_1":"FRA.7_1","NAME_1":"Hauts-de-France","GID_2":"FRA.7.2_1","NAME_2":"Nord","GID_3":"FRA.7.2.6_1","NAME_3":"Valenciennes","GID_4":"FRA.7.2.6.6_1","NAME_4":"Saint-Amand-les-Eaux-Rive gauche","GID_5":"FRA.7.2.6.6.10_1","NAME_5":"Thun-Saint-Amand","TYPE_5":"Commune simple","ENGTYPE_5":"Commune","CC_5":""}}
+]}

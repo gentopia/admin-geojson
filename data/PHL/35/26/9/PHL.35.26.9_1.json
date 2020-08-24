@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[120.46721649169933,17.503999710083065],[120.4672317504884,17.50519943237316],[120.46739196777355,17.507450103759822],[120.44425964355469,17.51271057128912],[120.4419174194336,17.510000228881893],[120.46721649169933,17.503999710083065]]]},"properties":{"GID_0":"PHL","NAME_0":"Philippines","GID_1":"PHL.35_1","NAME_1":"Ilocos Sur","NL_NAME_1":"","GID_2":"PHL.35.26_1","NAME_2":"Santa","NL_NAME_2":"","GID_3":"PHL.35.26.9_1","NAME_3":"Labut Norte","VARNAME_3":"","NL_NAME_3":"","TYPE_3":"Barangay","ENGTYPE_3":"Village","CC_3":"","HASC_3":""}}
+]}

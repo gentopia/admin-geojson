@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[6.457833766937313,47.22904205322277],[6.474992752075309,47.23601531982422],[6.5087151527404785,47.2426490783692],[6.49893045425415,47.250083923339844],[6.489124298095817,47.25029754638672],[6.439313888549805,47.23897171020508],[6.448956012725887,47.23128890991211],[6.457833766937313,47.22904205322277]]]},"properties":{"GID_0":"FRA","NAME_0":"France","GID_1":"FRA.2_1","NAME_1":"Bourgogne-Franche-Comté","GID_2":"FRA.2.2_1","NAME_2":"Doubs","GID_3":"FRA.2.2.3_1","NAME_3":"Pontarlier","GID_4":"FRA.2.2.3.6_1","NAME_4":"Pierrefontaine-les-Varans","GID_5":"FRA.2.2.3.6.20_1","NAME_5":"Villers-la-Combe","TYPE_5":"Commune simple","ENGTYPE_5":"Commune","CC_5":""}}
+]}

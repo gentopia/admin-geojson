@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[120.8568115234375,14.134050369262752],[120.85723114013683,14.134260177612248],[120.85240173339844,14.144289970397892],[120.85105895996094,14.143670082092228],[120.85639953613281,14.133839607238713],[120.8568115234375,14.134050369262752]]]},"properties":{"GID_0":"PHL","NAME_0":"Philippines","GID_1":"PHL.24_1","NAME_1":"Cavite","NL_NAME_1":"","GID_2":"PHL.24.1_1","NAME_2":"Alfonso","NL_NAME_2":"","GID_3":"PHL.24.1.4_1","NAME_3":"Barangay III","VARNAME_3":"Poblacion","NL_NAME_3":"","TYPE_3":"Barangay","ENGTYPE_3":"Village","CC_3":"","HASC_3":""}}
+]}

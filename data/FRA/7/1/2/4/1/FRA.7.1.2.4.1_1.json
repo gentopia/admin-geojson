@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[3.8292295932770912,49.494033813476676],[3.819877386093083,49.492496490478516],[3.807629346847534,49.49894332885742],[3.7995283603667644,49.48204421997076],[3.815876245498771,49.47425079345703],[3.8400833606719402,49.476799011230526],[3.8292295932770912,49.494033813476676]]]},"properties":{"GID_0":"FRA","NAME_0":"France","GID_1":"FRA.7_1","NAME_1":"Hauts-de-France","GID_2":"FRA.7.1_1","NAME_2":"Aisne","GID_3":"FRA.7.1.2_1","NAME_3":"Laon","GID_4":"FRA.7.1.2.4_1","NAME_4":"Craonne","GID_5":"FRA.7.1.2.4.1_1","NAME_5":"Aizelles","TYPE_5":"Commune simple","ENGTYPE_5":"Commune","CC_5":""}}
+]}

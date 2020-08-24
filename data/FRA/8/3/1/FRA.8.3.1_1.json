@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[2.37701273,48.87191772],[2.36385679,48.86743546],[2.36841536,48.85573959],[2.36901832,48.85322571],[2.3990736,48.84809113],[2.37701273,48.87191772]]]},"properties":{"GID_0":"FRA","NAME_0":"France","GID_1":"FRA.8_1","NAME_1":"Île-de-France","GID_2":"FRA.8.3_1","NAME_2":"Paris","GID_3":"FRA.8.3.1_1","NAME_3":"Paris, 11e arrondissement","GID_4":"FRA.8.3.1.1_1","NAME_4":"Paris, 11e arrondissement","VARNAME_4":"","TYPE_4":"Canton","ENGTYPE_4":"Cantons","CC_4":""}}
+]}

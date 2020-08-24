@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[48.02000045776367,8.770001411437931],[48.06000137329113,9.50000190734869],[47.06999969482433,9.439998626709098],[46.909999847412166,9.430000305175895],[46.91999816894537,8.819998741150016],[48.02000045776367,8.770001411437931]]]},"properties":{"GID_0":"SOM","NAME_0":"Somalia","GID_1":"SOM.16_1","NAME_1":"Sool","NL_NAME_1":"","GID_2":"SOM.16.4_1","NAME_2":"Xudun","VARNAME_2":"Hudun","NL_NAME_2":"","TYPE_2":"District","ENGTYPE_2":"District","CC_2":"","HASC_2":"SO.NU.XU"}}
+]}

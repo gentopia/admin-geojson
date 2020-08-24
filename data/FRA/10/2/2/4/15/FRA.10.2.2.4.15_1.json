@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[-0.14100314676755943,45.51846313476568],[-0.10921393334854201,45.51987075805664],[-0.10615734755987205,45.52228927612299],[-0.110162653028965,45.524673461914006],[-0.11853110790252686,45.53031539916992],[-0.12264481186855392,45.53893280029308],[-0.14100314676755943,45.51846313476568]]]},"properties":{"GID_0":"FRA","NAME_0":"France","GID_1":"FRA.10_1","NAME_1":"Nouvelle-Aquitaine","GID_2":"FRA.10.2_1","NAME_2":"Charente","GID_3":"FRA.10.2.2_1","NAME_3":"Cognac","GID_4":"FRA.10.2.2.4_1","NAME_4":"Châteauneuf-sur-Charente","GID_5":"FRA.10.2.2.4.15_1","NAME_5":"Viville","TYPE_5":"Commune simple","ENGTYPE_5":"Commune","CC_5":""}}
+]}

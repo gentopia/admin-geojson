@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[0.26793476939212724,43.326786041259766],[0.2731170058251564,43.33921051025402],[0.2723292410373688,43.34595108032238],[0.24927516281616136,43.34341430664074],[0.2504290044307709,43.331642150878906],[0.2642267048358917,43.32490158081055],[0.26793476939212724,43.326786041259766]]]},"properties":{"GID_0":"FRA","NAME_0":"France","GID_1":"FRA.11_1","NAME_1":"Occitanie","GID_2":"FRA.11.7_1","NAME_2":"Hautes-Pyrénées","GID_3":"FRA.11.7.3_1","NAME_3":"Tarbes","GID_4":"FRA.11.7.3.10_1","NAME_4":"Rabastens-de-Bigorre","GID_5":"FRA.11.7.3.10.4_1","NAME_5":"Bouilh-Devant","TYPE_5":"Commune simple","ENGTYPE_5":"Commune","CC_5":""}}
+]}

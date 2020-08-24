@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[120.99150848388683,6.053329944610709],[120.99028015136719,6.053329944610709],[120.99017333984386,6.053219795227051],[120.9922103881836,6.051119804382381],[120.99331665039062,6.051430225372428],[120.99150848388683,6.053329944610709]]]},"properties":{"GID_0":"PHL","NAME_0":"Philippines","GID_1":"PHL.73_1","NAME_1":"Sulu","NL_NAME_1":"","GID_2":"PHL.73.3_1","NAME_2":"Jolo","NL_NAME_2":"","GID_3":"PHL.73.3.7_1","NAME_3":"Tulay","VARNAME_3":"","NL_NAME_3":"","TYPE_3":"Barangay","ENGTYPE_3":"Village","CC_3":"","HASC_3":""}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[124.44400787353527,11.024220466613826],[124.45704650878906,11.024459838867244],[124.4565200805664,11.036849975585994],[124.44407653808594,11.037019729614258],[124.44400787353527,11.024220466613826]]]},"properties":{"GID_0":"PHL","NAME_0":"Philippines","GID_1":"PHL.43_1","NAME_1":"Leyte","NL_NAME_1":"","GID_2":"PHL.43.32_1","NAME_2":"Palompon","NL_NAME_2":"","GID_3":"PHL.43.32.22_1","NAME_3":"Hinagbuan","VARNAME_3":"","NL_NAME_3":"","TYPE_3":"Barangay","ENGTYPE_3":"Village","CC_3":"","HASC_3":""}}
+]}

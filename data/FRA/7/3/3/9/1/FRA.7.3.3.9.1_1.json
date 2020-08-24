@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[3.126981973648185,49.57291412353521],[3.138984680175895,49.57584762573242],[3.1380522251130287,49.578590393066406],[3.124177932739201,49.59626388549805],[3.1043906211853027,49.58776092529297],[3.113806724548283,49.57034683227545],[3.126981973648185,49.57291412353521]]]},"properties":{"GID_0":"FRA","NAME_0":"France","GID_1":"FRA.7_1","NAME_1":"Hauts-de-France","GID_2":"FRA.7.3_1","NAME_2":"Oise","GID_3":"FRA.7.3.3_1","NAME_3":"Compiègne","GID_4":"FRA.7.3.3.9_1","NAME_4":"Noyon","GID_5":"FRA.7.3.3.9.1_1","NAME_5":"Appilly","TYPE_5":"Commune simple","ENGTYPE_5":"Commune","CC_5":""}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[125.44796752929688,11.999420166015625],[125.45115661621094,12.002050399780273],[125.4572219848634,12.006830215454158],[125.44917297363293,12.015250205993652],[125.4426498413086,12.014860153198242],[125.44796752929688,11.999420166015625]]]},"properties":{"GID_0":"PHL","NAME_0":"Philippines","GID_1":"PHL.31_1","NAME_1":"Eastern Samar","NL_NAME_1":"","GID_2":"PHL.31.5_1","NAME_2":"Can-Avid","NL_NAME_2":"","GID_3":"PHL.31.5.6_1","NAME_3":"Barangay 4 Poblacion","VARNAME_3":"","NL_NAME_3":"","TYPE_3":"Barangay","ENGTYPE_3":"Village","CC_3":"","HASC_3":""}}
+]}

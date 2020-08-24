@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[4.947954177856559,46.00059127807623],[4.955439567566032,46.00246429443354],[4.959536075591984,46.00787734985363],[4.945060253143367,46.02951049804699],[4.909994602203483,46.02036285400402],[4.909554958343506,46.019252777099666],[4.919482707977409,46.00733947753912],[4.947954177856559,46.00059127807623]]]},"properties":{"GID_0":"FRA","NAME_0":"France","GID_1":"FRA.1_1","NAME_1":"Auvergne-Rhône-Alpes","GID_2":"FRA.1.1_1","NAME_2":"Ain","GID_3":"FRA.1.1.2_1","NAME_3":"Bourg-en-Bresse","GID_4":"FRA.1.1.2.17_1","NAME_4":"Saint-Trivier-sur-Moignans","GID_5":"FRA.1.1.2.17.11_1","NAME_5":"Sainte-Olive","TYPE_5":"Commune simple","ENGTYPE_5":"Commune","CC_5":""}}
+]}

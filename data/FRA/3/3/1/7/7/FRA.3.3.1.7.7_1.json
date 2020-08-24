@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[-1.1671508550643352,47.93417358398449],[-1.1595139503479004,47.939220428466854],[-1.161288857460022,47.95294570922857],[-1.1835519075393108,47.94318008422857],[-1.1794534921646118,47.937980651855526],[-1.1671508550643352,47.93417358398449]]]},"properties":{"GID_0":"FRA","NAME_0":"France","GID_1":"FRA.3_1","NAME_1":"Bretagne","GID_2":"FRA.3.3_1","NAME_2":"Ille-et-Vilaine","GID_3":"FRA.3.3.1_1","NAME_3":"Fougères-Vitré","GID_4":"FRA.3.3.1.7_1","NAME_4":"La Guerche-de-Bretagne","GID_5":"FRA.3.3.1.7.7_1","NAME_5":"La Selle-Guerchaise","TYPE_5":"Commune simple","ENGTYPE_5":"Commune","CC_5":""}}
+]}

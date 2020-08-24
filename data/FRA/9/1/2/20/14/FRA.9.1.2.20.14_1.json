@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[-0.40143030881881714,48.90118408203131],[-0.4111237823962597,48.91971206665039],[-0.42361879348754883,48.91594314575201],[-0.4298870265483288,48.910968780517635],[-0.4267898499965668,48.90562057495123],[-0.4103340804575737,48.90079498291021],[-0.40143030881881714,48.90118408203131]]]},"properties":{"GID_0":"FRA","NAME_0":"France","GID_1":"FRA.9_1","NAME_1":"Normandie","GID_2":"FRA.9.1_1","NAME_2":"Calvados","GID_3":"FRA.9.1.2_1","NAME_3":"Caen","GID_4":"FRA.9.1.2.20_1","NAME_4":"Thury-Harcourt","GID_5":"FRA.9.1.2.20.14_1","NAME_5":"La Pommeraye","TYPE_5":"Commune simple","ENGTYPE_5":"Commune","CC_5":""}}
+]}

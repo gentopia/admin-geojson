@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[121.11875152587902,15.690329551696777],[121.13665771484386,15.69651985168457],[121.12605285644531,15.70742034912115],[121.11579132080078,15.699660301208496],[121.11875152587902,15.690329551696777]]]},"properties":{"GID_0":"PHL","NAME_0":"Philippines","GID_1":"PHL.55_1","NAME_1":"Nueva Ecija","NL_NAME_1":"","GID_2":"PHL.55.23_1","NAME_2":"Rizal","NL_NAME_2":"","GID_3":"PHL.55.23.26_1","NAME_3":"Villa Paraiso","VARNAME_3":"","NL_NAME_3":"","TYPE_3":"Barangay","ENGTYPE_3":"Village","CC_3":"","HASC_3":""}}
+]}

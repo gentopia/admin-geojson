@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[122.4061508178711,13.519989967346191],[122.40947723388683,13.521470069885368],[122.40767669677734,13.52361965179449],[122.40528869628918,13.522439956665153],[122.40583801269543,13.52097034454357],[122.4061508178711,13.519989967346191]]]},"properties":{"GID_0":"PHL","NAME_0":"Philippines","GID_1":"PHL.62_1","NAME_1":"Quezon","NL_NAME_1":"","GID_2":"PHL.62.22_1","NAME_2":"Mulanay","NL_NAME_2":"","GID_3":"PHL.62.22.8_1","NAME_3":"Barangay 3","VARNAME_3":"Poblacion","NL_NAME_3":"","TYPE_3":"Barangay","ENGTYPE_3":"Village","CC_3":"","HASC_3":""}}
+]}

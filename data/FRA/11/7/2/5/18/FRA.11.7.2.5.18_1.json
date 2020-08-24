@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[0.4006328880786896,43.017204284668026],[0.40952420234680176,43.033092498779354],[0.4069399833679199,43.03546905517584],[0.39547213912015877,43.03242874145519],[0.39803391695022583,43.01964187622082],[0.4006328880786896,43.017204284668026]]]},"properties":{"GID_0":"FRA","NAME_0":"France","GID_1":"FRA.11_1","NAME_1":"Occitanie","GID_2":"FRA.11.7_1","NAME_2":"Hautes-Pyrénées","GID_3":"FRA.11.7.2_1","NAME_3":"Bagnères-de-Bigorre","GID_4":"FRA.11.7.2.5_1","NAME_4":"La Barthe-de-Neste","GID_5":"FRA.11.7.2.5.18_1","NAME_5":"Mazouau","TYPE_5":"Commune simple","ENGTYPE_5":"Commune","CC_5":""}}
+]}

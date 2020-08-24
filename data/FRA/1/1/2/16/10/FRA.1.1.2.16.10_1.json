@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[5.032587528228703,46.42107391357433],[5.050834655761776,46.42660140991211],[5.0813689231873695,46.42422103881847],[5.084526062011719,46.430137634277344],[5.065843582153434,46.44525909423834],[5.037125587463436,46.448104858398494],[5.032587528228703,46.42107391357433]]]},"properties":{"GID_0":"FRA","NAME_0":"France","GID_1":"FRA.1_1","NAME_1":"Auvergne-Rhône-Alpes","GID_2":"FRA.1.1_1","NAME_2":"Ain","GID_3":"FRA.1.1.2_1","NAME_3":"Bourg-en-Bresse","GID_4":"FRA.1.1.2.16_1","NAME_4":"Saint-Trivier-de-Courtes","GID_5":"FRA.1.1.2.16.10_1","NAME_5":"Servignat","TYPE_5":"Commune simple","ENGTYPE_5":"Commune","CC_5":""}}
+]}

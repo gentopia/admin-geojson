@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[2.7987284660339924,49.78067016601568],[2.798488855362052,49.79924774169922],[2.7944138050079914,49.801261901855526],[2.780769109725952,49.807743072509766],[2.7769119739533608,49.7849693298341],[2.784008741378841,49.780258178710994],[2.7987284660339924,49.78067016601568]]]},"properties":{"GID_0":"FRA","NAME_0":"France","GID_1":"FRA.7_1","NAME_1":"Hauts-de-France","GID_2":"FRA.7.5_1","NAME_2":"Somme","GID_3":"FRA.7.5.3_1","NAME_3":"Montdidier","GID_4":"FRA.7.5.3.4_1","NAME_4":"Rosières-en-Santerre","GID_5":"FRA.7.5.3.4.10_1","NAME_5":"Hallu","TYPE_5":"Commune simple","ENGTYPE_5":"Commune","CC_5":""}}
+]}

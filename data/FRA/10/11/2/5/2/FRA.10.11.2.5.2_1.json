@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[-0.5486114621161846,43.21246719360363],[-0.5354869365692139,43.22509765625006],[-0.5387057065963745,43.2386360168457],[-0.5566549301146893,43.22752761840832],[-0.5729818344116211,43.21319198608404],[-0.5526579022406963,43.205608367920036],[-0.5486114621161846,43.21246719360363]]]},"properties":{"GID_0":"FRA","NAME_0":"France","GID_1":"FRA.10_1","NAME_1":"Nouvelle-Aquitaine","GID_2":"FRA.10.11_1","NAME_2":"Pyrénées-Atlantiques","GID_3":"FRA.10.11.2_1","NAME_3":"Oloron-Sainte-Marie","GID_4":"FRA.10.11.2.5_1","NAME_4":"Lasseube","GID_5":"FRA.10.11.2.5.2_1","NAME_5":"Estialescq","TYPE_5":"Commune simple","ENGTYPE_5":"Commune","CC_5":""}}
+]}

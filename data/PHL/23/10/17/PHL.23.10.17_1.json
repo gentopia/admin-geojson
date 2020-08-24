@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[124.36176300048828,13.857789993286076],[124.36392974853527,13.859419822692814],[124.35980224609375,13.881469726562557],[124.3472671508789,13.87985992431635],[124.3483123779298,13.862250328064079],[124.36176300048828,13.857789993286076]]]},"properties":{"GID_0":"PHL","NAME_0":"Philippines","GID_1":"PHL.23_1","NAME_1":"Catanduanes","NL_NAME_1":"","GID_2":"PHL.23.10_1","NAME_2":"Viga","NL_NAME_2":"","GID_3":"PHL.23.10.17_1","NAME_3":"Quirino","VARNAME_3":"Abugan","NL_NAME_3":"","TYPE_3":"Barangay","ENGTYPE_3":"Village","CC_3":"","HASC_3":""}}
+]}

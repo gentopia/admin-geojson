@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[1.2755079269409748,48.72125625610363],[1.2983134984969524,48.73199462890631],[1.2972307205200195,48.74225997924816],[1.2824009656907265,48.74567413330078],[1.273746609687862,48.74246215820318],[1.268074393272343,48.73713684082037],[1.2755079269409748,48.72125625610363]]]},"properties":{"GID_0":"FRA","NAME_0":"France","GID_1":"FRA.4_1","NAME_1":"Centre-Val de Loire","GID_2":"FRA.4.2_1","NAME_2":"Eure-et-Loir","GID_3":"FRA.4.2.3_1","NAME_3":"Dreux","GID_4":"FRA.4.2.3.5_1","NAME_4":"Dreux-Ouest","GID_5":"FRA.4.2.3.5.5_1","NAME_5":"Louvilliers-en-Drouais","TYPE_5":"Commune simple","ENGTYPE_5":"Commune","CC_5":""}}
+]}

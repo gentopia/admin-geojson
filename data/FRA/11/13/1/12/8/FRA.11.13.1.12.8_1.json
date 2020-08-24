@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[1.903599739074707,43.961929321289176],[1.8947020769119263,43.97289276123047],[1.8702293634414673,43.96635055541998],[1.872351527214164,43.959865570068416],[1.8910650014877888,43.958042144775504],[1.903599739074707,43.961929321289176]]]},"properties":{"GID_0":"FRA","NAME_0":"France","GID_1":"FRA.11_1","NAME_1":"Occitanie","GID_2":"FRA.11.13_1","NAME_2":"Tarn","GID_3":"FRA.11.13.1_1","NAME_3":"Albi","GID_4":"FRA.11.13.1.12_1","NAME_4":"Castelnau-de-Montmiral","GID_5":"FRA.11.13.1.12.8_1","NAME_5":"Montels","TYPE_5":"Commune simple","ENGTYPE_5":"Commune","CC_5":""}}
+]}

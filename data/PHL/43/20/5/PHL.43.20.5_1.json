@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[124.96302795410168,11.028309822082463],[124.95720672607422,11.027420043945256],[124.95133972167991,11.026399612426815],[124.9556121826173,11.009539604187125],[124.96565246582054,11.009280204773006],[124.96302795410168,11.028309822082463]]]},"properties":{"GID_0":"PHL","NAME_0":"Philippines","GID_1":"PHL.43_1","NAME_1":"Leyte","NL_NAME_1":"","GID_2":"PHL.43.20_1","NAME_2":"Julita","NL_NAME_2":"","GID_3":"PHL.43.20.5_1","NAME_3":"Bongdo","VARNAME_3":"","NL_NAME_3":"","TYPE_3":"Barangay","ENGTYPE_3":"Village","CC_3":"","HASC_3":""}}
+]}

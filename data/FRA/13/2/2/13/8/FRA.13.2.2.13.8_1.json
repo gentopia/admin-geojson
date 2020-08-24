@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[6.993028163909969,43.90138244628906],[6.990231990814209,43.91806411743164],[6.972670555114803,43.92257690429693],[6.9530024528504555,43.898178100585994],[6.976700782775936,43.89902877807623],[6.9851393699646,43.895847320556754],[6.994039058685303,43.89801788330084],[6.993028163909969,43.90138244628906]]]},"properties":{"GID_0":"FRA","NAME_0":"France","GID_1":"FRA.13_1","NAME_1":"Provence-Alpes-Côte d'Azur","GID_2":"FRA.13.2_1","NAME_2":"Alpes-Maritimes","GID_3":"FRA.13.2.2_1","NAME_3":"Nice","GID_4":"FRA.13.2.2.13_1","NAME_4":"Puget-Théniers","GID_5":"FRA.13.2.2.13.8_1","NAME_5":"Saint-Antonin","TYPE_5":"Commune simple","ENGTYPE_5":"Commune","CC_5":""}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[-6.530813217163029,40.79004287719732],[-6.527234077453613,40.79560852050781],[-6.528988838195744,40.80480194091797],[-6.534571170806771,40.80768585205084],[-6.5440611839293865,40.793838500976676],[-6.536269187927189,40.78811645507824],[-6.530813217163029,40.79004287719732]]]},"properties":{"GID_0":"ESP","NAME_0":"Spain","GID_1":"ESP.5_1","NAME_1":"Castilla y León","GID_2":"ESP.5.5_1","NAME_2":"Salamanca","GID_3":"ESP.5.5.8_1","NAME_3":"n.a. (219)","GID_4":"ESP.5.5.8.31_1","NAME_4":"Olmedo de Camaces","VARNAME_4":"","TYPE_4":"Municipality","ENGTYPE_4":"Municipality","CC_4":""}}
+]}

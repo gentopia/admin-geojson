@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[3.602559089660758,49.482894897460994],[3.598200798034668,49.477046966552734],[3.6030199527741047,49.46455764770519],[3.616170644760132,49.46182250976557],[3.620590925216618,49.46358871459972],[3.6238799095154377,49.47667694091808],[3.602559089660758,49.482894897460994]]]},"properties":{"GID_0":"FRA","NAME_0":"France","GID_1":"FRA.7_1","NAME_1":"Hauts-de-France","GID_2":"FRA.7.1_1","NAME_2":"Aisne","GID_3":"FRA.7.1.2_1","NAME_3":"Laon","GID_4":"FRA.7.1.2.4_1","NAME_4":"Craonne","GID_5":"FRA.7.1.2.4.32_1","NAME_5":"Trucy","TYPE_5":"Commune simple","ENGTYPE_5":"Commune","CC_5":""}}
+]}

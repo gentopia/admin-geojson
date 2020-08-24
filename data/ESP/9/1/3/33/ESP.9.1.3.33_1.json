@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[-1.7429779767990112,42.97946929931652],[-1.7299909591674805,42.97822952270519],[-1.7165579795836834,42.98131179809582],[-1.7240790128707886,42.98418807983393],[-1.730932950973454,42.98486709594732],[-1.7355389595030601,42.982208251953125],[-1.7430189847945599,42.98170471191412],[-1.7429779767990112,42.97946929931652]]]},"properties":{"GID_0":"ESP","NAME_0":"Spain","GID_1":"ESP.9_1","NAME_1":"Comunidad Foral de Navarra","GID_2":"ESP.9.1_1","NAME_2":"Navarra","GID_3":"ESP.9.1.3_1","NAME_3":"n.a. (187)","GID_4":"ESP.9.1.3.33_1","NAME_4":"Facería de Suarbe (Ultzama) y Beuntza (Atez)","VARNAME_4":"","TYPE_4":"Municipality","ENGTYPE_4":"Municipality","CC_4":""}}
+]}

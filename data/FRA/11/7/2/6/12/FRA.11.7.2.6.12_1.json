@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[0.23210431635374107,43.08193206787104],[0.23468118906026803,43.07297515869135],[0.24762617051607094,43.07154846191412],[0.2491040825843811,43.08358383178711],[0.23845462501043357,43.086505889892635],[0.23210431635374107,43.08193206787104]]]},"properties":{"GID_0":"FRA","NAME_0":"France","GID_1":"FRA.11_1","NAME_1":"Occitanie","GID_2":"FRA.11.7_1","NAME_2":"Hautes-Pyrénées","GID_3":"FRA.11.7.2_1","NAME_3":"Bagnères-de-Bigorre","GID_4":"FRA.11.7.2.6_1","NAME_4":"Lannemezan","GID_5":"FRA.11.7.2.6.12_1","NAME_5":"Espieilh","TYPE_5":"Commune simple","ENGTYPE_5":"Commune","CC_5":""}}
+]}

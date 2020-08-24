@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[2.467055797576961,50.79967117309576],[2.456083536148128,50.78142929077143],[2.4750874042510986,50.75741958618164],[2.475484371185246,50.75868606567394],[2.481088876724243,50.78983306884771],[2.467055797576961,50.79967117309576]]]},"properties":{"GID_0":"FRA","NAME_0":"France","GID_1":"FRA.7_1","NAME_1":"Hauts-de-France","GID_2":"FRA.7.2_1","NAME_2":"Nord","GID_3":"FRA.7.2.4_1","NAME_3":"Dunkerque","GID_4":"FRA.7.2.4.6_1","NAME_4":"Cassel","GID_5":"FRA.7.2.4.6.8_1","NAME_5":"Oxelaëre","TYPE_5":"Commune simple","ENGTYPE_5":"Commune","CC_5":""}}
+]}

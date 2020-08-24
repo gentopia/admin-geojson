@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[4.467481136322135,47.52576446533209],[4.4614386558532715,47.530830383300724],[4.459017753601074,47.53320693969721],[4.431141376495418,47.52477645874035],[4.423981666565055,47.51996612548828],[4.429883480072135,47.50854873657238],[4.45645713806158,47.518268585205135],[4.467481136322135,47.52576446533209]]]},"properties":{"GID_0":"FRA","NAME_0":"France","GID_1":"FRA.2_1","NAME_1":"Bourgogne-Franche-Comté","GID_2":"FRA.2.1_1","NAME_2":"Côte-d'Or","GID_3":"FRA.2.1.3_1","NAME_3":"Montbard","GID_4":"FRA.2.1.3.11_1","NAME_4":"Venarey-les-Laumes","GID_5":"FRA.2.1.3.11.17_1","NAME_5":"Mussy-la-Fosse","TYPE_5":"Commune simple","ENGTYPE_5":"Commune","CC_5":""}}
+]}

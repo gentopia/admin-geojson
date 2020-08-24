@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[121.19790649414074,17.773279190063533],[121.24977874755871,17.775079727172965],[121.25021362304688,17.80830001831066],[121.22609710693382,17.807350158691406],[121.19677734375011,17.806470870971623],[121.19790649414074,17.773279190063533]]]},"properties":{"GID_0":"PHL","NAME_0":"Philippines","GID_1":"PHL.7_1","NAME_1":"Apayao","NL_NAME_1":"","GID_2":"PHL.7.2_1","NAME_2":"Conner","NL_NAME_2":"","GID_3":"PHL.7.2.17_1","NAME_3":"Paddaoan","VARNAME_3":"","NL_NAME_3":"","TYPE_3":"Barangay","ENGTYPE_3":"Village","CC_3":"","HASC_3":""}}
+]}

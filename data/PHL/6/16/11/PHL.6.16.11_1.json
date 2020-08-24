@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[122.1215591430664,11.352540016174373],[122.09470367431663,11.356260299682617],[122.08181762695312,11.355620384216422],[122.08091735839844,11.332269668579045],[122.12003326416016,11.332369804382381],[122.1215591430664,11.352540016174373]]]},"properties":{"GID_0":"PHL","NAME_0":"Philippines","GID_1":"PHL.6_1","NAME_1":"Antique","NL_NAME_1":"","GID_2":"PHL.6.16_1","NAME_2":"Tibiao","NL_NAME_2":"","GID_3":"PHL.6.16.11_1","NAME_3":"Pitac","VARNAME_3":"","NL_NAME_3":"","TYPE_3":"Barangay","ENGTYPE_3":"Village","CC_3":"","HASC_3":""}}
+]}

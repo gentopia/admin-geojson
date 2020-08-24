@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[5.707520484924316,48.5037078857423],[5.685457229614315,48.509292602539006],[5.669431686401481,48.50210189819347],[5.6601037979126545,48.49737930297846],[5.672712326049805,48.49206542968756],[5.701024055481071,48.49539566040045],[5.707520484924316,48.5037078857423]]]},"properties":{"GID_0":"FRA","NAME_0":"France","GID_1":"FRA.6_1","NAME_1":"Grand Est","GID_2":"FRA.6.8_1","NAME_2":"Meuse","GID_3":"FRA.6.8.2_1","NAME_3":"Commercy","GID_4":"FRA.6.8.2.5_1","NAME_4":"Vaucouleurs","GID_5":"FRA.6.8.2.5.3_1","NAME_5":"Burey-la-Côte","TYPE_5":"Commune simple","ENGTYPE_5":"Commune","CC_5":""}}
+]}

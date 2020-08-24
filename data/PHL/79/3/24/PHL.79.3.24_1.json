@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[123.36921691894543,8.622750282287654],[123.37021636962902,8.62730979919445],[123.37104797363281,8.631119728088379],[123.35823822021484,8.62827014923107],[123.36521911621105,8.616669654846248],[123.36775970458984,8.616930007934684],[123.36921691894543,8.622750282287654]]]},"properties":{"GID_0":"PHL","NAME_0":"Philippines","GID_1":"PHL.79_1","NAME_1":"Zamboanga del Norte","NL_NAME_1":"","GID_2":"PHL.79.3_1","NAME_2":"Dapitan City","NL_NAME_2":"","GID_3":"PHL.79.3.24_1","NAME_3":"Liyang","VARNAME_3":"","NL_NAME_3":"","TYPE_3":"Barangay","ENGTYPE_3":"Village","CC_3":"","HASC_3":""}}
+]}

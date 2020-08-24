@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[-101.5553359985351,32.9589195251466],[-101.55954742431635,33.39397048950201],[-102.07739257812494,33.38941192626953],[-102.07817077636719,32.96107101440424],[-101.69151306152338,32.959709167480526],[-101.5553359985351,32.9589195251466]]]},"properties":{"GID_0":"USA","NAME_0":"United States","GID_1":"USA.44_1","NAME_1":"Texas","NL_NAME_1":"","GID_2":"USA.44.153_1","NAME_2":"Lynn","VARNAME_2":"","NL_NAME_2":"","TYPE_2":"County","ENGTYPE_2":"County","CC_2":"","HASC_2":"US.TX.LY"}}
+]}

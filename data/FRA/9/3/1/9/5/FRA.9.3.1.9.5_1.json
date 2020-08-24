@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[-1.3890746831893352,48.814838409423885],[-1.3900623321532066,48.81700897216797],[-1.399142384529057,48.8190650939942],[-1.4082678556441692,48.816806793213004],[-1.413106441497746,48.79793167114269],[-1.4009106159210205,48.79721069335943],[-1.3890746831893352,48.814838409423885]]]},"properties":{"GID_0":"FRA","NAME_0":"France","GID_1":"FRA.9_1","NAME_1":"Normandie","GID_2":"FRA.9.3_1","NAME_2":"Manche","GID_3":"FRA.9.3.1_1","NAME_3":"Avranches","GID_4":"FRA.9.3.1.9_1","NAME_4":"La Haye-Pesnel","GID_5":"FRA.9.3.1.9.5_1","NAME_5":"Hocquigny","TYPE_5":"Commune simple","ENGTYPE_5":"Commune","CC_5":""}}
+]}

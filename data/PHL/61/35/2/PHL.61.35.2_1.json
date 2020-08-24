@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[120.43668365478527,16.06761932373047],[120.4354019165039,16.071529388427734],[120.43138122558605,16.071319580078182],[120.43206787109398,16.069799423217887],[120.4335708618164,16.066900253295955],[120.43668365478527,16.06761932373047]]]},"properties":{"GID_0":"PHL","NAME_0":"Philippines","GID_1":"PHL.61_1","NAME_1":"Pangasinan","NL_NAME_1":"","GID_2":"PHL.61.35_1","NAME_2":"San Jacinto","NL_NAME_2":"","GID_3":"PHL.61.35.2_1","NAME_3":"Bagong Pag-asa","VARNAME_3":"Poblacion East","NL_NAME_3":"","TYPE_3":"Barangay","ENGTYPE_3":"Village","CC_3":"","HASC_3":""}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[125.25308227539085,11.659660339355582],[125.28170013427757,11.676879882812443],[125.27879333496094,11.707949638366756],[125.16737365722656,11.689310073852482],[125.16792297363281,11.676050186157283],[125.25308227539085,11.659660339355582]]]},"properties":{"GID_0":"PHL","NAME_0":"Philippines","GID_1":"PHL.66_1","NAME_1":"Samar","NL_NAME_1":"","GID_2":"PHL.66.8_1","NAME_2":"Hinabangan","NL_NAME_2":"","GID_3":"PHL.66.8.20_1","NAME_3":"Tabay","VARNAME_3":"","NL_NAME_3":"","TYPE_3":"Barangay","ENGTYPE_3":"Village","CC_3":"","HASC_3":""}}
+]}

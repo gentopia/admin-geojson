@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[125.70889282226562,9.5552396774292],[125.7106628417971,9.558620452880973],[125.7155532836914,9.565640449523983],[125.71829986572277,9.569519996643066],[125.6913833618164,9.567480087280217],[125.69161987304699,9.55313968658453],[125.70889282226562,9.5552396774292]]]},"properties":{"GID_0":"PHL","NAME_0":"Philippines","GID_1":"PHL.74_1","NAME_1":"Surigao del Norte","NL_NAME_1":"","GID_2":"PHL.74.8_1","NAME_2":"Gigaquit","NL_NAME_2":"","GID_3":"PHL.74.8.7_1","NAME_3":"Mahanub","VARNAME_3":"","NL_NAME_3":"","TYPE_3":"Barangay","ENGTYPE_3":"Village","CC_3":"","HASC_3":""}}
+]}

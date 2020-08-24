@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[6.131045818328971,45.46491241455084],[6.139726161956901,45.466220855712834],[6.148813247680778,45.47740936279297],[6.143849372863826,45.480686187744254],[6.13442850112915,45.475830078125114],[6.124297618865967,45.46810913085943],[6.131045818328971,45.46491241455084]]]},"properties":{"GID_0":"FRA","NAME_0":"France","GID_1":"FRA.1_1","NAME_1":"Auvergne-Rhône-Alpes","GID_2":"FRA.1.12_1","NAME_2":"Savoie","GID_3":"FRA.1.12.2_1","NAME_3":"Chambéry","GID_4":"FRA.1.12.2.11_1","NAME_4":"La Rochette","GID_5":"FRA.1.12.2.11.13_1","NAME_5":"Rotherens","TYPE_5":"Commune simple","ENGTYPE_5":"Commune","CC_5":""}}
+]}

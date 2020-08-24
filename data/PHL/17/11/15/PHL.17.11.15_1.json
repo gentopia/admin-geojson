@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[120.8147430419923,14.83823013305664],[120.82230377197266,14.840889930725154],[120.82183074951172,14.851079940795898],[120.81282043457043,14.850740432739201],[120.8147430419923,14.83823013305664]]]},"properties":{"GID_0":"PHL","NAME_0":"Philippines","GID_1":"PHL.17_1","NAME_1":"Bulacan","NL_NAME_1":"","GID_2":"PHL.17.11_1","NAME_2":"Malolos City","NL_NAME_2":"","GID_3":"PHL.17.11.15_1","NAME_3":"Canalate","VARNAME_3":"","NL_NAME_3":"","TYPE_3":"Barangay","ENGTYPE_3":"Village","CC_3":"","HASC_3":""}}
+]}

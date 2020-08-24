@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[121.3650894165039,17.628870010375977],[121.39009094238281,17.630380630493164],[121.38939666748058,17.64129066467291],[121.37551879882824,17.6415691375733],[121.36502075195324,17.645040512085018],[121.3650894165039,17.628870010375977]]]},"properties":{"GID_0":"PHL","NAME_0":"Philippines","GID_1":"PHL.38_1","NAME_1":"Kalinga","NL_NAME_1":"","GID_2":"PHL.38.4_1","NAME_2":"Pinukpuk","NL_NAME_2":"","GID_3":"PHL.38.4.22_1","NAME_3":"Taggay","VARNAME_3":"","NL_NAME_3":"","TYPE_3":"Barangay","ENGTYPE_3":"Village","CC_3":"","HASC_3":""}}
+]}

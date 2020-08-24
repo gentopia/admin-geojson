@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[124.11186981201172,9.909190177917594],[124.12184143066429,9.917710304260368],[124.11686706542969,9.92090034484869],[124.10762023925781,9.920009613037166],[124.10164642333996,9.913629531860352],[124.11186981201172,9.909190177917594]]]},"properties":{"GID_0":"PHL","NAME_0":"Philippines","GID_1":"PHL.15_1","NAME_1":"Bohol","NL_NAME_1":"","GID_2":"PHL.15.37_1","NAME_2":"Sagbayan","NL_NAME_2":"","GID_3":"PHL.15.37.18_1","NAME_3":"San Ramon","VARNAME_3":"","NL_NAME_3":"","TYPE_3":"Barangay","ENGTYPE_3":"Village","CC_3":"","HASC_3":""}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[3.0137779712677,48.75085830688471],[2.992816686630249,48.764556884765625],[2.9822907447814373,48.75230789184576],[2.9677798748016926,48.748695373535156],[2.969367504119873,48.731697082519474],[2.9991979598999023,48.7280158996582],[3.0137779712677,48.75085830688471]]]},"properties":{"GID_0":"FRA","NAME_0":"France","GID_1":"FRA.8_1","NAME_1":"Île-de-France","GID_2":"FRA.8.4_1","NAME_2":"Seine-et-Marne","GID_3":"FRA.8.4.4_1","NAME_3":"Provins","GID_4":"FRA.8.4.4.8_1","NAME_4":"Rozay-en-Brie","GID_5":"FRA.8.4.4.8.15_1","NAME_5":"Pézarches","TYPE_5":"Commune simple","ENGTYPE_5":"Commune","CC_5":""}}
+]}

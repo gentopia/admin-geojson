@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[0.29321509599679985,43.053215026855526],[0.292491167783794,43.06895446777355],[0.27505242824554443,43.06470489501959],[0.2751651108264923,43.05214691162121],[0.29321509599679985,43.053215026855526]]]},"properties":{"GID_0":"FRA","NAME_0":"France","GID_1":"FRA.11_1","NAME_1":"Occitanie","GID_2":"FRA.11.7_1","NAME_2":"Hautes-Pyrénées","GID_3":"FRA.11.7.2_1","NAME_3":"Bagnères-de-Bigorre","GID_4":"FRA.11.7.2.5_1","NAME_4":"La Barthe-de-Neste","GID_5":"FRA.11.7.2.5.4_1","NAME_5":"Batsère","TYPE_5":"Commune simple","ENGTYPE_5":"Commune","CC_5":""}}
+]}

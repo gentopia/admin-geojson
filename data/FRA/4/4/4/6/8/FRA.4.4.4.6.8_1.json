@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[0.9601100087165833,46.70087814331055],[0.9698751568795387,46.69005966186529],[0.9874307513237,46.68716430664074],[0.9915680289268494,46.69279479980469],[0.9990227818490212,46.703632354736385],[0.9911679625511169,46.70715332031256],[0.9771827459335896,46.70648193359375],[0.9601100087165833,46.70087814331055]]]},"properties":{"GID_0":"FRA","NAME_0":"France","GID_1":"FRA.4_1","NAME_1":"Centre-Val de Loire","GID_2":"FRA.4.4_1","NAME_2":"Indre","GID_3":"FRA.4.4.4_1","NAME_3":"Le Blanc","GID_4":"FRA.4.4.4.6_1","NAME_4":"Tournon-Saint-Martin","GID_5":"FRA.4.4.4.6.8_1","NAME_5":"Preuilly-la-Ville","TYPE_5":"Commune simple","ENGTYPE_5":"Commune","CC_5":""}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[-0.8244997262954712,48.90380859375006],[-0.812440037727356,48.90976715087896],[-0.8079312443732078,48.922992706298885],[-0.801334023475647,48.92843246459955],[-0.8157537579536438,48.927936553955135],[-0.8326774835586548,48.91748428344732],[-0.8244997262954712,48.90380859375006]]]},"properties":{"GID_0":"FRA","NAME_0":"France","GID_1":"FRA.9_1","NAME_1":"Normandie","GID_2":"FRA.9.1_1","NAME_2":"Calvados","GID_3":"FRA.9.1.4_1","NAME_3":"Vire","GID_4":"FRA.9.1.4.3_1","NAME_4":"Le Bény-Bocage","GID_5":"FRA.9.1.4.3.1_1","NAME_5":"Beaulieu","TYPE_5":"Commune simple","ENGTYPE_5":"Commune","CC_5":""}}
+]}

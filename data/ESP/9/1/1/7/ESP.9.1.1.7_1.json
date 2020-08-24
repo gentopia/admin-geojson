@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[-1.7507410049438477,42.901077270507926],[-1.755476951599121,42.90029907226574],[-1.7583049535750206,42.896392822265625],[-1.7552900314331055,42.89482879638666],[-1.7466700077056885,42.89651870727545],[-1.748692035674992,42.90071868896496],[-1.7507410049438477,42.901077270507926]]]},"properties":{"GID_0":"ESP","NAME_0":"Spain","GID_1":"ESP.9_1","NAME_1":"Comunidad Foral de Navarra","GID_2":"ESP.9.1_1","NAME_2":"Navarra","GID_3":"ESP.9.1.1_1","NAME_3":"n.a. (185)","GID_4":"ESP.9.1.1.7_1","NAME_4":"Facería Aristregui (Juslapeña) y Sarasa (Iza)","VARNAME_4":"","TYPE_4":"Municipality","ENGTYPE_4":"Municipality","CC_4":""}}
+]}

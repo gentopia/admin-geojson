@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[124.78315734863293,8.043219566345215],[124.78385925292969,8.07087039947504],[124.72495269775402,8.074119567871094],[124.76779174804688,8.022259712219295],[124.78315734863293,8.043219566345215]]]},"properties":{"GID_0":"PHL","NAME_0":"Philippines","GID_1":"PHL.16_1","NAME_1":"Bukidnon","NL_NAME_1":"","GID_2":"PHL.16.21_1","NAME_2":"Talakag","NL_NAME_2":"","GID_3":"PHL.16.21.16_1","NAME_3":"Lapok","VARNAME_3":"","NL_NAME_3":"","TYPE_3":"Barangay","ENGTYPE_3":"Village","CC_3":"","HASC_3":""}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[1.391815423965511,47.66300582885748],[1.3825727701187702,47.65182113647472],[1.3838914632798378,47.64567565917969],[1.4109790325165363,47.63347625732422],[1.4168723821641152,47.639102935791016],[1.419935345649833,47.64227676391613],[1.391815423965511,47.66300582885748]]]},"properties":{"GID_0":"FRA","NAME_0":"France","GID_1":"FRA.4_1","NAME_1":"Centre-Val de Loire","GID_2":"FRA.4.5_1","NAME_2":"Loir-et-Cher","GID_3":"FRA.4.5.1_1","NAME_3":"Blois","GID_4":"FRA.4.5.1.9_1","NAME_4":"Mer","GID_5":"FRA.4.5.1.9.7_1","NAME_5":"Menars","TYPE_5":"Commune simple","ENGTYPE_5":"Commune","CC_5":""}}
+]}

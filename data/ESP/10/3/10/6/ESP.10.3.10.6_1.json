@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[-0.38260701298713684,39.422428131103516],[-0.38252800703048706,39.41991043090832],[-0.38103699684143066,39.41971588134771],[-0.3804740011692047,39.422332763671875],[-0.38260701298713684,39.422428131103516]]]},"properties":{"GID_0":"ESP","NAME_0":"Spain","GID_1":"ESP.10_1","NAME_1":"Comunidad Valenciana","GID_2":"ESP.10.3_1","NAME_2":"Valencia","GID_3":"ESP.10.3.10_1","NAME_3":"Horta Sud","GID_4":"ESP.10.3.10.6_1","NAME_4":"Lugar Nuevo de la Corona","VARNAME_4":"Llocnou de la Corona","TYPE_4":"Municipality","ENGTYPE_4":"Municipality","CC_4":""}}
+]}

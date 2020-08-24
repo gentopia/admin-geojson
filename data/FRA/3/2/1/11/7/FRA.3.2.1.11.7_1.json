@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[-4.401864051818848,48.54732131958019],[-4.394242763519287,48.55539703369152],[-4.4073424339293865,48.55976486206055],[-4.415945529937744,48.56101608276373],[-4.417240142822209,48.55431365966791],[-4.407179832458496,48.547000885009766],[-4.401864051818848,48.54732131958019]]]},"properties":{"GID_0":"FRA","NAME_0":"France","GID_1":"FRA.3_1","NAME_1":"Bretagne","GID_2":"FRA.3.2_1","NAME_2":"Finistère","GID_3":"FRA.3.2.1_1","NAME_3":"Brest","GID_4":"FRA.3.2.1.11_1","NAME_4":"Plabennec","GID_5":"FRA.3.2.1.11.7_1","NAME_5":"Loc-Brévalaire","TYPE_5":"Commune simple","ENGTYPE_5":"Commune","CC_5":""}}
+]}

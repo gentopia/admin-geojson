@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[121.47982788085949,18.26449012756359],[121.43683624267578,18.269540786743164],[121.4374465942384,18.262680053710994],[121.45468139648438,18.259170532226562],[121.48483276367188,18.253030776977653],[121.47982788085949,18.26449012756359]]]},"properties":{"GID_0":"PHL","NAME_0":"Philippines","GID_1":"PHL.7_1","NAME_1":"Apayao","NL_NAME_1":"","GID_2":"PHL.7.7_1","NAME_2":"Santa Marcela","NL_NAME_2":"","GID_3":"PHL.7.7.2_1","NAME_3":"Consuelo","VARNAME_3":"","NL_NAME_3":"","TYPE_3":"Barangay","ENGTYPE_3":"Village","CC_3":"","HASC_3":""}}
+]}

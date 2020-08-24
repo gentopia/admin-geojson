@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[55.59004592895502,25.375980377197266],[55.600860595703125,25.376678466796932],[55.61940002441412,25.39808082580572],[55.595840454101676,25.39773178100586],[55.59004592895502,25.375980377197266]]]},"properties":{"GID_0":"ARE","NAME_0":"United Arab Emirates","GID_1":"ARE.2_1","NAME_1":"Ajman","NL_NAME_1":"عجمان","GID_2":"ARE.2.40_1","NAME_2":"Helio 2","NL_NAME_2":"عجمان","GID_3":"ARE.2.40.1_1","NAME_3":"","VARNAME_3":"","NL_NAME_3":"","TYPE_3":"","ENGTYPE_3":"","CC_3":"","HASC_3":""}}
+]}

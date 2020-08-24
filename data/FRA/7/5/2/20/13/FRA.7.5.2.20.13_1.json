@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[2.2882602214812664,49.99366378784191],[2.2958831787109943,49.990566253662166],[2.3048434257507893,49.99147796630871],[2.304378271103019,49.99798965454107],[2.2921566963195232,50.00405502319336],[2.285508871078491,49.99610900878906],[2.2882602214812664,49.99366378784191]]]},"properties":{"GID_0":"FRA","NAME_0":"France","GID_1":"FRA.7_1","NAME_1":"Hauts-de-France","GID_2":"FRA.7.5_1","NAME_2":"Somme","GID_3":"FRA.7.5.2_1","NAME_3":"Amiens","GID_4":"FRA.7.5.2.20_1","NAME_4":"Villers-Bocage","GID_5":"FRA.7.5.2.20.13_1","NAME_5":"Montonvillers","TYPE_5":"Commune simple","ENGTYPE_5":"Commune","CC_5":""}}
+]}

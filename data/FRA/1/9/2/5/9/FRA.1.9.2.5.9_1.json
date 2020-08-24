@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[4.105497360229549,45.99800109863287],[4.134546756744442,46.001823425293026],[4.129046440124512,46.012763977050724],[4.0995097160339355,46.02235031127941],[4.105435848236141,46.00588226318371],[4.105497360229549,45.99800109863287]]]},"properties":{"GID_0":"FRA","NAME_0":"France","GID_1":"FRA.1_1","NAME_1":"Auvergne-Rhône-Alpes","GID_2":"FRA.1.9_1","NAME_2":"Loire","GID_3":"FRA.1.9.2_1","NAME_3":"Roanne","GID_4":"FRA.1.9.2.5_1","NAME_4":"Perreux","GID_5":"FRA.1.9.2.5.9_1","NAME_5":"Saint-Vincent-de-Boisset","TYPE_5":"Commune simple","ENGTYPE_5":"Commune","CC_5":""}}
+]}

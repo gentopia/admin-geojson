@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[2.204245090484733,48.990024566650504],[2.213236808776969,49.00173187255871],[2.1971011161805336,49.007549285888786],[2.1936161518097492,49.005744934082145],[2.1739237308502766,48.98656463623047],[2.1834378242492107,48.97934722900396],[2.204245090484733,48.990024566650504]]]},"properties":{"GID_0":"FRA","NAME_0":"France","GID_1":"FRA.8_1","NAME_1":"Île-de-France","GID_2":"FRA.8.6_1","NAME_2":"Val-d'Oise","GID_3":"FRA.8.6.1_1","NAME_3":"Argenteuil","GID_4":"FRA.8.6.1.3_1","NAME_4":"Cormeilles-en-Parisis","GID_5":"FRA.8.6.1.3.2_1","NAME_5":"Montigny-lès-Cormeilles","TYPE_5":"Commune simple","ENGTYPE_5":"Commune","CC_5":""}}
+]}

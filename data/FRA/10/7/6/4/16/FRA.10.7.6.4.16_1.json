@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[-0.3581860661506653,44.968276977539176],[-0.3489479124544914,44.97407150268566],[-0.3433617949485779,44.97811508178722],[-0.35554376244544983,44.98265838623047],[-0.3622977137565613,44.97946166992193],[-0.3622862398623852,44.97038650512701],[-0.3581860661506653,44.968276977539176]]]},"properties":{"GID_0":"FRA","NAME_0":"France","GID_1":"FRA.10_1","NAME_1":"Nouvelle-Aquitaine","GID_2":"FRA.10.7_1","NAME_2":"Gironde","GID_3":"FRA.10.7.6_1","NAME_3":"Libourne","GID_4":"FRA.10.7.6.4_1","NAME_4":"Fronsac","GID_5":"FRA.10.7.6.4.16_1","NAME_5":"Tarnès","TYPE_5":"Commune simple","ENGTYPE_5":"Commune","CC_5":""}}
+]}

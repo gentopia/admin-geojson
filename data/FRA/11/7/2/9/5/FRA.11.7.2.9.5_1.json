@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[0.365555793047065,42.83613204956066],[0.3566045463085743,42.842903137207145],[0.347065806388855,42.836521148681754],[0.3517501950263977,42.829502105712834],[0.36332687735557556,42.81817245483404],[0.365555793047065,42.83613204956066]]]},"properties":{"GID_0":"FRA","NAME_0":"France","GID_1":"FRA.11_1","NAME_1":"Occitanie","GID_2":"FRA.11.7_1","NAME_2":"Hautes-Pyrénées","GID_3":"FRA.11.7.2_1","NAME_3":"Bagnères-de-Bigorre","GID_4":"FRA.11.7.2.9_1","NAME_4":"Vielle-Aure","GID_5":"FRA.11.7.2.9.5_1","NAME_5":"Camparan","TYPE_5":"Commune simple","ENGTYPE_5":"Commune","CC_5":""}}
+]}

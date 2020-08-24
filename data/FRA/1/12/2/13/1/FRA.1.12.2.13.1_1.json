@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[5.791041374206657,45.54438400268566],[5.804627895355338,45.54248809814459],[5.818726539611816,45.52218627929699],[5.829930782318058,45.549350738525504],[5.820529460907096,45.56697463989258],[5.803593635559139,45.563632965088004],[5.800889015197868,45.55934906005871],[5.791041374206657,45.54438400268566]]]},"properties":{"GID_0":"FRA","NAME_0":"France","GID_1":"FRA.1_1","NAME_1":"Auvergne-Rhône-Alpes","GID_2":"FRA.1.12_1","NAME_2":"Savoie","GID_3":"FRA.1.12.2_1","NAME_3":"Chambéry","GID_4":"FRA.1.12.2.13_1","NAME_4":"Le Pont-de-Beauvoisin","GID_5":"FRA.1.12.2.13.1_1","NAME_5":"Aiguebelette-le-Lac","TYPE_5":"Commune simple","ENGTYPE_5":"Commune","CC_5":""}}
+]}

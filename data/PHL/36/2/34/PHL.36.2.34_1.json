@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[122.43546295166016,10.834150314330998],[122.45075225830078,10.832030296325797],[122.45468902587902,10.831669807434082],[122.45773315429699,10.835330009460506],[122.45014190673828,10.843790054321232],[122.43546295166016,10.834150314330998]]]},"properties":{"GID_0":"PHL","NAME_0":"Philippines","GID_1":"PHL.36_1","NAME_1":"Iloilo","NL_NAME_1":"","GID_2":"PHL.36.2_1","NAME_2":"Alimodian","NL_NAME_2":"","GID_3":"PHL.36.2.34_1","NAME_3":"Manduyog","VARNAME_3":"","NL_NAME_3":"","TYPE_3":"Barangay","ENGTYPE_3":"Village","CC_3":"","HASC_3":""}}
+]}

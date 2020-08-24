@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[6.08200836181652,45.4930419921875],[6.073477745056152,45.503505706787166],[6.047892093658447,45.49125289916992],[6.057748794555664,45.48434448242193],[6.0797066688538735,45.4901237487793],[6.08200836181652,45.4930419921875]]]},"properties":{"GID_0":"FRA","NAME_0":"France","GID_1":"FRA.1_1","NAME_1":"Auvergne-Rhône-Alpes","GID_2":"FRA.1.12_1","NAME_2":"Savoie","GID_3":"FRA.1.12.2_1","NAME_3":"Chambéry","GID_4":"FRA.1.12.2.15_1","NAME_4":"Montmélian","GID_5":"FRA.1.12.2.15.5_1","NAME_5":"La Chavanne","TYPE_5":"Commune simple","ENGTYPE_5":"Commune","CC_5":""}}
+]}

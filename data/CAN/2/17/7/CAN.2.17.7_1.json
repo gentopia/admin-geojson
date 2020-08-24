@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[-127.40350341796875,50.693374633789176],[-127.40352630615229,50.69393920898449],[-127.40589904785156,50.69376754760748],[-127.40595245361328,50.6932106018067],[-127.40349578857422,50.69305419921875],[-127.40350341796875,50.693374633789176]]]},"properties":{"GID_0":"CAN","NAME_0":"Canada","GID_1":"CAN.2_1","NAME_1":"British Columbia","NL_NAME_1":"","GID_2":"CAN.2.17_1","NAME_2":"Mount Waddington","NL_NAME_2":"","GID_3":"CAN.2.17.7_1","NAME_3":"Fort Rupert 1","VARNAME_3":"","NL_NAME_3":"","TYPE_3":"Réserve Indienne","ENGTYPE_3":"Indian Reserve","CC_3":"","HASC_3":""}}
+]}

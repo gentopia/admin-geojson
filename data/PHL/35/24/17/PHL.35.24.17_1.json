@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[120.46439361572266,17.138210296630916],[120.46723937988293,17.149839401245117],[120.45040893554699,17.151369094848746],[120.45459747314464,17.140020370483512],[120.45796966552734,17.13969039916998],[120.46439361572266,17.138210296630916]]]},"properties":{"GID_0":"PHL","NAME_0":"Philippines","GID_1":"PHL.35_1","NAME_1":"Ilocos Sur","NL_NAME_1":"","GID_2":"PHL.35.24_1","NAME_2":"Santa Lucia","NL_NAME_2":"","GID_3":"PHL.35.24.17_1","NAME_3":"Lubong","VARNAME_3":"","NL_NAME_3":"","TYPE_3":"Barangay","ENGTYPE_3":"Village","CC_3":"","HASC_3":""}}
+]}

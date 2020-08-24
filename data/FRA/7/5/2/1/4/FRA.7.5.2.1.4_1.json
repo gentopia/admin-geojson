@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[2.569643259048462,50.122604370117244],[2.58663463592535,50.13736343383789],[2.580650568008423,50.13780975341797],[2.576432466506958,50.139278411865234],[2.5683701038361164,50.13596343994146],[2.5594336986542316,50.12884521484375],[2.569643259048462,50.122604370117244]]]},"properties":{"GID_0":"FRA","NAME_0":"France","GID_1":"FRA.7_1","NAME_1":"Hauts-de-France","GID_2":"FRA.7.5_1","NAME_2":"Somme","GID_3":"FRA.7.5.2_1","NAME_3":"Amiens","GID_4":"FRA.7.5.2.1_1","NAME_4":"Acheux-en-Amiénois","GID_5":"FRA.7.5.2.1.4_1","NAME_5":"Bayencourt","TYPE_5":"Commune simple","ENGTYPE_5":"Commune","CC_5":""}}
+]}

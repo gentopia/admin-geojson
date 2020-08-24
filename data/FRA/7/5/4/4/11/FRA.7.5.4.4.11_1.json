@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[2.824401378631592,49.95319366455078],[2.8285160064698402,49.94679260253912],[2.8535034656525227,49.951442718505916],[2.855248928070125,49.96429824829113],[2.847816228866634,49.967845916748104],[2.83799862861639,49.967788696289176],[2.824401378631592,49.95319366455078]]]},"properties":{"GID_0":"FRA","NAME_0":"France","GID_1":"FRA.7_1","NAME_1":"Hauts-de-France","GID_2":"FRA.7.5_1","NAME_2":"Somme","GID_3":"FRA.7.5.4_1","NAME_3":"Péronne","GID_4":"FRA.7.5.4.4_1","NAME_4":"Combles","GID_5":"FRA.7.5.4.4.11_1","NAME_5":"Hem-Monacu","TYPE_5":"Commune simple","ENGTYPE_5":"Commune","CC_5":""}}
+]}

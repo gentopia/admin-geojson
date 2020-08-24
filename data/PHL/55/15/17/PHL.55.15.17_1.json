@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[121.02033996582043,15.6805801391601],[121.01973724365246,15.683469772338867],[121.01635742187511,15.688179969787654],[121.0002212524414,15.682609558105526],[121.00052642822277,15.668560028076229],[121.02033996582043,15.6805801391601]]]},"properties":{"GID_0":"PHL","NAME_0":"Philippines","GID_1":"PHL.55_1","NAME_1":"Nueva Ecija","NL_NAME_1":"","GID_2":"PHL.55.15_1","NAME_2":"Llanera","NL_NAME_2":"","GID_3":"PHL.55.15.17_1","NAME_3":"San Francisco","VARNAME_3":"","NL_NAME_3":"","TYPE_3":"Barangay","ENGTYPE_3":"Village","CC_3":"","HASC_3":""}}
+]}

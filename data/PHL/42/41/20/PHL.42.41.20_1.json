@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[124.14785766601562,7.878089904785213],[124.1484603881836,7.878749847412166],[124.14969635009777,7.880149841308594],[124.14692687988281,7.8838701248168945],[124.14481353759766,7.881100177764893],[124.14785766601562,7.878089904785213]]]},"properties":{"GID_0":"PHL","NAME_0":"Philippines","GID_1":"PHL.42_1","NAME_1":"Lanao del Sur","NL_NAME_1":"","GID_2":"PHL.42.41_1","NAME_2":"Tugaya","NL_NAME_2":"","GID_3":"PHL.42.41.20_1","NAME_3":"Sugod I","VARNAME_3":"","NL_NAME_3":"","TYPE_3":"Barangay","ENGTYPE_3":"Village","CC_3":"","HASC_3":""}}
+]}

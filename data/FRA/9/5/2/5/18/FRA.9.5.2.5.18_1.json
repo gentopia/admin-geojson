@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[0.29512846469884835,49.626144409179744],[0.28592297434806824,49.59792327880865],[0.3124616742135231,49.59754943847662],[0.3254515230655102,49.60338592529297],[0.3191321492196266,49.626884460449276],[0.29512846469884835,49.626144409179744]]]},"properties":{"GID_0":"FRA","NAME_0":"France","GID_1":"FRA.9_1","NAME_1":"Normandie","GID_2":"FRA.9.5_1","NAME_2":"Seine-Maritime","GID_3":"FRA.9.5.2_1","NAME_3":"Le Havre","GID_4":"FRA.9.5.2.5_1","NAME_4":"Goderville","GID_5":"FRA.9.5.2.5.18_1","NAME_5":"Saint-Sauveur-d'Émalleville","TYPE_5":"Commune simple","ENGTYPE_5":"Commune","CC_5":""}}
+]}

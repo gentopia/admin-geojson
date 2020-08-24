@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[125.02288818359386,12.573369979858455],[125.0230636596682,12.576270103454647],[125.01718139648449,12.577529907226506],[125.01500701904297,12.574729919433594],[125.0170135498048,12.574419975280762],[125.02288818359386,12.573369979858455]]]},"properties":{"GID_0":"PHL","NAME_0":"Philippines","GID_1":"PHL.54_1","NAME_1":"Northern Samar","NL_NAME_1":"","GID_2":"PHL.54.8_1","NAME_2":"Laoang","NL_NAME_2":"","GID_3":"PHL.54.8.32_1","NAME_3":"Little Venice","VARNAME_3":"Poblacion","NL_NAME_3":"","TYPE_3":"Barangay","ENGTYPE_3":"Village","CC_3":"","HASC_3":""}}
+]}

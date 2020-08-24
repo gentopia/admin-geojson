@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[122.41525268554688,10.83600997924799],[122.42572021484375,10.841819763183707],[122.41841125488293,10.851209640502987],[122.41243743896484,10.849089622497559],[122.4024429321289,10.841010093689079],[122.41525268554688,10.83600997924799]]]},"properties":{"GID_0":"PHL","NAME_0":"Philippines","GID_1":"PHL.36_1","NAME_1":"Iloilo","NL_NAME_1":"","GID_2":"PHL.36.2_1","NAME_2":"Alimodian","NL_NAME_2":"","GID_3":"PHL.36.2.25_1","NAME_3":"Ginomoy","VARNAME_3":"","NL_NAME_3":"","TYPE_3":"Barangay","ENGTYPE_3":"Village","CC_3":"","HASC_3":""}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[0.02708795480441495,44.74843215942394],[0.049523945897874455,44.754547119140625],[0.05177323147660218,44.76422119140619],[0.02692605741327725,44.774936676025504],[0.019785957411045274,44.76646423339855],[0.020519718527793884,44.750228881835994],[0.02708795480441495,44.74843215942394]]]},"properties":{"GID_0":"FRA","NAME_0":"France","GID_1":"FRA.10_1","NAME_1":"Nouvelle-Aquitaine","GID_2":"FRA.10.7_1","NAME_2":"Gironde","GID_3":"FRA.10.7.4_1","NAME_3":"Langon","GID_4":"FRA.10.7.4.9_1","NAME_4":"Pellegrue","GID_5":"FRA.10.7.4.9.5_1","NAME_5":"Listrac-de-Durèze","TYPE_5":"Commune simple","ENGTYPE_5":"Commune","CC_5":""}}
+]}

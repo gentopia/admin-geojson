@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[3.613605260848942,45.149742126464844],[3.604649543762264,45.1640892028808],[3.5928142070770264,45.16783523559576],[3.561910629272518,45.168075561523494],[3.5552787780762856,45.162948608398494],[3.5736336708069985,45.14696502685558],[3.6071717739105793,45.146713256835994],[3.613605260848942,45.149742126464844]]]},"properties":{"GID_0":"FRA","NAME_0":"France","GID_1":"FRA.1_1","NAME_1":"Auvergne-Rhône-Alpes","GID_2":"FRA.1.6_1","NAME_2":"Haute-Loire","GID_3":"FRA.1.6.1_1","NAME_3":"Brioude","GID_4":"FRA.1.6.1.9_1","NAME_4":"Paulhaguet","GID_5":"FRA.1.6.1.9.2_1","NAME_5":"Chavaniac-Lafayette","TYPE_5":"Commune simple","ENGTYPE_5":"Commune","CC_5":""}}
+]}

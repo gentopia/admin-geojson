@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[-0.5994970798491863,48.80195236206066],[-0.6061474084854126,48.78953552246094],[-0.6015760898590088,48.769317626953125],[-0.5964383482932476,48.769672393798885],[-0.5900341868400005,48.782493591308594],[-0.5994970798491863,48.80195236206066]]]},"properties":{"GID_0":"FRA","NAME_0":"France","GID_1":"FRA.9_1","NAME_1":"Normandie","GID_2":"FRA.9.4_1","NAME_2":"Orne","GID_3":"FRA.9.4.2_1","NAME_3":"Argentan","GID_4":"FRA.9.4.2.8_1","NAME_4":"Flers-Nord","GID_5":"FRA.9.4.2.8.4_1","NAME_5":"La Bazoque","TYPE_5":"Commune simple","ENGTYPE_5":"Commune","CC_5":""}}
+]}

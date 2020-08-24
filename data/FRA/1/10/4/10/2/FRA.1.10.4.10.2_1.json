@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[3.379183530807495,45.981277465820426],[3.390368700027466,45.97934722900402],[3.39266753196722,45.98474884033203],[3.395676851272583,46.0170249938966],[3.3721933364868732,46.00388336181646],[3.3670272827149006,45.99074554443365],[3.379183530807495,45.981277465820426]]]},"properties":{"GID_0":"FRA","NAME_0":"France","GID_1":"FRA.1_1","NAME_1":"Auvergne-Rhône-Alpes","GID_2":"FRA.1.10_1","NAME_2":"Puy-de-Dôme","GID_3":"FRA.1.10.4_1","NAME_3":"Riom","GID_4":"FRA.1.10.4.10_1","NAME_4":"Randan","GID_5":"FRA.1.10.4.10.2_1","NAME_5":"Beaumont-lès-Randan","TYPE_5":"Commune simple","ENGTYPE_5":"Commune","CC_5":""}}
+]}

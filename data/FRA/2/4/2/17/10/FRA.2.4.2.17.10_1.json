@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[5.511192321777344,46.44287490844732],[5.518272876739559,46.46356582641596],[5.5174717903137775,46.47022247314459],[5.510085105896053,46.4734725952149],[5.507963180542049,46.46448516845703],[5.50189828872675,46.447940826416016],[5.504472255706787,46.444957733154354],[5.511192321777344,46.44287490844732]]]},"properties":{"GID_0":"FRA","NAME_0":"France","GID_1":"FRA.2_1","NAME_1":"Bourgogne-Franche-Comté","GID_2":"FRA.2.4_1","NAME_2":"Jura","GID_3":"FRA.2.4.2_1","NAME_3":"Lons-le-Saunier","GID_4":"FRA.2.4.2.17_1","NAME_4":"Saint-Julien","GID_5":"FRA.2.4.2.17.10_1","NAME_5":"Monnetay","TYPE_5":"Commune simple","ENGTYPE_5":"Commune","CC_5":""}}
+]}

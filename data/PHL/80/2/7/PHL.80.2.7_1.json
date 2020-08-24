@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[123.06070709228516,7.927539825439453],[123.06876373291016,7.953710079193229],[123.03843688964844,7.9712300300598145],[123.02999114990234,7.964960098266658],[123.05740356445324,7.931509971618709],[123.06070709228516,7.927539825439453]]]},"properties":{"GID_0":"PHL","NAME_0":"Philippines","GID_1":"PHL.80_1","NAME_1":"Zamboanga del Sur","NL_NAME_1":"","GID_2":"PHL.80.2_1","NAME_2":"Bayog","NL_NAME_2":"","GID_3":"PHL.80.2.7_1","NAME_3":"Canoayan","VARNAME_3":"","NL_NAME_3":"","TYPE_3":"Barangay","ENGTYPE_3":"Village","CC_3":"","HASC_3":""}}
+]}

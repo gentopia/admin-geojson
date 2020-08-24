@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[1.9234980344772339,49.75173950195307],[1.9224423170090859,49.76235198974615],[1.9110867977142902,49.773185729980526],[1.904888033866996,49.76138687133789],[1.91407942771923,49.74987030029297],[1.9234980344772339,49.75173950195307]]]},"properties":{"GID_0":"FRA","NAME_0":"France","GID_1":"FRA.7_1","NAME_1":"Hauts-de-France","GID_2":"FRA.7.5_1","NAME_2":"Somme","GID_3":"FRA.7.5.2_1","NAME_3":"Amiens","GID_4":"FRA.7.5.2.19_1","NAME_4":"Poix-de-Picardie","GID_5":"FRA.7.5.2.19.26_1","NAME_5":"Sainte-Segrée","TYPE_5":"Commune simple","ENGTYPE_5":"Commune","CC_5":""}}
+]}

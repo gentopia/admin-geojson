@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[125.22672271728516,11.138660430908317],[125.21536254882824,11.135789871215934],[125.21661376953125,11.124850273132381],[125.22630310058594,11.12407016754156],[125.22672271728516,11.138660430908317]]]},"properties":{"GID_0":"PHL","NAME_0":"Philippines","GID_1":"PHL.66_1","NAME_1":"Samar","NL_NAME_1":"","GID_2":"PHL.66.10_1","NAME_2":"Marabut","NL_NAME_2":"","GID_3":"PHL.66.10.2_1","NAME_3":"Amantillo","VARNAME_3":"","NL_NAME_3":"","TYPE_3":"Barangay","ENGTYPE_3":"Village","CC_3":"","HASC_3":""}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[121.19825744628929,14.471030235290584],[121.20974731445324,14.47360992431635],[121.2090835571289,14.478870391845646],[121.19700622558594,14.474749565124569],[121.19825744628929,14.471030235290584]]]},"properties":{"GID_0":"PHL","NAME_0":"Philippines","GID_1":"PHL.64_1","NAME_1":"Rizal","NL_NAME_1":"","GID_2":"PHL.64.4_1","NAME_2":"Binangonan","NL_NAME_2":"","GID_3":"PHL.64.4.27_1","NAME_3":"Mambog","VARNAME_3":"","NL_NAME_3":"","TYPE_3":"Barangay","ENGTYPE_3":"Village","CC_3":"","HASC_3":""}}
+]}

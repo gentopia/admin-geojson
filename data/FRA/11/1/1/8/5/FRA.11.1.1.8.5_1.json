@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[1.6222289800643352,42.85333251953131],[1.628580927848816,42.85714721679693],[1.6336030960084145,42.868671417236385],[1.6193257570267292,42.87056350708008],[1.608567714691219,42.86690902709961],[1.6040152311325073,42.86199188232433],[1.6222289800643352,42.85333251953131]]]},"properties":{"GID_0":"FRA","NAME_0":"France","GID_1":"FRA.11_1","NAME_1":"Occitanie","GID_2":"FRA.11.1_1","NAME_2":"Ariège","GID_3":"FRA.11.1.1_1","NAME_3":"Foix","GID_4":"FRA.11.1.1.8_1","NAME_4":"Tarascon-sur-Ariège","GID_5":"FRA.11.1.1.8.5_1","NAME_5":"Bompas","TYPE_5":"Commune simple","ENGTYPE_5":"Commune","CC_5":""}}
+]}

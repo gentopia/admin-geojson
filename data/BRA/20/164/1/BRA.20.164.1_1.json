@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[-35.33742141723633,-6.290771007537842],[-35.328769683837834,-6.244485855102539],[-35.35653686523432,-6.245610237121582],[-35.3579216003418,-6.249810218811035],[-35.3744010925293,-6.289460182189941],[-35.33742141723633,-6.290771007537842]]]},"properties":{"GID_0":"BRA","NAME_0":"Brazil","GID_1":"BRA.20_1","NAME_1":"Rio Grande do Norte","NL_NAME_1":"","GID_2":"BRA.20.164_1","NAME_2":"Várzea","NL_NAME_2":"","GID_3":"BRA.20.164.1_1","NAME_3":"Jundia de Cima","VARNAME_3":"","NL_NAME_3":"","TYPE_3":"Distrito","ENGTYPE_3":"District","CC_3":"","HASC_3":""}}
+]}

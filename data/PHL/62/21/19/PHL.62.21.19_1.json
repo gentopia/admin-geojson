@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[121.73223114013672,14.193039894104118],[121.7354965209961,14.194589614868278],[121.73103332519543,14.195329666137809],[121.72606658935558,14.196169853210392],[121.7262420654298,14.193269729614371],[121.73223114013672,14.193039894104118]]]},"properties":{"GID_0":"PHL","NAME_0":"Philippines","GID_1":"PHL.62_1","NAME_1":"Quezon","NL_NAME_1":"","GID_2":"PHL.62.21_1","NAME_2":"Mauban","NL_NAME_2":"","GID_3":"PHL.62.21.19_1","NAME_3":"Mabato","VARNAME_3":"Poblacion","NL_NAME_3":"","TYPE_3":"Barangay","ENGTYPE_3":"Village","CC_3":"","HASC_3":""}}
+]}

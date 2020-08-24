@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[121.09736633300793,16.23739051818842],[121.11144256591797,16.239440917968693],[121.10527038574219,16.26597976684576],[121.07454681396484,16.263259887695426],[121.05349731445324,16.252510070800838],[121.07763671875,16.234870910644474],[121.09736633300793,16.23739051818842]]]},"properties":{"GID_0":"PHL","NAME_0":"Philippines","GID_1":"PHL.56_1","NAME_1":"Nueva Vizcaya","NL_NAME_1":"","GID_2":"PHL.56.3_1","NAME_2":"Aritao","NL_NAME_2":"","GID_3":"PHL.56.3.15_1","NAME_3":"Latar-Nocnoc-San Francisco","VARNAME_3":"","NL_NAME_3":"","TYPE_3":"Barangay","ENGTYPE_3":"Village","CC_3":"","HASC_3":""}}
+]}

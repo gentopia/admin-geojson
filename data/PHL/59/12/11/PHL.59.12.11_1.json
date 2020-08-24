@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[119.62393951416027,10.520500183105469],[119.62843322753906,10.546090126037598],[119.5700912475586,10.533329963684196],[119.56725311279297,10.514550209045353],[119.62084197998047,10.50222015380865],[119.62393951416027,10.520500183105469]]]},"properties":{"GID_0":"PHL","NAME_0":"Philippines","GID_1":"PHL.59_1","NAME_1":"Palawan","NL_NAME_1":"","GID_2":"PHL.59.12_1","NAME_2":"Dumaran","NL_NAME_2":"","GID_3":"PHL.59.12.11_1","NAME_3":"Magsaysay","VARNAME_3":"","NL_NAME_3":"","TYPE_3":"Barangay","ENGTYPE_3":"Village","CC_3":"","HASC_3":""}}
+]}

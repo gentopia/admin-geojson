@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[121.70953369140625,16.842369079589844],[121.71544647216797,16.86241912841797],[121.69457244873058,16.867519378662166],[121.68251037597656,16.8702907562257],[121.68213653564453,16.849170684814453],[121.70953369140625,16.842369079589844]]]},"properties":{"GID_0":"PHL","NAME_0":"Philippines","GID_1":"PHL.37_1","NAME_1":"Isabela","NL_NAME_1":"","GID_2":"PHL.37.1_1","NAME_2":"Alicia","NL_NAME_2":"","GID_3":"PHL.37.1.26_1","NAME_3":"San Juan","VARNAME_3":"","NL_NAME_3":"","TYPE_3":"Barangay","ENGTYPE_3":"Village","CC_3":"","HASC_3":""}}
+]}

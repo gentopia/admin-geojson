@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[122.62722778320312,11.33386039733898],[122.63176727294922,11.338809967041016],[122.61866760253918,11.352230072021541],[122.6140365600586,11.345259666442928],[122.61502838134788,11.341810226440487],[122.62722778320312,11.33386039733898]]]},"properties":{"GID_0":"PHL","NAME_0":"Philippines","GID_1":"PHL.22_1","NAME_1":"Capiz","NL_NAME_1":"","GID_2":"PHL.22.3_1","NAME_2":"Dumalag","NL_NAME_2":"","GID_3":"PHL.22.3.16_1","NAME_3":"Santa Rita","VARNAME_3":"","NL_NAME_3":"","TYPE_3":"Barangay","ENGTYPE_3":"Village","CC_3":"","HASC_3":""}}
+]}

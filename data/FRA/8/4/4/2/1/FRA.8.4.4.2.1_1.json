@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[3.163353204727173,48.4993629455567],[3.1391661167145912,48.520416259765625],[3.1248724460601807,48.51740264892584],[3.12224721908575,48.50643920898432],[3.1178462505341713,48.50589370727545],[3.1228423118591877,48.50047302246105],[3.161508321762028,48.498069763183594],[3.163353204727173,48.4993629455567]]]},"properties":{"GID_0":"FRA","NAME_0":"France","GID_1":"FRA.8_1","NAME_1":"Île-de-France","GID_2":"FRA.8.4_1","NAME_2":"Seine-et-Marne","GID_3":"FRA.8.4.4_1","NAME_3":"Provins","GID_4":"FRA.8.4.4.2_1","NAME_4":"Donnemarie-Dontilly","GID_5":"FRA.8.4.4.2.1_1","NAME_5":"Cessoy-en-Montois","TYPE_5":"Commune simple","ENGTYPE_5":"Commune","CC_5":""}}
+]}

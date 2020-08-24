@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[121.59416198730469,14.030090332031307],[121.59484863281261,14.030839920043945],[121.59371185302746,14.031880378723201],[121.59310150146496,14.031160354614201],[121.59416198730469,14.030090332031307]]]},"properties":{"GID_0":"PHL","NAME_0":"Philippines","GID_1":"PHL.62_1","NAME_1":"Quezon","NL_NAME_1":"","GID_2":"PHL.62.40_1","NAME_2":"Tayabas City","NL_NAME_2":"","GID_3":"PHL.62.40.54_1","NAME_3":"San Diego Zone III","VARNAME_3":"","NL_NAME_3":"","TYPE_3":"Barangay","ENGTYPE_3":"Village","CC_3":"","HASC_3":""}}
+]}

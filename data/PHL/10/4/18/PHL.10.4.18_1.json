@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[120.4789962768557,14.854040145874137],[120.47792053222668,14.856679916381893],[120.4759292602539,14.855819702148551],[120.47572326660156,14.857080459594727],[120.47377014160156,14.85719013214117],[120.47448730468761,14.853710174560547],[120.4789962768557,14.854040145874137]]]},"properties":{"GID_0":"PHL","NAME_0":"Philippines","GID_1":"PHL.10_1","NAME_1":"Bataan","NL_NAME_1":"","GID_2":"PHL.10.4_1","NAME_2":"Dinalupihan","NL_NAME_2":"","GID_3":"PHL.10.4.18_1","NAME_3":"Mabini Proper","VARNAME_3":"Poblacion","NL_NAME_3":"","TYPE_3":"Barangay","ENGTYPE_3":"Village","CC_3":"","HASC_3":""}}
+]}

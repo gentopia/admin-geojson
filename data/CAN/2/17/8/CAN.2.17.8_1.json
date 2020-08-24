@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[-127.62232208251947,50.835903167724666],[-127.6277084350586,50.836090087890625],[-127.62789154052734,50.83414840698248],[-127.62538146972645,50.83219146728521],[-127.62351989746094,50.83074188232422],[-127.62337493896473,50.830608367920036],[-127.62232208251947,50.835903167724666]]]},"properties":{"GID_0":"CAN","NAME_0":"Canada","GID_1":"CAN.2_1","NAME_1":"British Columbia","NL_NAME_1":"","GID_2":"CAN.2.17_1","NAME_2":"Mount Waddington","NL_NAME_2":"","GID_3":"CAN.2.17.8_1","NAME_3":"Glen-Gla-Ouch 5","VARNAME_3":"","NL_NAME_3":"","TYPE_3":"Réserve Indienne","ENGTYPE_3":"Indian Reserve","CC_3":"","HASC_3":""}}
+]}

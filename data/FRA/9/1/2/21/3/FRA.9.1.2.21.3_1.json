@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[-0.5418191552161602,49.20380020141613],[-0.5635777115821838,49.21899795532232],[-0.5867859125136761,49.2198486328125],[-0.5709328651427654,49.20594787597662],[-0.5530314445495037,49.19707870483404],[-0.5418191552161602,49.20380020141613]]]},"properties":{"GID_0":"FRA","NAME_0":"France","GID_1":"FRA.9_1","NAME_1":"Normandie","GID_2":"FRA.9.1_1","NAME_2":"Calvados","GID_3":"FRA.9.1.2_1","NAME_3":"Caen","GID_4":"FRA.9.1.2.21_1","NAME_4":"Tilly-sur-Seulles","GID_5":"FRA.9.1.2.21.3_1","NAME_5":"Brouay","TYPE_5":"Commune simple","ENGTYPE_5":"Commune","CC_5":""}}
+]}

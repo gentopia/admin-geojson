@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[6.353409767150936,47.91601181030268],[6.36698150634777,47.90077590942383],[6.379264354705924,47.91127777099615],[6.374195098876953,47.9208984375],[6.364618301391602,47.92329025268555],[6.353409767150936,47.91601181030268]]]},"properties":{"GID_0":"FRA","NAME_0":"France","GID_1":"FRA.2_1","NAME_1":"Bourgogne-Franche-Comté","GID_2":"FRA.2.3_1","NAME_2":"Haute-Saône","GID_3":"FRA.2.3.1_1","NAME_3":"Lure","GID_4":"FRA.2.3.1.12_1","NAME_4":"Saint-Loup-sur-Semouse","GID_5":"FRA.2.3.1.12.11_1","NAME_5":"La Vaivre","TYPE_5":"Commune simple","ENGTYPE_5":"Commune","CC_5":""}}
+]}

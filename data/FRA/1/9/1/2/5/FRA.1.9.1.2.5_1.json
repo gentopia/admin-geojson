@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[4.40185022354126,45.56610488891613],[4.403784275055045,45.55792236328125],[4.405466079711971,45.5494270324707],[4.416914939880314,45.54598617553711],[4.421228408813477,45.544761657714844],[4.426593303680534,45.55351638793957],[4.419246196746826,45.56547164916998],[4.40185022354126,45.56610488891613]]]},"properties":{"GID_0":"FRA","NAME_0":"France","GID_1":"FRA.1_1","NAME_1":"Auvergne-Rhône-Alpes","GID_2":"FRA.1.9_1","NAME_2":"Loire","GID_3":"FRA.1.9.1_1","NAME_3":"Montbrison","GID_4":"FRA.1.9.1.2_1","NAME_4":"Chazelles-sur-Lyon","GID_5":"FRA.1.9.1.2.5_1","NAME_5":"La Gimond","TYPE_5":"Commune simple","ENGTYPE_5":"Commune","CC_5":""}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[124.57791900634777,9.754770278930721],[124.56992340087902,9.760519981384391],[124.56421661376964,9.758890151977482],[124.57202148437511,9.749179840088004],[124.57791900634777,9.754770278930721]]]},"properties":{"GID_0":"PHL","NAME_0":"Philippines","GID_1":"PHL.15_1","NAME_1":"Bohol","NL_NAME_1":"","GID_2":"PHL.15.3_1","NAME_2":"Anda","NL_NAME_2":"","GID_3":"PHL.15.3.6_1","NAME_3":"Casica","VARNAME_3":"","NL_NAME_3":"","TYPE_3":"Barangay","ENGTYPE_3":"Village","CC_3":"","HASC_3":""}}
+]}

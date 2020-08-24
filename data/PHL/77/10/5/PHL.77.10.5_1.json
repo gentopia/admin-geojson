@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[120.34751892089844,5.142910957336483],[120.33557128906261,5.143623828887996],[120.33515167236328,5.139877796173209],[120.34586334228538,5.138305187225399],[120.34677124023438,5.140693187713623],[120.34751892089844,5.142910957336483]]]},"properties":{"GID_0":"PHL","NAME_0":"Philippines","GID_1":"PHL.77_1","NAME_1":"Tawi-Tawi","NL_NAME_1":"","GID_2":"PHL.77.10_1","NAME_2":"Tandubas","NL_NAME_2":"","GID_3":"PHL.77.10.5_1","NAME_3":"Kakoong","VARNAME_3":"","NL_NAME_3":"","TYPE_3":"Barangay","ENGTYPE_3":"Village","CC_3":"","HASC_3":""}}
+]}

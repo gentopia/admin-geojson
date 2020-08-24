@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[124.0038833618164,10.867699623107967],[124.00865936279297,10.886899948120174],[123.99080657959007,10.888110160827637],[123.98912811279308,10.888569831848201],[123.98975372314453,10.86806964874279],[124.0038833618164,10.867699623107967]]]},"properties":{"GID_0":"PHL","NAME_0":"Philippines","GID_1":"PHL.25_1","NAME_1":"Cebu","NL_NAME_1":"","GID_2":"PHL.25.13_1","NAME_2":"Borbon","NL_NAME_2":"","GID_3":"PHL.25.13.14_1","NAME_3":"Managase","VARNAME_3":"","NL_NAME_3":"","TYPE_3":"Barangay","ENGTYPE_3":"Village","CC_3":"","HASC_3":""}}
+]}

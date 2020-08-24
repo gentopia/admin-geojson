@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[124.87130737304699,11.997099876403752],[124.88249969482433,11.997340202331657],[124.88397216796875,12.025019645691032],[124.86975097656261,12.025910377502555],[124.87130737304699,11.997099876403752]]]},"properties":{"GID_0":"PHL","NAME_0":"Philippines","GID_1":"PHL.66_1","NAME_1":"Samar","NL_NAME_1":"","GID_2":"PHL.66.16_1","NAME_2":"San Jorge","NL_NAME_2":"","GID_3":"PHL.66.16.9_1","NAME_3":"Cabugao","VARNAME_3":"","NL_NAME_3":"","TYPE_3":"Barangay","ENGTYPE_3":"Village","CC_3":"","HASC_3":""}}
+]}

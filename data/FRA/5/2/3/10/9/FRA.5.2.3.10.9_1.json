@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[9.42994213104248,42.3549690246582],[9.432608604431266,42.36405944824219],[9.426485061645508,42.37273406982433],[9.409930229187012,42.375701904296875],[9.401946067810002,42.37309646606445],[9.402778625488281,42.36992645263666],[9.42994213104248,42.3549690246582]]]},"properties":{"GID_0":"FRA","NAME_0":"France","GID_1":"FRA.5_1","NAME_1":"Corse","GID_2":"FRA.5.2_1","NAME_2":"Haute-Corse","GID_3":"FRA.5.2.3_1","NAME_3":"Corte","GID_4":"FRA.5.2.3.10_1","NAME_4":"Orezza-Alesani","GID_5":"FRA.5.2.3.10.9_1","NAME_5":"Parata","TYPE_5":"Commune simple","ENGTYPE_5":"Commune","CC_5":""}}
+]}

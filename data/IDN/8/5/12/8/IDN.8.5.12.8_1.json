@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[101.91602325439453,-2.1474778652190594],[101.91515350341803,-2.145270824432373],[101.91246795654303,-2.127293348312378],[101.90057373046875,-2.12381911277771],[101.90245056152338,-2.142016887664795],[101.90275573730474,-2.144942045211735],[101.91602325439453,-2.1474778652190594]]]},"properties":{"GID_0":"IDN","NAME_0":"Indonesia","GID_1":"IDN.8_1","NAME_1":"Jambi","GID_2":"IDN.8.5_1","NAME_2":"Merangin","GID_3":"IDN.8.5.12_1","NAME_3":"Pangkalan Jambu","GID_4":"IDN.8.5.12.8_1","NAME_4":"Tigo Alur Pangkalan Jambu","VARNAME_4":"","TYPE_4":"Desa","ENGTYPE_4":"Village","CC_4":"1502052003"}}
+]}

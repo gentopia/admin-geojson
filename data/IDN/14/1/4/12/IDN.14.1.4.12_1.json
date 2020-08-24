@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[115.14418792724621,-1.5095926523207481],[115.15749359130882,-1.5463002920150188],[115.18502807617199,-1.5533906221389202],[115.2012176513673,-1.5158321857452393],[115.14418792724621,-1.5095926523207481]]]},"properties":{"GID_0":"IDN","NAME_0":"Indonesia","GID_1":"IDN.14_1","NAME_1":"Kalimantan Tengah","GID_2":"IDN.14.1_1","NAME_2":"Barito Selatan","GID_3":"IDN.14.1.4_1","NAME_3":"Gunung Bintang Awai","GID_4":"IDN.14.1.4.12_1","NAME_4":"Patas I","VARNAME_4":"","TYPE_4":"Desa","ENGTYPE_4":"Village","CC_4":"6204060014"}}
+]}

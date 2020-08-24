@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[124.83840942382812,6.739120006561336],[124.8528823852539,6.743599891662598],[124.84388732910156,6.75226020812994],[124.83506774902355,6.747580051422062],[124.83660888671875,6.742119789123592],[124.83840942382812,6.739120006561336]]]},"properties":{"GID_0":"PHL","NAME_0":"Philippines","GID_1":"PHL.44_1","NAME_1":"Maguindanao","NL_NAME_1":"","GID_2":"PHL.44.11_1","NAME_2":"Datu Paglas","NL_NAME_2":"","GID_3":"PHL.44.11.10_1","NAME_3":"Lipao","VARNAME_3":"","NL_NAME_3":"","TYPE_3":"Barangay","ENGTYPE_3":"Village","CC_3":"","HASC_3":""}}
+]}

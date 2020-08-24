@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[120.90377044677746,5.972330093383846],[120.90392303466797,5.973509788513184],[120.90544128417969,5.983739852905387],[120.89878845214844,5.984389781951961],[120.8970870971682,5.973690032959041],[120.90377044677746,5.972330093383846]]]},"properties":{"GID_0":"PHL","NAME_0":"Philippines","GID_1":"PHL.73_1","NAME_1":"Sulu","NL_NAME_1":"","GID_2":"PHL.73.12_1","NAME_2":"Parang","NL_NAME_2":"","GID_3":"PHL.73.12.11_1","NAME_3":"Duyan Kabao","VARNAME_3":"","NL_NAME_3":"","TYPE_3":"Barangay","ENGTYPE_3":"Village","CC_3":"","HASC_3":""}}
+]}

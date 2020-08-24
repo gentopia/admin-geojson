@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[5.710445880889949,45.81402206420904],[5.718405246734619,45.80609893798834],[5.726589679718018,45.80538940429699],[5.741495609283561,45.8173179626466],[5.727930068969727,45.81947708129883],[5.710445880889949,45.81402206420904]]]},"properties":{"GID_0":"FRA","NAME_0":"France","GID_1":"FRA.1_1","NAME_1":"Auvergne-Rhône-Alpes","GID_2":"FRA.1.1_1","NAME_2":"Ain","GID_3":"FRA.1.1.1_1","NAME_3":"Belley","GID_4":"FRA.1.1.1.9_1","NAME_4":"Virieu-le-Grand","GID_5":"FRA.1.1.1.9.13_1","NAME_5":"Vongnes","TYPE_5":"Commune simple","ENGTYPE_5":"Commune","CC_5":""}}
+]}

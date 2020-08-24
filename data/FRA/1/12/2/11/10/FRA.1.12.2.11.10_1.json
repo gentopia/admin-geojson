@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[6.233234405517578,45.475486755371094],[6.253695011138916,45.496749877929744],[6.26445293426525,45.51123428344721],[6.262416839599609,45.51388168334972],[6.242020606994686,45.510128021240234],[6.207543849945068,45.499755859375],[6.233234405517578,45.475486755371094]]]},"properties":{"GID_0":"FRA","NAME_0":"France","GID_1":"FRA.1_1","NAME_1":"Auvergne-Rhône-Alpes","GID_2":"FRA.1.12_1","NAME_2":"Savoie","GID_3":"FRA.1.12.2_1","NAME_3":"Chambéry","GID_4":"FRA.1.12.2.11_1","NAME_4":"La Rochette","GID_5":"FRA.1.12.2.11.10_1","NAME_5":"Le Pontet","TYPE_5":"Commune simple","ENGTYPE_5":"Commune","CC_5":""}}
+]}

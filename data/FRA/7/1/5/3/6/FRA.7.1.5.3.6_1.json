@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[4.020774841308537,49.86691284179699],[4.041887760162467,49.875064849853516],[4.055117607116756,49.87212753295904],[4.053485870361271,49.88736343383795],[4.0628747940064045,49.89817810058605],[4.043074607849064,49.897754669189396],[4.020774841308537,49.86691284179699]]]},"properties":{"GID_0":"FRA","NAME_0":"France","GID_1":"FRA.7_1","NAME_1":"Hauts-de-France","GID_2":"FRA.7.1_1","NAME_2":"Aisne","GID_3":"FRA.7.1.5_1","NAME_3":"Vervins","GID_4":"FRA.7.1.5.3_1","NAME_4":"Hirson","GID_5":"FRA.7.1.5.3.6_1","NAME_5":"La Hérie","TYPE_5":"Commune simple","ENGTYPE_5":"Commune","CC_5":""}}
+]}

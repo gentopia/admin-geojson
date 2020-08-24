@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[67.63931274414068,39.52568817138666],[67.60760498046875,39.477600097656364],[67.67324829101562,39.45729827880865],[67.68695068359375,39.488193511963004],[67.67746734619146,39.50411224365246],[67.63931274414068,39.52568817138666]]]},"properties":{"GID_0":"TJK","NAME_0":"Tajikistan","GID_1":"TJK.4_1","NAME_1":"Leninabad","NL_NAME_1":"","GID_2":"TJK.4.11_1","NAME_2":"Pandjakent","NL_NAME_2":"","GID_3":"TJK.4.11.9_1","NAME_3":"n.a. ( 84)","VARNAME_3":"","NL_NAME_3":"","TYPE_3":"","ENGTYPE_3":"","CC_3":"","HASC_3":""}}
+]}

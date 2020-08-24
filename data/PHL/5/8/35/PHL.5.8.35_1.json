@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[123.42996215820312,13.246660232543888],[123.43997192382824,13.262749671936092],[123.42752075195312,13.268039703369254],[123.41840362548851,13.25224971771246],[123.42088317871116,13.25088977813732],[123.42996215820312,13.246660232543888]]]},"properties":{"GID_0":"PHL","NAME_0":"Philippines","GID_1":"PHL.5_1","NAME_1":"Albay","NL_NAME_1":"","GID_2":"PHL.5.8_1","NAME_2":"Libon","NL_NAME_2":"","GID_3":"PHL.5.8.35_1","NAME_3":"San Vicente","VARNAME_3":"","NL_NAME_3":"","TYPE_3":"Barangay","ENGTYPE_3":"Village","CC_3":"","HASC_3":""}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[124.32943725585938,10.062689781188965],[124.33238220214844,10.063119888305607],[124.32980346679699,10.073450088500977],[124.28904724121094,10.061610221862736],[124.29067993164074,10.056099891662598],[124.32943725585938,10.062689781188965]]]},"properties":{"GID_0":"PHL","NAME_0":"Philippines","GID_1":"PHL.15_1","NAME_1":"Bohol","NL_NAME_1":"","GID_2":"PHL.15.45_1","NAME_2":"Trinidad","NL_NAME_2":"","GID_3":"PHL.15.45.8_1","NAME_3":"Kinan-Oan","VARNAME_3":"","NL_NAME_3":"","TYPE_3":"Barangay","ENGTYPE_3":"Village","CC_3":"","HASC_3":""}}
+]}

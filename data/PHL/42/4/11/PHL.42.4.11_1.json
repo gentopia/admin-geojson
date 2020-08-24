@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[124.19747924804688,7.797359943389893],[124.19479370117188,7.797379970550594],[124.1945266723634,7.795820236206055],[124.19757080078136,7.795529842376766],[124.19756317138695,7.796010017395076],[124.1974868774414,7.796780109405518],[124.19747924804688,7.797359943389893]]]},"properties":{"GID_0":"PHL","NAME_0":"Philippines","GID_1":"PHL.42_1","NAME_1":"Lanao del Sur","NL_NAME_1":"","GID_2":"PHL.42.4_1","NAME_2":"Bayang","NL_NAME_2":"","GID_3":"PHL.42.4.11_1","NAME_3":"Condaraan Poblacion","VARNAME_3":"Condaraan Dimadap","NL_NAME_3":"","TYPE_3":"Barangay","ENGTYPE_3":"Village","CC_3":"","HASC_3":""}}
+]}

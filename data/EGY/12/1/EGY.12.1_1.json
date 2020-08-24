@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[31.452125549316406,30.191560745239258],[31.46319580078125,30.192031860351676],[31.46211242675787,30.250556945800838],[31.432094573974723,30.250200271606502],[31.4327011108399,30.20759201049816],[31.452125549316406,30.191560745239258]]]},"properties":{"GID_0":"EGY","NAME_0":"Egypt","GID_1":"EGY.12_1","NAME_1":"Al Qalyubiyah","NL_NAME_1":"محافظة القليوبية","GID_2":"EGY.12.1_1","NAME_2":"Al-'Ubur","VARNAME_2":"","NL_NAME_2":"","TYPE_2":"Kism","ENGTYPE_2":"Subdivision","CC_2":"","HASC_2":"EG.QL.AB"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[2.264575958252067,50.95532608032238],[2.2579832077026936,50.93835067749035],[2.294612646103019,50.932300567626896],[2.318949460983333,50.95476150512707],[2.2839670181273846,50.975746154785156],[2.2695889472961994,50.959228515625114],[2.264575958252067,50.95532608032238]]]},"properties":{"GID_0":"FRA","NAME_0":"France","GID_1":"FRA.7_1","NAME_1":"Hauts-de-France","GID_2":"FRA.7.2_1","NAME_2":"Nord","GID_3":"FRA.7.2.4_1","NAME_3":"Dunkerque","GID_4":"FRA.7.2.4.5_1","NAME_4":"Bourbourg","GID_5":"FRA.7.2.4.5.2_1","NAME_5":"Brouckerque","TYPE_5":"Commune simple","ENGTYPE_5":"Commune","CC_5":""}}
+]}

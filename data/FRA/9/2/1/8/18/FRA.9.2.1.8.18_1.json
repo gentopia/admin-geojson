@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[0.7613143920897869,49.27202987670904],[0.7711521983147804,49.27432632446295],[0.7775791883468628,49.28371810913097],[0.7667271494865986,49.28766250610357],[0.7635871171951862,49.289375305175895],[0.7583060860634987,49.277694702148494],[0.7613143920897869,49.27202987670904]]]},"properties":{"GID_0":"FRA","NAME_0":"France","GID_1":"FRA.9_1","NAME_1":"Normandie","GID_2":"FRA.9.2_1","NAME_2":"Eure","GID_3":"FRA.9.2.1_1","NAME_3":"Bernay","GID_4":"FRA.9.2.1.8_1","NAME_4":"Bourgtheroulde-Infreville","GID_5":"FRA.9.2.1.8.18_1","NAME_5":"Voiscreville","TYPE_5":"Commune simple","ENGTYPE_5":"Commune","CC_5":""}}
+]}

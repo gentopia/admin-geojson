@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[2.509028673172054,49.45691299438488],[2.5141432285309975,49.46139907836914],[2.49013447761547,49.46713256835949],[2.465996026992798,49.46357727050781],[2.4824845790864174,49.45027542114269],[2.497019767761344,49.45405960083019],[2.509028673172054,49.45691299438488]]]},"properties":{"GID_0":"FRA","NAME_0":"France","GID_1":"FRA.7_1","NAME_1":"Hauts-de-France","GID_2":"FRA.7.3_1","NAME_2":"Oise","GID_3":"FRA.7.3.2_1","NAME_3":"Clermont","GID_4":"FRA.7.3.2.7_1","NAME_4":"Saint-Just-en-Chaussée","GID_5":"FRA.7.3.2.7.7_1","NAME_5":"Erquinvillers","TYPE_5":"Commune simple","ENGTYPE_5":"Commune","CC_5":""}}
+]}

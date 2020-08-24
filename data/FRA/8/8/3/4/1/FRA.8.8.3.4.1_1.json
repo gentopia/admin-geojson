@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[2.1679158210754395,48.926578521728516],[2.1608388423919678,48.92026901245117],[2.1613640785217854,48.907997131347656],[2.1742892265319824,48.89906692504877],[2.2005910873413086,48.90867996215826],[2.199191093444824,48.91896820068371],[2.1803402900696938,48.91674423217785],[2.1679158210754395,48.926578521728516]]]},"properties":{"GID_0":"FRA","NAME_0":"France","GID_1":"FRA.8_1","NAME_1":"Île-de-France","GID_2":"FRA.8.8_1","NAME_2":"Yvelines","GID_3":"FRA.8.8.3_1","NAME_3":"Saint-Germain-en-Laye","GID_4":"FRA.8.8.3.4_1","NAME_4":"Houilles","GID_5":"FRA.8.8.3.4.1_1","NAME_5":"Carrières-sur-Seine","TYPE_5":"Commune simple","ENGTYPE_5":"Commune","CC_5":""}}
+]}

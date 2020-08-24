@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[124.11061859130871,7.797110080719051],[124.0957717895509,7.796850204467887],[124.09581756591797,7.7904400825501625],[124.10684204101574,7.789750099182129],[124.1104736328125,7.789549827575684],[124.11061859130871,7.797110080719051]]]},"properties":{"GID_0":"PHL","NAME_0":"Philippines","GID_1":"PHL.42_1","NAME_1":"Lanao del Sur","NL_NAME_1":"","GID_2":"PHL.42.13_1","NAME_2":"Ganassi","NL_NAME_2":"","GID_3":"PHL.42.13.3_1","NAME_3":"Balintad A","VARNAME_3":"","NL_NAME_3":"","TYPE_3":"Barangay","ENGTYPE_3":"Village","CC_3":"","HASC_3":""}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[125.40672302246094,12.116129875183162],[125.40434265136741,12.117340087890625],[125.3986282348634,12.124629974365178],[125.37299346923828,12.106579780578613],[125.38323974609386,12.100870132446403],[125.40672302246094,12.116129875183162]]]},"properties":{"GID_0":"PHL","NAME_0":"Philippines","GID_1":"PHL.31_1","NAME_1":"Eastern Samar","NL_NAME_1":"","GID_2":"PHL.31.17_1","NAME_2":"Oras","NL_NAME_2":"","GID_3":"PHL.31.17.8_1","NAME_3":"Bato","VARNAME_3":"","NL_NAME_3":"","TYPE_3":"Barangay","ENGTYPE_3":"Village","CC_3":"","HASC_3":""}}
+]}

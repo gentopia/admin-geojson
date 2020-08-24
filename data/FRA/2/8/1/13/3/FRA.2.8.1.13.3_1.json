@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[3.466400146484432,47.62321853637707],[3.4843080043793293,47.627681732177734],[3.4844074249268147,47.63422393798828],[3.491216659546012,47.63903045654297],[3.4569885730743977,47.63428115844738],[3.458592653274593,47.62878417968756],[3.461763858795166,47.622867584228516],[3.466400146484432,47.62321853637707]]]},"properties":{"GID_0":"FRA","NAME_0":"France","GID_1":"FRA.2_1","NAME_1":"Bourgogne-Franche-Comté","GID_2":"FRA.2.8_1","NAME_2":"Yonne","GID_3":"FRA.2.8.1_1","NAME_3":"Auxerre","GID_4":"FRA.2.8.1.13_1","NAME_4":"Courson-les-Carrières","GID_5":"FRA.2.8.1.13.3_1","NAME_5":"Fontenailles","TYPE_5":"Commune simple","ENGTYPE_5":"Commune","CC_5":""}}
+]}

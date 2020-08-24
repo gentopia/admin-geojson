@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[124.32682800292969,7.759530067443961],[124.32589721679688,7.7815699577330975],[124.32610321044922,7.790740013122615],[124.30449676513672,7.768420219421387],[124.31401824951172,7.763309955596981],[124.32682800292969,7.759530067443961]]]},"properties":{"GID_0":"PHL","NAME_0":"Philippines","GID_1":"PHL.42_1","NAME_1":"Lanao del Sur","NL_NAME_1":"","GID_2":"PHL.42.9_1","NAME_2":"Butig","NL_NAME_2":"","GID_3":"PHL.42.9.12_1","NAME_3":"Samer","VARNAME_3":"","NL_NAME_3":"","TYPE_3":"Barangay","ENGTYPE_3":"Village","CC_3":"","HASC_3":""}}
+]}

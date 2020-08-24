@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[122.00106811523449,10.4753999710083],[122.00340270996105,10.47589015960699],[122.00736236572277,10.475979804992676],[122.01331329345714,10.476880073547306],[122.01265716552734,10.486570358276424],[121.9989700317384,10.488550186157283],[122.00106811523449,10.4753999710083]]]},"properties":{"GID_0":"PHL","NAME_0":"Philippines","GID_1":"PHL.6_1","NAME_1":"Antique","NL_NAME_1":"","GID_2":"PHL.6.17_1","NAME_2":"Tobias Fornier","NL_NAME_2":"","GID_3":"PHL.6.17.44_1","NAME_3":"Salamague","VARNAME_3":"Santa Maria","NL_NAME_3":"","TYPE_3":"Barangay","ENGTYPE_3":"Village","CC_3":"","HASC_3":""}}
+]}

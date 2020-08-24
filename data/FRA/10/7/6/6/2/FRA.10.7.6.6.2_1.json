@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[-0.29538556933403015,44.86230850219738],[-0.29133644700050354,44.861103057861385],[-0.29044082760799483,44.854904174804744],[-0.2778066396713257,44.8526725769043],[-0.2741221189498333,44.866390228271484],[-0.2850676476955414,44.8721923828125],[-0.29538556933403015,44.86230850219738]]]},"properties":{"GID_0":"FRA","NAME_0":"France","GID_1":"FRA.10_1","NAME_1":"Nouvelle-Aquitaine","GID_2":"FRA.10.7_1","NAME_2":"Gironde","GID_3":"FRA.10.7.6_1","NAME_3":"Libourne","GID_4":"FRA.10.7.6.6_1","NAME_4":"Libourne","GID_5":"FRA.10.7.6.6.2_1","NAME_5":"Cadarsac","TYPE_5":"Commune simple","ENGTYPE_5":"Commune","CC_5":""}}
+]}

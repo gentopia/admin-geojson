@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[123.79308319091808,9.791170120239258],[123.79554748535168,9.796959877014274],[123.79222106933594,9.799119949340934],[123.78724670410156,9.791819572448787],[123.79202270507812,9.78983020782482],[123.79308319091808,9.791170120239258]]]},"properties":{"GID_0":"PHL","NAME_0":"Philippines","GID_1":"PHL.15_1","NAME_1":"Bohol","NL_NAME_1":"","GID_2":"PHL.15.31_1","NAME_2":"Loon","NL_NAME_2":"","GID_3":"PHL.15.31.45_1","NAME_3":"Moto Sur","VARNAME_3":"Poblacion","NL_NAME_3":"","TYPE_3":"Barangay","ENGTYPE_3":"Village","CC_3":"","HASC_3":""}}
+]}

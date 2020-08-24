@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[1.134348750114441,43.45489883422863],[1.127788186073417,43.463279724121094],[1.0965558290481567,43.46622848510742],[1.08232676982891,43.457565307617244],[1.0842164754868122,43.44756317138683],[1.1078733205796425,43.441833496093864],[1.134348750114441,43.45489883422863]]]},"properties":{"GID_0":"FRA","NAME_0":"France","GID_1":"FRA.11_1","NAME_1":"Occitanie","GID_2":"FRA.11.6_1","NAME_2":"Haute-Garonne","GID_3":"FRA.11.6.1_1","NAME_3":"Muret","GID_4":"FRA.11.6.1.9_1","NAME_4":"Rieumes","GID_5":"FRA.11.6.1.9.1_1","NAME_5":"Beaufort","TYPE_5":"Commune simple","ENGTYPE_5":"Commune","CC_5":""}}
+]}

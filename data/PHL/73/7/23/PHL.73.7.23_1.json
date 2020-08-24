@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[121.01802825927746,5.975840091705322],[121.03067779541016,5.98160982131958],[121.0279235839846,5.992740154266471],[121.01663970947266,5.99189996719366],[121.01782226562523,5.978829860687256],[121.01802825927746,5.975840091705322]]]},"properties":{"GID_0":"PHL","NAME_0":"Philippines","GID_1":"PHL.73_1","NAME_1":"Sulu","NL_NAME_1":"","GID_2":"PHL.73.7_1","NAME_2":"Maimbung","NL_NAME_2":"","GID_3":"PHL.73.7.23_1","NAME_3":"Ratag Limbon","VARNAME_3":"","NL_NAME_3":"","TYPE_3":"Barangay","ENGTYPE_3":"Village","CC_3":"","HASC_3":""}}
+]}

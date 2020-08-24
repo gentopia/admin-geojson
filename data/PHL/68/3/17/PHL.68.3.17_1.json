@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[123.58087921142578,9.11355972290039],[123.59990692138672,9.1139497756958],[123.59963226318371,9.125450134277344],[123.59277343750011,9.134590148925781],[123.58061981201172,9.125729560851994],[123.58087921142578,9.11355972290039]]]},"properties":{"GID_0":"PHL","NAME_0":"Philippines","GID_1":"PHL.68_1","NAME_1":"Siquijor","NL_NAME_1":"","GID_2":"PHL.68.3_1","NAME_2":"Lazi","NL_NAME_2":"","GID_3":"PHL.68.3.17_1","NAME_3":"Upper Cabangcalan","VARNAME_3":"","NL_NAME_3":"","TYPE_3":"Barangay","ENGTYPE_3":"Village","CC_3":"","HASC_3":""}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[2.237927198410091,50.32709884643549],[2.2740018367767334,50.334850311279354],[2.259953022003174,50.347785949706974],[2.240546464920044,50.34693145751959],[2.2253386974335285,50.337642669677734],[2.237927198410091,50.32709884643549]]]},"properties":{"GID_0":"FRA","NAME_0":"France","GID_1":"FRA.7_1","NAME_1":"Hauts-de-France","GID_2":"FRA.7.4_1","NAME_2":"Pas-de-Calais","GID_3":"FRA.7.4.1_1","NAME_3":"Arras","GID_4":"FRA.7.4.1.15_1","NAME_4":"Saint-Pol-sur-Ternoise","GID_5":"FRA.7.4.1.15.16_1","NAME_5":"Héricourt","TYPE_5":"Commune simple","ENGTYPE_5":"Commune","CC_5":""}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[5.712426662445125,46.17421340942394],[5.729694843292293,46.17796325683594],[5.733396530151367,46.19367599487299],[5.729663848876896,46.19922637939459],[5.710509777069149,46.20417022705084],[5.700804233551139,46.178653717041016],[5.712426662445125,46.17421340942394]]]},"properties":{"GID_0":"FRA","NAME_0":"France","GID_1":"FRA.1_1","NAME_1":"Auvergne-Rhône-Alpes","GID_2":"FRA.1.1_1","NAME_2":"Ain","GID_3":"FRA.1.1.4_1","NAME_3":"Nantua","GID_4":"FRA.1.1.4.1_1","NAME_4":"Bellegarde-sur-Valserine","GID_5":"FRA.1.1.4.1.9_1","NAME_5":"Plagne","TYPE_5":"Commune simple","ENGTYPE_5":"Commune","CC_5":""}}
+]}

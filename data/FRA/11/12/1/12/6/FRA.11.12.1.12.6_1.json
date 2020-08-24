@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[0.9744628667832558,43.97361373901373],[0.9801760911941528,43.9414901733399],[0.9843711853026775,43.93771743774414],[0.9970727562905495,43.940010070800895],[0.9960692524910542,43.949428558349666],[0.9999558925628662,43.98215103149414],[0.9744628667832558,43.97361373901373]]]},"properties":{"GID_0":"FRA","NAME_0":"France","GID_1":"FRA.11_1","NAME_1":"Occitanie","GID_2":"FRA.11.12_1","NAME_2":"Tarn-et-Garonne","GID_3":"FRA.11.12.1_1","NAME_3":"Castelsarrasin","GID_4":"FRA.11.12.1.12_1","NAME_4":"Saint-Nicolas-de-la-Grave","GID_5":"FRA.11.12.1.12.6_1","NAME_5":"Coutures","TYPE_5":"Commune simple","ENGTYPE_5":"Commune","CC_5":""}}
+]}

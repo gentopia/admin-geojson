@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[1.8252488374710651,42.93132019042969],[1.829444646835384,42.932651519775504],[1.83036041259777,42.94247436523449],[1.8190354108810993,42.94794464111334],[1.805290341377372,42.95071792602545],[1.7959866523743244,42.94356155395502],[1.8252488374710651,42.93132019042969]]]},"properties":{"GID_0":"FRA","NAME_0":"France","GID_1":"FRA.11_1","NAME_1":"Occitanie","GID_2":"FRA.11.1_1","NAME_2":"Ariège","GID_3":"FRA.11.1.1_1","NAME_3":"Foix","GID_4":"FRA.11.1.1.5_1","NAME_4":"Lavelanet","GID_5":"FRA.11.1.1.5.16_1","NAME_5":"Raissac","TYPE_5":"Commune simple","ENGTYPE_5":"Commune","CC_5":""}}
+]}

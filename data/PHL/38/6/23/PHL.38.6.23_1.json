@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[121.51423645019531,17.3684406280517],[121.59203338623047,17.370279312133846],[121.60453033447277,17.39660072326666],[121.6105728149414,17.406209945678768],[121.5139617919923,17.403020858764762],[121.51423645019531,17.3684406280517]]]},"properties":{"GID_0":"PHL","NAME_0":"Philippines","GID_1":"PHL.38_1","NAME_1":"Kalinga","NL_NAME_1":"","GID_2":"PHL.38.6_1","NAME_2":"Tabuk City","NL_NAME_2":"","GID_3":"PHL.38.6.23_1","NAME_3":"Lacnog","VARNAME_3":"","NL_NAME_3":"","TYPE_3":"Barangay","ENGTYPE_3":"Village","CC_3":"","HASC_3":""}}
+]}

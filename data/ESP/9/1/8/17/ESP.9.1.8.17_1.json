@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[-1.2574440240859985,42.95781326293957],[-1.2553199529647827,42.957252502441406],[-1.2489910125731853,42.95737838745123],[-1.251778006553593,42.96172332763683],[-1.2526969909667969,42.95829391479492],[-1.2574440240859985,42.95781326293957]]]},"properties":{"GID_0":"ESP","NAME_0":"Spain","GID_1":"ESP.9_1","NAME_1":"Comunidad Foral de Navarra","GID_2":"ESP.9.1_1","NAME_2":"Navarra","GID_3":"ESP.9.1.8_1","NAME_3":"n.a. (192)","GID_4":"ESP.9.1.8.17_1","NAME_4":"Facería 16","VARNAME_4":"","TYPE_4":"Municipality","ENGTYPE_4":"Municipality","CC_4":""}}
+]}

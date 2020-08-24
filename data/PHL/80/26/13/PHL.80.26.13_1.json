@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[123.2029266357423,7.884950160980338],[123.22086334228527,7.894670009613094],[123.23518371582043,7.902440071106014],[123.22049713134777,7.9104199409486],[123.19680786132824,7.9092302322387695],[123.19879913330078,7.900350093841496],[123.2029266357423,7.884950160980338]]]},"properties":{"GID_0":"PHL","NAME_0":"Philippines","GID_1":"PHL.80_1","NAME_1":"Zamboanga del Sur","NL_NAME_1":"","GID_2":"PHL.80.26_1","NAME_2":"Tigbao","NL_NAME_2":"","GID_3":"PHL.80.26.13_1","NAME_3":"Nangan-Nangan","VARNAME_3":"","NL_NAME_3":"","TYPE_3":"Barangay","ENGTYPE_3":"Village","CC_3":"","HASC_3":""}}
+]}

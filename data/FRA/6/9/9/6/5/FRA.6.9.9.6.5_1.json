@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[6.060859680175895,49.25021743774414],[6.083145618438721,49.255882263183594],[6.065806388855037,49.271968841552734],[6.064119815826416,49.28062057495123],[6.051471233368034,49.284152984619084],[6.0449614524842445,49.27963256835949],[6.04485559463501,49.2734107971192],[6.060859680175895,49.25021743774414]]]},"properties":{"GID_0":"FRA","NAME_0":"France","GID_1":"FRA.6_1","NAME_1":"Grand Est","GID_2":"FRA.6.9_1","NAME_2":"Moselle","GID_3":"FRA.6.9.9_1","NAME_3":"Thionville-Ouest","GID_4":"FRA.6.9.9.6_1","NAME_4":"Moyeuvre-Grande","GID_5":"FRA.6.9.9.6.5_1","NAME_5":"Rosselange","TYPE_5":"Commune simple","ENGTYPE_5":"Commune","CC_5":""}}
+]}

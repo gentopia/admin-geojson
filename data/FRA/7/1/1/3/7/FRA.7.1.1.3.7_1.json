@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[3.5560364723205566,49.04323577880865],[3.542480945587272,49.04841232299799],[3.523388147354183,49.043373107910156],[3.5076611042023274,49.025482177734375],[3.5313365459443276,49.02480316162121],[3.5506930351257893,49.034637451171875],[3.5560364723205566,49.04323577880865]]]},"properties":{"GID_0":"FRA","NAME_0":"France","GID_1":"FRA.7_1","NAME_1":"Hauts-de-France","GID_2":"FRA.7.1_1","NAME_2":"Aisne","GID_3":"FRA.7.1.1_1","NAME_3":"Château-Thierry","GID_4":"FRA.7.1.1.3_1","NAME_4":"Condé-en-Brie","GID_5":"FRA.7.1.1.3.7_1","NAME_5":"Connigis","TYPE_5":"Commune simple","ENGTYPE_5":"Commune","CC_5":""}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[1.1680760383605957,48.302505493164176],[1.170511722564754,48.28636169433594],[1.1827287673951332,48.28363418579107],[1.2011593580245972,48.28804779052729],[1.2026714086533161,48.298274993896484],[1.1986715793610188,48.30046463012701],[1.1680760383605957,48.302505493164176]]]},"properties":{"GID_0":"FRA","NAME_0":"France","GID_1":"FRA.4_1","NAME_1":"Centre-Val de Loire","GID_2":"FRA.4.2_1","NAME_2":"Eure-et-Loir","GID_3":"FRA.4.2.1_1","NAME_3":"Chartres","GID_4":"FRA.4.2.1.7_1","NAME_4":"Illiers-Combray","GID_5":"FRA.4.2.1.7.15_1","NAME_5":"Méréglise","TYPE_5":"Commune simple","ENGTYPE_5":"Commune","CC_5":""}}
+]}

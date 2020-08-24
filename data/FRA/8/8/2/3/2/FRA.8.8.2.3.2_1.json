@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[1.79923248291027,48.83141326904308],[1.8106739521027748,48.8428688049317],[1.8126901388168903,48.853061676025504],[1.8059996366501991,48.86013031005865],[1.7916969060897259,48.854400634765625],[1.7780400514603798,48.83230590820318],[1.7852118015289875,48.83031845092779],[1.79923248291027,48.83141326904308]]]},"properties":{"GID_0":"FRA","NAME_0":"France","GID_1":"FRA.8_1","NAME_1":"Île-de-France","GID_2":"FRA.8.8_1","NAME_2":"Yvelines","GID_3":"FRA.8.8.2_1","NAME_3":"Rambouillet","GID_4":"FRA.8.8.2.3_1","NAME_4":"Montfort-l'Amaury","GID_5":"FRA.8.8.2.3.2_1","NAME_5":"Autouillet","TYPE_5":"Commune simple","ENGTYPE_5":"Commune","CC_5":""}}
+]}

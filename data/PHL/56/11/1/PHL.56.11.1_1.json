@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[120.99788665771484,16.36812973022461],[120.96843719482433,16.37026977539074],[120.95173645019531,16.390159606933594],[120.93517303466797,16.36622047424322],[120.94879150390636,16.355730056762752],[120.99788665771484,16.36812973022461]]]},"properties":{"GID_0":"PHL","NAME_0":"Philippines","GID_1":"PHL.56_1","NAME_1":"Nueva Vizcaya","NL_NAME_1":"","GID_2":"PHL.56.11_1","NAME_2":"Kayapa","NL_NAME_2":"","GID_3":"PHL.56.11.1_1","NAME_3":"Acacia","VARNAME_3":"","NL_NAME_3":"","TYPE_3":"Barangay","ENGTYPE_3":"Village","CC_3":"","HASC_3":""}}
+]}

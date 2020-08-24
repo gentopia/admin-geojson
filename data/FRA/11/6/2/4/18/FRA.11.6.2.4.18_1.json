@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[0.7238609194756691,43.022052764892635],[0.7295198440552895,43.02597045898443],[0.7250664234162514,43.04318618774414],[0.7053768634796143,43.0478515625],[0.7075186371804421,43.03125381469738],[0.7139702439307598,43.022232055664006],[0.7238609194756691,43.022052764892635]]]},"properties":{"GID_0":"FRA","NAME_0":"France","GID_1":"FRA.11_1","NAME_1":"Occitanie","GID_2":"FRA.11.6_1","NAME_2":"Haute-Garonne","GID_3":"FRA.11.6.2_1","NAME_3":"Saint-Gaudens","GID_4":"FRA.11.6.2.4_1","NAME_4":"Barbazan","GID_5":"FRA.11.6.2.4.18_1","NAME_5":"Payssous","TYPE_5":"Commune simple","ENGTYPE_5":"Commune","CC_5":""}}
+]}

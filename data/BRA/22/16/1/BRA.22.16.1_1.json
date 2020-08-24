@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[-62.89211654663086,-12.858845710754395],[-62.892189025878906,-12.860136032104492],[-62.881141662597656,-12.863176345825195],[-62.89211654663086,-12.858845710754395]]]},"properties":{"GID_0":"BRA","NAME_0":"Brazil","GID_1":"BRA.22_1","NAME_1":"Rondônia","NL_NAME_1":"","GID_2":"BRA.22.16_1","NAME_2":"Costa Marques","NL_NAME_2":"","GID_3":"BRA.22.16.1_1","NAME_3":"Alta Floresta d'Oeste","VARNAME_3":"","NL_NAME_3":"","TYPE_3":"Distrito","ENGTYPE_3":"District","CC_3":"","HASC_3":""}}
+]}

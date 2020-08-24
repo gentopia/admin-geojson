@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[0.7162255048751831,49.7296981811524],[0.7278314828872112,49.73158645629894],[0.7298946380615803,49.737907409668026],[0.6959199309350197,49.74888229370123],[0.6978014111519997,49.742835998535156],[0.6934391260147663,49.7371444702149],[0.7162255048751831,49.7296981811524]]]},"properties":{"GID_0":"FRA","NAME_0":"France","GID_1":"FRA.9_1","NAME_1":"Normandie","GID_2":"FRA.9.5_1","NAME_2":"Seine-Maritime","GID_3":"FRA.9.5.2_1","NAME_3":"Le Havre","GID_4":"FRA.9.5.2.11_1","NAME_4":"Ourville-en-Caux","GID_5":"FRA.9.5.2.11.16_1","NAME_5":"Veauville-lès-Quelles","TYPE_5":"Commune simple","ENGTYPE_5":"Commune","CC_5":""}}
+]}

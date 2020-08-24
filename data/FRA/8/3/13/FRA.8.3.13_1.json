@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[2.35411406,48.86927795],[2.34782624,48.87063217],[2.32787752,48.86986542],[2.3508482,48.8633461],[2.35411406,48.86927795]]]},"properties":{"GID_0":"FRA","NAME_0":"France","GID_1":"FRA.8_1","NAME_1":"Île-de-France","GID_2":"FRA.8.3_1","NAME_2":"Paris","GID_3":"FRA.8.3.13_1","NAME_3":"Paris, 2e arrondissement","GID_4":"FRA.8.3.13.1_1","NAME_4":"Paris, 2e arrondissement","VARNAME_4":"","TYPE_4":"Canton","ENGTYPE_4":"Cantons","CC_4":""}}
+]}

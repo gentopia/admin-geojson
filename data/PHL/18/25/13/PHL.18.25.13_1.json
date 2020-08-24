@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[121.91127777099621,18.23715972900402],[121.91419219970703,18.240520477295036],[121.92436218261719,18.253019332885742],[121.90886688232422,18.253469467163143],[121.90783691406261,18.243579864501896],[121.91127777099621,18.23715972900402]]]},"properties":{"GID_0":"PHL","NAME_0":"Philippines","GID_1":"PHL.18_1","NAME_1":"Cagayan","NL_NAME_1":"","GID_2":"PHL.18.25_1","NAME_2":"Santa Teresita","NL_NAME_2":"","GID_3":"PHL.18.25.13_1","NAME_3":"Villa","VARNAME_3":"","NL_NAME_3":"","TYPE_3":"Barangay","ENGTYPE_3":"Village","CC_3":"","HASC_3":""}}
+]}

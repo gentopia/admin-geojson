@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[0.8028432726860615,43.25061416625988],[0.8306733965874855,43.25269699096691],[0.8220287561416626,43.27558898925781],[0.8086041212081909,43.267810821533146],[0.8002306222915649,43.27038574218744],[0.7895084619522095,43.263526916503906],[0.8028432726860615,43.25061416625988]]]},"properties":{"GID_0":"FRA","NAME_0":"France","GID_1":"FRA.11_1","NAME_1":"Occitanie","GID_2":"FRA.11.6_1","NAME_2":"Haute-Garonne","GID_3":"FRA.11.6.2_1","NAME_3":"Saint-Gaudens","GID_4":"FRA.11.6.2.2_1","NAME_4":"Aurignac","GID_5":"FRA.11.6.2.2.11_1","NAME_5":"Esparron","TYPE_5":"Commune simple","ENGTYPE_5":"Commune","CC_5":""}}
+]}

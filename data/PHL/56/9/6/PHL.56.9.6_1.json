@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[121.16123962402344,16.267719268798942],[121.15560150146496,16.27923011779785],[121.13059997558605,16.288419723510685],[121.1328582763673,16.27124977111822],[121.14720916748058,16.262599945068473],[121.16123962402344,16.267719268798942]]]},"properties":{"GID_0":"PHL","NAME_0":"Philippines","GID_1":"PHL.56_1","NAME_1":"Nueva Vizcaya","NL_NAME_1":"","GID_2":"PHL.56.9_1","NAME_2":"Dupax Del Sur","NL_NAME_2":"","GID_3":"PHL.56.9.6_1","NAME_3":"Canabay","VARNAME_3":"","NL_NAME_3":"","TYPE_3":"Barangay","ENGTYPE_3":"Village","CC_3":"","HASC_3":""}}
+]}

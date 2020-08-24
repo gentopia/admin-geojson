@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[4.009361267089844,48.42284393310558],[3.999338626861686,48.442424774170036],[3.944233179092521,48.428787231445426],[3.968716859817505,48.41197204589855],[3.988689661025944,48.4133186340332],[4.009361267089844,48.42284393310558]]]},"properties":{"GID_0":"FRA","NAME_0":"France","GID_1":"FRA.6_1","NAME_1":"Grand Est","GID_2":"FRA.6.2_1","NAME_2":"Aube","GID_3":"FRA.6.2.2_1","NAME_3":"Nogent-sur-Seine","GID_4":"FRA.6.2.2.2_1","NAME_4":"Méry-sur-Seine","GID_5":"FRA.6.2.2.2.7_1","NAME_5":"Chauchigny","TYPE_5":"Commune simple","ENGTYPE_5":"Commune","CC_5":""}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[16.60508728027338,48.08641815185558],[16.616508483886832,48.100181579589844],[16.56744575500494,48.11035156250006],[16.564233779907283,48.101638793945426],[16.60508728027338,48.08641815185558]]]},"properties":{"GID_0":"AUT","NAME_0":"Austria","GID_1":"AUT.3_1","NAME_1":"Niederösterreich","NL_NAME_1":"","GID_2":"AUT.3.22_1","NAME_2":"Wien Umgebung","NL_NAME_2":"","GID_3":"AUT.3.22.7_1","NAME_3":"Klein-Neusiedl","VARNAME_3":"","NL_NAME_3":"","TYPE_3":"Gemeinde","ENGTYPE_3":"Municipality","CC_3":"32407","HASC_3":""}}
+]}

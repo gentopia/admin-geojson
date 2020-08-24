@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[7.573931217193547,48.61793899536133],[7.580412864685172,48.62289810180664],[7.595587730407772,48.62545776367182],[7.5862984657288735,48.63468170166021],[7.567296981811523,48.635494232177734],[7.559844970703239,48.621749877929744],[7.573931217193547,48.61793899536133]]]},"properties":{"GID_0":"FRA","NAME_0":"France","GID_1":"FRA.6_1","NAME_1":"Grand Est","GID_2":"FRA.6.3_1","NAME_2":"Bas-Rhin","GID_3":"FRA.6.3.5_1","NAME_3":"Strasbourg-Campagne","GID_4":"FRA.6.3.5.8_1","NAME_4":"Truchtersheim","GID_5":"FRA.6.3.5.8.17_1","NAME_5":"Quatzenheim","TYPE_5":"Commune simple","ENGTYPE_5":"Commune","CC_5":""}}
+]}

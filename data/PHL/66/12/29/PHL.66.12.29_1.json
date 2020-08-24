@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[125.05670928955078,11.953949928283748],[125.05452728271507,11.966290473938102],[125.04180145263683,11.961050033569336],[125.04501342773449,11.95092964172369],[125.04736328125,11.94359016418457],[125.05670928955078,11.953949928283748]]]},"properties":{"GID_0":"PHL","NAME_0":"Philippines","GID_1":"PHL.66_1","NAME_1":"Samar","NL_NAME_1":"","GID_2":"PHL.66.12_1","NAME_2":"Motiong","NL_NAME_2":"","GID_3":"PHL.66.12.29_1","NAME_3":"Santo Niño","VARNAME_3":"","NL_NAME_3":"","TYPE_3":"Barangay","ENGTYPE_3":"Village","CC_3":"","HASC_3":""}}
+]}

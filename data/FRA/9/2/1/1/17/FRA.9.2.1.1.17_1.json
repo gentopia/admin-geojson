@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[1.020505189895573,49.23566436767578],[1.0232073068618774,49.24005889892578],[1.0085176229478066,49.24668121337885],[0.9997441172599792,49.24657821655268],[0.9810618758202736,49.24379730224621],[0.9872277975082966,49.23712539672857],[1.0017286539078896,49.241081237793026],[1.020505189895573,49.23566436767578]]]},"properties":{"GID_0":"FRA","NAME_0":"France","GID_1":"FRA.9_1","NAME_1":"Normandie","GID_2":"FRA.9.2_1","NAME_2":"Eure","GID_3":"FRA.9.2.1_1","NAME_3":"Bernay","GID_4":"FRA.9.2.1.1_1","NAME_4":"Amfreville-la-Campagne","GID_5":"FRA.9.2.1.1.17_1","NAME_5":"Saint-Germain-de-Pasquier","TYPE_5":"Commune simple","ENGTYPE_5":"Commune","CC_5":""}}
+]}

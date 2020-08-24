@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[-0.3753083348274231,49.276283264160156],[-0.357313871383667,49.27300643920904],[-0.349103093147221,49.27892303466797],[-0.36285284161562004,49.2822532653808],[-0.3753083348274231,49.276283264160156]]]},"properties":{"GID_0":"FRA","NAME_0":"France","GID_1":"FRA.9_1","NAME_1":"Normandie","GID_2":"FRA.9.1_1","NAME_2":"Calvados","GID_3":"FRA.9.1.2_1","NAME_3":"Caen","GID_4":"FRA.9.1.2.12_1","NAME_4":"Douvres-la-Délivrande","GID_5":"FRA.9.1.2.12.9_1","NAME_5":"Plumetot","TYPE_5":"Commune simple","ENGTYPE_5":"Commune","CC_5":""}}
+]}

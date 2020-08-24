@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[123.8585433959961,12.03909969329834],[123.86836242675793,12.026670455932617],[123.87901306152344,12.013950347900504],[123.88771057128906,12.024149894714355],[123.86869049072266,12.049469947814941],[123.8585433959961,12.03909969329834]]]},"properties":{"GID_0":"PHL","NAME_0":"Philippines","GID_1":"PHL.46_1","NAME_1":"Masbate","NL_NAME_1":"","GID_2":"PHL.46.15_1","NAME_2":"Palanas","NL_NAME_2":"","GID_3":"PHL.46.15.1_1","NAME_3":"Antipolo","VARNAME_3":"","NL_NAME_3":"","TYPE_3":"Barangay","ENGTYPE_3":"Village","CC_3":"","HASC_3":""}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[120.7171401977539,15.030400276184139],[120.71790313720703,15.0315198898316],[120.71685791015636,15.032409667968807],[120.71494293212902,15.034070014953727],[120.7137680053711,15.032540321350098],[120.7171401977539,15.030400276184139]]]},"properties":{"GID_0":"PHL","NAME_0":"Philippines","GID_1":"PHL.60_1","NAME_1":"Pampanga","NL_NAME_1":"","GID_2":"PHL.60.16_1","NAME_2":"San Fernando City","NL_NAME_2":"","GID_3":"PHL.60.16.30_1","NAME_3":"Santa Teresita","VARNAME_3":"","NL_NAME_3":"","TYPE_3":"Barangay","ENGTYPE_3":"Village","CC_3":"","HASC_3":""}}
+]}

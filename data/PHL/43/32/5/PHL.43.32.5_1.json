@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[124.42687225341808,11.08325004577631],[124.42474365234386,11.090439796447754],[124.42089080810547,11.108940124511776],[124.40899658203125,11.094960212707576],[124.4148635864259,11.082099914550838],[124.42687225341808,11.08325004577631]]]},"properties":{"GID_0":"PHL","NAME_0":"Philippines","GID_1":"PHL.43_1","NAME_1":"Leyte","NL_NAME_1":"","GID_2":"PHL.43.32_1","NAME_2":"Palompon","NL_NAME_2":"","GID_3":"PHL.43.32.5_1","NAME_3":"Caduhaan","VARNAME_3":"","NL_NAME_3":"","TYPE_3":"Barangay","ENGTYPE_3":"Village","CC_3":"","HASC_3":""}}
+]}

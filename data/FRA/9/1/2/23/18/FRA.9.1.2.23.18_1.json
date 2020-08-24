@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[-0.6706776022910503,49.08713912963867],[-0.6588487029075623,49.11234283447277],[-0.682121992111206,49.10470962524414],[-0.6987631320952801,49.083755493164176],[-0.6924972534178551,49.08197784423834],[-0.6706776022910503,49.08713912963867]]]},"properties":{"GID_0":"FRA","NAME_0":"France","GID_1":"FRA.9_1","NAME_1":"Normandie","GID_2":"FRA.9.1_1","NAME_2":"Calvados","GID_3":"FRA.9.1.2_1","NAME_3":"Caen","GID_4":"FRA.9.1.2.23_1","NAME_4":"Villers-Bocage","GID_5":"FRA.9.1.2.23.18_1","NAME_5":"Saint-Louet-sur-Seulles","TYPE_5":"Commune simple","ENGTYPE_5":"Commune","CC_5":""}}
+]}

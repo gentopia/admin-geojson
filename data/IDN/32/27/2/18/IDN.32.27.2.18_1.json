@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[98.95585632324219,3.2883155345917885],[98.96168518066418,3.2934401035309406],[98.95772552490234,3.297135829925537],[98.95195770263683,3.2920687198638916],[98.95585632324219,3.2883155345917885]]]},"properties":{"GID_0":"IDN","NAME_0":"Indonesia","GID_1":"IDN.32_1","NAME_1":"Sumatera Utara","GID_2":"IDN.32.27_1","NAME_2":"Serdang Bedagai","GID_3":"IDN.32.27.2_1","NAME_3":"Bintang Bayu","GID_4":"IDN.32.27.2.18_1","NAME_4":"Ujung Negeri Hulu","VARNAME_4":"","TYPE_4":"Desa","ENGTYPE_4":"Village","CC_4":"1218012012"}}
+]}

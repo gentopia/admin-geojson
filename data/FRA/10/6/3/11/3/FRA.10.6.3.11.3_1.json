@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[0.26432976126682206,45.24200439453119],[0.2686424255371662,45.24586486816406],[0.2556701600552742,45.26481246948242],[0.2408798187972252,45.273899078369254],[0.2369534820318222,45.264297485351676],[0.23873229324817657,45.24126434326172],[0.26432976126682206,45.24200439453119]]]},"properties":{"GID_0":"FRA","NAME_0":"France","GID_1":"FRA.10_1","NAME_1":"Nouvelle-Aquitaine","GID_2":"FRA.10.6_1","NAME_2":"Dordogne","GID_3":"FRA.10.6.3_1","NAME_3":"Périgueux","GID_4":"FRA.10.6.3.11_1","NAME_4":"Ribérac","GID_5":"FRA.10.6.3.11.3_1","NAME_5":"Chassaignes","TYPE_5":"Commune simple","ENGTYPE_5":"Commune","CC_5":""}}
+]}

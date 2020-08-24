@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[124.2906265258789,13.900589942932186],[124.30095672607433,13.900679588317871],[124.30087280273438,13.903779983520508],[124.28996276855469,13.903220176696834],[124.29015350341797,13.901419639587402],[124.2906265258789,13.900589942932186]]]},"properties":{"GID_0":"PHL","NAME_0":"Philippines","GID_1":"PHL.23_1","NAME_1":"Catanduanes","NL_NAME_1":"","GID_2":"PHL.23.7_1","NAME_2":"Panganiban","NL_NAME_2":"","GID_3":"PHL.23.7.18_1","NAME_3":"San Vicente","VARNAME_3":"Poblacion","NL_NAME_3":"","TYPE_3":"Barangay","ENGTYPE_3":"Village","CC_3":"","HASC_3":""}}
+]}

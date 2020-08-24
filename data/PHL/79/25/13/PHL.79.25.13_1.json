@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[122.14531707763683,7.706299781799373],[122.13202667236328,7.706009864807129],[122.13210296630871,7.703120231628532],[122.13387298583996,7.690380096435661],[122.14479064941406,7.688839912414608],[122.14531707763683,7.706299781799373]]]},"properties":{"GID_0":"PHL","NAME_0":"Philippines","GID_1":"PHL.79_1","NAME_1":"Zamboanga del Norte","NL_NAME_1":"","GID_2":"PHL.79.25_1","NAME_2":"Siocon","NL_NAME_2":"","GID_3":"PHL.79.25.13_1","NAME_3":"Manaol","VARNAME_3":"","NL_NAME_3":"","TYPE_3":"Barangay","ENGTYPE_3":"Village","CC_3":"","HASC_3":""}}
+]}

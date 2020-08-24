@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[120.59445953369152,5.202497005462703],[120.59498596191418,5.200061798095703],[120.59841918945324,5.2024641036987305],[120.59445953369152,5.202497005462703]]]},"properties":{"GID_0":"PHL","NAME_0":"Philippines","GID_1":"PHL.77_1","NAME_1":"Tawi-Tawi","NL_NAME_1":"","GID_2":"PHL.77.9_1","NAME_2":"South Ubian","NL_NAME_2":"","GID_3":"PHL.77.9.11_1","NAME_3":"Laitan","VARNAME_3":"","NL_NAME_3":"","TYPE_3":"Barangay","ENGTYPE_3":"Village","CC_3":"","HASC_3":""}}
+]}

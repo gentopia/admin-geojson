@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[123.55126953125,7.867450237274284],[123.56011199951172,7.862080097198543],[123.56626129150402,7.862339973449707],[123.56822204589844,7.861959934234676],[123.56405639648438,7.873819828033447],[123.5495834350586,7.872360229492244],[123.55126953125,7.867450237274284]]]},"properties":{"GID_0":"PHL","NAME_0":"Philippines","GID_1":"PHL.80_1","NAME_1":"Zamboanga del Sur","NL_NAME_1":"","GID_2":"PHL.80.27_1","NAME_2":"Tukuran","NL_NAME_2":"","GID_3":"PHL.80.27.25_1","NAME_3":"Upper Bayao","VARNAME_3":"","NL_NAME_3":"","TYPE_3":"Barangay","ENGTYPE_3":"Village","CC_3":"","HASC_3":""}}
+]}

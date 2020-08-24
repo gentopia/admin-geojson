@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[124.8656234741211,10.346500396728572],[124.87354278564464,10.334520339965763],[124.87996673583984,10.346989631652775],[124.8656234741211,10.346500396728572]]]},"properties":{"GID_0":"PHL","NAME_0":"Philippines","GID_1":"PHL.43_1","NAME_1":"Leyte","NL_NAME_1":"","GID_2":"PHL.43.6_1","NAME_2":"Bato","NL_NAME_2":"","GID_3":"PHL.43.6.26_1","NAME_3":"Rivilla","VARNAME_3":"","NL_NAME_3":"","TYPE_3":"Barangay","ENGTYPE_3":"Village","CC_3":"","HASC_3":""}}
+]}

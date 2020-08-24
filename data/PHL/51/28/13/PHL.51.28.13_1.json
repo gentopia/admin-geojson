@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[122.55699920654297,9.712189674377441],[122.55629730224621,9.772330284118766],[122.55593872070324,9.78808975219738],[122.49192810058594,9.788359642028922],[122.49120330810547,9.712109565734863],[122.55699920654297,9.712189674377441]]]},"properties":{"GID_0":"PHL","NAME_0":"Philippines","GID_1":"PHL.51_1","NAME_1":"Negros Occidental","NL_NAME_1":"","GID_2":"PHL.51.28_1","NAME_2":"Sipalay City","NL_NAME_2":"","GID_3":"PHL.51.28.13_1","NAME_3":"Manlucahoc","VARNAME_3":"","NL_NAME_3":"","TYPE_3":"Barangay","ENGTYPE_3":"Village","CC_3":"","HASC_3":""}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[121.29947662353516,14.49059009552002],[121.30441284179688,14.495269775390682],[121.30873870849621,14.498339653015137],[121.29723358154297,14.503689765930119],[121.29087829589844,14.495650291442928],[121.29947662353516,14.49059009552002]]]},"properties":{"GID_0":"PHL","NAME_0":"Philippines","GID_1":"PHL.64_1","NAME_1":"Rizal","NL_NAME_1":"","GID_2":"PHL.64.12_1","NAME_2":"Tanay","NL_NAME_2":"","GID_3":"PHL.64.12.9_1","NAME_3":"Pinagkamaligan","VARNAME_3":"Poblacion","NL_NAME_3":"","TYPE_3":"Barangay","ENGTYPE_3":"Village","CC_3":"","HASC_3":""}}
+]}

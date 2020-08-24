@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[123.83695983886719,10.258600234985465],[123.82710266113281,10.265879631042424],[123.82430267333996,10.264559745788517],[123.82718658447277,10.25374984741211],[123.83175659179699,10.252249717712346],[123.83695983886719,10.258600234985465]]]},"properties":{"GID_0":"PHL","NAME_0":"Philippines","GID_1":"PHL.25_1","NAME_1":"Cebu","NL_NAME_1":"","GID_2":"PHL.25.51_1","NAME_2":"Talisay City","NL_NAME_2":"","GID_3":"PHL.25.51.9_1","NAME_3":"Lawaan I","VARNAME_3":"","NL_NAME_3":"","TYPE_3":"Barangay","ENGTYPE_3":"Village","CC_3":"","HASC_3":""}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[124.8221664428711,11.999910354614315],[124.82167053222668,12.00559043884283],[124.80481719970703,12.004610061645451],[124.7967529296875,12.004389762878532],[124.79711151123058,11.99833965301508],[124.8221664428711,11.999910354614315]]]},"properties":{"GID_0":"PHL","NAME_0":"Philippines","GID_1":"PHL.66_1","NAME_1":"Samar","NL_NAME_1":"","GID_2":"PHL.66.7_1","NAME_2":"Gandara","NL_NAME_2":"","GID_3":"PHL.66.7.20_1","NAME_3":"Diaz","VARNAME_3":"","NL_NAME_3":"","TYPE_3":"Barangay","ENGTYPE_3":"Village","CC_3":"","HASC_3":""}}
+]}

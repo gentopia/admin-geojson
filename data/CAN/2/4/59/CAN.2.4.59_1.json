@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[-122.10076141357422,51.84735107421869],[-122.10080718994135,51.841281890869254],[-122.07769775390625,51.841354370117244],[-122.07765960693354,51.847385406494254],[-122.07763671874994,51.85245132446289],[-122.10071563720697,51.85226058959961],[-122.10076141357422,51.84735107421869]]]},"properties":{"GID_0":"CAN","NAME_0":"Canada","GID_1":"CAN.2_1","NAME_1":"British Columbia","NL_NAME_1":"","GID_2":"CAN.2.4_1","NAME_2":"Cariboo","NL_NAME_2":"","GID_3":"CAN.2.4.59_1","NAME_3":"Little Springs  8","VARNAME_3":"","NL_NAME_3":"","TYPE_3":"Réserve Indienne","ENGTYPE_3":"Indian Reserve","CC_3":"","HASC_3":""}}
+]}

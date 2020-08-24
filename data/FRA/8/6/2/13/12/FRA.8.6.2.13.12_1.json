@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[1.9963386058807373,49.158977508545036],[2.012397527694759,49.16589736938471],[2.0079240798950195,49.17180252075207],[1.9991127252579872,49.17503738403332],[1.9918888807297321,49.16853332519531],[1.990528345108146,49.16306304931646],[1.9963386058807373,49.158977508545036]]]},"properties":{"GID_0":"FRA","NAME_0":"France","GID_1":"FRA.8_1","NAME_1":"Île-de-France","GID_2":"FRA.8.6_1","NAME_2":"Val-d'Oise","GID_3":"FRA.8.6.2_1","NAME_3":"Pontoise","GID_4":"FRA.8.6.2.13_1","NAME_4":"Marines","GID_5":"FRA.8.6.2.13.12_1","NAME_5":"Le Heaulme","TYPE_5":"Commune simple","ENGTYPE_5":"Commune","CC_5":""}}
+]}

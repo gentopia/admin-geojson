@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[121.18612670898438,16.515399932861328],[121.18731689453125,16.519050598144474],[121.18392181396484,16.520870208740178],[121.18144226074219,16.515010833740234],[121.18515777587902,16.513189315795955],[121.18612670898438,16.515399932861328]]]},"properties":{"GID_0":"PHL","NAME_0":"Philippines","GID_1":"PHL.56_1","NAME_1":"Nueva Vizcaya","NL_NAME_1":"","GID_2":"PHL.56.14_1","NAME_2":"Solano","NL_NAME_2":"","GID_3":"PHL.56.14.14_1","NAME_3":"Poblacion South","VARNAME_3":"","NL_NAME_3":"","TYPE_3":"Barangay","ENGTYPE_3":"Village","CC_3":"","HASC_3":""}}
+]}

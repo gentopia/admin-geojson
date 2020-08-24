@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[5.367672920226994,44.37695312500006],[5.368965148925838,44.372726440429744],[5.395242214202938,44.3809928894043],[5.395839214324951,44.3844108581543],[5.388516902923698,44.388866424560604],[5.374304771423397,44.389877319335994],[5.367672920226994,44.37695312500006]]]},"properties":{"GID_0":"FRA","NAME_0":"France","GID_1":"FRA.1_1","NAME_1":"Auvergne-Rhône-Alpes","GID_2":"FRA.1.5_1","NAME_2":"Drôme","GID_3":"FRA.1.5.2_1","NAME_3":"Nyons","GID_4":"FRA.1.5.2.10_1","NAME_4":"Rémuzat","GID_5":"FRA.1.5.2.10.9_1","NAME_5":"Pelonne","TYPE_5":"Commune simple","ENGTYPE_5":"Commune","CC_5":""}}
+]}

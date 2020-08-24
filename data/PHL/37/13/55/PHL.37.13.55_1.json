@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[121.68921661376964,16.716529846191406],[121.68860626220703,16.719999313354606],[121.67858886718761,16.724960327148494],[121.67075347900402,16.71574020385748],[121.67674255371094,16.710180282592773],[121.68921661376964,16.716529846191406]]]},"properties":{"GID_0":"PHL","NAME_0":"Philippines","GID_1":"PHL.37_1","NAME_1":"Isabela","NL_NAME_1":"","GID_2":"PHL.37.13_1","NAME_2":"Echague","NL_NAME_2":"","GID_3":"PHL.37.13.55_1","NAME_3":"Silauan Norte","VARNAME_3":"Poblacion","NL_NAME_3":"","TYPE_3":"Barangay","ENGTYPE_3":"Village","CC_3":"","HASC_3":""}}
+]}

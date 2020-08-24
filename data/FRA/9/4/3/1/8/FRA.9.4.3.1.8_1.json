@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[0.4733248651027111,48.57602310180664],[0.4815401732922169,48.577510833740234],[0.48190131783491097,48.587490081787166],[0.4740646481513977,48.5958366394043],[0.45955276489263497,48.59599685668945],[0.4473866522313301,48.59506988525402],[0.45331099629407845,48.585681915283146],[0.4733248651027111,48.57602310180664]]]},"properties":{"GID_0":"FRA","NAME_0":"France","GID_1":"FRA.9_1","NAME_1":"Normandie","GID_2":"FRA.9.4_1","NAME_2":"Orne","GID_3":"FRA.9.4.3_1","NAME_3":"Mortagne-au-Perche","GID_4":"FRA.9.4.3.1_1","NAME_4":"Bazoches-sur-Hoëne","GID_5":"FRA.9.4.3.1.8_1","NAME_5":"Saint-Germain-de-Martigny","TYPE_5":"Commune simple","ENGTYPE_5":"Commune","CC_5":""}}
+]}

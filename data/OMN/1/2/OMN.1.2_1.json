@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[57.41649246215832,23.125547409057617],[57.4601402282716,23.22531318664562],[57.16365814208996,23.50401115417486],[56.87466812133789,23.4907684326173],[56.68275451660162,22.697540283203125],[57.41649246215832,23.125547409057617]]]},"properties":{"GID_0":"OMN","NAME_0":"Oman","GID_1":"OMN.1_1","NAME_1":"Ad Dakhliyah","NL_NAME_1":"","GID_2":"OMN.1.2_1","NAME_2":"Al Hamra","VARNAME_2":"","NL_NAME_2":"","TYPE_2":"Wilayat","ENGTYPE_2":"Province","CC_2":"","HASC_2":"OM.DA.HA"}}
+]}

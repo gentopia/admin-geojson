@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[6.328393936157227,47.25191497802746],[6.316632270812988,47.258182525634766],[6.307486057281551,47.25902938842779],[6.303084850311336,47.259777069091854],[6.289792060852108,47.25148773193365],[6.320456981658992,47.24318695068371],[6.328393936157227,47.25191497802746]]]},"properties":{"GID_0":"FRA","NAME_0":"France","GID_1":"FRA.2_1","NAME_1":"Bourgogne-Franche-Comté","GID_2":"FRA.2.2_1","NAME_2":"Doubs","GID_3":"FRA.2.2.1_1","NAME_3":"Besançon","GID_4":"FRA.2.2.1.3_1","NAME_4":"Baume-les-Dames","GID_5":"FRA.2.2.1.3.6_1","NAME_5":"Côtebrune","TYPE_5":"Commune simple","ENGTYPE_5":"Commune","CC_5":""}}
+]}

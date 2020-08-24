@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[2.4081366062164875,48.99197006225586],[2.4008102416993324,48.982662200927734],[2.414152383804378,48.98076629638683],[2.4248175621033283,48.97501754760742],[2.4322924613953774,48.97976684570318],[2.4165353775023846,48.99850463867199],[2.4081366062164875,48.99197006225586]]]},"properties":{"GID_0":"FRA","NAME_0":"France","GID_1":"FRA.8_1","NAME_1":"Île-de-France","GID_2":"FRA.8.6_1","NAME_2":"Val-d'Oise","GID_3":"FRA.8.6.3_1","NAME_3":"Sarcelles","GID_4":"FRA.8.6.3.14_1","NAME_4":"Villiers-le-Bel","GID_5":"FRA.8.6.3.14.1_1","NAME_5":"Arnouville","TYPE_5":"Commune simple","ENGTYPE_5":"Commune","CC_5":""}}
+]}

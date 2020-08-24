@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[124.3375473022461,7.309100151062125],[124.36534881591797,7.31299018859869],[124.36628723144531,7.319290161132926],[124.3470230102539,7.320809841155949],[124.3375473022461,7.309100151062125]]]},"properties":{"GID_0":"PHL","NAME_0":"Philippines","GID_1":"PHL.44_1","NAME_1":"Maguindanao","NL_NAME_1":"","GID_2":"PHL.44.30_1","NAME_2":"Sultan Kudarat","NL_NAME_2":"","GID_3":"PHL.44.30.27_1","NAME_3":"Nekitan","VARNAME_3":"","NL_NAME_3":"","TYPE_3":"Barangay","ENGTYPE_3":"Village","CC_3":"","HASC_3":""}}
+]}

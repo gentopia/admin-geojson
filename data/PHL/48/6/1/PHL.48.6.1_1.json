@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[123.5631332397461,8.388250350952205],[123.55522918701183,8.38871955871582],[123.55522918701183,8.383540153503418],[123.56920623779297,8.382530212402344],[123.56646728515636,8.384570121765194],[123.56524658203125,8.386280059814453],[123.5631332397461,8.388250350952205]]]},"properties":{"GID_0":"PHL","NAME_0":"Philippines","GID_1":"PHL.48_1","NAME_1":"Misamis Occidental","NL_NAME_1":"","GID_2":"PHL.48.6_1","NAME_2":"Concepcion","NL_NAME_2":"","GID_3":"PHL.48.6.1_1","NAME_3":"Bagong Nayon","VARNAME_3":"","NL_NAME_3":"","TYPE_3":"Barangay","ENGTYPE_3":"Village","CC_3":"","HASC_3":""}}
+]}

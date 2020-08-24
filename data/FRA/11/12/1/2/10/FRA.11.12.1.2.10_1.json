@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[0.9326894283294678,43.88420104980469],[0.9398192763328552,43.88564300537121],[0.9127336740494911,43.904384613037166],[0.9046538472175598,43.89892578125006],[0.9006340503692627,43.89685058593756],[0.9181867241859436,43.892795562744254],[0.9326894283294678,43.88420104980469]]]},"properties":{"GID_0":"FRA","NAME_0":"France","GID_1":"FRA.11_1","NAME_1":"Occitanie","GID_2":"FRA.11.12_1","NAME_2":"Tarn-et-Garonne","GID_3":"FRA.11.12.1_1","NAME_3":"Castelsarrasin","GID_4":"FRA.11.12.1.2_1","NAME_4":"Beaumont-de-Lomagne","GID_5":"FRA.11.12.1.2.10_1","NAME_5":"Glatens","TYPE_5":"Commune simple","ENGTYPE_5":"Commune","CC_5":""}}
+]}

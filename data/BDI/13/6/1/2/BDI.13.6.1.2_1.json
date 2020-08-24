@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[30.31143569946289,-2.844460964202824],[30.31175041198742,-2.839617967605534],[30.307115554809684,-2.837126970291081],[30.30378150939947,-2.8431210517882732],[30.31143569946289,-2.844460964202824]]]},"properties":{"GID_0":"BDI","NAME_0":"Burundi","GID_1":"BDI.13_1","NAME_1":"Muyinga","GID_2":"BDI.13.6_1","NAME_2":"Muyinga","GID_3":"BDI.13.6.1_1","NAME_3":"Bugomo","GID_4":"BDI.13.6.1.2_1","NAME_4":"Buvumu","VARNAME_4":"","TYPE_4":"Sous Colline","ENGTYPE_4":"Sous Colline","CC_4":""}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[124.1252899169923,7.876140117645264],[124.11821746826195,7.882929801940975],[124.11752319335949,7.883309841156006],[124.11705017089844,7.882359981536922],[124.1170425415039,7.881849765777702],[124.12449645996094,7.875110149383659],[124.1252899169923,7.876140117645264]]]},"properties":{"GID_0":"PHL","NAME_0":"Philippines","GID_1":"PHL.42_1","NAME_1":"Lanao del Sur","NL_NAME_1":"","GID_2":"PHL.42.1_1","NAME_2":"Bacolod Kalawi","NL_NAME_2":"","GID_3":"PHL.42.1.1_1","NAME_3":"Ampao","VARNAME_3":"","NL_NAME_3":"","TYPE_3":"Barangay","ENGTYPE_3":"Village","CC_3":"","HASC_3":""}}
+]}

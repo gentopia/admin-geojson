@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[-0.20721748471254386,44.56592941284191],[-0.18000468611717224,44.56789398193371],[-0.17477811872953453,44.5679664611817],[-0.18270109593868256,44.591117858886776],[-0.20099489390850067,44.59597778320324],[-0.20758317410945892,44.5796737670899],[-0.20721748471254386,44.56592941284191]]]},"properties":{"GID_0":"FRA","NAME_0":"France","GID_1":"FRA.10_1","NAME_1":"Nouvelle-Aquitaine","GID_2":"FRA.10.7_1","NAME_2":"Gironde","GID_3":"FRA.10.7.4_1","NAME_3":"Langon","GID_4":"FRA.10.7.4.11_1","NAME_4":"Saint-Macaire","GID_5":"FRA.10.7.4.11.11_1","NAME_5":"Saint-Pierre-d'Aurillac","TYPE_5":"Commune simple","ENGTYPE_5":"Commune","CC_5":""}}
+]}

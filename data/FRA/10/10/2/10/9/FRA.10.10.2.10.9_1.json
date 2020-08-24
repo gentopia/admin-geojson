@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[0.3324609696865082,44.53844451904297],[0.35039591789256974,44.536003112793026],[0.37373080849653206,44.54602813720703],[0.3767846226692768,44.56026840209961],[0.3441682755947113,44.55916595458996],[0.3234351873397827,44.5428733825683],[0.3324609696865082,44.53844451904297]]]},"properties":{"GID_0":"FRA","NAME_0":"France","GID_1":"FRA.10_1","NAME_1":"Nouvelle-Aquitaine","GID_2":"FRA.10.10_1","NAME_2":"Lot-et-Garonne","GID_3":"FRA.10.10.2_1","NAME_3":"Marmande","GID_4":"FRA.10.10.2.10_1","NAME_4":"Seyches","GID_5":"FRA.10.10.2.10.9_1","NAME_5":"Montignac-Toupinerie","TYPE_5":"Commune simple","ENGTYPE_5":"Commune","CC_5":""}}
+]}

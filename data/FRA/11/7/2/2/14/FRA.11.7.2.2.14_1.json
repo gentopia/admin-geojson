@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[0.07462465018039666,43.06712341308594],[0.08451998978853226,43.08000946044933],[0.06669676303857841,43.08379364013683],[0.057332336902732095,43.06825256347656],[0.05888074636470719,43.0677375793457],[0.07462465018039666,43.06712341308594]]]},"properties":{"GID_0":"FRA","NAME_0":"France","GID_1":"FRA.11_1","NAME_1":"Occitanie","GID_2":"FRA.11.7_1","NAME_2":"Hautes-Pyrénées","GID_3":"FRA.11.7.2_1","NAME_3":"Bagnères-de-Bigorre","GID_4":"FRA.11.7.2.2_1","NAME_4":"Bagnères-de-Bigorre","GID_5":"FRA.11.7.2.2.14_1","NAME_5":"Neuilh","TYPE_5":"Commune simple","ENGTYPE_5":"Commune","CC_5":""}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[-0.026976896449866672,42.97832489013683],[-0.049151141196489334,42.98882293701183],[-0.05942594259977341,42.990005493164006],[-0.04528562352049903,42.968925476074276],[-0.03141900151962318,42.96857833862305],[-0.02298776619130649,42.9765739440918],[-0.026976896449866672,42.97832489013683]]]},"properties":{"GID_0":"FRA","NAME_0":"France","GID_1":"FRA.11_1","NAME_1":"Occitanie","GID_2":"FRA.11.7_1","NAME_2":"Hautes-Pyrénées","GID_3":"FRA.11.7.1_1","NAME_3":"Argelès-Gazost","GID_4":"FRA.11.7.1.1_1","NAME_4":"Argelès-Gazost","GID_5":"FRA.11.7.1.1.5_1","NAME_5":"Artalens-Souin","TYPE_5":"Commune simple","ENGTYPE_5":"Commune","CC_5":""}}
+]}

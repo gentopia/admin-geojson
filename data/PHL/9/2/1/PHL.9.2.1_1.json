@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[122.17357635498047,6.527430057525635],[122.17249298095703,6.531119823455754],[122.16687774658214,6.544410228729305],[122.14939880371094,6.544879913330078],[122.15503692626964,6.527299880981445],[122.17357635498047,6.527430057525635]]]},"properties":{"GID_0":"PHL","NAME_0":"Philippines","GID_1":"PHL.9_1","NAME_1":"Basilan","NL_NAME_1":"","GID_2":"PHL.9.2_1","NAME_2":"Al-Barka","NL_NAME_2":"","GID_3":"PHL.9.2.1_1","NAME_3":"Apil-Apil","VARNAME_3":"","NL_NAME_3":"","TYPE_3":"Barangay","ENGTYPE_3":"Village","CC_3":"","HASC_3":""}}
+]}

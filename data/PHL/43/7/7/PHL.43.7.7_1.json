@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[124.82103729248047,10.662260055542106],[124.8156509399414,10.663049697876033],[124.81350708007824,10.654399871826286],[124.81234741210949,10.651089668273926],[124.81658935546875,10.647709846496639],[124.82103729248047,10.662260055542106]]]},"properties":{"GID_0":"PHL","NAME_0":"Philippines","GID_1":"PHL.43_1","NAME_1":"Leyte","NL_NAME_1":"","GID_2":"PHL.43.7_1","NAME_2":"Baybay City","NL_NAME_2":"","GID_3":"PHL.43.7.7_1","NAME_3":"Biasong","VARNAME_3":"","NL_NAME_3":"","TYPE_3":"Barangay","ENGTYPE_3":"Village","CC_3":"","HASC_3":""}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[123.4087371826173,8.06577014923107],[123.41629028320312,8.080050468444938],[123.39968872070312,8.089289665222168],[123.397216796875,8.088359832763672],[123.38791656494152,8.10414028167736],[123.39227294921898,8.080389976501465],[123.4087371826173,8.06577014923107]]]},"properties":{"GID_0":"PHL","NAME_0":"Philippines","GID_1":"PHL.80_1","NAME_1":"Zamboanga del Sur","NL_NAME_1":"","GID_2":"PHL.80.23_1","NAME_2":"Sominot","NL_NAME_2":"","GID_3":"PHL.80.23.7_1","NAME_3":"Lantawan","VARNAME_3":"","NL_NAME_3":"","TYPE_3":"Barangay","ENGTYPE_3":"Village","CC_3":"","HASC_3":""}}
+]}

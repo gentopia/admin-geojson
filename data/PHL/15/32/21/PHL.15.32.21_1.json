@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[124.50837707519531,9.864170074463004],[124.51331329345703,9.881779670715446],[124.51940155029308,9.904190063476506],[124.50768280029297,9.90520000457758],[124.49259948730469,9.86981010437006],[124.50837707519531,9.864170074463004]]]},"properties":{"GID_0":"PHL","NAME_0":"Philippines","GID_1":"PHL.15_1","NAME_1":"Bohol","NL_NAME_1":"","GID_2":"PHL.15.32_1","NAME_2":"Mabini","NL_NAME_2":"","GID_3":"PHL.15.32.21_1","NAME_3":"Tangkigan","VARNAME_3":"","NL_NAME_3":"","TYPE_3":"Barangay","ENGTYPE_3":"Village","CC_3":"","HASC_3":""}}
+]}

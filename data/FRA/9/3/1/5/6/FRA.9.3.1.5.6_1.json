@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[-1.5397077798843384,48.83999252319336],[-1.5408565998076824,48.85097122192394],[-1.5544216632843018,48.85078048706066],[-1.5650569200515179,48.84551239013683],[-1.5587606430053143,48.83720397949219],[-1.5397077798843384,48.83999252319336]]]},"properties":{"GID_0":"FRA","NAME_0":"France","GID_1":"FRA.9_1","NAME_1":"Normandie","GID_2":"FRA.9.3_1","NAME_2":"Manche","GID_3":"FRA.9.3.1_1","NAME_3":"Avranches","GID_4":"FRA.9.3.1.5_1","NAME_4":"Granville","GID_5":"FRA.9.3.1.5.6_1","NAME_5":"Yquelon","TYPE_5":"Commune simple","ENGTYPE_5":"Commune","CC_5":""}}
+]}

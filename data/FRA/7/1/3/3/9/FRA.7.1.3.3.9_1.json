@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[3.2961835861206623,49.73624420166027],[3.2840912342070965,49.74308013916021],[3.2795066833496094,49.75661468505865],[3.2738006114959717,49.755496978759766],[3.2752418518067543,49.72953414916992],[3.2961835861206623,49.72904586791998],[3.2961835861206623,49.73624420166027]]]},"properties":{"GID_0":"FRA","NAME_0":"France","GID_1":"FRA.7_1","NAME_1":"Hauts-de-France","GID_2":"FRA.7.1_1","NAME_2":"Aisne","GID_3":"FRA.7.1.3_1","NAME_3":"Saint-Quentin","GID_4":"FRA.7.1.3.3_1","NAME_4":"Moÿ-de-l'Aisne","GID_5":"FRA.7.1.3.3.9_1","NAME_5":"Gibercourt","TYPE_5":"Commune simple","ENGTYPE_5":"Commune","CC_5":""}}
+]}

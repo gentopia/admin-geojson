@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[124.40682220458996,12.500889778137264],[124.40692138671875,12.515009880066032],[124.4070816040039,12.516119956970215],[124.39494323730469,12.51126956939703],[124.40014648437511,12.506790161132812],[124.40682220458996,12.500889778137264]]]},"properties":{"GID_0":"PHL","NAME_0":"Philippines","GID_1":"PHL.54_1","NAME_1":"Northern Samar","NL_NAME_1":"","GID_2":"PHL.54.11_1","NAME_2":"Lavezares","NL_NAME_2":"","GID_3":"PHL.54.11.17_1","NAME_3":"Salvacion","VARNAME_3":"","NL_NAME_3":"","TYPE_3":"Barangay","ENGTYPE_3":"Village","CC_3":"","HASC_3":""}}
+]}

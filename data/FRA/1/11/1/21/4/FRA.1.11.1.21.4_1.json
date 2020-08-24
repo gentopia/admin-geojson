@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[4.813096523284912,45.854705810546875],[4.818729400634766,45.8566513061524],[4.831489562988338,45.87950134277344],[4.819850444793758,45.881645202636776],[4.8073186874390785,45.869182586670036],[4.813096523284912,45.854705810546875]]]},"properties":{"GID_0":"FRA","NAME_0":"France","GID_1":"FRA.1_1","NAME_1":"Auvergne-Rhône-Alpes","GID_2":"FRA.1.11_1","NAME_2":"Rhône","GID_3":"FRA.1.11.1_1","NAME_3":"Lyon","GID_4":"FRA.1.11.1.21_1","NAME_4":"Neuville-sur-Saône","GID_5":"FRA.1.11.1.21.4_1","NAME_5":"Curis-au-Mont-d'Or","TYPE_5":"Commune simple","ENGTYPE_5":"Commune","CC_5":""}}
+]}

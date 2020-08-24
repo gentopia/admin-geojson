@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[3.1607210636139484,50.201938629150504],[3.1801028251648518,50.18763351440441],[3.1965932846068768,50.198535919189396],[3.181440830230713,50.209747314453125],[3.1607210636139484,50.201938629150504]]]},"properties":{"GID_0":"FRA","NAME_0":"France","GID_1":"FRA.7_1","NAME_1":"Hauts-de-France","GID_2":"FRA.7.2_1","NAME_2":"Nord","GID_3":"FRA.7.2.2_1","NAME_3":"Cambrai","GID_4":"FRA.7.2.2.2_1","NAME_4":"Cambrai-Ouest","GID_5":"FRA.7.2.2.2.14_1","NAME_5":"Sailly-lez-Cambrai","TYPE_5":"Commune simple","ENGTYPE_5":"Commune","CC_5":""}}
+]}

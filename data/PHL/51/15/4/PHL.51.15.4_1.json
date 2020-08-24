@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[122.81546020507812,9.99547004699707],[122.81255340576172,9.996450424194279],[122.80780029296875,9.99705982208252],[122.80673217773449,9.994589805603027],[122.81434631347679,9.992670059204158],[122.81546020507812,9.99547004699707]]]},"properties":{"GID_0":"PHL","NAME_0":"Philippines","GID_1":"PHL.51_1","NAME_1":"Negros Occidental","NL_NAME_1":"","GID_2":"PHL.51.15_1","NAME_2":"Kabankalan City","NL_NAME_2":"","GID_3":"PHL.51.15.4_1","NAME_3":"Barangay 3","VARNAME_3":"Poblacion","NL_NAME_3":"","TYPE_3":"Barangay","ENGTYPE_3":"Village","CC_3":"","HASC_3":""}}
+]}

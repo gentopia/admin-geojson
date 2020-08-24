@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[124.18463134765636,7.914740085601807],[124.1792221069336,7.907390117645264],[124.18895721435547,7.908219814300651],[124.19287872314453,7.9100098609924885],[124.18463134765636,7.914740085601807]]]},"properties":{"GID_0":"PHL","NAME_0":"Philippines","GID_1":"PHL.42_1","NAME_1":"Lanao del Sur","NL_NAME_1":"","GID_2":"PHL.42.3_1","NAME_2":"Balindong","NL_NAME_2":"","GID_3":"PHL.42.3.15_1","NAME_3":"Dimarao","VARNAME_3":"","NL_NAME_3":"","TYPE_3":"Barangay","ENGTYPE_3":"Village","CC_3":"","HASC_3":""}}
+]}

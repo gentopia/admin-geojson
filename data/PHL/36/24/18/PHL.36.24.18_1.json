@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[122.57893371582031,10.787940025329647],[122.58223724365246,10.79248046875],[122.58689880371094,10.797690391540584],[122.57772064208996,10.803009986877441],[122.57453918457031,10.793410301208496],[122.57893371582031,10.787940025329647]]]},"properties":{"GID_0":"PHL","NAME_0":"Philippines","GID_1":"PHL.36_1","NAME_1":"Iloilo","NL_NAME_1":"","GID_2":"PHL.36.24_1","NAME_2":"Leganes","NL_NAME_2":"","GID_3":"PHL.36.24.18_1","NAME_3":"San Vicente","VARNAME_3":"","NL_NAME_3":"","TYPE_3":"Barangay","ENGTYPE_3":"Village","CC_3":"","HASC_3":""}}
+]}

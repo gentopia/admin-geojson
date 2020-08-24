@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[5.096762657165584,45.09772109985346],[5.100746631622371,45.0880012512207],[5.119126796722526,45.07643890380871],[5.125090122222957,45.08919525146496],[5.121508598327694,45.10271072387695],[5.112725734710693,45.11093139648449],[5.113024234771842,45.117816925048885],[5.096762657165584,45.09772109985346]]]},"properties":{"GID_0":"FRA","NAME_0":"France","GID_1":"FRA.1_1","NAME_1":"Auvergne-Rhône-Alpes","GID_2":"FRA.1.5_1","NAME_2":"Drôme","GID_3":"FRA.1.5.3_1","NAME_3":"Valence","GID_4":"FRA.1.5.3.8_1","NAME_4":"Romans-sur-Isère  2e  Canton","GID_5":"FRA.1.5.3.8.12_1","NAME_5":"Triors","TYPE_5":"Commune simple","ENGTYPE_5":"Commune","CC_5":""}}
+]}

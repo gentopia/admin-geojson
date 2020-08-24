@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[125.00060272216808,11.246350288391113],[124.9996032714846,11.24647045135498],[124.99951934814453,11.245389938354435],[125.00067138671875,11.245010375976676],[125.00060272216808,11.246350288391113]]]},"properties":{"GID_0":"PHL","NAME_0":"Philippines","GID_1":"PHL.43_1","NAME_1":"Leyte","NL_NAME_1":"","GID_2":"PHL.43.39_1","NAME_2":"Tacloban City","NL_NAME_2":"","GID_3":"PHL.43.39.42_1","NAME_3":"Barangay 30","VARNAME_3":"","NL_NAME_3":"","TYPE_3":"Barangay","ENGTYPE_3":"Village","CC_3":"","HASC_3":""}}
+]}

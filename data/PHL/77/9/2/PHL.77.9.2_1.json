@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[120.59432220458984,5.213336944580192],[120.58953857421875,5.216247081756592],[120.58934020996094,5.208296775817871],[120.59255981445312,5.20717811584484],[120.59432220458984,5.213336944580192]]]},"properties":{"GID_0":"PHL","NAME_0":"Philippines","GID_1":"PHL.77_1","NAME_1":"Tawi-Tawi","NL_NAME_1":"","GID_2":"PHL.77.9_1","NAME_2":"South Ubian","NL_NAME_2":"","GID_3":"PHL.77.9.2_1","NAME_3":"Bengkol","VARNAME_3":"","NL_NAME_3":"","TYPE_3":"Barangay","ENGTYPE_3":"Village","CC_3":"","HASC_3":""}}
+]}

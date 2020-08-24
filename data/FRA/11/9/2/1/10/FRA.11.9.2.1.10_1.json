@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[1.8676955699920654,44.910102844238395],[1.8920488357545082,44.92171096801758],[1.8781352043152992,44.92728805541998],[1.8693420886993977,44.92459869384777],[1.8560065031052204,44.91598892211914],[1.8676955699920654,44.910102844238395]]]},"properties":{"GID_0":"FRA","NAME_0":"France","GID_1":"FRA.11_1","NAME_1":"Occitanie","GID_2":"FRA.11.9_1","NAME_2":"Lot","GID_3":"FRA.11.9.2_1","NAME_3":"Figeac","GID_4":"FRA.11.9.2.1_1","NAME_4":"Bretenoux","GID_5":"FRA.11.9.2.1.10_1","NAME_5":"Glanes","TYPE_5":"Commune simple","ENGTYPE_5":"Commune","CC_5":""}}
+]}

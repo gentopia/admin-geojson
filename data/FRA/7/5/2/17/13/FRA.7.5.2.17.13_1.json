@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[1.9289751052856445,49.933933258056754],[1.9482724666596027,49.943714141845646],[1.9419231414794922,49.94847488403332],[1.9321401119232178,49.94828033447271],[1.926069974899292,49.93970489501959],[1.9289751052856445,49.933933258056754]]]},"properties":{"GID_0":"FRA","NAME_0":"France","GID_1":"FRA.7_1","NAME_1":"Hauts-de-France","GID_2":"FRA.7.5_1","NAME_2":"Somme","GID_3":"FRA.7.5.2_1","NAME_3":"Amiens","GID_4":"FRA.7.5.2.17_1","NAME_4":"Molliens-Dreuil","GID_5":"FRA.7.5.2.17.13_1","NAME_5":"Laleu","TYPE_5":"Commune simple","ENGTYPE_5":"Commune","CC_5":""}}
+]}

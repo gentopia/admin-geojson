@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[123.31738281250011,7.506279945373478],[123.35978698730469,7.516689777374324],[123.35135650634766,7.528379917144832],[123.31778717041016,7.520259857177848],[123.31800842285156,7.518509864807129],[123.31768798828125,7.517819881439266],[123.31738281250011,7.506279945373478]]]},"properties":{"GID_0":"PHL","NAME_0":"Philippines","GID_1":"PHL.80_1","NAME_1":"Zamboanga del Sur","NL_NAME_1":"","GID_2":"PHL.80.3_1","NAME_2":"Dimataling","NL_NAME_2":"","GID_3":"PHL.80.3.18_1","NAME_3":"Sugbay Uno","VARNAME_3":"","NL_NAME_3":"","TYPE_3":"Barangay","ENGTYPE_3":"Village","CC_3":"","HASC_3":""}}
+]}

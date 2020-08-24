@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[124.52694702148438,10.930419921875057],[124.53003692626964,10.939109802246037],[124.52438354492188,10.939640045166016],[124.50832366943371,10.940839767456055],[124.52310180664062,10.924329757690543],[124.52694702148438,10.930419921875057]]]},"properties":{"GID_0":"PHL","NAME_0":"Philippines","GID_1":"PHL.43_1","NAME_1":"Leyte","NL_NAME_1":"","GID_2":"PHL.43.29_1","NAME_2":"Merida","NL_NAME_2":"","GID_3":"PHL.43.29.17_1","NAME_3":"Mat-E","VARNAME_3":"","NL_NAME_3":"","TYPE_3":"Barangay","ENGTYPE_3":"Village","CC_3":"","HASC_3":""}}
+]}

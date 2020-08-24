@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[31.23864364624029,30.05418014526373],[31.243764877319336,30.063636779785213],[31.22657203674322,30.07415580749506],[31.231048583984375,30.049468994140625],[31.23864364624029,30.05418014526373]]]},"properties":{"GID_0":"EGY","NAME_0":"Egypt","GID_1":"EGY.11_1","NAME_1":"Al Qahirah","NL_NAME_1":"","GID_2":"EGY.11.26_1","NAME_2":"Bulaq","VARNAME_2":"","NL_NAME_2":"","TYPE_2":"Kism","ENGTYPE_2":"Subdivision","CC_2":"","HASC_2":"EG.QH.BO"}}
+]}

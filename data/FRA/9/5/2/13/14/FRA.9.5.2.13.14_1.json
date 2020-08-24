@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[0.5514497756958008,49.6915016174317],[0.5644931197166443,49.692302703857536],[0.5732521414757343,49.709239959716854],[0.5443692803382874,49.715179443359375],[0.5385113954544636,49.702358245849666],[0.5514497756958008,49.6915016174317]]]},"properties":{"GID_0":"FRA","NAME_0":"France","GID_1":"FRA.9_1","NAME_1":"Normandie","GID_2":"FRA.9.5_1","NAME_2":"Seine-Maritime","GID_3":"FRA.9.5.2_1","NAME_3":"Le Havre","GID_4":"FRA.9.5.2.13_1","NAME_4":"Valmont","GID_5":"FRA.9.5.2.13.14_1","NAME_5":"Sorquainville","TYPE_5":"Commune simple","ENGTYPE_5":"Commune","CC_5":""}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[7.013903617858887,48.78196334838867],[7.037469863891715,48.78202438354498],[7.065974712371883,48.79945373535156],[7.049170494079647,48.804069519043026],[7.017876625061035,48.79196166992182],[7.0075774192811195,48.79113769531256],[7.013903617858887,48.78196334838867]]]},"properties":{"GID_0":"FRA","NAME_0":"France","GID_1":"FRA.6_1","NAME_1":"Grand Est","GID_2":"FRA.6.9_1","NAME_2":"Moselle","GID_3":"FRA.6.9.6_1","NAME_3":"Sarrebourg","GID_4":"FRA.6.9.6.1_1","NAME_4":"Fénétrange","GID_5":"FRA.6.9.6.1.14_1","NAME_5":"Oberstinzel","TYPE_5":"Commune simple","ENGTYPE_5":"Commune","CC_5":""}}
+]}

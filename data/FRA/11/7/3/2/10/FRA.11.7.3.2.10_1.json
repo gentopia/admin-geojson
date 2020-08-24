@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[0.10288900882011376,43.31711578369135],[0.09357465803628884,43.3240852355957],[0.07720530033122941,43.323986053466854],[0.07388834655290566,43.31743240356445],[0.09645497798931046,43.31317138671875],[0.10288900882011376,43.31711578369135]]]},"properties":{"GID_0":"FRA","NAME_0":"France","GID_1":"FRA.11_1","NAME_1":"Occitanie","GID_2":"FRA.11.7_1","NAME_2":"Hautes-Pyrénées","GID_3":"FRA.11.7.3_1","NAME_3":"Tarbes","GID_4":"FRA.11.7.3.2_1","NAME_4":"Bordères-sur-l'Échez","GID_5":"FRA.11.7.3.2.10_1","NAME_5":"Sarniguet","TYPE_5":"Commune simple","ENGTYPE_5":"Commune","CC_5":""}}
+]}

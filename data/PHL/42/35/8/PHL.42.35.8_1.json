@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[124.25611877441429,8.0446195602417],[124.25643157958984,8.04740047454834],[124.25344085693382,8.046939849853516],[124.25213623046886,8.046330451965446],[124.25298309326172,8.04502964019781],[124.25251770019543,8.042699813842887],[124.25611877441429,8.0446195602417]]]},"properties":{"GID_0":"PHL","NAME_0":"Philippines","GID_1":"PHL.42_1","NAME_1":"Lanao del Sur","NL_NAME_1":"","GID_2":"PHL.42.35_1","NAME_2":"Saguiaran","NL_NAME_2":"","GID_3":"PHL.42.35.8_1","NAME_3":"Comonal","VARNAME_3":"","NL_NAME_3":"","TYPE_3":"Barangay","ENGTYPE_3":"Village","CC_3":"","HASC_3":""}}
+]}

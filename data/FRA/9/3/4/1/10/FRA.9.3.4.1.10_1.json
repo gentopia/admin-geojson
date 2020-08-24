@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[-1.1254948377608684,49.03091430664074],[-1.1140656471251873,49.049621582031364],[-1.1301535367965698,49.07016372680664],[-1.143949031829834,49.06119918823242],[-1.1461175680159386,49.04582595825201],[-1.1297653913497925,49.029342651367244],[-1.1254948377608684,49.03091430664074]]]},"properties":{"GID_0":"FRA","NAME_0":"France","GID_1":"FRA.9_1","NAME_1":"Normandie","GID_2":"FRA.9.3_1","NAME_2":"Manche","GID_3":"FRA.9.3.4_1","NAME_3":"Saint-Lô","GID_4":"FRA.9.3.4.1_1","NAME_4":"Canisy","GID_5":"FRA.9.3.4.1.10_1","NAME_5":"Saint-Samson-de-Bonfossé","TYPE_5":"Commune simple","ENGTYPE_5":"Commune","CC_5":""}}
+]}

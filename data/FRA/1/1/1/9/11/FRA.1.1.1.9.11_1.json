@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[5.676993846893424,45.829380035400334],[5.6936163902282715,45.83485031127941],[5.698163032531852,45.86166381835949],[5.677359104156608,45.86399841308588],[5.662036418914738,45.86102676391613],[5.658210754394645,45.8485488891601],[5.668258666992244,45.83504867553722],[5.676993846893424,45.829380035400334]]]},"properties":{"GID_0":"FRA","NAME_0":"France","GID_1":"FRA.1_1","NAME_1":"Auvergne-Rhône-Alpes","GID_2":"FRA.1.1_1","NAME_2":"Ain","GID_3":"FRA.1.1.1_1","NAME_3":"Belley","GID_4":"FRA.1.1.1.9_1","NAME_4":"Virieu-le-Grand","GID_5":"FRA.1.1.1.9.11_1","NAME_5":"Saint-Martin-de-Bavel","TYPE_5":"Commune simple","ENGTYPE_5":"Commune","CC_5":""}}
+]}

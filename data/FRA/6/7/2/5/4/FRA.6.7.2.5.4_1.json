@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[6.839311122894344,48.63742828369152],[6.834289550781364,48.64362716674816],[6.813698291778621,48.6469345092774],[6.782625675201416,48.64271926879877],[6.797981739044133,48.63954925537121],[6.818676471710148,48.6410369873048],[6.839311122894344,48.63742828369152]]]},"properties":{"GID_0":"FRA","NAME_0":"France","GID_1":"FRA.6_1","NAME_1":"Grand Est","GID_2":"FRA.6.7_1","NAME_2":"Meurthe-et-Moselle","GID_3":"FRA.6.7.2_1","NAME_3":"Lunéville","GID_4":"FRA.6.7.2.5_1","NAME_4":"Blâmont","GID_5":"FRA.6.7.2.5.4_1","NAME_5":"Avricourt","TYPE_5":"Commune simple","ENGTYPE_5":"Commune","CC_5":""}}
+]}

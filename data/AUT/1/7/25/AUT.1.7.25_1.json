@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[16.468414306640682,47.563701629638786],[16.48289680480957,47.547458648681754],[16.505245208740234,47.53276062011719],[16.508037567138786,47.57494735717785],[16.48802947998047,47.58605957031256],[16.463699340820426,47.570869445800895],[16.468414306640682,47.563701629638786]]]},"properties":{"GID_0":"AUT","NAME_0":"Austria","GID_1":"AUT.1_1","NAME_1":"Burgenland","NL_NAME_1":"","GID_2":"AUT.1.7_1","NAME_2":"Oberpullendorf","NL_NAME_2":"","GID_3":"AUT.1.7.25_1","NAME_3":"Unterfrauenhaid","VARNAME_3":"","NL_NAME_3":"","TYPE_3":"Gemeinde","ENGTYPE_3":"Municipality","CC_3":"10825","HASC_3":""}}
+]}

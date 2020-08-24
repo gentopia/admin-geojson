@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[120.87732696533203,14.380610466003361],[120.87774658203125,14.383769989013729],[120.8778533935548,14.38506031036377],[120.8775405883789,14.385149955749625],[120.87670135498058,14.380740165710506],[120.87700653076172,14.380680084228516],[120.87732696533203,14.380610466003361]]]},"properties":{"GID_0":"PHL","NAME_0":"Philippines","GID_1":"PHL.24_1","NAME_1":"Cavite","NL_NAME_1":"","GID_2":"PHL.24.9_1","NAME_2":"General Trias","NL_NAME_2":"","GID_3":"PHL.24.9.12_1","NAME_3":"Gov. Ferrer Poblacion","VARNAME_3":"Barangay 1","NL_NAME_3":"","TYPE_3":"Barangay","ENGTYPE_3":"Village","CC_3":"","HASC_3":""}}
+]}

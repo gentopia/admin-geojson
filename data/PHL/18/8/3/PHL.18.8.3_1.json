@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[121.79045867919922,18.23307991027832],[121.79120635986328,18.2526092529298],[121.78515625000011,18.25321960449213],[121.78132629394554,18.227500915527344],[121.79045867919922,18.23307991027832]]]},"properties":{"GID_0":"PHL","NAME_0":"Philippines","GID_1":"PHL.18_1","NAME_1":"Cagayan","NL_NAME_1":"","GID_2":"PHL.18.8_1","NAME_2":"Buguey","NL_NAME_2":"","GID_3":"PHL.18.8.3_1","NAME_3":"Ballang","VARNAME_3":"","NL_NAME_3":"","TYPE_3":"Barangay","ENGTYPE_3":"Village","CC_3":"","HASC_3":""}}
+]}

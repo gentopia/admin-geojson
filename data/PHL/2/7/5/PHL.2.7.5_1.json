@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[125.52626800537121,8.700030326843319],[125.55007934570324,8.70026969909668],[125.56936645507824,8.700240135192814],[125.58085632324219,8.73132038116455],[125.53521728515636,8.737250328063908],[125.53132629394531,8.721039772033805],[125.52626800537121,8.700030326843319]]]},"properties":{"GID_0":"PHL","NAME_0":"Philippines","GID_1":"PHL.2_1","NAME_1":"Agusan del Norte","NL_NAME_1":"","GID_2":"PHL.2.7_1","NAME_2":"Las Nieves","NL_NAME_2":"","GID_3":"PHL.2.7.5_1","NAME_3":"Consorcia","VARNAME_3":"","NL_NAME_3":"","TYPE_3":"Barangay","ENGTYPE_3":"Village","CC_3":"","HASC_3":""}}
+]}

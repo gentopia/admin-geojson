@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[31.164291381835938,30.94850730895996],[31.183300018310604,30.954267501831055],[31.181034088134822,30.98528861999506],[31.187391281127987,30.991317749023438],[31.162626266479606,30.994546890258732],[31.164291381835938,30.94850730895996]]]},"properties":{"GID_0":"EGY","NAME_0":"Egypt","GID_1":"EGY.5_1","NAME_1":"Al Gharbiyah","NL_NAME_1":"محافظة الغربية","GID_2":"EGY.5.2_1","NAME_2":"Al-Mahallah al-Kubra 1","VARNAME_2":"","NL_NAME_2":"","TYPE_2":"Kism","ENGTYPE_2":"Subdivision","CC_2":"","HASC_2":"EG.GH.MF"}}
+]}

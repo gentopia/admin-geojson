@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[118.32644653320312,9.421270370483455],[118.31453704834007,9.404700279235897],[118.37847900390636,9.342289924621639],[118.43470001220726,9.304519653320256],[118.441650390625,9.318679809570312],[118.32644653320312,9.421270370483455]]]},"properties":{"GID_0":"PHL","NAME_0":"Philippines","GID_1":"PHL.59_1","NAME_1":"Palawan","NL_NAME_1":"","GID_2":"PHL.59.16_1","NAME_2":"Narra","NL_NAME_2":"","GID_3":"PHL.59.16.10_1","NAME_3":"Elvita","VARNAME_3":"","NL_NAME_3":"","TYPE_3":"Barangay","ENGTYPE_3":"Village","CC_3":"","HASC_3":""}}
+]}

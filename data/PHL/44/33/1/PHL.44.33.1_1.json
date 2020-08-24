@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[124.3623733520509,6.972650051117],[124.37071228027344,6.9762701988220215],[124.36978149414062,6.98786020278942],[124.3643798828125,6.984250068664608],[124.3623733520509,6.972650051117]]]},"properties":{"GID_0":"PHL","NAME_0":"Philippines","GID_1":"PHL.44_1","NAME_1":"Maguindanao","NL_NAME_1":"","GID_2":"PHL.44.33_1","NAME_2":"Talayan","NL_NAME_2":"","GID_3":"PHL.44.33.1_1","NAME_3":"Binangga North","VARNAME_3":"","NL_NAME_3":"","TYPE_3":"Barangay","ENGTYPE_3":"Village","CC_3":"","HASC_3":""}}
+]}

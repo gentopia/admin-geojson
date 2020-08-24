@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[4.980973720550594,43.99630737304699],[4.970533847808838,44.00743484497082],[4.953043460846061,44.018642425537166],[4.936488628387394,44.02452850341808],[4.936048030853328,44.02439880371094],[4.937393665313721,44.01774978637707],[4.962595939636287,43.98556518554693],[4.980973720550594,43.99630737304699]]]},"properties":{"GID_0":"FRA","NAME_0":"France","GID_1":"FRA.13_1","NAME_1":"Provence-Alpes-Côte d'Azur","GID_2":"FRA.13.6_1","NAME_2":"Vaucluse","GID_3":"FRA.13.6.3_1","NAME_3":"Carpentras","GID_4":"FRA.13.6.3.3_1","NAME_4":"Carpentras-Sud","GID_5":"FRA.13.6.3.3.1_1","NAME_5":"Althen-des-Paluds","TYPE_5":"Commune simple","ENGTYPE_5":"Commune","CC_5":""}}
+]}

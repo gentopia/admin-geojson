@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[4.558048248291016,48.43918609619146],[4.5416207313538735,48.44343948364258],[4.521465778350773,48.43724060058594],[4.527682781219596,48.429691314697266],[4.532071590423641,48.43089294433605],[4.550274848938045,48.42094039916992],[4.558048248291016,48.43918609619146]]]},"properties":{"GID_0":"FRA","NAME_0":"France","GID_1":"FRA.6_1","NAME_1":"Grand Est","GID_2":"FRA.6.2_1","NAME_2":"Aube","GID_3":"FRA.6.2.1_1","NAME_3":"Bar-sur-Aube","GID_4":"FRA.6.2.1.2_1","NAME_4":"Brienne-le-Château","GID_5":"FRA.6.2.1.2.16_1","NAME_5":"Perthes-lès-Brienne","TYPE_5":"Commune simple","ENGTYPE_5":"Commune","CC_5":""}}
+]}

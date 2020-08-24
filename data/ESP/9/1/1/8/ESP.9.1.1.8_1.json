@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[-1.7346589565276531,42.86832809448248],[-1.7326810359954266,42.871009826660156],[-1.7354769706726074,42.87200927734381],[-1.7376350164412884,42.869991302490234],[-1.7346589565276531,42.86832809448248]]]},"properties":{"GID_0":"ESP","NAME_0":"Spain","GID_1":"ESP.9_1","NAME_1":"Comunidad Foral de Navarra","GID_2":"ESP.9.1_1","NAME_2":"Navarra","GID_3":"ESP.9.1.1_1","NAME_3":"n.a. (185)","GID_4":"ESP.9.1.1.8_1","NAME_4":"Facería de Anezcar (Ansoain) y Sarasa (Iza)","VARNAME_4":"","TYPE_4":"Municipality","ENGTYPE_4":"Municipality","CC_4":""}}
+]}

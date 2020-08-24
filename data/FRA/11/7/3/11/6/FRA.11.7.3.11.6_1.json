@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[0.14299245178705178,43.17638778686535],[0.1476688385010334,43.172836303710994],[0.15373088419437408,43.18358230590826],[0.15605200827133103,43.19289779663086],[0.14851850271236344,43.18676757812506],[0.14299245178705178,43.17638778686535]]]},"properties":{"GID_0":"FRA","NAME_0":"France","GID_1":"FRA.11_1","NAME_1":"Occitanie","GID_2":"FRA.11.7_1","NAME_2":"Hautes-Pyrénées","GID_3":"FRA.11.7.3_1","NAME_3":"Tarbes","GID_4":"FRA.11.7.3.11_1","NAME_4":"Séméac","GID_5":"FRA.11.7.3.11.6_1","NAME_5":"Montignac","TYPE_5":"Commune simple","ENGTYPE_5":"Commune","CC_5":""}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[124.82547760009777,10.503600120544547],[124.81897735595726,10.51084995269781],[124.81678771972656,10.511810302734489],[124.77239990234375,10.495940208435115],[124.77651977539062,10.489620208740348],[124.82547760009777,10.503600120544547]]]},"properties":{"GID_0":"PHL","NAME_0":"Philippines","GID_1":"PHL.43_1","NAME_1":"Leyte","NL_NAME_1":"","GID_2":"PHL.43.16_1","NAME_2":"Inopacan","NL_NAME_2":"","GID_3":"PHL.43.16.10_1","NAME_3":"Guinsanga-An","VARNAME_3":"","NL_NAME_3":"","TYPE_3":"Barangay","ENGTYPE_3":"Village","CC_3":"","HASC_3":""}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[2.117929220199642,49.59820175170904],[2.140490770339966,49.60418701171881],[2.1457324028015705,49.6099472045899],[2.1429018974304768,49.61631011962902],[2.1288368701935383,49.62109756469732],[2.113847732544059,49.61117553710932],[2.112042188644466,49.59962463378912],[2.117929220199642,49.59820175170904]]]},"properties":{"GID_0":"FRA","NAME_0":"France","GID_1":"FRA.7_1","NAME_1":"Hauts-de-France","GID_2":"FRA.7.3_1","NAME_2":"Oise","GID_3":"FRA.7.3.1_1","NAME_3":"Beauvais","GID_4":"FRA.7.3.1.6_1","NAME_4":"Crèvecœur-le-Grand","GID_5":"FRA.7.3.1.6.20_1","NAME_5":"Viefvillers","TYPE_5":"Commune simple","ENGTYPE_5":"Commune","CC_5":""}}
+]}

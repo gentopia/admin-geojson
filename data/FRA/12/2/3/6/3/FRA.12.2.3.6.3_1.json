@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[-0.2009085118770031,47.17355346679699],[-0.22421596944320754,47.182132720947266],[-0.23332659900188446,47.16154098510748],[-0.22494830191129722,47.15818786621094],[-0.19725406169891357,47.1591911315918],[-0.20336119830608368,47.16747283935541],[-0.2009085118770031,47.17355346679699]]]},"properties":{"GID_0":"FRA","NAME_0":"France","GID_1":"FRA.12_1","NAME_1":"Pays de la Loire","GID_2":"FRA.12.2_1","NAME_2":"Maine-et-Loire","GID_3":"FRA.12.2.3_1","NAME_3":"Saumur","GID_4":"FRA.12.2.3.6_1","NAME_4":"Montreuil-Bellay","GID_5":"FRA.12.2.3.6.3_1","NAME_5":"Brossay","TYPE_5":"Commune simple","ENGTYPE_5":"Commune","CC_5":""}}
+]}

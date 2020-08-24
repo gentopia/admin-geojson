@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[120.99308013916027,15.607000350952205],[120.9999465942384,15.611300468444824],[121.01097106933605,15.618359565734863],[121.01432800292969,15.620209693908691],[120.98198699951183,15.6252698898316],[120.99308013916027,15.607000350952205]]]},"properties":{"GID_0":"PHL","NAME_0":"Philippines","GID_1":"PHL.55_1","NAME_1":"Nueva Ecija","NL_NAME_1":"","GID_2":"PHL.55.15_1","NAME_2":"Llanera","NL_NAME_2":"","GID_3":"PHL.55.15.14_1","NAME_3":"Murcon","VARNAME_3":"","NL_NAME_3":"","TYPE_3":"Barangay","ENGTYPE_3":"Village","CC_3":"","HASC_3":""}}
+]}

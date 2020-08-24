@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[121.5500717163086,16.938110351562443],[121.54814910888672,16.955280303955135],[121.53250885009766,16.95395088195812],[121.5323715209961,16.945690155029297],[121.53340148925793,16.935779571533203],[121.5500717163086,16.938110351562443]]]},"properties":{"GID_0":"PHL","NAME_0":"Philippines","GID_1":"PHL.33_1","NAME_1":"Ifugao","NL_NAME_1":"","GID_2":"PHL.33.2_1","NAME_2":"Alfonso Lista","NL_NAME_2":"","GID_3":"PHL.33.2.15_1","NAME_3":"San Jose","VARNAME_3":"","NL_NAME_3":"","TYPE_3":"Barangay","ENGTYPE_3":"Village","CC_3":"","HASC_3":""}}
+]}

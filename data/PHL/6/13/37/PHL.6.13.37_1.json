@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[122.06484985351562,10.81066036224371],[122.0748291015625,10.810020446777344],[122.0888137817384,10.809049606323242],[122.08056640625,10.82808971405035],[122.07554626464844,10.827409744262695],[122.06329345703136,10.819540023803711],[122.06484985351562,10.81066036224371]]]},"properties":{"GID_0":"PHL","NAME_0":"Philippines","GID_1":"PHL.6_1","NAME_1":"Antique","NL_NAME_1":"","GID_2":"PHL.6.13_1","NAME_2":"San Remigio","NL_NAME_2":"","GID_3":"PHL.6.13.37_1","NAME_3":"Ramon Magsaysay","VARNAME_3":"","NL_NAME_3":"","TYPE_3":"Barangay","ENGTYPE_3":"Village","CC_3":"","HASC_3":""}}
+]}

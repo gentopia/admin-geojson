@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[121.65178680419922,17.901250839233512],[121.66374206542969,17.902280807495117],[121.66568756103516,17.916679382324276],[121.64851379394531,17.91559028625494],[121.65178680419922,17.901250839233512]]]},"properties":{"GID_0":"PHL","NAME_0":"Philippines","GID_1":"PHL.18_1","NAME_1":"Cagayan","NL_NAME_1":"","GID_2":"PHL.18.2_1","NAME_2":"Alcala","NL_NAME_2":"","GID_3":"PHL.18.2.10_1","NAME_3":"Centro Norte","VARNAME_3":"Poblacion","NL_NAME_3":"","TYPE_3":"Barangay","ENGTYPE_3":"Village","CC_3":"","HASC_3":""}}
+]}

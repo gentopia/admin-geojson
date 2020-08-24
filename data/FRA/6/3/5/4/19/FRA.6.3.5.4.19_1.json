@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[7.599003314971924,48.82019042968744],[7.619334697723502,48.82515716552729],[7.619814872741642,48.8348770141601],[7.613165855407772,48.83730316162121],[7.596282482147274,48.83202743530279],[7.591787338256893,48.83319854736328],[7.591931819915715,48.82756423950195],[7.599003314971924,48.82019042968744]]]},"properties":{"GID_0":"FRA","NAME_0":"France","GID_1":"FRA.6_1","NAME_1":"Grand Est","GID_2":"FRA.6.3_1","NAME_2":"Bas-Rhin","GID_3":"FRA.6.3.5_1","NAME_3":"Strasbourg-Campagne","GID_4":"FRA.6.3.5.4_1","NAME_4":"Hochfelden","GID_5":"FRA.6.3.5.4.19_1","NAME_5":"Ringeldorf","TYPE_5":"Commune simple","ENGTYPE_5":"Commune","CC_5":""}}
+]}

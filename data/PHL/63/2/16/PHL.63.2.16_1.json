@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[121.4878921508789,16.465999603271484],[121.49471282958996,16.46641921997076],[121.49520874023438,16.478189468383846],[121.50978088378918,16.520130157470703],[121.46581268310547,16.46618080139166],[121.4878921508789,16.465999603271484]]]},"properties":{"GID_0":"PHL","NAME_0":"Philippines","GID_1":"PHL.63_1","NAME_1":"Quirino","NL_NAME_1":"","GID_2":"PHL.63.2_1","NAME_2":"Cabarroguis","NL_NAME_2":"","GID_3":"PHL.63.2.16_1","NAME_3":"Villarose","VARNAME_3":"","NL_NAME_3":"","TYPE_3":"Barangay","ENGTYPE_3":"Village","CC_3":"","HASC_3":""}}
+]}

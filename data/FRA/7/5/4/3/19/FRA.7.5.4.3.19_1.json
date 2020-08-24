@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[2.811587572097892,49.80411148071289],[2.8226006031037514,49.78662490844732],[2.8333675861358643,49.78702926635748],[2.8412132263183594,49.798755645751896],[2.827150821685791,49.81169128417969],[2.811587572097892,49.80411148071289]]]},"properties":{"GID_0":"FRA","NAME_0":"France","GID_1":"FRA.7_1","NAME_1":"Hauts-de-France","GID_2":"FRA.7.5_1","NAME_2":"Somme","GID_3":"FRA.7.5.4_1","NAME_3":"Péronne","GID_4":"FRA.7.5.4.3_1","NAME_4":"Chaulnes","GID_5":"FRA.7.5.4.3.19_1","NAME_5":"Puzeaux","TYPE_5":"Commune simple","ENGTYPE_5":"Commune","CC_5":""}}
+]}

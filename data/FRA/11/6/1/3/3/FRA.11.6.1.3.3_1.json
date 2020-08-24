@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[1.1019563674926758,43.2041969299317],[1.088599681854305,43.20491409301758],[1.0841583013533977,43.19901657104492],[1.090314984321651,43.18651962280285],[1.1023491621018024,43.188125610351676],[1.1019563674926758,43.2041969299317]]]},"properties":{"GID_0":"FRA","NAME_0":"France","GID_1":"FRA.11_1","NAME_1":"Occitanie","GID_2":"FRA.11.6_1","NAME_2":"Haute-Garonne","GID_3":"FRA.11.6.1_1","NAME_3":"Muret","GID_4":"FRA.11.6.1.3_1","NAME_4":"Cazères","GID_5":"FRA.11.6.1.3.3_1","NAME_5":"Couladère","TYPE_5":"Commune simple","ENGTYPE_5":"Commune","CC_5":""}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[3.0939016342163654,48.931526184082145],[3.1170804500579834,48.93313980102545],[3.1170601844787598,48.936271667480526],[3.118894815445003,48.94467544555664],[3.1027827262878986,48.95021438598633],[3.0992472171784584,48.95060348510742],[3.0939016342163654,48.931526184082145]]]},"properties":{"GID_0":"FRA","NAME_0":"France","GID_1":"FRA.8_1","NAME_1":"Île-de-France","GID_2":"FRA.8.4_1","NAME_2":"Seine-et-Marne","GID_3":"FRA.8.4.2_1","NAME_3":"Meaux","GID_4":"FRA.8.4.2.4_1","NAME_4":"La Ferté-sous-Jouarre","GID_5":"FRA.8.4.2.4.17_1","NAME_5":"Sept-Sorts","TYPE_5":"Commune simple","ENGTYPE_5":"Commune","CC_5":""}}
+]}

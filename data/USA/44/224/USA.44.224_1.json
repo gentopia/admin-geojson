@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[-99.09446716308588,32.956371307373104],[-98.95230865478504,32.95652008056646],[-98.95414733886719,33.39616012573242],[-99.47534942626953,33.395629882812614],[-99.47223663330072,32.9569206237793],[-99.09446716308588,32.956371307373104]]]},"properties":{"GID_0":"USA","NAME_0":"United States","GID_1":"USA.44_1","NAME_1":"Texas","NL_NAME_1":"","GID_2":"USA.44.224_1","NAME_2":"Throckmorton","VARNAME_2":"","NL_NAME_2":"","TYPE_2":"County","ENGTYPE_2":"County","CC_2":"","HASC_2":"US.TX.TH"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[3.5402493476868244,47.259666442871094],[3.539858818054199,47.26817703247076],[3.535192251205501,47.27372741699219],[3.5066008567810627,47.280029296875],[3.5018050670624916,47.27220916748047],[3.5088121891022297,47.264896392822266],[3.5072126388549805,47.26216506958019],[3.5402493476868244,47.259666442871094]]]},"properties":{"GID_0":"FRA","NAME_0":"France","GID_1":"FRA.2_1","NAME_1":"Bourgogne-Franche-Comté","GID_2":"FRA.2.5_1","NAME_2":"Nièvre","GID_3":"FRA.2.5.2_1","NAME_3":"Clamecy","GID_4":"FRA.2.5.2.1_1","NAME_4":"Brinon-sur-Beuvron","GID_5":"FRA.2.5.2.1.17_1","NAME_5":"Michaugues","TYPE_5":"Commune simple","ENGTYPE_5":"Commune","CC_5":""}}
+]}

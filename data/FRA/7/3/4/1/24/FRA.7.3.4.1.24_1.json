@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[3.0563206672669594,49.10191726684576],[3.0372328758240883,49.10297775268555],[3.0344161987305256,49.08861160278332],[3.0660765171051594,49.08521652221674],[3.0567383766174316,49.095767974853516],[3.0563206672669594,49.10191726684576]]]},"properties":{"GID_0":"FRA","NAME_0":"France","GID_1":"FRA.7_1","NAME_1":"Hauts-de-France","GID_2":"FRA.7.3_1","NAME_2":"Oise","GID_3":"FRA.7.3.4_1","NAME_3":"Senlis","GID_4":"FRA.7.3.4.1_1","NAME_4":"Betz","GID_5":"FRA.7.3.4.1.24_1","NAME_5":"Varinfroy","TYPE_5":"Commune simple","ENGTYPE_5":"Commune","CC_5":""}}
+]}

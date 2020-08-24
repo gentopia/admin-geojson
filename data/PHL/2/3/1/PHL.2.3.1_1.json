@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[125.598876953125,9.09391021728527],[125.59835815429699,9.086680412292537],[125.59754180908203,9.076419830322322],[125.63217163085938,9.076169967651367],[125.63392639160156,9.084259986877441],[125.598876953125,9.09391021728527]]]},"properties":{"GID_0":"PHL","NAME_0":"Philippines","GID_1":"PHL.2_1","NAME_1":"Agusan del Norte","NL_NAME_1":"","GID_2":"PHL.2.3_1","NAME_2":"Cabadbaran City","NL_NAME_2":"","GID_3":"PHL.2.3.1_1","NAME_3":"Antonio Luna","VARNAME_3":"","NL_NAME_3":"","TYPE_3":"Barangay","ENGTYPE_3":"Village","CC_3":"","HASC_3":""}}
+]}

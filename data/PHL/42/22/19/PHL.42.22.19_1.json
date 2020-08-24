@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[124.06993865966797,7.878660202026424],[124.08133697509766,7.878920078277645],[124.07891082763672,7.884029865264949],[124.07833862304688,7.884890079498291],[124.06819915771484,7.883450031280574],[124.06993865966797,7.878660202026424]]]},"properties":{"GID_0":"PHL","NAME_0":"Philippines","GID_1":"PHL.42_1","NAME_1":"Lanao del Sur","NL_NAME_1":"","GID_2":"PHL.42.22_1","NAME_2":"Madamba","NL_NAME_2":"","GID_3":"PHL.42.22.19_1","NAME_3":"Punud","VARNAME_3":"","NL_NAME_3":"","TYPE_3":"Barangay","ENGTYPE_3":"Village","CC_3":"","HASC_3":""}}
+]}

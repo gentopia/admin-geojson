@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[124.27704620361328,7.762119770050049],[124.27262115478516,7.769370079040584],[124.26666259765636,7.76495981216425],[124.26873016357433,7.762239933013916],[124.27520751953136,7.7620000839234535],[124.27704620361328,7.762119770050049]]]},"properties":{"GID_0":"PHL","NAME_0":"Philippines","GID_1":"PHL.42_1","NAME_1":"Lanao del Sur","NL_NAME_1":"","GID_2":"PHL.42.20_1","NAME_2":"Lumbayanague","NL_NAME_2":"","GID_3":"PHL.42.20.7_1","NAME_3":"Cadingilan A","VARNAME_3":"","NL_NAME_3":"","TYPE_3":"Barangay","ENGTYPE_3":"Village","CC_3":"","HASC_3":""}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[3.2464570999146645,46.297203063964844],[3.2289202213287354,46.30062484741222],[3.2185938358307453,46.28820037841797],[3.2213625907899086,46.28549957275402],[3.2573418617249104,46.28020477294922],[3.261343717575187,46.286003112793026],[3.2464570999146645,46.297203063964844]]]},"properties":{"GID_0":"FRA","NAME_0":"France","GID_1":"FRA.1_1","NAME_1":"Auvergne-Rhône-Alpes","GID_2":"FRA.1.2_1","NAME_2":"Allier","GID_3":"FRA.1.2.2_1","NAME_3":"Moulins","GID_4":"FRA.1.2.2.11_1","NAME_4":"Saint-Pourçain-sur-Sioule","GID_5":"FRA.1.2.2.11.10_1","NAME_5":"Montord","TYPE_5":"Commune simple","ENGTYPE_5":"Commune","CC_5":""}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[124.31437683105469,7.83165979385376],[124.31638336181663,7.831329822540397],[124.31646728515625,7.832290172577018],[124.31427001953125,7.837140083312988],[124.31160736083984,7.835289955139274],[124.31257629394554,7.834000110626334],[124.31437683105469,7.83165979385376]]]},"properties":{"GID_0":"PHL","NAME_0":"Philippines","GID_1":"PHL.42_1","NAME_1":"Lanao del Sur","NL_NAME_1":"","GID_2":"PHL.42.28_1","NAME_2":"Masiu","NL_NAME_2":"","GID_3":"PHL.42.28.19_1","NAME_3":"Magayo Bagoaingud","VARNAME_3":"","NL_NAME_3":"","TYPE_3":"Barangay","ENGTYPE_3":"Village","CC_3":"","HASC_3":""}}
+]}

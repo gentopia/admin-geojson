@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[3.6723830699920654,43.430019378662166],[3.7036850452424233,43.437721252441406],[3.719452142715568,43.46244812011713],[3.7151479721070473,43.46398162841791],[3.667204380035514,43.45079040527355],[3.6657261848450844,43.444709777831974],[3.6723830699920654,43.430019378662166]]]},"properties":{"GID_0":"FRA","NAME_0":"France","GID_1":"FRA.11_1","NAME_1":"Occitanie","GID_2":"FRA.11.8_1","NAME_2":"Hérault","GID_3":"FRA.11.8.3_1","NAME_3":"Montpellier","GID_4":"FRA.11.8.3.4_1","NAME_4":"Frontignan","GID_5":"FRA.11.8.3.4.2_1","NAME_5":"Balaruc-les-Bains","TYPE_5":"Commune simple","ENGTYPE_5":"Commune","CC_5":""}}
+]}

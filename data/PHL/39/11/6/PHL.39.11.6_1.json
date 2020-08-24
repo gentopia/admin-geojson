@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[120.41375732421898,16.515220642089957],[120.413330078125,16.51925086975109],[120.4052734375,16.516349792480582],[120.40763854980469,16.515010833740234],[120.41118621826172,16.515129089355526],[120.41375732421898,16.515220642089957]]]},"properties":{"GID_0":"PHL","NAME_0":"Philippines","GID_1":"PHL.39_1","NAME_1":"La Union","NL_NAME_1":"","GID_2":"PHL.39.11_1","NAME_2":"Naguilian","NL_NAME_2":"","GID_3":"PHL.39.11.6_1","NAME_3":"Angin","VARNAME_3":"","NL_NAME_3":"","TYPE_3":"Barangay","ENGTYPE_3":"Village","CC_3":"","HASC_3":""}}
+]}

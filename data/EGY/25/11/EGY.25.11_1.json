@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[32.776847839355526,26.166938781738395],[32.74689865112305,26.201784133911133],[32.73729324340832,26.195858001709098],[32.75825500488281,26.153614044189453],[32.776847839355526,26.166938781738395]]]},"properties":{"GID_0":"EGY","NAME_0":"Egypt","GID_1":"EGY.25_1","NAME_1":"Qina","NL_NAME_1":"محافظة قنا","GID_2":"EGY.25.11_1","NAME_2":"Qina City","VARNAME_2":"","NL_NAME_2":"","TYPE_2":"Kism","ENGTYPE_2":"Subdivision","CC_2":"","HASC_2":"EG.QN.QK"}}
+]}

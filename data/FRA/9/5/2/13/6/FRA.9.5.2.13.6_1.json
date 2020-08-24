@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[0.48703971505159416,49.780998229980526],[0.49137824773794136,49.78113174438482],[0.493596315383968,49.79789733886713],[0.4841243922710987,49.802154541015625],[0.47621098160743713,49.78578948974615],[0.48703971505159416,49.780998229980526]]]},"properties":{"GID_0":"FRA","NAME_0":"France","GID_1":"FRA.9_1","NAME_1":"Normandie","GID_2":"FRA.9.5_1","NAME_2":"Seine-Maritime","GID_3":"FRA.9.5.2_1","NAME_3":"Le Havre","GID_4":"FRA.9.5.2.13_1","NAME_4":"Valmont","GID_5":"FRA.9.5.2.13.6_1","NAME_5":"Écretteville-sur-Mer","TYPE_5":"Commune simple","ENGTYPE_5":"Commune","CC_5":""}}
+]}

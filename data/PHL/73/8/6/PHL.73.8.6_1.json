@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[121.20892333984375,5.982840061187801],[121.21137237548828,5.988259792327938],[121.21321868896484,5.993350028991756],[121.19873809814453,5.98822021484375],[121.2030029296875,5.986299991607666],[121.20892333984375,5.982840061187801]]]},"properties":{"GID_0":"PHL","NAME_0":"Philippines","GID_1":"PHL.73_1","NAME_1":"Sulu","NL_NAME_1":"","GID_2":"PHL.73.8_1","NAME_2":"Old Panamao","NL_NAME_2":"","GID_3":"PHL.73.8.6_1","NAME_3":"Bud Seit","VARNAME_3":"","NL_NAME_3":"","TYPE_3":"Barangay","ENGTYPE_3":"Village","CC_3":"","HASC_3":""}}
+]}

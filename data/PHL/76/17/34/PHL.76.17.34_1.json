@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[120.65882110595703,15.4272203445434],[120.65989685058594,15.432060241699162],[120.66165924072266,15.437439918518066],[120.64192199707043,15.438529968261832],[120.64170837402355,15.427069664001408],[120.65882110595703,15.4272203445434]]]},"properties":{"GID_0":"PHL","NAME_0":"Philippines","GID_1":"PHL.76_1","NAME_1":"Tarlac","NL_NAME_1":"","GID_2":"PHL.76.17_1","NAME_2":"Tarlac City","NL_NAME_2":"","GID_3":"PHL.76.17.34_1","NAME_3":"Lourdes","VARNAME_3":"","NL_NAME_3":"","TYPE_3":"Barangay","ENGTYPE_3":"Village","CC_3":"","HASC_3":""}}
+]}

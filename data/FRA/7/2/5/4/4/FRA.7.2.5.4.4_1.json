@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[2.8620581626893227,50.52976989746094],[2.8825039863586426,50.5359725952149],[2.8765246868133545,50.54495239257824],[2.853624343872127,50.53911209106451],[2.8620581626893227,50.52976989746094]]]},"properties":{"GID_0":"FRA","NAME_0":"France","GID_1":"FRA.7_1","NAME_1":"Hauts-de-France","GID_2":"FRA.7.2_1","NAME_2":"Nord","GID_3":"FRA.7.2.5_1","NAME_3":"Lille","GID_4":"FRA.7.2.5.4_1","NAME_4":"La Bassée","GID_5":"FRA.7.2.5.4.4_1","NAME_5":"Hantay","TYPE_5":"Commune simple","ENGTYPE_5":"Commune","CC_5":""}}
+]}

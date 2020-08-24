@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[121.89566040039062,13.480110168457031],[121.8961868286134,13.476360321044865],[121.90402984619152,13.473569869995117],[121.90381622314464,13.47986030578619],[121.89566040039062,13.480110168457031]]]},"properties":{"GID_0":"PHL","NAME_0":"Philippines","GID_1":"PHL.45_1","NAME_1":"Marinduque","NL_NAME_1":"","GID_2":"PHL.45.4_1","NAME_2":"Mogpog","NL_NAME_2":"","GID_3":"PHL.45.4.22_1","NAME_3":"Malusak","VARNAME_3":"","NL_NAME_3":"","TYPE_3":"Barangay","ENGTYPE_3":"Village","CC_3":"","HASC_3":""}}
+]}

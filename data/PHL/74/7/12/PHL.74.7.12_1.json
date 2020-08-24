@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[126.15348052978516,9.79347991943365],[126.14174652099621,9.796429634094295],[126.13973236083984,9.78355979919445],[126.15242767333996,9.781949996948299],[126.15348052978516,9.79347991943365]]]},"properties":{"GID_0":"PHL","NAME_0":"Philippines","GID_1":"PHL.74_1","NAME_1":"Surigao del Norte","NL_NAME_1":"","GID_2":"PHL.74.7_1","NAME_2":"General Luna","NL_NAME_2":"","GID_3":"PHL.74.7.12_1","NAME_3":"Poblacion II","VARNAME_3":"Purok II","NL_NAME_3":"","TYPE_3":"Barangay","ENGTYPE_3":"Village","CC_3":"","HASC_3":""}}
+]}

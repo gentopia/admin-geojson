@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[-3.0340919494628906,41.889064788818416],[-3.0389630794525146,41.88884735107433],[-3.0434339046477703,41.8905487060548],[-3.0451710224151043,41.889484405517635],[-3.0446150302886394,41.88732147216808],[-3.038069009780884,41.88576507568365],[-3.0340919494628906,41.889064788818416]]]},"properties":{"GID_0":"ESP","NAME_0":"Spain","GID_1":"ESP.5_1","NAME_1":"Castilla y León","GID_2":"ESP.5.2_1","NAME_2":"Burgos","GID_3":"ESP.5.2.7_1","NAME_3":"n.a. (65)","GID_4":"ESP.5.2.7.22_1","NAME_4":"Comunidad de Canicosa de la Sierra y Casarejos (Soria)","VARNAME_4":"","TYPE_4":"Municipality","ENGTYPE_4":"Municipality","CC_4":""}}
+]}

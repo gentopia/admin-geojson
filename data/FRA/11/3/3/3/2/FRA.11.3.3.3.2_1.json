@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[2.1987380981445312,44.5766487121582],[2.199002981185913,44.57129287719721],[2.2021591663361164,44.56809997558605],[2.2218694686890217,44.57078170776367],[2.2204532623292152,44.577568054199276],[2.227055788040275,44.586616516113395],[2.207388401031494,44.59569931030268],[2.1987380981445312,44.5766487121582]]]},"properties":{"GID_0":"FRA","NAME_0":"France","GID_1":"FRA.11_1","NAME_1":"Occitanie","GID_2":"FRA.11.3_1","NAME_2":"Aveyron","GID_3":"FRA.11.3.3_1","NAME_3":"Villefranche-de-Rouergue","GID_4":"FRA.11.3.3.3_1","NAME_4":"Decazeville","GID_5":"FRA.11.3.3.3.2_1","NAME_5":"Boisse-Penchot","TYPE_5":"Commune simple","ENGTYPE_5":"Commune","CC_5":""}}
+]}

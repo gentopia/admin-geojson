@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[125.25641632080078,6.61572980880743],[125.25276184082043,6.624340057373104],[125.243896484375,6.620079994201774],[125.24220275878906,6.616189956665039],[125.24817657470714,6.615509986877555],[125.25641632080078,6.61572980880743]]]},"properties":{"GID_0":"PHL","NAME_0":"Philippines","GID_1":"PHL.28_1","NAME_1":"Davao del Sur","NL_NAME_1":"","GID_2":"PHL.28.7_1","NAME_2":"Kiblawan","NL_NAME_2":"","GID_3":"PHL.28.7.14_1","NAME_3":"Kisulan","VARNAME_3":"","NL_NAME_3":"","TYPE_3":"Barangay","ENGTYPE_3":"Village","CC_3":"","HASC_3":""}}
+]}

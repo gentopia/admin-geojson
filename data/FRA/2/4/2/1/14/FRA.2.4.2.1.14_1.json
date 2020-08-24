@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[5.732946395874137,46.94160079956055],[5.724896430969352,46.922298431396484],[5.7393507957459065,46.924179077148494],[5.753286361694393,46.9205055236817],[5.759337425231934,46.93318176269537],[5.756834983825684,46.93981552124035],[5.750008106231746,46.949386596679744],[5.732946395874137,46.94160079956055]]]},"properties":{"GID_0":"FRA","NAME_0":"France","GID_1":"FRA.2_1","NAME_1":"Bourgogne-Franche-Comté","GID_2":"FRA.2.4_1","NAME_2":"Jura","GID_3":"FRA.2.4.2_1","NAME_3":"Lons-le-Saunier","GID_4":"FRA.2.4.2.1_1","NAME_4":"Arbois","GID_5":"FRA.2.4.2.1.14_1","NAME_5":"Villette-lès-Arbois","TYPE_5":"Commune simple","ENGTYPE_5":"Commune","CC_5":""}}
+]}

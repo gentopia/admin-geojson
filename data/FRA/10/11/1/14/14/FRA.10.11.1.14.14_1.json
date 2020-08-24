@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[-1.0637986660003662,43.32762145996094],[-1.05130934715271,43.330917358398494],[-1.0495120286941528,43.334136962890625],[-1.0553694963454063,43.354232788085994],[-1.065497636794987,43.34732055664068],[-1.0680264234542847,43.333496093750114],[-1.0637986660003662,43.32762145996094]]]},"properties":{"GID_0":"FRA","NAME_0":"France","GID_1":"FRA.10_1","NAME_1":"Nouvelle-Aquitaine","GID_2":"FRA.10.11_1","NAME_2":"Pyrénées-Atlantiques","GID_3":"FRA.10.11.1_1","NAME_3":"Bayonne","GID_4":"FRA.10.11.1.14_1","NAME_4":"Saint-Palais","GID_5":"FRA.10.11.1.14.14_1","NAME_5":"Garris","TYPE_5":"Commune simple","ENGTYPE_5":"Commune","CC_5":""}}
+]}

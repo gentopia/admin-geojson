@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[124.17278289794933,10.080599784851131],[124.16251373291027,10.085889816284293],[124.15873718261719,10.087579727172852],[124.15403747558594,10.076950073242301],[124.15709686279297,10.070440292358512],[124.17278289794933,10.080599784851131]]]},"properties":{"GID_0":"PHL","NAME_0":"Philippines","GID_1":"PHL.15_1","NAME_1":"Bohol","NL_NAME_1":"","GID_2":"PHL.15.10_1","NAME_2":"Buenavista","NL_NAME_2":"","GID_3":"PHL.15.10.3_1","NAME_3":"Bago","VARNAME_3":"","NL_NAME_3":"","TYPE_3":"Barangay","ENGTYPE_3":"Village","CC_3":"","HASC_3":""}}
+]}

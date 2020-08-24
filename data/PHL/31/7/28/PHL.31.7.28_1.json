@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[125.48468017578136,11.251859664916935],[125.49006652832031,11.258990287780875],[125.48314666748058,11.261969566345329],[125.45372009277344,11.27667045593256],[125.44434356689453,11.269419670105037],[125.48468017578136,11.251859664916935]]]},"properties":{"GID_0":"PHL","NAME_0":"Philippines","GID_1":"PHL.31_1","NAME_1":"Eastern Samar","NL_NAME_1":"","GID_2":"PHL.31.7_1","NAME_2":"General Macarthur","NL_NAME_2":"","GID_3":"PHL.31.7.28_1","NAME_3":"Tandang Sora","VARNAME_3":"","NL_NAME_3":"","TYPE_3":"Barangay","ENGTYPE_3":"Village","CC_3":"","HASC_3":""}}
+]}

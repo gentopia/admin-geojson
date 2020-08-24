@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[121.68592071533203,13.966560363769588],[121.68833923339844,13.968059539795036],[121.6862564086914,13.970390319824276],[121.68335723876964,13.969149589538688],[121.68592071533203,13.966560363769588]]]},"properties":{"GID_0":"PHL","NAME_0":"Philippines","GID_1":"PHL.62_1","NAME_1":"Quezon","NL_NAME_1":"","GID_2":"PHL.62.24_1","NAME_2":"Pagbilao","NL_NAME_2":"","GID_3":"PHL.62.24.7_1","NAME_3":"Barangay 3 Del Carmen","VARNAME_3":"Poblacion","NL_NAME_3":"","TYPE_3":"Barangay","ENGTYPE_3":"Village","CC_3":"","HASC_3":""}}
+]}

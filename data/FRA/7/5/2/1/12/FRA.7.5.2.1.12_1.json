@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[2.5155861377716064,50.02870178222656],[2.50144624710083,50.04597091674805],[2.4871647357941242,50.045867919921875],[2.489572286605835,50.036689758300895],[2.496746778488159,50.03318023681646],[2.5010814666748615,50.024860382080135],[2.5155861377716064,50.02870178222656]]]},"properties":{"GID_0":"FRA","NAME_0":"France","GID_1":"FRA.7_1","NAME_1":"Hauts-de-France","GID_2":"FRA.7.5_1","NAME_2":"Somme","GID_3":"FRA.7.5.2_1","NAME_3":"Amiens","GID_4":"FRA.7.5.2.1_1","NAME_4":"Acheux-en-Amiénois","GID_5":"FRA.7.5.2.1.12_1","NAME_5":"Harponville","TYPE_5":"Commune simple","ENGTYPE_5":"Commune","CC_5":""}}
+]}

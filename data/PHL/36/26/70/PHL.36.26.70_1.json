@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[122.38600158691418,10.799409866333008],[122.3821029663086,10.80552005767828],[122.37415313720714,10.803810119628963],[122.37886810302734,10.799429893493766],[122.38600158691418,10.799409866333008]]]},"properties":{"GID_0":"PHL","NAME_0":"Philippines","GID_1":"PHL.36_1","NAME_1":"Iloilo","NL_NAME_1":"","GID_2":"PHL.36.26_1","NAME_2":"Leon","NL_NAME_2":"","GID_3":"PHL.36.26.70_1","NAME_3":"Paoy","VARNAME_3":"","NL_NAME_3":"","TYPE_3":"Barangay","ENGTYPE_3":"Village","CC_3":"","HASC_3":""}}
+]}

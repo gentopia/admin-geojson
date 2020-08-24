@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[123.08351135253918,7.731019973754883],[123.08383178710938,7.739309787750301],[123.06646728515625,7.740359783172664],[123.06652832031261,7.732659816741943],[123.08351135253918,7.731019973754883]]]},"properties":{"GID_0":"PHL","NAME_0":"Philippines","GID_1":"PHL.81_1","NAME_1":"Zamboanga Sibugay","NL_NAME_1":"","GID_2":"PHL.81.2_1","NAME_2":"Buug","NL_NAME_2":"","GID_3":"PHL.81.2.5_1","NAME_3":"Bliss","VARNAME_3":"","NL_NAME_3":"","TYPE_3":"Barangay","ENGTYPE_3":"Village","CC_3":"","HASC_3":""}}
+]}

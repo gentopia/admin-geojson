@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[124.07315063476562,8.025389671325797],[124.09590911865246,8.02544021606451],[124.09631347656261,8.029159545898494],[124.0965805053711,8.02915000915533],[124.09445190429688,8.033220291137752],[124.07644653320335,8.033809661865234],[124.07315063476562,8.025389671325797]]]},"properties":{"GID_0":"PHL","NAME_0":"Philippines","GID_1":"PHL.41_1","NAME_1":"Lanao del Norte","NL_NAME_1":"","GID_2":"PHL.41.15_1","NAME_2":"Pantao Ragat","NL_NAME_2":"","GID_3":"PHL.41.15.2_1","NAME_3":"Banday","VARNAME_3":"","NL_NAME_3":"","TYPE_3":"Barangay","ENGTYPE_3":"Village","CC_3":"","HASC_3":""}}
+]}

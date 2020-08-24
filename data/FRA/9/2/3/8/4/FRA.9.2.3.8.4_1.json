@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[1.2270489931107136,49.239921569824276],[1.214287996292171,49.25152969360363],[1.206973314285392,49.25251770019537],[1.211816668510437,49.230846405029354],[1.2270489931107136,49.239921569824276]]]},"properties":{"GID_0":"FRA","NAME_0":"France","GID_1":"FRA.9_1","NAME_1":"Normandie","GID_2":"FRA.9.2_1","NAME_2":"Eure","GID_3":"FRA.9.2.3_1","NAME_3":"Les Andelys","GID_4":"FRA.9.2.3.8_1","NAME_4":"Louviers-Nord","GID_5":"FRA.9.2.3.8.4_1","NAME_5":"Saint-Étienne-du-Vauvray","TYPE_5":"Commune simple","ENGTYPE_5":"Commune","CC_5":""}}
+]}

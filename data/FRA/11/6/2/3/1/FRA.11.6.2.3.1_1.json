@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[0.5988390445710365,42.84255981445307],[0.5699487924575806,42.840847015380916],[0.5708834528923035,42.834285736083984],[0.5781208276748089,42.82077407836914],[0.6045299172401428,42.819290161132756],[0.6046427488327595,42.81951522827154],[0.5988390445710365,42.84255981445307]]]},"properties":{"GID_0":"FRA","NAME_0":"France","GID_1":"FRA.11_1","NAME_1":"Occitanie","GID_2":"FRA.11.6_1","NAME_2":"Haute-Garonne","GID_3":"FRA.11.6.2_1","NAME_3":"Saint-Gaudens","GID_4":"FRA.11.6.2.3_1","NAME_4":"Bagnères-de-Luchon","GID_5":"FRA.11.6.2.3.1_1","NAME_5":"Antignac","TYPE_5":"Commune simple","ENGTYPE_5":"Commune","CC_5":""}}
+]}

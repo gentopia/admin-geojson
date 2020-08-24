@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[-125.65328216552734,52.91564559936529],[-125.6655044555664,52.91552734375],[-125.66548919677734,52.915039062500114],[-125.66531372070312,52.908233642578125],[-125.65383148193354,52.90819931030279],[-125.65278625488276,52.90819549560558],[-125.65328216552734,52.91564559936529]]]},"properties":{"GID_0":"CAN","NAME_0":"Canada","GID_1":"CAN.2_1","NAME_1":"British Columbia","NL_NAME_1":"","GID_2":"CAN.2.4_1","NAME_2":"Cariboo","NL_NAME_2":"","GID_3":"CAN.2.4.27_1","NAME_3":"Cahoose 12","VARNAME_3":"","NL_NAME_3":"","TYPE_3":"Réserve Indienne","ENGTYPE_3":"Indian Reserve","CC_3":"","HASC_3":""}}
+]}

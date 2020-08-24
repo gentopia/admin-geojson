@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[3.3067481517792316,49.39168930053722],[3.315242052078247,49.39579391479492],[3.3019762039185707,49.41159057617193],[3.2908701896668617,49.411098480224666],[3.278856277465934,49.405704498291016],[3.2886774539948647,49.398357391357536],[3.3067481517792316,49.39168930053722]]]},"properties":{"GID_0":"FRA","NAME_0":"France","GID_1":"FRA.7_1","NAME_1":"Hauts-de-France","GID_2":"FRA.7.1_1","NAME_2":"Aisne","GID_3":"FRA.7.1.4_1","NAME_3":"Soissons","GID_4":"FRA.7.1.4.3_1","NAME_4":"Soissons-Nord","GID_5":"FRA.7.1.4.3.6_1","NAME_5":"Pasly","TYPE_5":"Commune simple","ENGTYPE_5":"Commune","CC_5":""}}
+]}

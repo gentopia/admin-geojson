@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[2.525931358337516,49.78038024902344],[2.5416040420533363,49.78263092041027],[2.5444359779359047,49.7856063842774],[2.5411362648010254,49.799198150634766],[2.5258920192717937,49.80258941650396],[2.516013145446891,49.800628662109375],[2.5109703540802,49.793796539306584],[2.525931358337516,49.78038024902344]]]},"properties":{"GID_0":"FRA","NAME_0":"France","GID_1":"FRA.7_1","NAME_1":"Hauts-de-France","GID_2":"FRA.7.5_1","NAME_2":"Somme","GID_3":"FRA.7.5.3_1","NAME_3":"Montdidier","GID_4":"FRA.7.5.3.3_1","NAME_4":"Moreuil","GID_5":"FRA.7.5.3.3.22_1","NAME_5":"Villers-aux-Érables","TYPE_5":"Commune simple","ENGTYPE_5":"Commune","CC_5":""}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[124.02725982666027,7.686220169067383],[124.03668975830078,7.704040050506649],[124.03130340576183,7.706989765167236],[124.02071380615234,7.6882500648498535],[124.02171325683605,7.6879801750183105],[124.02725982666027,7.686220169067383]]]},"properties":{"GID_0":"PHL","NAME_0":"Philippines","GID_1":"PHL.42_1","NAME_1":"Lanao del Sur","NL_NAME_1":"","GID_2":"PHL.42.10_1","NAME_2":"Calanogas","NL_NAME_2":"","GID_3":"PHL.42.10.14_1","NAME_3":"Punud","VARNAME_3":"","NL_NAME_3":"","TYPE_3":"Barangay","ENGTYPE_3":"Village","CC_3":"","HASC_3":""}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[120.49861145019531,15.956999778747559],[120.49873352050781,15.958439826965332],[120.4984130859375,15.965589523315487],[120.48461151123047,15.961970329284782],[120.48721313476574,15.95526981353754],[120.49861145019531,15.956999778747559]]]},"properties":{"GID_0":"PHL","NAME_0":"Philippines","GID_1":"PHL.61_1","NAME_1":"Pangasinan","NL_NAME_1":"","GID_2":"PHL.61.25_1","NAME_2":"Malasiqui","NL_NAME_2":"","GID_3":"PHL.61.25.41_1","NAME_3":"Lunec","VARNAME_3":"","NL_NAME_3":"","TYPE_3":"Barangay","ENGTYPE_3":"Village","CC_3":"","HASC_3":""}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[0.48843526840215645,43.19990539550787],[0.4991160631180378,43.21630859375006],[0.49578291177749634,43.218544006347656],[0.4748285412788391,43.2134361267091],[0.4759635925293537,43.20380020141607],[0.48843526840215645,43.19990539550787]]]},"properties":{"GID_0":"FRA","NAME_0":"France","GID_1":"FRA.11_1","NAME_1":"Occitanie","GID_2":"FRA.11.7_1","NAME_2":"Hautes-Pyrénées","GID_3":"FRA.11.7.3_1","NAME_3":"Tarbes","GID_4":"FRA.11.7.3.3_1","NAME_4":"Castelnau-Magnoac","GID_5":"FRA.11.7.3.3.19_1","NAME_5":"Lassales","TYPE_5":"Commune simple","ENGTYPE_5":"Commune","CC_5":""}}
+]}

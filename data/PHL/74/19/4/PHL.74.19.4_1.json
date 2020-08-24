@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[125.95664978027344,9.64058971405035],[125.96761322021496,9.64202022552496],[125.96066284179688,9.668060302734318],[125.94357299804699,9.65460014343273],[125.93916320800804,9.638790130615234],[125.95664978027344,9.64058971405035]]]},"properties":{"GID_0":"PHL","NAME_0":"Philippines","GID_1":"PHL.74_1","NAME_1":"Surigao del Norte","NL_NAME_1":"","GID_2":"PHL.74.19_1","NAME_2":"Socorro","NL_NAME_2":"","GID_3":"PHL.74.19.4_1","NAME_3":"Honrado","VARNAME_3":"","NL_NAME_3":"","TYPE_3":"Barangay","ENGTYPE_3":"Village","CC_3":"","HASC_3":""}}
+]}

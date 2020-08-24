@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[120.48512268066418,14.787639617920036],[120.48455810546886,14.795630455017147],[120.4737319946289,14.792189598083496],[120.4603729248048,14.793640136718864],[120.45424652099621,14.777999877929801],[120.48512268066418,14.787639617920036]]]},"properties":{"GID_0":"PHL","NAME_0":"Philippines","GID_1":"PHL.10_1","NAME_1":"Bataan","NL_NAME_1":"","GID_2":"PHL.10.9_1","NAME_2":"Orani","NL_NAME_2":"","GID_3":"PHL.10.9.8_1","NAME_3":"Dona","VARNAME_3":"","NL_NAME_3":"","TYPE_3":"Barangay","ENGTYPE_3":"Village","CC_3":"","HASC_3":""}}
+]}

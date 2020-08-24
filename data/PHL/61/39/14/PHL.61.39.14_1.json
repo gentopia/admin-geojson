@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[120.40442657470714,15.969209671020451],[120.41639709472656,15.974200248718205],[120.42562866210949,15.988039970398006],[120.42050933837902,15.988369941711369],[120.40454864501953,15.988960266113395],[120.40442657470714,15.969209671020451]]]},"properties":{"GID_0":"PHL","NAME_0":"Philippines","GID_1":"PHL.61_1","NAME_1":"Pangasinan","NL_NAME_1":"","GID_2":"PHL.61.39_1","NAME_2":"Santa Barbara","NL_NAME_2":"","GID_3":"PHL.61.39.14_1","NAME_3":"Maronong","VARNAME_3":"","NL_NAME_3":"","TYPE_3":"Barangay","ENGTYPE_3":"Village","CC_3":"","HASC_3":""}}
+]}

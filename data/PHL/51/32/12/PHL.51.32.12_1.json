@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[123.15663146972656,10.810299873351994],[123.16873168945335,10.779159545898494],[123.20094299316406,10.699600219726562],[123.18197631835938,10.809439659118652],[123.15663146972656,10.810299873351994]]]},"properties":{"GID_0":"PHL","NAME_0":"Philippines","GID_1":"PHL.51_1","NAME_1":"Negros Occidental","NL_NAME_1":"","GID_2":"PHL.51.32_1","NAME_2":"Victorias City","NL_NAME_2":"","GID_3":"PHL.51.32.12_1","NAME_3":"Barangay XI","VARNAME_3":"Gawahon","NL_NAME_3":"","TYPE_3":"Barangay","ENGTYPE_3":"Village","CC_3":"","HASC_3":""}}
+]}

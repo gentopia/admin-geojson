@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[-0.8430655002593426,49.0776252746582],[-0.8577179312705994,49.07859420776367],[-0.8703487515449524,49.073589324951115],[-0.8696987628936768,49.068920135498104],[-0.8707887530326275,49.064617156982365],[-0.8430655002593426,49.0776252746582]]]},"properties":{"GID_0":"FRA","NAME_0":"France","GID_1":"FRA.9_1","NAME_1":"Normandie","GID_2":"FRA.9.1_1","NAME_2":"Calvados","GID_3":"FRA.9.1.1_1","NAME_3":"Bayeux","GID_4":"FRA.9.1.1.3_1","NAME_4":"Caumont-l'Éventé","GID_5":"FRA.9.1.1.3.6_1","NAME_5":"La Lande-sur-Drôme","TYPE_5":"Commune simple","ENGTYPE_5":"Commune","CC_5":""}}
+]}

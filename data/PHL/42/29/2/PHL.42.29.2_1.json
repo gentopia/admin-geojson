@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[124.3567123413086,7.926839828491211],[124.35295867919922,7.927579879760742],[124.35163116455078,7.929200172424316],[124.34861755371116,7.925280094146672],[124.35125732421875,7.923180103302002],[124.3567123413086,7.926839828491211]]]},"properties":{"GID_0":"PHL","NAME_0":"Philippines","GID_1":"PHL.42_1","NAME_1":"Lanao del Sur","NL_NAME_1":"","GID_2":"PHL.42.29_1","NAME_2":"Mulondo","NL_NAME_2":"","GID_3":"PHL.42.29.2_1","NAME_3":"Bangon","VARNAME_3":"","NL_NAME_3":"","TYPE_3":"Barangay","ENGTYPE_3":"Village","CC_3":"","HASC_3":""}}
+]}

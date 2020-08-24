@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[125.50795745849621,11.272370338439941],[125.49507904052734,11.277759552001896],[125.48314666748058,11.261969566345329],[125.49006652832031,11.258990287780875],[125.49510955810547,11.256959915161133],[125.50795745849621,11.272370338439941]]]},"properties":{"GID_0":"PHL","NAME_0":"Philippines","GID_1":"PHL.31_1","NAME_1":"Eastern Samar","NL_NAME_1":"","GID_2":"PHL.31.7_1","NAME_2":"General Macarthur","NL_NAME_2":"","GID_3":"PHL.31.7.2_1","NAME_3":"Alang-Alang","VARNAME_3":"","NL_NAME_3":"","TYPE_3":"Barangay","ENGTYPE_3":"Village","CC_3":"","HASC_3":""}}
+]}

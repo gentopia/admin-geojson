@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[123.79485321044922,10.244190216064453],[123.79847717285156,10.24512004852295],[123.79006958007812,10.257419586181697],[123.78443145751976,10.253620147705135],[123.7931137084961,10.243760108947754],[123.79485321044922,10.244190216064453]]]},"properties":{"GID_0":"PHL","NAME_0":"Philippines","GID_1":"PHL.25_1","NAME_1":"Cebu","NL_NAME_1":"","GID_2":"PHL.25.33_1","NAME_2":"Minglanilla","NL_NAME_2":"","GID_3":"PHL.25.33.13_1","NAME_3":"Poblacion Ward IV","VARNAME_3":"","NL_NAME_3":"","TYPE_3":"Barangay","ENGTYPE_3":"Village","CC_3":"","HASC_3":""}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[123.8659133911134,12.17553997039795],[123.85296630859386,12.181050300598258],[123.84105682373047,12.186300277709961],[123.8356704711914,12.172149658203182],[123.84906005859375,12.161669731140137],[123.8659133911134,12.17553997039795]]]},"properties":{"GID_0":"PHL","NAME_0":"Philippines","GID_1":"PHL.46_1","NAME_1":"Masbate","NL_NAME_1":"","GID_2":"PHL.46.8_1","NAME_2":"Dimasalang","NL_NAME_2":"","GID_3":"PHL.46.8.9_1","NAME_3":"Calabad","VARNAME_3":"","NL_NAME_3":"","TYPE_3":"Barangay","ENGTYPE_3":"Village","CC_3":"","HASC_3":""}}
+]}

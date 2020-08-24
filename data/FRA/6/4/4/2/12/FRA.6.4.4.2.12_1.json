@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[7.454618930816764,47.4894256591798],[7.465170860290584,47.49695587158209],[7.460049152374324,47.50987625122076],[7.44258451461792,47.509479522705135],[7.437007904052791,47.50818634033203],[7.434762954712028,47.49796676635742],[7.454618930816764,47.4894256591798]]]},"properties":{"GID_0":"FRA","NAME_0":"France","GID_1":"FRA.6_1","NAME_1":"Grand Est","GID_2":"FRA.6.4_1","NAME_2":"Haut-Rhin","GID_3":"FRA.6.4.4_1","NAME_3":"Mulhouse","GID_4":"FRA.6.4.4.2_1","NAME_4":"Huningue","GID_5":"FRA.6.4.4.2.12_1","NAME_5":"Liebenswiller","TYPE_5":"Commune simple","ENGTYPE_5":"Commune","CC_5":""}}
+]}

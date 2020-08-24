@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[121.0009994506836,14.535980224609318],[121.00199127197288,14.535940170288029],[121.00200653076183,14.536970138549862],[121.00096893310547,14.536980628967285],[121.0009994506836,14.535980224609318]]]},"properties":{"GID_0":"PHL","NAME_0":"Philippines","GID_1":"PHL.47_1","NAME_1":"Metropolitan Manila","NL_NAME_1":"","GID_2":"PHL.47.11_1","NAME_2":"Pasay City","NL_NAME_2":"","GID_3":"PHL.47.11.100_1","NAME_3":"Barangay 189","VARNAME_3":"","NL_NAME_3":"","TYPE_3":"Barangay","ENGTYPE_3":"Village","CC_3":"","HASC_3":""}}
+]}

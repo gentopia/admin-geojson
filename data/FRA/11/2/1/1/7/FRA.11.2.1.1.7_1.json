@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[2.1472697257995037,43.26504898071295],[2.1742801666260902,43.264846801757756],[2.1738038063049316,43.274909973144645],[2.1630163192749023,43.29712677001953],[2.1556434631348793,43.294281005859375],[2.1472697257995037,43.26504898071295]]]},"properties":{"GID_0":"FRA","NAME_0":"France","GID_1":"FRA.11_1","NAME_1":"Occitanie","GID_2":"FRA.11.2_1","NAME_2":"Aude","GID_3":"FRA.11.2.1_1","NAME_3":"Carcassonne","GID_4":"FRA.11.2.1.1_1","NAME_4":"Alzonne","GID_5":"FRA.11.2.1.1.7_1","NAME_5":"Raissac-sur-Lampy","TYPE_5":"Commune simple","ENGTYPE_5":"Commune","CC_5":""}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[-123.13055419921875,49.06377029418951],[-123.1172485351562,49.0635223388673],[-123.11727905273438,49.066261291503906],[-123.11716461181635,49.069217681884766],[-123.13062286376953,49.069107055664006],[-123.13055419921875,49.06377029418951]]]},"properties":{"GID_0":"CAN","NAME_0":"Canada","GID_1":"CAN.2_1","NAME_1":"British Columbia","NL_NAME_1":"","GID_2":"CAN.2.14_1","NAME_2":"Greater Vancouver","NL_NAME_2":"","GID_3":"CAN.2.14.22_1","NAME_3":"Musqueam 4","VARNAME_3":"","NL_NAME_3":"","TYPE_3":"Réserve Indienne","ENGTYPE_3":"Indian Reserve","CC_3":"","HASC_3":""}}
+]}

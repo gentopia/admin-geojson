@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[120.83963775634766,15.503350257873592],[120.8470230102539,15.503950119018555],[120.84745025634766,15.508620262146053],[120.84494018554688,15.509070396423454],[120.83801269531261,15.509619712829704],[120.83963775634766,15.503350257873592]]]},"properties":{"GID_0":"PHL","NAME_0":"Philippines","GID_1":"PHL.55_1","NAME_1":"Nueva Ecija","NL_NAME_1":"","GID_2":"PHL.55.1_1","NAME_2":"Aliaga","NL_NAME_2":"","GID_3":"PHL.55.1.12_1","NAME_3":"Poblacion West IV","VARNAME_3":"","NL_NAME_3":"","TYPE_3":"Barangay","ENGTYPE_3":"Village","CC_3":"","HASC_3":""}}
+]}

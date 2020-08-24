@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[0.24408845603471718,49.62317276000982],[0.24921038746839486,49.63193130493164],[0.24203571677207947,49.64692687988287],[0.2350790947675705,49.644458770751896],[0.22846223413944244,49.631622314453125],[0.2189873307943344,49.62331008911133],[0.2203152626752285,49.61668777465826],[0.24408845603471718,49.62317276000982]]]},"properties":{"GID_0":"FRA","NAME_0":"France","GID_1":"FRA.9_1","NAME_1":"Normandie","GID_2":"FRA.9.5_1","NAME_2":"Seine-Maritime","GID_3":"FRA.9.5.2_1","NAME_3":"Le Havre","GID_4":"FRA.9.5.2.2_1","NAME_4":"Criquetot-l'Esneval","GID_5":"FRA.9.5.2.2.2_1","NAME_5":"Anglesqueville-l'Esneval","TYPE_5":"Commune simple","ENGTYPE_5":"Commune","CC_5":""}}
+]}

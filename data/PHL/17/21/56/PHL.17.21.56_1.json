@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[121.08544158935547,14.841170310974121],[121.08571624755882,14.853480339050293],[121.08350372314464,14.853520393371582],[121.0831527709961,14.848870277404785],[121.08323669433616,14.841199874877987],[121.08544158935547,14.841170310974121]]]},"properties":{"GID_0":"PHL","NAME_0":"Philippines","GID_1":"PHL.17_1","NAME_1":"Bulacan","NL_NAME_1":"","GID_2":"PHL.17.21_1","NAME_2":"San Jose del Monte City","NL_NAME_2":"","GID_3":"PHL.17.21.56_1","NAME_3":"Santo Niño II","VARNAME_3":"","NL_NAME_3":"","TYPE_3":"Barangay","ENGTYPE_3":"Village","CC_3":"","HASC_3":""}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[121.83364105224621,18.011440277099723],[121.8927993774414,18.010629653930778],[121.8984832763673,18.02273941040039],[121.83384704589855,18.025579452514762],[121.83364105224621,18.011440277099723]]]},"properties":{"GID_0":"PHL","NAME_0":"Philippines","GID_1":"PHL.18_1","NAME_1":"Cagayan","NL_NAME_1":"","GID_2":"PHL.18.13_1","NAME_2":"Gattaran","NL_NAME_2":"","GID_3":"PHL.18.13.44_1","NAME_3":"T. Elizaga","VARNAME_3":"Mabirbira","NL_NAME_3":"","TYPE_3":"Barangay","ENGTYPE_3":"Village","CC_3":"","HASC_3":""}}
+]}

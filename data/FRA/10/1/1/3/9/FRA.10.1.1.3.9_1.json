@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[-0.5651230812072185,45.392021179199276],[-0.5533762574195862,45.39737701416021],[-0.5657023191452026,45.41780853271496],[-0.5715168714522179,45.40890502929682],[-0.5864457488059998,45.400894165039006],[-0.5853844285011292,45.39118194580078],[-0.5651230812072185,45.392021179199276]]]},"properties":{"GID_0":"FRA","NAME_0":"France","GID_1":"FRA.10_1","NAME_1":"Nouvelle-Aquitaine","GID_2":"FRA.10.1_1","NAME_2":"Charente-Maritime","GID_3":"FRA.10.1.1_1","NAME_3":"Jonzac","GID_4":"FRA.10.1.1.3_1","NAME_4":"Mirambeau","GID_5":"FRA.10.1.1.3.9_1","NAME_5":"Saint-Dizant-du-Bois","TYPE_5":"Commune simple","ENGTYPE_5":"Commune","CC_5":""}}
+]}

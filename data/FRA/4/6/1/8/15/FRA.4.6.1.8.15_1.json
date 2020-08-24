@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[2.8775992393493652,48.02088165283203],[2.880918502807617,48.018165588378906],[2.9119791984558105,48.02062225341808],[2.911418914794922,48.026847839355526],[2.9007489681243896,48.03650665283203],[2.88384389877325,48.02983093261719],[2.8775992393493652,48.02088165283203]]]},"properties":{"GID_0":"FRA","NAME_0":"France","GID_1":"FRA.4_1","NAME_1":"Centre-Val de Loire","GID_2":"FRA.4.6_1","NAME_2":"Loiret","GID_3":"FRA.4.6.1_1","NAME_3":"Montargis","GID_4":"FRA.4.6.1.8_1","NAME_4":"Courtenay","GID_5":"FRA.4.6.1.8.15_1","NAME_5":"Thorailles","TYPE_5":"Commune simple","ENGTYPE_5":"Commune","CC_5":""}}
+]}

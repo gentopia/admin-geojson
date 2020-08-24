@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[7.449999809265194,48.71598052978521],[7.449051856994743,48.71859359741222],[7.42013502120966,48.73097229003906],[7.411901950836125,48.72829818725597],[7.415831089019832,48.722919464111385],[7.4330601692200275,48.710163116455135],[7.449999809265194,48.71598052978521]]]},"properties":{"GID_0":"FRA","NAME_0":"France","GID_1":"FRA.6_1","NAME_1":"Grand Est","GID_2":"FRA.6.3_1","NAME_2":"Bas-Rhin","GID_3":"FRA.6.3.3_1","NAME_3":"Saverne","GID_4":"FRA.6.3.3.6_1","NAME_4":"Saverne","GID_5":"FRA.6.3.3.6.5_1","NAME_5":"Furchhausen","TYPE_5":"Commune simple","ENGTYPE_5":"Commune","CC_5":""}}
+]}

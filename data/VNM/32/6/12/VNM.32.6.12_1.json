@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[109.19158172607416,12.259106636047306],[109.18958282470709,12.259859085083008],[109.18854522705078,12.256740570068416],[109.19065856933594,12.249536514282227],[109.19400787353527,12.24939250946045],[109.19158172607416,12.259106636047306]]]},"properties":{"GID_0":"VNM","NAME_0":"Vietnam","GID_1":"VNM.32_1","NAME_1":"Khánh Hòa","NL_NAME_1":"","GID_2":"VNM.32.6_1","NAME_2":"Nha Trang","NL_NAME_2":"","GID_3":"VNM.32.6.12_1","NAME_3":"Vạn Thạnh","VARNAME_3":"Van Thanh","NL_NAME_3":"","TYPE_3":"Phường","ENGTYPE_3":"Ward","CC_3":"","HASC_3":""}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[124.43485260009777,7.885729789733887],[124.43182373046886,7.886360168457145],[124.42619323730469,7.879459857940731],[124.43187713623047,7.879010200500545],[124.43485260009777,7.885729789733887]]]},"properties":{"GID_0":"PHL","NAME_0":"Philippines","GID_1":"PHL.42_1","NAME_1":"Lanao del Sur","NL_NAME_1":"","GID_2":"PHL.42.23_1","NAME_2":"Maguing","NL_NAME_2":"","GID_3":"PHL.42.23.12_1","NAME_3":"Bubong Bayabao","VARNAME_3":"","NL_NAME_3":"","TYPE_3":"Barangay","ENGTYPE_3":"Village","CC_3":"","HASC_3":""}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[2.5907354354858967,50.453536987304744],[2.610738754272518,50.46868133544933],[2.6052005290986244,50.48083496093756],[2.5618326663970947,50.46101379394537],[2.5608432292938232,50.45997619628906],[2.574977397918815,50.45976638793951],[2.5907354354858967,50.453536987304744]]]},"properties":{"GID_0":"FRA","NAME_0":"France","GID_1":"FRA.7_1","NAME_1":"Hauts-de-France","GID_2":"FRA.7.4_1","NAME_2":"Pas-de-Calais","GID_3":"FRA.7.4.2_1","NAME_3":"Béthune","GID_4":"FRA.7.4.2.2_1","NAME_4":"Barlin","GID_5":"FRA.7.4.2.2.7_1","NAME_5":"Ruitz","TYPE_5":"Commune simple","ENGTYPE_5":"Commune","CC_5":""}}
+]}

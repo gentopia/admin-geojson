@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[6.016907691955566,45.91032028198248],[6.037163734436092,45.91759109497076],[6.043447017669735,45.93153381347656],[6.035276889801082,45.93349456787115],[6.018858432769832,45.929660797119254],[6.012682437896785,45.9203987121582],[6.016907691955566,45.91032028198248]]]},"properties":{"GID_0":"FRA","NAME_0":"France","GID_1":"FRA.1_1","NAME_1":"Auvergne-Rhône-Alpes","GID_2":"FRA.1.7_1","NAME_2":"Haute-Savoie","GID_3":"FRA.1.7.1_1","NAME_3":"Annecy","GID_4":"FRA.1.7.1.3_1","NAME_4":"Annecy-Nord-Ouest","GID_5":"FRA.1.7.1.3.8_1","NAME_5":"Nonglard","TYPE_5":"Commune simple","ENGTYPE_5":"Commune","CC_5":""}}
+]}

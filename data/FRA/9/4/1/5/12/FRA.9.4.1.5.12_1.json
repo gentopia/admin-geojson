@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[0.29768913984298706,48.602924346923885],[0.31307616829877816,48.60296630859375],[0.3251484632491497,48.60467147827154],[0.32346466183673783,48.61371231079113],[0.3164796531200409,48.621288299560604],[0.2997728288174244,48.61540985107422],[0.29768913984298706,48.602924346923885]]]},"properties":{"GID_0":"FRA","NAME_0":"France","GID_1":"FRA.9_1","NAME_1":"Normandie","GID_2":"FRA.9.4_1","NAME_2":"Orne","GID_3":"FRA.9.4.1_1","NAME_3":"Alençon","GID_4":"FRA.9.4.1.5_1","NAME_4":"Courtomer","GID_5":"FRA.9.4.1.5.12_1","NAME_5":"Saint-Germain-le-Vieux","TYPE_5":"Commune simple","ENGTYPE_5":"Commune","CC_5":""}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[123.74343872070324,12.46360015869152],[123.7428665161134,12.46940994262701],[123.74270629882824,12.47085952758789],[123.71605682373047,12.45728969573986],[123.72119903564453,12.451339721679744],[123.74343872070324,12.46360015869152]]]},"properties":{"GID_0":"PHL","NAME_0":"Philippines","GID_1":"PHL.46_1","NAME_1":"Masbate","NL_NAME_1":"","GID_2":"PHL.46.18_1","NAME_2":"San Fernando","NL_NAME_2":"","GID_3":"PHL.46.18.12_1","NAME_3":"Del Rosario","VARNAME_3":"","NL_NAME_3":"","TYPE_3":"Barangay","ENGTYPE_3":"Village","CC_3":"","HASC_3":""}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[124.3924331665039,6.976640224456844],[124.39111328125,6.983870029449577],[124.36978149414062,6.98786020278942],[124.37071228027344,6.9762701988220215],[124.3924331665039,6.976640224456844]]]},"properties":{"GID_0":"PHL","NAME_0":"Philippines","GID_1":"PHL.44_1","NAME_1":"Maguindanao","NL_NAME_1":"","GID_2":"PHL.44.16_1","NAME_2":"Guindulungan","NL_NAME_2":"","GID_3":"PHL.44.16.8_1","NAME_3":"Muslim","VARNAME_3":"","NL_NAME_3":"","TYPE_3":"Barangay","ENGTYPE_3":"Village","CC_3":"","HASC_3":""}}
+]}

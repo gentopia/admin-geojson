@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[97.25764465332043,5.04687690734869],[97.24906158447277,5.055130958557243],[97.24662780761713,5.052828311920166],[97.2549438476563,5.0439600944518475],[97.25764465332043,5.04687690734869]]]},"properties":{"GID_0":"IDN","NAME_0":"Indonesia","GID_1":"IDN.1_1","NAME_1":"Aceh","GID_2":"IDN.1.11_1","NAME_2":"Aceh Utara","GID_3":"IDN.1.11.26_1","NAME_3":"Tanah Luas","GID_4":"IDN.1.11.26.26_1","NAME_4":"Manyang Seuleumak Barat","VARNAME_4":"","TYPE_4":"Desa","ENGTYPE_4":"Village","CC_4":"1111120033"}}
+]}

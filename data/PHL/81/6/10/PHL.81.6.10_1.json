@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[122.74942016601562,7.8274598121643635],[122.73130798339844,7.829030036926326],[122.7276611328125,7.817570209503174],[122.7261734008789,7.812779903411979],[122.74150848388683,7.812059879303035],[122.74942016601562,7.8274598121643635]]]},"properties":{"GID_0":"PHL","NAME_0":"Philippines","GID_1":"PHL.81_1","NAME_1":"Zamboanga Sibugay","NL_NAME_1":"","GID_2":"PHL.81.6_1","NAME_2":"Kabasalan","NL_NAME_2":"","GID_3":"PHL.81.6.10_1","NAME_3":"Gacbusan","VARNAME_3":"","NL_NAME_3":"","TYPE_3":"Barangay","ENGTYPE_3":"Village","CC_3":"","HASC_3":""}}
+]}

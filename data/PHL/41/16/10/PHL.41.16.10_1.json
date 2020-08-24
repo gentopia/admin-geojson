@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[124.2274398803711,8.080060005188102],[124.22740173339844,8.074740409851074],[124.23355865478516,8.07522010803234],[124.23430633544922,8.08026027679449],[124.2274398803711,8.080060005188102]]]},"properties":{"GID_0":"PHL","NAME_0":"Philippines","GID_1":"PHL.41_1","NAME_1":"Lanao del Norte","NL_NAME_1":"","GID_2":"PHL.41.16_1","NAME_2":"Pantar","NL_NAME_2":"","GID_3":"PHL.41.16.10_1","NAME_3":"Kalilangan","VARNAME_3":"","NL_NAME_3":"","TYPE_3":"Barangay","ENGTYPE_3":"Village","CC_3":"","HASC_3":""}}
+]}

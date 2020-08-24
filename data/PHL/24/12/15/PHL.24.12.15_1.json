@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[120.92175292968761,14.450559616088867],[120.92233276367199,14.45491981506359],[120.91998291015636,14.454130172729492],[120.91938781738281,14.44966983795166],[120.92175292968761,14.450559616088867]]]},"properties":{"GID_0":"PHL","NAME_0":"Philippines","GID_1":"PHL.24_1","NAME_1":"Cavite","NL_NAME_1":"","GID_2":"PHL.24.12_1","NAME_2":"Kawit","NL_NAME_2":"","GID_3":"PHL.24.12.15_1","NAME_3":"Samala-Marquez","VARNAME_3":"","NL_NAME_3":"","TYPE_3":"Barangay","ENGTYPE_3":"Village","CC_3":"","HASC_3":""}}
+]}

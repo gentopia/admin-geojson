@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[-49.33846282958973,-16.70279312133789],[-49.32061767578119,-16.693250656127873],[-49.32374954223627,-16.679500579833928],[-49.32817077636719,-16.67224502563471],[-49.3387565612793,-16.681797027587777],[-49.34231948852539,-16.689716339111328],[-49.33846282958973,-16.70279312133789]]]},"properties":{"GID_0":"BRA","NAME_0":"Brazil","GID_1":"BRA.9_1","NAME_1":"Goiás","NL_NAME_1":"","GID_2":"BRA.9.93_1","NAME_2":"Goiania","NL_NAME_2":"","GID_3":"BRA.9.93.43_1","NAME_3":"U.T.P. Parque Oeste Industrial","VARNAME_3":"","NL_NAME_3":"","TYPE_3":"Distrito","ENGTYPE_3":"District","CC_3":"","HASC_3":""}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[123.88524627685547,9.843130111694336],[123.88638305664062,9.84245967864996],[123.89494323730469,9.856430053710994],[123.88260650634766,9.859250068664664],[123.88524627685547,9.843130111694336]]]},"properties":{"GID_0":"PHL","NAME_0":"Philippines","GID_1":"PHL.15_1","NAME_1":"Bohol","NL_NAME_1":"","GID_2":"PHL.15.11_1","NAME_2":"Calape","NL_NAME_2":"","GID_3":"PHL.15.11.11_1","NAME_3":"Canguha","VARNAME_3":"","NL_NAME_3":"","TYPE_3":"Barangay","ENGTYPE_3":"Village","CC_3":"","HASC_3":""}}
+]}

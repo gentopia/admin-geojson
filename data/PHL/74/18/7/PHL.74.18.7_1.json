@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[125.51217651367199,9.674519538879395],[125.54054260253918,9.672430038452148],[125.54105377197266,9.683770179748535],[125.54052734375023,9.690059661865348],[125.45762634277355,9.690299987793026],[125.4552230834961,9.679980278015137],[125.51217651367199,9.674519538879395]]]},"properties":{"GID_0":"PHL","NAME_0":"Philippines","GID_1":"PHL.74_1","NAME_1":"Surigao del Norte","NL_NAME_1":"","GID_2":"PHL.74.18_1","NAME_2":"Sison","NL_NAME_2":"","GID_3":"PHL.74.18.7_1","NAME_3":"Poblacion","VARNAME_3":"San Pedro","NL_NAME_3":"","TYPE_3":"Barangay","ENGTYPE_3":"Village","CC_3":"","HASC_3":""}}
+]}

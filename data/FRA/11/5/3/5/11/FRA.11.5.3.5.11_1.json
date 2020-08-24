@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[0.3257815837859539,43.497695922851676],[0.2969907224179451,43.497226715088004],[0.2952393591403961,43.49003219604492],[0.2987485229969593,43.484294891357365],[0.3147326111794655,43.47850799560547],[0.32756802439689636,43.4794921875],[0.3257815837859539,43.497695922851676]]]},"properties":{"GID_0":"FRA","NAME_0":"France","GID_1":"FRA.11_1","NAME_1":"Occitanie","GID_2":"FRA.11.5_1","NAME_2":"Gers","GID_3":"FRA.11.5.3_1","NAME_3":"Mirande","GID_4":"FRA.11.5.3.5_1","NAME_4":"Mirande","GID_5":"FRA.11.5.3.5.11_1","NAME_5":"Marseillan","TYPE_5":"Commune simple","ENGTYPE_5":"Commune","CC_5":""}}
+]}

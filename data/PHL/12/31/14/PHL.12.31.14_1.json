@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[121.01600646972656,14.094289779663143],[121.0159378051759,14.096329689025993],[121.01435089111328,14.096070289611873],[121.01428985595703,14.094280242919979],[121.01600646972656,14.094289779663143]]]},"properties":{"GID_0":"PHL","NAME_0":"Philippines","GID_1":"PHL.12_1","NAME_1":"Batangas","NL_NAME_1":"","GID_2":"PHL.12.31_1","NAME_2":"Talisay","NL_NAME_2":"","GID_3":"PHL.12.31.14_1","NAME_3":"Poblacion Barangay 7","VARNAME_3":"","NL_NAME_3":"","TYPE_3":"Barangay","ENGTYPE_3":"Village","CC_3":"","HASC_3":""}}
+]}

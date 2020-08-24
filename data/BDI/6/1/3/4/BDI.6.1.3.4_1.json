@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[29.204685211181754,-2.996407985687199],[29.196369171142578,-2.987571954727173],[29.191064834594783,-2.9925529956817627],[29.189989089965934,-2.9935610294341473],[29.19832420349121,-3.002182960510254],[29.204685211181754,-2.996407985687199]]]},"properties":{"GID_0":"BDI","NAME_0":"Burundi","GID_1":"BDI.6_1","NAME_1":"Cibitoke","GID_2":"BDI.6.1_1","NAME_2":"Buganda","GID_3":"BDI.6.1.3_1","NAME_3":"Kaburantwa","GID_4":"BDI.6.1.3.4_1","NAME_4":"Mutumba","VARNAME_4":"","TYPE_4":"Sous Colline","ENGTYPE_4":"Sous Colline","CC_4":""}}
+]}

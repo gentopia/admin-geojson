@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[124.34559631347668,7.869639873504639],[124.3436279296875,7.871240139007682],[124.34137725830101,7.8716797828674885],[124.34001159667969,7.871379852295036],[124.3382034301759,7.870749950408992],[124.3351287841798,7.8689098358154865],[124.34559631347668,7.869639873504639]]]},"properties":{"GID_0":"PHL","NAME_0":"Philippines","GID_1":"PHL.42_1","NAME_1":"Lanao del Sur","NL_NAME_1":"","GID_2":"PHL.42.38_1","NAME_2":"Tamparan","NL_NAME_2":"","GID_3":"PHL.42.38.42_1","NAME_3":"Tatayawan North","VARNAME_3":"","NL_NAME_3":"","TYPE_3":"Barangay","ENGTYPE_3":"Village","CC_3":"","HASC_3":""}}
+]}

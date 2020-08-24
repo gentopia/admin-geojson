@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[-0.30652788281440735,49.091259002685604],[-0.3087382614612011,49.103130340576286],[-0.3243867158889202,49.106281280517635],[-0.3265210688114166,49.1030158996582],[-0.32901862263679504,49.09367752075195],[-0.3132679760456085,49.08287429809582],[-0.30652788281440735,49.091259002685604]]]},"properties":{"GID_0":"FRA","NAME_0":"France","GID_1":"FRA.9_1","NAME_1":"Normandie","GID_2":"FRA.9.1_1","NAME_2":"Calvados","GID_3":"FRA.9.1.2_1","NAME_3":"Caen","GID_4":"FRA.9.1.2.1_1","NAME_4":"Bourguébus","GID_5":"FRA.9.1.2.1.19_1","NAME_5":"Rocquancourt","TYPE_5":"Commune simple","ENGTYPE_5":"Commune","CC_5":""}}
+]}

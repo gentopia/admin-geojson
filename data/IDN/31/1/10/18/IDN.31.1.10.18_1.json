@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[104.53099822998047,-2.5946171283721924],[104.54650115966803,-2.584498167037907],[104.53929901123053,-2.572326183319092],[104.53130340576183,-2.577510118484497],[104.52349853515636,-2.5819544792175293],[104.53099822998047,-2.5946171283721924]]]},"properties":{"GID_0":"IDN","NAME_0":"Indonesia","GID_1":"IDN.31_1","NAME_1":"Sumatera Selatan","GID_2":"IDN.31.1_1","NAME_2":"Banyu Asin","GID_3":"IDN.31.1.10_1","NAME_3":"Pulau Rimau","GID_4":"IDN.31.1.10.18_1","NAME_4":"Songo Makmur","VARNAME_4":"","TYPE_4":"Desa","ENGTYPE_4":"Village","CC_4":"1607030011"}}
+]}

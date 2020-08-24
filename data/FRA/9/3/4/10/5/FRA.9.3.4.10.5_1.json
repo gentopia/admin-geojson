@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[-1.0960332155227093,48.98607635498058],[-1.0766072273254395,48.98260498046881],[-1.0671263933181763,48.989410400390625],[-1.0591717958450317,49.00491333007818],[-1.0859984159469604,49.0042457580567],[-1.0977256298065186,48.99867630004883],[-1.0960332155227093,48.98607635498058]]]},"properties":{"GID_0":"FRA","NAME_0":"France","GID_1":"FRA.9_1","NAME_1":"Normandie","GID_2":"FRA.9.3_1","NAME_2":"Manche","GID_3":"FRA.9.3.4_1","NAME_3":"Saint-Lô","GID_4":"FRA.9.3.4.10_1","NAME_4":"Tessy-sur-Vire","GID_5":"FRA.9.3.4.10.5_1","NAME_5":"Fervaches","TYPE_5":"Commune simple","ENGTYPE_5":"Commune","CC_5":""}}
+]}

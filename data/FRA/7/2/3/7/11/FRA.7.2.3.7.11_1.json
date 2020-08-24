@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[3.2114667892456623,50.39029693603527],[3.2493469715119545,50.38608551025402],[3.2525339126586914,50.39442825317377],[3.236012458801383,50.402172088623104],[3.230687618255672,50.401840209960994],[3.210848569870052,50.39694976806652],[3.2114667892456623,50.39029693603527]]]},"properties":{"GID_0":"FRA","NAME_0":"France","GID_1":"FRA.7_1","NAME_1":"Hauts-de-France","GID_2":"FRA.7.2_1","NAME_2":"Nord","GID_3":"FRA.7.2.3_1","NAME_3":"Douai","GID_4":"FRA.7.2.3.7_1","NAME_4":"Marchiennes","GID_5":"FRA.7.2.3.7.11_1","NAME_5":"Vred","TYPE_5":"Commune simple","ENGTYPE_5":"Commune","CC_5":""}}
+]}

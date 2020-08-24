@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[122.37947082519554,10.826160430908203],[122.38973999023438,10.828740119934196],[122.38201141357433,10.83545970916748],[122.37843322753906,10.83812046051031],[122.36937713623058,10.831230163574276],[122.37947082519554,10.826160430908203]]]},"properties":{"GID_0":"PHL","NAME_0":"Philippines","GID_1":"PHL.36_1","NAME_1":"Iloilo","NL_NAME_1":"","GID_2":"PHL.36.26_1","NAME_2":"Leon","NL_NAME_2":"","GID_3":"PHL.36.26.82_1","NAME_3":"Tina-An Norte","VARNAME_3":"","NL_NAME_3":"","TYPE_3":"Barangay","ENGTYPE_3":"Village","CC_3":"","HASC_3":""}}
+]}

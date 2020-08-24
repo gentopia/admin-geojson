@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[123.98029327392578,9.687669754028377],[123.97939300537121,9.692770004272575],[123.97643280029297,9.691769599914664],[123.97390747070312,9.69215011596691],[123.9723892211914,9.689800262451229],[123.98029327392578,9.687669754028377]]]},"properties":{"GID_0":"PHL","NAME_0":"Philippines","GID_1":"PHL.15_1","NAME_1":"Bohol","NL_NAME_1":"","GID_2":"PHL.15.42_1","NAME_2":"Sikatuna","NL_NAME_2":"","GID_3":"PHL.15.42.10_1","NAME_3":"Poblacion II","VARNAME_3":"","NL_NAME_3":"","TYPE_3":"Barangay","ENGTYPE_3":"Village","CC_3":"","HASC_3":""}}
+]}

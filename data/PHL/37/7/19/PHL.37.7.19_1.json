@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[121.67642211914085,16.960010528564453],[121.6778030395509,16.957590103149528],[121.69024658203125,16.955039978027457],[121.6866226196289,16.96544075012207],[121.67642211914085,16.960010528564453]]]},"properties":{"GID_0":"PHL","NAME_0":"Philippines","GID_1":"PHL.37_1","NAME_1":"Isabela","NL_NAME_1":"","GID_2":"PHL.37.7_1","NAME_2":"Cabatuan","NL_NAME_2":"","GID_3":"PHL.37.7.19_1","NAME_3":"Sampaloc","VARNAME_3":"","NL_NAME_3":"","TYPE_3":"Barangay","ENGTYPE_3":"Village","CC_3":"","HASC_3":""}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[5.925345420837459,45.54033660888672],[5.930008411407471,45.548019409179744],[5.915721416473332,45.56069946289074],[5.903439044952449,45.55738449096674],[5.9073805809021565,45.55085754394531],[5.925345420837459,45.54033660888672]]]},"properties":{"GID_0":"FRA","NAME_0":"France","GID_1":"FRA.1_1","NAME_1":"Auvergne-Rhône-Alpes","GID_2":"FRA.1.12_1","NAME_2":"Savoie","GID_3":"FRA.1.12.2_1","NAME_3":"Chambéry","GID_4":"FRA.1.12.2.8_1","NAME_4":"Cognin","GID_5":"FRA.1.12.2.8.2_1","NAME_5":"Jacob-Bellecombette","TYPE_5":"Commune simple","ENGTYPE_5":"Commune","CC_5":""}}
+]}

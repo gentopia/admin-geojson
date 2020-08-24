@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[2.299593925476131,50.29396438598633],[2.321469306945801,50.28485870361328],[2.326735734939575,50.286117553710994],[2.311615228653068,50.309745788574276],[2.299593925476131,50.29396438598633]]]},"properties":{"GID_0":"FRA","NAME_0":"France","GID_1":"FRA.7_1","NAME_1":"Hauts-de-France","GID_2":"FRA.7.4_1","NAME_2":"Pas-de-Calais","GID_3":"FRA.7.4.1_1","NAME_3":"Arras","GID_4":"FRA.7.4.1.15_1","NAME_4":"Saint-Pol-sur-Ternoise","GID_5":"FRA.7.4.1.15.37_1","NAME_5":"Séricourt","TYPE_5":"Commune simple","ENGTYPE_5":"Commune","CC_5":""}}
+]}

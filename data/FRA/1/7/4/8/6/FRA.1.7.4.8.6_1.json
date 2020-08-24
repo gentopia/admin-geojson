@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[5.872787475586051,45.9451522827149],[5.880192279815731,45.94595336914074],[5.893898010253963,45.96317672729498],[5.896028041839543,45.96584320068354],[5.883980274200383,45.978576660156364],[5.880544185638428,45.97836685180664],[5.869537353515739,45.962596893310604],[5.872787475586051,45.9451522827149]]]},"properties":{"GID_0":"FRA","NAME_0":"France","GID_1":"FRA.1_1","NAME_1":"Auvergne-Rhône-Alpes","GID_2":"FRA.1.7_1","NAME_2":"Haute-Savoie","GID_3":"FRA.1.7.4_1","NAME_3":"Saint-Julien-en-Genevois","GID_4":"FRA.1.7.4.8_1","NAME_4":"Seyssel","GID_5":"FRA.1.7.4.8.6_1","NAME_5":"Droisy","TYPE_5":"Commune simple","ENGTYPE_5":"Commune","CC_5":""}}
+]}

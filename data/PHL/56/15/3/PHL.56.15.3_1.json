@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[121.15041351318371,16.606330871582088],[121.11377716064464,16.59993934631359],[121.11691284179688,16.575889587402287],[121.15381622314476,16.57368087768566],[121.15041351318371,16.606330871582088]]]},"properties":{"GID_0":"PHL","NAME_0":"Philippines","GID_1":"PHL.56_1","NAME_1":"Nueva Vizcaya","NL_NAME_1":"","GID_2":"PHL.56.15_1","NAME_2":"Villaverde","NL_NAME_2":"","GID_3":"PHL.56.15.3_1","NAME_3":"Cabuluan","VARNAME_3":"","NL_NAME_3":"","TYPE_3":"Barangay","ENGTYPE_3":"Village","CC_3":"","HASC_3":""}}
+]}

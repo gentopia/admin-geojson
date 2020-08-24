@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[122.09776306152366,11.38047027587885],[122.09825134277344,11.39538955688488],[122.08524322509777,11.394789695739746],[122.08146667480469,11.383139610290527],[122.09776306152366,11.38047027587885]]]},"properties":{"GID_0":"PHL","NAME_0":"Philippines","GID_1":"PHL.6_1","NAME_1":"Antique","NL_NAME_1":"","GID_2":"PHL.6.6_1","NAME_2":"Culasi","NL_NAME_2":"","GID_3":"PHL.6.6.42_1","NAME_3":"Tinabusan","VARNAME_3":"","NL_NAME_3":"","TYPE_3":"Barangay","ENGTYPE_3":"Village","CC_3":"","HASC_3":""}}
+]}

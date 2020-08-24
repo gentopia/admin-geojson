@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[1.740455627441463,49.222774505615234],[1.7657222747802734,49.21665191650396],[1.7787301540375893,49.22669219970703],[1.770227789878902,49.24247741699213],[1.7514377832413288,49.23981094360357],[1.7470854520798866,49.2273216247558],[1.740455627441463,49.222774505615234]]]},"properties":{"GID_0":"FRA","NAME_0":"France","GID_1":"FRA.7_1","NAME_1":"Hauts-de-France","GID_2":"FRA.7.3_1","NAME_2":"Oise","GID_3":"FRA.7.3.1_1","NAME_3":"Beauvais","GID_4":"FRA.7.3.1.5_1","NAME_4":"Chaumont-en-Vexin","GID_5":"FRA.7.3.1.5.36_1","NAME_5":"Vaudancourt","TYPE_5":"Commune simple","ENGTYPE_5":"Commune","CC_5":""}}
+]}

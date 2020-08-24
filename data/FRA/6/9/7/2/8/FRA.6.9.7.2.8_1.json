@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[7.362117767334098,49.01997756958019],[7.390232086181641,49.0229225158692],[7.374972343444824,49.03991317749029],[7.359679698944035,49.040660858154354],[7.34238672256464,49.03387451171875],[7.338147640228328,49.02822875976574],[7.362117767334098,49.01997756958019]]]},"properties":{"GID_0":"FRA","NAME_0":"France","GID_1":"FRA.6_1","NAME_1":"Grand Est","GID_2":"FRA.6.9_1","NAME_2":"Moselle","GID_3":"FRA.6.9.7_1","NAME_3":"Sarreguemines","GID_4":"FRA.6.9.7.2_1","NAME_4":"Rohrbach-lès-Bitche","GID_5":"FRA.6.9.7.2.8_1","NAME_5":"Lambach","TYPE_5":"Commune simple","ENGTYPE_5":"Commune","CC_5":""}}
+]}

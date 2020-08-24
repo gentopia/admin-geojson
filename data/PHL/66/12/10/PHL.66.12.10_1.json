@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[125.0121078491211,11.833020210266056],[124.99742889404297,11.841690063476562],[124.9947280883789,11.834320068359432],[125.00801849365246,11.825189590454102],[125.0121078491211,11.833020210266056]]]},"properties":{"GID_0":"PHL","NAME_0":"Philippines","GID_1":"PHL.66_1","NAME_1":"Samar","NL_NAME_1":"","GID_2":"PHL.66.12_1","NAME_2":"Motiong","NL_NAME_2":"","GID_3":"PHL.66.12.10_1","NAME_3":"Candomacol","VARNAME_3":"","NL_NAME_3":"","TYPE_3":"Barangay","ENGTYPE_3":"Village","CC_3":"","HASC_3":""}}
+]}

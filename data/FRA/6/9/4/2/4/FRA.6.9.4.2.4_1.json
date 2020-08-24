@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[6.150513172149715,49.190368652343864],[6.14822435379034,49.19990158081055],[6.137145042419377,49.2057991027832],[6.121384620666504,49.19857788085949],[6.135747909546012,49.19000625610357],[6.150513172149715,49.190368652343864]]]},"properties":{"GID_0":"FRA","NAME_0":"France","GID_1":"FRA.6_1","NAME_1":"Grand Est","GID_2":"FRA.6.9_1","NAME_2":"Moselle","GID_3":"FRA.6.9.4_1","NAME_3":"Metz-Campagne","GID_4":"FRA.6.9.4.2_1","NAME_4":"Maizières-lès-Metz","GID_5":"FRA.6.9.4.2.4_1","NAME_5":"Semécourt","TYPE_5":"Commune simple","ENGTYPE_5":"Commune","CC_5":""}}
+]}

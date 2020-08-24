@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[121.80497741699241,16.959510803222656],[121.80708312988304,16.964000701904297],[121.79862976074219,16.964450836181697],[121.79638671875,16.959819793701172],[121.80497741699241,16.959510803222656]]]},"properties":{"GID_0":"PHL","NAME_0":"Philippines","GID_1":"PHL.37_1","NAME_1":"Isabela","NL_NAME_1":"","GID_2":"PHL.37.8_1","NAME_2":"Cauayan City","NL_NAME_2":"","GID_3":"PHL.37.8.16_1","NAME_3":"Carabatan Punta","VARNAME_3":"","NL_NAME_3":"","TYPE_3":"Barangay","ENGTYPE_3":"Village","CC_3":"","HASC_3":""}}
+]}

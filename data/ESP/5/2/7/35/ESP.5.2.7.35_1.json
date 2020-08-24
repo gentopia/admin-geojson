@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[-3.065401077270508,41.976478576660156],[-3.0627961158751873,41.97876739501953],[-3.0609679222106365,41.98601150512707],[-3.0642380714415935,41.99726486206066],[-3.0667500495910076,41.99653244018566],[-3.065401077270508,41.976478576660156]]]},"properties":{"GID_0":"ESP","NAME_0":"Spain","GID_1":"ESP.5_1","NAME_1":"Castilla y León","GID_2":"ESP.5.2_1","NAME_2":"Burgos","GID_3":"ESP.5.2.7_1","NAME_3":"n.a. (65)","GID_4":"ESP.5.2.7.35_1","NAME_4":"Comunidad de Quintanar de la Sierra y Vilviestre del Pinar","VARNAME_4":"","TYPE_4":"Municipality","ENGTYPE_4":"Municipality","CC_4":""}}
+]}

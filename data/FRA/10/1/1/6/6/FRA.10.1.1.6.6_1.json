@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[-0.3090481758117676,45.32015228271496],[-0.30138677358621635,45.311592102050895],[-0.28317156434059143,45.30831909179693],[-0.2843908667563255,45.32205963134777],[-0.29060378670692444,45.326671600341854],[-0.2951604425907135,45.32077026367199],[-0.3090481758117676,45.32015228271496]]]},"properties":{"GID_0":"FRA","NAME_0":"France","GID_1":"FRA.10_1","NAME_1":"Nouvelle-Aquitaine","GID_2":"FRA.10.1_1","NAME_2":"Charente-Maritime","GID_3":"FRA.10.1.1_1","NAME_3":"Jonzac","GID_4":"FRA.10.1.1.6_1","NAME_4":"Montlieu-la-Garde","GID_5":"FRA.10.1.1.6.6_1","NAME_5":"Le Pin","TYPE_5":"Commune simple","ENGTYPE_5":"Commune","CC_5":""}}
+]}

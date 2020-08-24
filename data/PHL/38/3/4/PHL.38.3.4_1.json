@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[121.22862243652355,17.411920547485465],[121.18454742431652,17.413339614868164],[121.18373107910156,17.404979705810547],[121.22251129150402,17.402769088745174],[121.22862243652355,17.411920547485465]]]},"properties":{"GID_0":"PHL","NAME_0":"Philippines","GID_1":"PHL.38_1","NAME_1":"Kalinga","NL_NAME_1":"","GID_2":"PHL.38.3_1","NAME_2":"Pasil","NL_NAME_2":"","GID_3":"PHL.38.3.4_1","NAME_3":"Balenciagao Sur","VARNAME_3":"","NL_NAME_3":"","TYPE_3":"Barangay","ENGTYPE_3":"Village","CC_3":"","HASC_3":""}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[5.010481834411564,45.18553543090826],[5.008299350738525,45.19638442993164],[5.000151157379207,45.19936752319347],[4.990509986877441,45.19872665405279],[4.988689422607422,45.19197082519537],[4.984715938568172,45.167629241943416],[5.007667541503906,45.169254302978516],[5.010481834411564,45.18553543090826]]]},"properties":{"GID_0":"FRA","NAME_0":"France","GID_1":"FRA.1_1","NAME_1":"Auvergne-Rhône-Alpes","GID_2":"FRA.1.5_1","NAME_2":"Drôme","GID_3":"FRA.1.5.3_1","NAME_3":"Valence","GID_4":"FRA.1.5.3.10_1","NAME_4":"Saint-Donat-sur-l'Herbasse","GID_5":"FRA.1.5.3.10.2_1","NAME_5":"Bathernay","TYPE_5":"Commune simple","ENGTYPE_5":"Commune","CC_5":""}}
+]}

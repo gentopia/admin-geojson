@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[0.4871731996536255,48.73290252685547],[0.4916434288024334,48.71319198608404],[0.5165388584137531,48.71182250976574],[0.5263782143592266,48.71883010864258],[0.5249931812287514,48.738014221191406],[0.48865553736686707,48.73319625854498],[0.4871731996536255,48.73290252685547]]]},"properties":{"GID_0":"FRA","NAME_0":"France","GID_1":"FRA.9_1","NAME_1":"Normandie","GID_2":"FRA.9.4_1","NAME_2":"Orne","GID_3":"FRA.9.4.3_1","NAME_3":"Mortagne-au-Perche","GID_4":"FRA.9.4.3.9_1","NAME_4":"Moulins-la-Marche","GID_5":"FRA.9.4.3.9.14_1","NAME_5":"Saint-Hilaire-sur-Risle","TYPE_5":"Commune simple","ENGTYPE_5":"Commune","CC_5":""}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[-1.9892749786376953,48.16681289672863],[-1.977334260940495,48.158248901367244],[-1.9629108905792236,48.15948867797857],[-1.9651622772216797,48.172527313232536],[-1.979514002799931,48.17434692382824],[-1.9892749786376953,48.16681289672863]]]},"properties":{"GID_0":"FRA","NAME_0":"France","GID_1":"FRA.3_1","NAME_1":"Bretagne","GID_2":"FRA.3.3_1","NAME_2":"Ille-et-Vilaine","GID_3":"FRA.3.3.3_1","NAME_3":"Rennes","GID_4":"FRA.3.3.3.10_1","NAME_4":"Montfort-sur-Meu","GID_5":"FRA.3.3.3.10.6_1","NAME_5":"La Nouaye","TYPE_5":"Commune simple","ENGTYPE_5":"Commune","CC_5":""}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[3.397820472717399,49.18403625488287],[3.411428451538143,49.18259429931635],[3.4294962882996174,49.1865692138673],[3.4273493289948647,49.19895553588867],[3.422625780105591,49.198451995849666],[3.4083144664764973,49.19816970825195],[3.3916149139404865,49.1922721862793],[3.397820472717399,49.18403625488287]]]},"properties":{"GID_0":"FRA","NAME_0":"France","GID_1":"FRA.7_1","NAME_1":"Hauts-de-France","GID_2":"FRA.7.1_1","NAME_2":"Aisne","GID_3":"FRA.7.1.1_1","NAME_3":"Château-Thierry","GID_4":"FRA.7.1.1.4_1","NAME_4":"Fère-en-Tardenois","GID_5":"FRA.7.1.1.4.15_1","NAME_5":"Nanteuil-Notre-Dame","TYPE_5":"Commune simple","ENGTYPE_5":"Commune","CC_5":""}}
+]}

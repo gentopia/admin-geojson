@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[123.29276275634777,9.24645042419445],[123.28797149658214,9.25006008148199],[123.28742980957043,9.249420166015625],[123.28421783447266,9.241109848022575],[123.29100799560558,9.2391996383667],[123.29276275634777,9.24645042419445]]]},"properties":{"GID_0":"PHL","NAME_0":"Philippines","GID_1":"PHL.52_1","NAME_1":"Negros Oriental","NL_NAME_1":"","GID_2":"PHL.52.3_1","NAME_2":"Bacong","NL_NAME_2":"","GID_3":"PHL.52.3.10_1","NAME_3":"Lutao","VARNAME_3":"","NL_NAME_3":"","TYPE_3":"Barangay","ENGTYPE_3":"Village","CC_3":"","HASC_3":""}}
+]}

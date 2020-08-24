@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[-126.0164566040039,55.31455993652344],[-126.02053833007801,55.3145751953125],[-126.02008056640625,55.31181716918945],[-126.01960754394531,55.3119735717774],[-126.01882171630848,55.312026977539176],[-126.016616821289,55.31171035766613],[-126.0164566040039,55.31455993652344]]]},"properties":{"GID_0":"CAN","NAME_0":"Canada","GID_1":"CAN.2_1","NAME_1":"British Columbia","NL_NAME_1":"","GID_2":"CAN.2.2_1","NAME_2":"Bulkley-Nechako","NL_NAME_2":"","GID_3":"CAN.2.2.42_1","NAME_3":"Tacla Lake (Ferry Landing) 9","VARNAME_3":"","NL_NAME_3":"","TYPE_3":"Réserve Indienne","ENGTYPE_3":"Indian Reserve","CC_3":"","HASC_3":""}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[125.03082275390625,11.955840110778922],[125.04180145263683,11.961050033569336],[125.03533172607433,11.977210044860954],[125.02445220947277,11.974360466003418],[125.03082275390625,11.955840110778922]]]},"properties":{"GID_0":"PHL","NAME_0":"Philippines","GID_1":"PHL.66_1","NAME_1":"Samar","NL_NAME_1":"","GID_2":"PHL.66.12_1","NAME_2":"Motiong","NL_NAME_2":"","GID_3":"PHL.66.12.15_1","NAME_3":"Hinica-An","VARNAME_3":"","NL_NAME_3":"","TYPE_3":"Barangay","ENGTYPE_3":"Village","CC_3":"","HASC_3":""}}
+]}

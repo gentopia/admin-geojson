@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[-3.644775629043579,48.546894073486385],[-3.6330151557922363,48.55418777465832],[-3.638256549835205,48.57009124755871],[-3.6447160243988037,48.55723571777344],[-3.644775629043579,48.546894073486385]]]},"properties":{"GID_0":"FRA","NAME_0":"France","GID_1":"FRA.3_1","NAME_1":"Bretagne","GID_2":"FRA.3.2_1","NAME_2":"Finistère","GID_3":"FRA.3.2.3_1","NAME_3":"Morlaix","GID_4":"FRA.3.2.3.5_1","NAME_4":"Plouigneau","GID_5":"FRA.3.2.3.5.4_1","NAME_5":"Le Ponthou","TYPE_5":"Commune simple","ENGTYPE_5":"Commune","CC_5":""}}
+]}

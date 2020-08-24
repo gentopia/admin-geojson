@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[5.502637386321965,44.0634498596192],[5.498165130615234,44.07309722900396],[5.498787879943961,44.11571884155279],[5.454716682434082,44.11922836303722],[5.446356773376465,44.109996795654354],[5.473280429840031,44.07988357543951],[5.475308418273926,44.06993103027355],[5.502637386321965,44.0634498596192]]]},"properties":{"GID_0":"FRA","NAME_0":"France","GID_1":"FRA.13_1","NAME_1":"Provence-Alpes-Côte d'Azur","GID_2":"FRA.13.6_1","NAME_2":"Vaucluse","GID_3":"FRA.13.6.3_1","NAME_3":"Carpentras","GID_4":"FRA.13.6.3.8_1","NAME_4":"Sault","GID_5":"FRA.13.6.3.8.4_1","NAME_5":"Saint-Trinit","TYPE_5":"Commune simple","ENGTYPE_5":"Commune","CC_5":""}}
+]}

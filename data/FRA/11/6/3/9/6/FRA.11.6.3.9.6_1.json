@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[1.60855066776287,43.7457008361817],[1.5961589813232422,43.74275207519537],[1.5862770080567543,43.7483024597168],[1.5822799205781166,43.74076461791998],[1.583290934562683,43.73452377319347],[1.5914313793182941,43.73106384277344],[1.613318324089164,43.73645782470709],[1.60855066776287,43.7457008361817]]]},"properties":{"GID_0":"FRA","NAME_0":"France","GID_1":"FRA.11_1","NAME_1":"Occitanie","GID_2":"FRA.11.6_1","NAME_2":"Haute-Garonne","GID_3":"FRA.11.6.3_1","NAME_3":"Toulouse","GID_4":"FRA.11.6.3.9_1","NAME_4":"Montastruc-la-Conseillère","GID_5":"FRA.11.6.3.9.6_1","NAME_5":"Gémil","TYPE_5":"Commune simple","ENGTYPE_5":"Commune","CC_5":""}}
+]}

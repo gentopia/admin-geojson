@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[120.50836944580101,5.177624225616455],[120.50704956054699,5.181529998779297],[120.50274658203125,5.180796146392765],[120.5036087036134,5.179551124572754],[120.50512695312523,5.176492214202938],[120.50836944580101,5.177624225616455]]]},"properties":{"GID_0":"PHL","NAME_0":"Philippines","GID_1":"PHL.77_1","NAME_1":"Tawi-Tawi","NL_NAME_1":"","GID_2":"PHL.77.9_1","NAME_2":"South Ubian","NL_NAME_2":"","GID_3":"PHL.77.9.27_1","NAME_3":"Tubig Dayang","VARNAME_3":"","NL_NAME_3":"","TYPE_3":"Barangay","ENGTYPE_3":"Village","CC_3":"","HASC_3":""}}
+]}

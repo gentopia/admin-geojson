@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[120.79620361328136,16.04002952575695],[120.79244232177746,16.047700881958065],[120.79147338867199,16.043949127197322],[120.79148864746105,16.042699813842887],[120.79257202148449,16.03923988342285],[120.79620361328136,16.04002952575695]]]},"properties":{"GID_0":"PHL","NAME_0":"Philippines","GID_1":"PHL.61_1","NAME_1":"Pangasinan","NL_NAME_1":"","GID_2":"PHL.61.30_1","NAME_2":"Natividad","NL_NAME_2":"","GID_3":"PHL.61.30.9_1","NAME_3":"Poblacion East","VARNAME_3":"","NL_NAME_3":"","TYPE_3":"Barangay","ENGTYPE_3":"Village","CC_3":"","HASC_3":""}}
+]}

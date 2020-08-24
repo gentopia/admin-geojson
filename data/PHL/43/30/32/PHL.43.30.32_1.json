@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[124.60875701904297,11.006600379943961],[124.60829162597656,11.006839752197322],[124.60801696777366,11.005029678344727],[124.6084671020509,11.004830360412654],[124.60875701904297,11.006600379943961]]]},"properties":{"GID_0":"PHL","NAME_0":"Philippines","GID_1":"PHL.43_1","NAME_1":"Leyte","NL_NAME_1":"","GID_2":"PHL.43.30_1","NAME_2":"Ormoc City","NL_NAME_2":"","GID_3":"PHL.43.30.32_1","NAME_3":"Barangay 6","VARNAME_3":"Poblacion","NL_NAME_3":"","TYPE_3":"Barangay","ENGTYPE_3":"Village","CC_3":"","HASC_3":""}}
+]}

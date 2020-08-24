@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[-93.40570831298822,43.84976959228521],[-93.05049896240223,43.851779937744254],[-93.04605865478516,43.85176086425781],[-93.04630279541004,44.19845962524414],[-93.40458679199213,44.19783020019537],[-93.40570831298822,43.84976959228521]]]},"properties":{"GID_0":"USA","NAME_0":"United States","GID_1":"USA.24_1","NAME_1":"Minnesota","NL_NAME_1":"","GID_2":"USA.24.75_1","NAME_2":"Steele","VARNAME_2":"","NL_NAME_2":"","TYPE_2":"County","ENGTYPE_2":"County","CC_2":"","HASC_2":"US.MN.SE"}}
+]}

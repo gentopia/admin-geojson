@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[-1.4911023378372192,48.984477996826286],[-1.502552628517094,48.98048782348644],[-1.5088796615600018,48.98432922363287],[-1.5194236040114788,48.97654724121105],[-1.502328872680664,48.96496963500982],[-1.487648606300354,48.967952728271484],[-1.4911023378372192,48.984477996826286]]]},"properties":{"GID_0":"FRA","NAME_0":"France","GID_1":"FRA.9_1","NAME_1":"Normandie","GID_2":"FRA.9.3_1","NAME_2":"Manche","GID_3":"FRA.9.3.3_1","NAME_3":"Coutances","GID_4":"FRA.9.3.3.7_1","NAME_4":"Montmartin-sur-Mer","GID_5":"FRA.9.3.3.7.4_1","NAME_5":"Hérenguerville","TYPE_5":"Commune simple","ENGTYPE_5":"Commune","CC_5":""}}
+]}

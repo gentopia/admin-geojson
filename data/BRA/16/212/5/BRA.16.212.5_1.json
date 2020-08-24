@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[-51.90935516357416,-23.424343109130803],[-51.907958984375,-23.42104530334467],[-51.91057205200195,-23.420169830322152],[-51.92720794677723,-23.41809844970703],[-51.910465240478516,-23.42516136169428],[-51.90935516357416,-23.424343109130803]]]},"properties":{"GID_0":"BRA","NAME_0":"Brazil","GID_1":"BRA.16_1","NAME_1":"Paraná","NL_NAME_1":"","GID_2":"BRA.16.212_1","NAME_2":"Maringá","NL_NAME_2":"","GID_3":"BRA.16.212.5_1","NAME_3":"Zona 10","VARNAME_3":"","NL_NAME_3":"","TYPE_3":"Distrito","ENGTYPE_3":"District","CC_3":"","HASC_3":""}}
+]}

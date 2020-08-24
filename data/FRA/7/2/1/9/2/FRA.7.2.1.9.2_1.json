@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[3.6666510105134194,50.31707763671869],[3.684924602508545,50.3275604248048],[3.67367601394659,50.33493041992193],[3.6556887626649086,50.329227447509766],[3.651599884033317,50.3232154846192],[3.6573359966278645,50.314601898193416],[3.6666510105134194,50.31707763671869]]]},"properties":{"GID_0":"FRA","NAME_0":"France","GID_1":"FRA.7_1","NAME_1":"Hauts-de-France","GID_2":"FRA.7.2_1","NAME_2":"Nord","GID_3":"FRA.7.2.1_1","NAME_3":"Avesnes-sur-Helpe","GID_4":"FRA.7.2.1.9_1","NAME_4":"Le Quesnoy-Ouest","GID_5":"FRA.7.2.1.9.2_1","NAME_5":"Eth","TYPE_5":"Commune simple","ENGTYPE_5":"Commune","CC_5":""}}
+]}

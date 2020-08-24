@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[4.923522949218693,45.23821640014654],[4.910953044891357,45.23337173461914],[4.890209674835205,45.21371078491211],[4.889351844787711,45.21058273315441],[4.906636714935303,45.207046508789176],[4.91331672668457,45.21049880981445],[4.923522949218693,45.23821640014654]]]},"properties":{"GID_0":"FRA","NAME_0":"France","GID_1":"FRA.1_1","NAME_1":"Auvergne-Rhône-Alpes","GID_2":"FRA.1.5_1","NAME_2":"Drôme","GID_3":"FRA.1.5.3_1","NAME_3":"Valence","GID_4":"FRA.1.5.3.12_1","NAME_4":"Saint-Vallier","GID_5":"FRA.1.5.3.12.7_1","NAME_5":"Fay-le-Clos","TYPE_5":"Commune simple","ENGTYPE_5":"Commune","CC_5":""}}
+]}

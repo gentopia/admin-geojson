@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[-0.6002021431922913,48.906280517578125],[-0.5939534306526184,48.92593002319347],[-0.596417248249054,48.92896270751953],[-0.6068521142005352,48.92931747436529],[-0.6105898022651672,48.92687225341797],[-0.6185450553893475,48.9141731262207],[-0.6002021431922913,48.906280517578125]]]},"properties":{"GID_0":"FRA","NAME_0":"France","GID_1":"FRA.9_1","NAME_1":"Normandie","GID_2":"FRA.9.1_1","NAME_2":"Calvados","GID_3":"FRA.9.1.4_1","NAME_3":"Vire","GID_4":"FRA.9.1.4.2_1","NAME_4":"Condé-sur-Noireau","GID_5":"FRA.9.1.4.2.5_1","NAME_5":"Périgny","TYPE_5":"Commune simple","ENGTYPE_5":"Commune","CC_5":""}}
+]}

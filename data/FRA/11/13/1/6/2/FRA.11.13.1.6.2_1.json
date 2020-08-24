@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[2.0754380226135822,43.90845489501953],[2.1237668991090004,43.900951385498104],[2.1301331520080566,43.91364669799805],[2.1178674697875977,43.91865158081055],[2.0898194313050453,43.916847229003906],[2.0754380226135822,43.90845489501953]]]},"properties":{"GID_0":"FRA","NAME_0":"France","GID_1":"FRA.11_1","NAME_1":"Occitanie","GID_2":"FRA.11.13_1","NAME_2":"Tarn","GID_3":"FRA.11.13.1_1","NAME_3":"Albi","GID_4":"FRA.11.13.1.6_1","NAME_4":"Albi-Sud","GID_5":"FRA.11.13.1.6.2_1","NAME_5":"Le Sequestre","TYPE_5":"Commune simple","ENGTYPE_5":"Commune","CC_5":""}}
+]}

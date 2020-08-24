@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[2.371070384979248,49.77237319946295],[2.377868175506535,49.78493499755854],[2.363805770874137,49.7864723205567],[2.3410391807556152,49.77527236938488],[2.344013214111385,49.772716522216854],[2.358440876007137,49.76502227783209],[2.371070384979248,49.77237319946295]]]},"properties":{"GID_0":"FRA","NAME_0":"France","GID_1":"FRA.7_1","NAME_1":"Hauts-de-France","GID_2":"FRA.7.5_1","NAME_2":"Somme","GID_3":"FRA.7.5.2_1","NAME_3":"Amiens","GID_4":"FRA.7.5.2.11_1","NAME_4":"Boves","GID_5":"FRA.7.5.2.11.12_1","NAME_5":"Guyencourt-sur-Noye","TYPE_5":"Commune simple","ENGTYPE_5":"Commune","CC_5":""}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[13.20854377746582,18.183467864990348],[13.20153617858898,19.517406463623104],[13.02258682250988,19.508729934692383],[12.831709861755485,19.499477386474666],[12.840101242065543,18.166919708251896],[13.20854377746582,18.183467864990348]]]},"properties":{"GID_0":"NER","NAME_0":"Niger","GID_1":"NER.1_1","NAME_1":"Agadez","NL_NAME_1":"","GID_2":"NER.1.2_1","NAME_2":"Bilma","NL_NAME_2":"","GID_3":"NER.1.2.2_1","NAME_3":"Kawar","VARNAME_3":"","NL_NAME_3":"","TYPE_3":"Commune","ENGTYPE_3":"Commune","CC_3":"","HASC_3":""}}
+]}

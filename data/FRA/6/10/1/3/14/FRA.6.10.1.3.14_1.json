@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[6.3499951362611,48.36115646362316],[6.3481602668762775,48.36714553833008],[6.339155197143555,48.364940643310604],[6.3319830894470215,48.368194580078125],[6.311429977417106,48.3568572998048],[6.327616214752254,48.35151290893555],[6.3499951362611,48.36115646362316]]]},"properties":{"GID_0":"FRA","NAME_0":"France","GID_1":"FRA.6_1","NAME_1":"Grand Est","GID_2":"FRA.6.10_1","NAME_2":"Vosges","GID_3":"FRA.6.10.1_1","NAME_3":"Épinal","GID_4":"FRA.6.10.1.3_1","NAME_4":"Charmes","GID_5":"FRA.6.10.1.3.14_1","NAME_5":"Langley","TYPE_5":"Commune simple","ENGTYPE_5":"Commune","CC_5":""}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[123.97157287597668,10.763059616088867],[123.96292877197266,10.788450241088867],[123.94483184814476,10.790670394897404],[123.94709014892578,10.771940231323356],[123.97157287597668,10.763059616088867]]]},"properties":{"GID_0":"PHL","NAME_0":"Philippines","GID_1":"PHL.25_1","NAME_1":"Cebu","NL_NAME_1":"","GID_2":"PHL.25.48_1","NAME_2":"Sogod","NL_NAME_2":"","GID_3":"PHL.25.48.2_1","NAME_3":"Bagakay","VARNAME_3":"","NL_NAME_3":"","TYPE_3":"Barangay","ENGTYPE_3":"Village","CC_3":"","HASC_3":""}}
+]}

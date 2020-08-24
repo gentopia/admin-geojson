@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[124.09570312500023,6.941420078277588],[124.07437896728527,6.966909885406608],[124.04669189453148,6.945400238037223],[124.07391357421875,6.936230182647705],[124.09088134765625,6.918529987335262],[124.09570312500023,6.941420078277588]]]},"properties":{"GID_0":"PHL","NAME_0":"Philippines","GID_1":"PHL.44_1","NAME_1":"Maguindanao","NL_NAME_1":"","GID_2":"PHL.44.35_1","NAME_2":"Upi","NL_NAME_2":"","GID_3":"PHL.44.35.1_1","NAME_3":"Bantek","VARNAME_3":"","NL_NAME_3":"","TYPE_3":"Barangay","ENGTYPE_3":"Village","CC_3":"","HASC_3":""}}
+]}

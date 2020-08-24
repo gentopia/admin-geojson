@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[0.5429676771163372,48.09339523315424],[0.5513461828231812,48.09616088867182],[0.5648209452629089,48.11260986328125],[0.5480535626412006,48.123695373535156],[0.5323460102081867,48.11135864257818],[0.5429676771163372,48.09339523315424]]]},"properties":{"GID_0":"FRA","NAME_0":"France","GID_1":"FRA.12_1","NAME_1":"Pays de la Loire","GID_2":"FRA.12.4_1","NAME_2":"Sarthe","GID_3":"FRA.12.4.3_1","NAME_3":"Mamers","GID_4":"FRA.12.4.3.15_1","NAME_4":"Tuffé","GID_5":"FRA.12.4.3.15.10_1","NAME_5":"Saint-Hilaire-le-Lierru","TYPE_5":"Commune simple","ENGTYPE_5":"Commune","CC_5":""}}
+]}

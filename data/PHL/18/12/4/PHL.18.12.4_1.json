@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[121.69972991943371,17.54627990722662],[121.70073699951172,17.556049346923828],[121.70121002197266,17.56221961975109],[121.66677093505871,17.561449050903434],[121.6733627319336,17.545129776000977],[121.69972991943371,17.54627990722662]]]},"properties":{"GID_0":"PHL","NAME_0":"Philippines","GID_1":"PHL.18_1","NAME_1":"Cagayan","NL_NAME_1":"","GID_2":"PHL.18.12_1","NAME_2":"Enrile","NL_NAME_2":"","GID_3":"PHL.18.12.4_1","NAME_3":"Barangay III","VARNAME_3":"San Roque","NL_NAME_3":"","TYPE_3":"Barangay","ENGTYPE_3":"Village","CC_3":"","HASC_3":""}}
+]}

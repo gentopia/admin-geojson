@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[-98.42273712158203,33.4651718139649],[-98.42317199707031,33.83570098876953],[-98.9532699584961,33.83369064331055],[-98.95414733886719,33.39616012573242],[-98.42250823974604,33.394649505615234],[-98.42273712158203,33.4651718139649]]]},"properties":{"GID_0":"USA","NAME_0":"United States","GID_1":"USA.44_1","NAME_1":"Texas","NL_NAME_1":"","GID_2":"USA.44.5_1","NAME_2":"Archer","VARNAME_2":"","NL_NAME_2":"","TYPE_2":"County","ENGTYPE_2":"County","CC_2":"","HASC_2":"US.TX.AC"}}
+]}

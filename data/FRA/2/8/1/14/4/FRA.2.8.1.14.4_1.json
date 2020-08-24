@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[3.3757057189941975,47.965717315673885],[3.3571043014526367,47.973346710205135],[3.344977378845158,47.967414855956974],[3.337350845336971,47.9587516784668],[3.3378288745880127,47.945449829101676],[3.35449051857006,47.94522094726568],[3.3757057189941975,47.965717315673885]]]},"properties":{"GID_0":"FRA","NAME_0":"France","GID_1":"FRA.2_1","NAME_1":"Bourgogne-Franche-Comté","GID_2":"FRA.2.8_1","NAME_2":"Yonne","GID_3":"FRA.2.8.1_1","NAME_3":"Auxerre","GID_4":"FRA.2.8.1.14_1","NAME_4":"Joigny","GID_5":"FRA.2.8.1.14.4_1","NAME_5":"Chamvres","TYPE_5":"Commune simple","ENGTYPE_5":"Commune","CC_5":""}}
+]}

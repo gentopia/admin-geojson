@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[2.6039557456970783,50.71791839599615],[2.6331174373627846,50.707923889160156],[2.6326088905334473,50.727195739746094],[2.6308524608613197,50.72958755493164],[2.622131824493465,50.73863983154297],[2.607682704925594,50.7347297668457],[2.6039557456970783,50.71791839599615]]]},"properties":{"GID_0":"FRA","NAME_0":"France","GID_1":"FRA.7_1","NAME_1":"Hauts-de-France","GID_2":"FRA.7.2_1","NAME_2":"Nord","GID_3":"FRA.7.2.4_1","NAME_3":"Dunkerque","GID_4":"FRA.7.2.4.14_1","NAME_4":"Hazebrouck-Sud","GID_5":"FRA.7.2.4.14.6_1","NAME_5":"Strazeele","TYPE_5":"Commune simple","ENGTYPE_5":"Commune","CC_5":""}}
+]}

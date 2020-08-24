@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[124.36428070068371,-1.9038851261138348],[124.37745666503918,-1.9039205312728313],[124.37745666503918,-1.8983769416809082],[124.36428070068371,-1.8983769416809082],[124.36428070068371,-1.9038851261138348]]]},"properties":{"GID_0":"IDN","NAME_0":"Indonesia","GID_1":"IDN.18_1","NAME_1":"Maluku Utara","GID_2":"IDN.18.6_1","NAME_2":"Kepulauan Sula","GID_3":"IDN.18.6.15_1","NAME_3":"Taliabu Barat","GID_4":"IDN.18.6.15.10_1","NAME_4":"Uptd Bobong","VARNAME_4":"","TYPE_4":"Desa","ENGTYPE_4":"Village","CC_4":"8203060027"}}
+]}

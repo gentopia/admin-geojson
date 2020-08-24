@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[3.7156298160554115,49.416835784912166],[3.7119114398957436,49.4079704284668],[3.730623960495052,49.39867019653326],[3.7397203445435707,49.410617828369084],[3.7156298160554115,49.416835784912166]]]},"properties":{"GID_0":"FRA","NAME_0":"France","GID_1":"FRA.7_1","NAME_1":"Hauts-de-France","GID_2":"FRA.7.1_1","NAME_2":"Aisne","GID_3":"FRA.7.1.2_1","NAME_3":"Laon","GID_4":"FRA.7.1.2.4_1","NAME_4":"Craonne","GID_5":"FRA.7.1.2.4.18_1","NAME_5":"Jumigny","TYPE_5":"Commune simple","ENGTYPE_5":"Commune","CC_5":""}}
+]}

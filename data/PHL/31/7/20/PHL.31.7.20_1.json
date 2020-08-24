@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[125.5384216308596,11.244560241699276],[125.53890991210938,11.245650291442871],[125.53450012207031,11.247099876403922],[125.51410675048828,11.254679679870605],[125.51307678222668,11.253279685974121],[125.5384216308596,11.244560241699276]]]},"properties":{"GID_0":"PHL","NAME_0":"Philippines","GID_1":"PHL.31_1","NAME_1":"Eastern Samar","NL_NAME_1":"","GID_2":"PHL.31.7_1","NAME_2":"General Macarthur","NL_NAME_2":"","GID_3":"PHL.31.7.20_1","NAME_3":"Poblacion Barangay 8","VARNAME_3":"","NL_NAME_3":"","TYPE_3":"Barangay","ENGTYPE_3":"Village","CC_3":"","HASC_3":""}}
+]}

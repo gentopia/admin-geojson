@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[-0.5849435925483135,45.853187561035156],[-0.569696843624115,45.86077117919922],[-0.5721342563628582,45.86553573608404],[-0.5803914070129395,45.86612319946295],[-0.5950035452842144,45.86838912963873],[-0.6056530475616455,45.862335205078125],[-0.5849435925483135,45.853187561035156]]]},"properties":{"GID_0":"FRA","NAME_0":"France","GID_1":"FRA.10_1","NAME_1":"Nouvelle-Aquitaine","GID_2":"FRA.10.1_1","NAME_2":"Charente-Maritime","GID_3":"FRA.10.1.4_1","NAME_3":"Saint-Jean-d'Angély","GID_4":"FRA.10.1.4.4_1","NAME_4":"Saint-Hilaire-de-Villefranche","GID_5":"FRA.10.1.4.4.7_1","NAME_5":"La Frédière","TYPE_5":"Commune simple","ENGTYPE_5":"Commune","CC_5":""}}
+]}

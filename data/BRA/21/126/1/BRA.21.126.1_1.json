@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[-49.86659622192377,-29.367481231689453],[-49.85462951660156,-29.363975524902344],[-49.843429565429574,-29.354164123535156],[-49.828857421875,-29.35676383972168],[-49.8149795532226,-29.33895874023426],[-49.83056640625,-29.323606491088867],[-49.85090637207031,-29.31570053100586],[-49.86659622192377,-29.367481231689453]]]},"properties":{"GID_0":"BRA","NAME_0":"Brazil","GID_1":"BRA.21_1","NAME_1":"Rio Grande do Sul","NL_NAME_1":"","GID_2":"BRA.21.126_1","NAME_2":"Dom Pedro de Alcântara","NL_NAME_2":"","GID_3":"BRA.21.126.1_1","NAME_3":"Arroio dos Mengues","VARNAME_3":"","NL_NAME_3":"","TYPE_3":"Distrito","ENGTYPE_3":"District","CC_3":"","HASC_3":""}}
+]}

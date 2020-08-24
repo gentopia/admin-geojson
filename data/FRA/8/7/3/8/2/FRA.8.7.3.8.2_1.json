@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[2.5357303619385902,48.7770729064942],[2.5427989959717365,48.76550674438488],[2.562455654144344,48.76425170898449],[2.571331024169922,48.76697158813482],[2.5725836753845215,48.77350616455078],[2.5659034252167316,48.778293609619254],[2.5619723796844482,48.787803649902344],[2.5357303619385902,48.7770729064942]]]},"properties":{"GID_0":"FRA","NAME_0":"France","GID_1":"FRA.8_1","NAME_1":"Île-de-France","GID_2":"FRA.8.7_1","NAME_2":"Val-de-Marne","GID_3":"FRA.8.7.3_1","NAME_3":"Nogent-sur-Marne","GID_4":"FRA.8.7.3.8_1","NAME_4":"Ormesson-sur-Marne","GID_5":"FRA.8.7.3.8.2_1","NAME_5":"Noiseau","TYPE_5":"Commune simple","ENGTYPE_5":"Commune","CC_5":""}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[0.4260329008103554,44.947811126708984],[0.41763851046573564,44.939201354980526],[0.4301313161850544,44.92731094360357],[0.4513618648051647,44.91887283325195],[0.45967027544980965,44.93642044067383],[0.4324062466621399,44.95074081420904],[0.4260329008103554,44.947811126708984]]]},"properties":{"GID_0":"FRA","NAME_0":"France","GID_1":"FRA.10_1","NAME_1":"Nouvelle-Aquitaine","GID_2":"FRA.10.6_1","NAME_2":"Dordogne","GID_3":"FRA.10.6.1_1","NAME_3":"Bergerac","GID_4":"FRA.10.6.1.13_1","NAME_4":"Villamblard","GID_5":"FRA.10.6.1.13.8_1","NAME_5":"Laveyssière","TYPE_5":"Commune simple","ENGTYPE_5":"Commune","CC_5":""}}
+]}

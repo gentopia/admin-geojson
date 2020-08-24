@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[-58.13077926635742,6.713321208953971],[-58.130699157714844,6.714655876159668],[-58.12932586669916,6.729596138000545],[-58.128787994384766,6.739016056060848],[-58.15071487426758,6.744777202606258],[-58.157962799072266,6.746662139892521],[-58.16412734985346,6.721804141998291],[-58.13077926635742,6.713321208953971]]]},"properties":{"GID_0":"GUY","NAME_0":"Guyana","GID_1":"GUY.3_1","NAME_1":"Demerara-Mahaica","NL_NAME_1":"","GID_2":"GUY.3.13_1","NAME_2":"Mocha / Arcadia","VARNAME_2":"","NL_NAME_2":"","TYPE_2":"Neighbourhood Democratic Council","ENGTYPE_2":"Neighbourhood Democratic","CC_2":"411","HASC_2":"GY.DE.MA"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[121.6096878051759,17.47147941589361],[121.60916900634777,17.502130508422965],[121.58692932128906,17.501340866088867],[121.58708190917969,17.47080993652355],[121.6096878051759,17.47147941589361]]]},"properties":{"GID_0":"PHL","NAME_0":"Philippines","GID_1":"PHL.38_1","NAME_1":"Kalinga","NL_NAME_1":"","GID_2":"PHL.38.5_1","NAME_2":"Rizal","NL_NAME_2":"","GID_3":"PHL.38.5.4_1","NAME_3":"Calaocan","VARNAME_3":"","NL_NAME_3":"","TYPE_3":"Barangay","ENGTYPE_3":"Village","CC_3":"","HASC_3":""}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[122.18372344970703,6.597449779510612],[122.18636322021484,6.591420173645133],[122.1917495727539,6.579229831695557],[122.21341705322277,6.58063983917242],[122.20733642578125,6.598579883575496],[122.18372344970703,6.597449779510612]]]},"properties":{"GID_0":"PHL","NAME_0":"Philippines","GID_1":"PHL.9_1","NAME_1":"Basilan","NL_NAME_1":"","GID_2":"PHL.9.10_1","NAME_2":"Tuburan","NL_NAME_2":"","GID_3":"PHL.9.10.1_1","NAME_3":"Bohetambis","VARNAME_3":"","NL_NAME_3":"","TYPE_3":"Barangay","ENGTYPE_3":"Village","CC_3":"","HASC_3":""}}
+]}

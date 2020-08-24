@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[120.89938354492199,14.100859642028922],[120.9101333618164,14.103719711303825],[120.90892028808605,14.108679771423454],[120.89893341064453,14.105070114135685],[120.89955139160156,14.102840423584041],[120.89938354492199,14.100859642028922]]]},"properties":{"GID_0":"PHL","NAME_0":"Philippines","GID_1":"PHL.24_1","NAME_1":"Cavite","NL_NAME_1":"","GID_2":"PHL.24.20_1","NAME_2":"Tagaytay City","NL_NAME_2":"","GID_3":"PHL.24.20.9_1","NAME_3":"Guinhawa South","VARNAME_3":"","NL_NAME_3":"","TYPE_3":"Barangay","ENGTYPE_3":"Village","CC_3":"","HASC_3":""}}
+]}

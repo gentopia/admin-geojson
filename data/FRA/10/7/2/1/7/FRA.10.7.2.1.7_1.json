@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[-0.5904070734976585,45.16527557373058],[-0.5955302119254497,45.177757263183594],[-0.601722240447998,45.18286514282232],[-0.6031691431999207,45.18237686157238],[-0.6230256557464031,45.16489791870117],[-0.6142857074737549,45.15841293334961],[-0.5904070734976585,45.16527557373058]]]},"properties":{"GID_0":"FRA","NAME_0":"France","GID_1":"FRA.10_1","NAME_1":"Nouvelle-Aquitaine","GID_2":"FRA.10.7_1","NAME_2":"Gironde","GID_3":"FRA.10.7.2_1","NAME_3":"Blaye","GID_4":"FRA.10.7.2.1_1","NAME_4":"Blaye","GID_5":"FRA.10.7.2.1.7_1","NAME_5":"Mazion","TYPE_5":"Commune simple","ENGTYPE_5":"Commune","CC_5":""}}
+]}

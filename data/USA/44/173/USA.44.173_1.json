@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[-101.04252624511719,33.834178924560604],[-100.52060699462885,33.83498001098644],[-100.51214599609375,34.31497955322277],[-100.94715881347656,34.31317138671881],[-101.04226684570307,34.3119010925293],[-101.04252624511719,33.834178924560604]]]},"properties":{"GID_0":"USA","NAME_0":"United States","GID_1":"USA.44_1","NAME_1":"Texas","NL_NAME_1":"","GID_2":"USA.44.173_1","NAME_2":"Motley","VARNAME_2":"","NL_NAME_2":"","TYPE_2":"County","ENGTYPE_2":"County","CC_2":"","HASC_2":"US.TX.MY"}}
+]}

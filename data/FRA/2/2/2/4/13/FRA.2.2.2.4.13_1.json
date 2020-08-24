@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[6.84807109832775,47.418724060058594],[6.8671417236328125,47.42279815673834],[6.869242191314697,47.43808364868164],[6.8582124710084145,47.43968582153326],[6.84807109832775,47.418724060058594]]]},"properties":{"GID_0":"FRA","NAME_0":"France","GID_1":"FRA.2_1","NAME_1":"Bourgogne-Franche-Comté","GID_2":"FRA.2.2_1","NAME_2":"Doubs","GID_3":"FRA.2.2.2_1","NAME_3":"Montbéliard","GID_4":"FRA.2.2.2.4_1","NAME_4":"Hérimoncourt","GID_5":"FRA.2.2.2.4.13_1","NAME_5":"Thulay","TYPE_5":"Commune simple","ENGTYPE_5":"Commune","CC_5":""}}
+]}

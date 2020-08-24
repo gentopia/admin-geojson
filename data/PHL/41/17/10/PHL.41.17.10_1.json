@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[124.10785675048828,8.118900299072322],[124.10793304443371,8.123250007629395],[124.09893035888672,8.123909950256348],[124.08683776855469,8.122380256652889],[124.09554290771496,8.111840248108024],[124.10785675048828,8.118900299072322]]]},"properties":{"GID_0":"PHL","NAME_0":"Philippines","GID_1":"PHL.41_1","NAME_1":"Lanao del Norte","NL_NAME_1":"","GID_2":"PHL.41.17_1","NAME_2":"Poona Piagapo","NL_NAME_2":"","GID_3":"PHL.41.17.10_1","NAME_3":"Lumbatan","VARNAME_3":"","NL_NAME_3":"","TYPE_3":"Barangay","ENGTYPE_3":"Village","CC_3":"","HASC_3":""}}
+]}

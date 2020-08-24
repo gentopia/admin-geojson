@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[124.86740112304688,10.233449935913143],[124.86863708496105,10.242560386657715],[124.84934234619152,10.24209976196289],[124.84882354736328,10.233220100402889],[124.86238861083984,10.23313999176031],[124.86740112304688,10.233449935913143]]]},"properties":{"GID_0":"PHL","NAME_0":"Philippines","GID_1":"PHL.71_1","NAME_1":"Southern Leyte","NL_NAME_1":"","GID_2":"PHL.71.8_1","NAME_2":"Maasin City","NL_NAME_2":"","GID_3":"PHL.71.8.60_1","NAME_3":"Santa Cruz","VARNAME_3":"","NL_NAME_3":"","TYPE_3":"Barangay","ENGTYPE_3":"Village","CC_3":"","HASC_3":""}}
+]}

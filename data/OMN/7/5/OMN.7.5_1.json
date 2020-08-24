@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[58.448139190673885,22.203498840332145],[58.84099578857433,22.834136962890625],[58.54103088378906,23.022348403930778],[58.389919281005916,22.987514495849723],[58.223598480224666,22.888359069824276],[58.448139190673885,22.203498840332145]]]},"properties":{"GID_0":"OMN","NAME_0":"Oman","GID_1":"OMN.7_1","NAME_1":"Ash Sharqiyah North","NL_NAME_1":"","GID_2":"OMN.7.5_1","NAME_2":"Ibra","VARNAME_2":"","NL_NAME_2":"","TYPE_2":"Wilayat","ENGTYPE_2":"Province","CC_2":"","HASC_2":"OM.SH.IB"}}
+]}

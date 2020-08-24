@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[1.6490304470063393,48.70933151245117],[1.6332814693451496,48.713829040527344],[1.613814592361507,48.71129226684576],[1.6022918224335854,48.705039978027344],[1.6260048151016804,48.69485473632824],[1.6406028270721436,48.697322845458984],[1.6490304470063393,48.70933151245117]]]},"properties":{"GID_0":"FRA","NAME_0":"France","GID_1":"FRA.8_1","NAME_1":"Île-de-France","GID_2":"FRA.8.8_1","NAME_2":"Yvelines","GID_3":"FRA.8.8.1_1","NAME_3":"Mantes-la-Jolie","GID_4":"FRA.8.8.1.4_1","NAME_4":"Houdan","GID_5":"FRA.8.8.1.4.15_1","NAME_5":"La Hauteville","TYPE_5":"Commune simple","ENGTYPE_5":"Commune","CC_5":""}}
+]}

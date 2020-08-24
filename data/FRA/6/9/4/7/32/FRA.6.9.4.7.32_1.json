@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[6.272068500518799,48.984291076660156],[6.287146091461125,48.986370086670036],[6.2936530113220215,48.9915122985841],[6.287506103515625,48.997673034668026],[6.280842781066951,49.000015258789176],[6.267889022827205,48.99414062499994],[6.272068500518799,48.984291076660156]]]},"properties":{"GID_0":"FRA","NAME_0":"France","GID_1":"FRA.6_1","NAME_1":"Grand Est","GID_2":"FRA.6.9_1","NAME_2":"Moselle","GID_3":"FRA.6.9.4_1","NAME_3":"Metz-Campagne","GID_4":"FRA.6.9.4.7_1","NAME_4":"Verny","GID_5":"FRA.6.9.4.7.32_1","NAME_5":"Silly-en-Saulnois","TYPE_5":"Commune simple","ENGTYPE_5":"Commune","CC_5":""}}
+]}

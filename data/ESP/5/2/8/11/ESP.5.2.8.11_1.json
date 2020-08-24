@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[-3.668092966079712,41.89624023437506],[-3.6728110313415527,41.89896774291992],[-3.6713640689849854,41.90236282348633],[-3.6756510734557537,41.90301132202154],[-3.682039022445622,41.893806457519645],[-3.6809771060943035,41.89265060424805],[-3.668092966079712,41.89624023437506]]]},"properties":{"GID_0":"ESP","NAME_0":"Spain","GID_1":"ESP.5_1","NAME_1":"Castilla y León","GID_2":"ESP.5.2_1","NAME_2":"Burgos","GID_3":"ESP.5.2.8_1","NAME_3":"n.a. (66)","GID_4":"ESP.5.2.8.11_1","NAME_4":"Comunidad de Cilleruelo de Arriba y Pineda-Trasmonte","VARNAME_4":"","TYPE_4":"Municipality","ENGTYPE_4":"Municipality","CC_4":""}}
+]}

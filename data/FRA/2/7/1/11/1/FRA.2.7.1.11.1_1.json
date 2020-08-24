@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[6.818382740020866,47.64650726318365],[6.825859546661377,47.65053558349615],[6.8351836204529945,47.64982223510748],[6.834269523620662,47.65602493286144],[6.810634613037166,47.652664184570426],[6.818382740020866,47.64650726318365]]]},"properties":{"GID_0":"FRA","NAME_0":"France","GID_1":"FRA.2_1","NAME_1":"Bourgogne-Franche-Comté","GID_2":"FRA.2.7_1","NAME_2":"Territoire de Belfort","GID_3":"FRA.2.7.1_1","NAME_3":"Belfort","GID_4":"FRA.2.7.1.11_1","NAME_4":"Valdoie","GID_5":"FRA.2.7.1.11.1_1","NAME_5":"Cravanche","TYPE_5":"Commune simple","ENGTYPE_5":"Commune","CC_5":""}}
+]}

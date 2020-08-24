@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[1.0631525516511147,49.30989456176769],[1.0608259439468952,49.32826614379883],[1.0263127088546753,49.32418823242193],[1.0122478008270832,49.317905426025504],[1.021477460861206,49.30570220947271],[1.0415624380112831,49.30731582641607],[1.0631525516511147,49.30989456176769]]]},"properties":{"GID_0":"FRA","NAME_0":"France","GID_1":"FRA.9_1","NAME_1":"Normandie","GID_2":"FRA.9.5_1","NAME_2":"Seine-Maritime","GID_3":"FRA.9.5.3_1","NAME_3":"Rouen","GID_4":"FRA.9.5.3.5_1","NAME_4":"Caudebec-lès-Elbeuf","GID_5":"FRA.9.5.3.5.2_1","NAME_5":"Cléon","TYPE_5":"Commune simple","ENGTYPE_5":"Commune","CC_5":""}}
+]}

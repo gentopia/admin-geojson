@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[-0.06860432773828506,44.79450607299805],[-0.0648933425545124,44.785625457763786],[-0.05631626397371292,44.78842926025402],[-0.038157615810632706,44.78580093383795],[-0.035579077899456024,44.792171478271484],[-0.047996312379837036,44.79762268066406],[-0.06860432773828506,44.79450607299805]]]},"properties":{"GID_0":"FRA","NAME_0":"France","GID_1":"FRA.10_1","NAME_1":"Nouvelle-Aquitaine","GID_2":"FRA.10.7_1","NAME_2":"Gironde","GID_3":"FRA.10.7.6_1","NAME_3":"Libourne","GID_4":"FRA.10.7.6.8_1","NAME_4":"Pujols","GID_5":"FRA.10.7.6.8.1_1","NAME_5":"Bossugan","TYPE_5":"Commune simple","ENGTYPE_5":"Commune","CC_5":""}}
+]}

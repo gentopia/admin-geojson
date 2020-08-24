@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[-0.5905717015266418,45.03789520263683],[-0.58238685131073,45.04665756225586],[-0.5691841840742882,45.0513534545899],[-0.56826251745224,45.05823135375971],[-0.5807868242263226,45.064762115478516],[-0.5967444181442261,45.04018402099621],[-0.5905717015266418,45.03789520263683]]]},"properties":{"GID_0":"FRA","NAME_0":"France","GID_1":"FRA.10_1","NAME_1":"Nouvelle-Aquitaine","GID_2":"FRA.10.7_1","NAME_2":"Gironde","GID_3":"FRA.10.7.2_1","NAME_3":"Blaye","GID_4":"FRA.10.7.2.2_1","NAME_4":"Bourg","GID_5":"FRA.10.7.2.2.10_1","NAME_5":"Saint-Seurin-de-Bourg","TYPE_5":"Commune simple","ENGTYPE_5":"Commune","CC_5":""}}
+]}

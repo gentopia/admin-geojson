@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[124.8059310913086,10.674850463867244],[124.80428314209007,10.674409866332951],[124.80641174316418,10.670049667358455],[124.80767822265625,10.667269706726131],[124.80908966064464,10.667790412902946],[124.8059310913086,10.674850463867244]]]},"properties":{"GID_0":"PHL","NAME_0":"Philippines","GID_1":"PHL.43_1","NAME_1":"Leyte","NL_NAME_1":"","GID_2":"PHL.43.7_1","NAME_2":"Baybay City","NL_NAME_2":"","GID_3":"PHL.43.7.67_1","NAME_3":"Poblacion Zone 18","VARNAME_3":"","NL_NAME_3":"","TYPE_3":"Barangay","ENGTYPE_3":"Village","CC_3":"","HASC_3":""}}
+]}

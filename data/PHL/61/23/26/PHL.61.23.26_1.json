@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[120.24755096435547,16.00502967834484],[120.2448196411134,16.01288986206066],[120.24228668212913,16.012319564819393],[120.22973632812511,16.011899948120117],[120.23375701904308,16.00230979919428],[120.24755096435547,16.00502967834484]]]},"properties":{"GID_0":"PHL","NAME_0":"Philippines","GID_1":"PHL.61_1","NAME_1":"Pangasinan","NL_NAME_1":"","GID_2":"PHL.61.23_1","NAME_2":"Lingayen","NL_NAME_2":"","GID_3":"PHL.61.23.26_1","NAME_3":"Quibaol","VARNAME_3":"","NL_NAME_3":"","TYPE_3":"Barangay","ENGTYPE_3":"Village","CC_3":"","HASC_3":""}}
+]}

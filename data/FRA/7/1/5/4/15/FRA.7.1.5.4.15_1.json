@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[3.8814609050750164,50.006172180175895],[3.887292385101375,50.00969314575207],[3.8866968154908363,50.023513793945426],[3.8783235549927326,50.02788543701183],[3.870460271835327,50.01571655273432],[3.8814609050750164,50.006172180175895]]]},"properties":{"GID_0":"FRA","NAME_0":"France","GID_1":"FRA.7_1","NAME_1":"Hauts-de-France","GID_2":"FRA.7.1_1","NAME_2":"Aisne","GID_3":"FRA.7.1.5_1","NAME_3":"Vervins","GID_4":"FRA.7.1.5.4_1","NAME_4":"La Capelle","GID_5":"FRA.7.1.5.4.15_1","NAME_5":"Papleux","TYPE_5":"Commune simple","ENGTYPE_5":"Commune","CC_5":""}}
+]}

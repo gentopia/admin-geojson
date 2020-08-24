@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[1.7772443294526283,43.412303924560604],[1.7930184602736858,43.40107345581066],[1.8103586435318562,43.39674758911127],[1.8105897903442951,43.402877807617244],[1.7843221426009563,43.41553115844732],[1.7772443294526283,43.412303924560604]]]},"properties":{"GID_0":"FRA","NAME_0":"France","GID_1":"FRA.11_1","NAME_1":"Occitanie","GID_2":"FRA.11.6_1","NAME_2":"Haute-Garonne","GID_3":"FRA.11.6.3_1","NAME_3":"Toulouse","GID_4":"FRA.11.6.3.21_1","NAME_4":"Villefranche-de-Lauragais","GID_5":"FRA.11.6.3.21.4_1","NAME_5":"Folcarde","TYPE_5":"Commune simple","ENGTYPE_5":"Commune","CC_5":""}}
+]}

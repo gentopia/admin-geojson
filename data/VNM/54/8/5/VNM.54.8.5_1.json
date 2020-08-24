@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[107.7010269165039,16.511095046997013],[107.71050262451183,16.524667739868164],[107.69548034667969,16.535087585449162],[107.69102478027355,16.53198051452631],[107.68505096435553,16.524364471435547],[107.7010269165039,16.511095046997013]]]},"properties":{"GID_0":"VNM","NAME_0":"Vietnam","GID_1":"VNM.54_1","NAME_1":"Thừa Thiên Huế","NL_NAME_1":"","GID_2":"VNM.54.8_1","NAME_2":"Phú Vang","NL_NAME_2":"","GID_3":"VNM.54.8.5_1","NAME_3":"Phú Hải","VARNAME_3":"Phu Hai","NL_NAME_3":"","TYPE_3":"Xã","ENGTYPE_3":"Ward","CC_3":"","HASC_3":""}}
+]}

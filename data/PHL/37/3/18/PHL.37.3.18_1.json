@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[121.68121337890636,16.995399475097713],[121.6934814453125,16.997659683227482],[121.68624114990234,17.017841339111385],[121.68003845214844,17.016124725341854],[121.67540740966797,17.01489067077648],[121.68121337890636,16.995399475097713]]]},"properties":{"GID_0":"PHL","NAME_0":"Philippines","GID_1":"PHL.37_1","NAME_1":"Isabela","NL_NAME_1":"","GID_2":"PHL.37.3_1","NAME_2":"Aurora","NL_NAME_2":"","GID_3":"PHL.37.3.18_1","NAME_3":"Nampicuan","VARNAME_3":"","NL_NAME_3":"","TYPE_3":"Barangay","ENGTYPE_3":"Village","CC_3":"","HASC_3":""}}
+]}

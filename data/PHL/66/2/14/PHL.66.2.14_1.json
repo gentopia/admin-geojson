@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[125.02584075927734,11.290929794311637],[125.01751708984375,11.290800094604492],[125.01809692382835,11.28120040893549],[125.0231704711914,11.281120300292969],[125.02554321289085,11.2809095382691],[125.02584075927734,11.290929794311637]]]},"properties":{"GID_0":"PHL","NAME_0":"Philippines","GID_1":"PHL.66_1","NAME_1":"Samar","NL_NAME_1":"","GID_2":"PHL.66.2_1","NAME_2":"Basey","NL_NAME_2":"","GID_3":"PHL.66.2.14_1","NAME_3":"Can-Abay","VARNAME_3":"","NL_NAME_3":"","TYPE_3":"Barangay","ENGTYPE_3":"Village","CC_3":"","HASC_3":""}}
+]}

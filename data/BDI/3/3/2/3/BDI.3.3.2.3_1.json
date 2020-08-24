@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[29.363819122314453,-3.5393149852752686],[29.364471435546818,-3.536571979522705],[29.358110427856502,-3.5353829860686687],[29.351097106933707,-3.5359179973602295],[29.35690879821783,-3.5392279624938396],[29.363819122314453,-3.5393149852752686]]]},"properties":{"GID_0":"BDI","NAME_0":"Burundi","GID_1":"BDI.3_1","NAME_1":"Bujumbura Rural","GID_2":"BDI.3.3_1","NAME_2":"Kabezi","GID_3":"BDI.3.3.2_1","NAME_3":"Kabezi","GID_4":"BDI.3.3.2.3_1","NAME_4":"Kinama","VARNAME_4":"","TYPE_4":"Sous Colline","ENGTYPE_4":"Sous Colline","CC_4":""}}
+]}

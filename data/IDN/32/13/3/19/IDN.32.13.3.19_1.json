@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[99.98708343505871,1.996527075767574],[99.97583770751964,2.007192850112858],[99.91744232177746,1.9888386726379395],[99.91873168945318,1.9740864038468544],[99.98708343505871,1.996527075767574]]]},"properties":{"GID_0":"IDN","NAME_0":"Indonesia","GID_1":"IDN.32_1","NAME_1":"Sumatera Utara","GID_2":"IDN.32.13_1","NAME_2":"Labuhanbatu","GID_3":"IDN.32.13.3_1","NAME_3":"Bilah Hulu","GID_4":"IDN.32.13.3.19_1","NAME_4":"S2 Aek Nabara","VARNAME_4":"","TYPE_4":"Desa","ENGTYPE_4":"Village","CC_4":"1207050012"}}
+]}

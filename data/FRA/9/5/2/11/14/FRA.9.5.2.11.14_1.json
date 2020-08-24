@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[0.6749191284179688,49.70214843749994],[0.6894361376762959,49.70600891113281],[0.6853010058404152,49.71163177490246],[0.6731285452842712,49.720199584960994],[0.6487569808959393,49.7113876342774],[0.6749191284179688,49.70214843749994]]]},"properties":{"GID_0":"FRA","NAME_0":"France","GID_1":"FRA.9_1","NAME_1":"Normandie","GID_2":"FRA.9.5_1","NAME_2":"Seine-Maritime","GID_3":"FRA.9.5.2_1","NAME_3":"Le Havre","GID_4":"FRA.9.5.2.11_1","NAME_4":"Ourville-en-Caux","GID_5":"FRA.9.5.2.11.14_1","NAME_5":"Sommesnil","TYPE_5":"Commune simple","ENGTYPE_5":"Commune","CC_5":""}}
+]}

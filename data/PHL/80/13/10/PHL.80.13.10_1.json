@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[123.18739318847656,7.708580017089957],[123.1805419921875,7.717979907989559],[123.16893768310558,7.710309982299748],[123.17843627929688,7.700009822845516],[123.18739318847656,7.708580017089957]]]},"properties":{"GID_0":"PHL","NAME_0":"Philippines","GID_1":"PHL.80_1","NAME_1":"Zamboanga del Sur","NL_NAME_1":"","GID_2":"PHL.80.13_1","NAME_2":"Lapuyan","NL_NAME_2":"","GID_3":"PHL.80.13.10_1","NAME_3":"Mandeg","VARNAME_3":"","NL_NAME_3":"","TYPE_3":"Barangay","ENGTYPE_3":"Village","CC_3":"","HASC_3":""}}
+]}

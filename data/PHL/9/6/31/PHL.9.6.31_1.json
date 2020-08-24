@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[121.89987182617188,6.589469909667969],[121.9263687133789,6.590680122375488],[121.92717742919922,6.609310150146598],[121.90953063964855,6.605400085449332],[121.90039825439464,6.6058201789856525],[121.89987182617188,6.589469909667969]]]},"properties":{"GID_0":"PHL","NAME_0":"Philippines","GID_1":"PHL.9_1","NAME_1":"Basilan","NL_NAME_1":"","GID_2":"PHL.9.6_1","NAME_2":"Lantawan","NL_NAME_2":"","GID_3":"PHL.9.6.31_1","NAME_3":"Switch Yakal","VARNAME_3":"","NL_NAME_3":"","TYPE_3":"Barangay","ENGTYPE_3":"Village","CC_3":"","HASC_3":""}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[-2.1993014812468914,51.8515625],[-2.1973388195037273,51.8800048828125],[-2.220245599746704,51.8951034545899],[-2.2740039825438885,51.88187026977545],[-2.3040523529052166,51.845489501953125],[-2.303062915801945,51.83738708496105],[-2.262269973754826,51.82738876342785],[-2.1993014812468914,51.8515625]]]},"properties":{"GID_0":"GBR","NAME_0":"United Kingdom","GID_1":"GBR.1_1","NAME_1":"England","NL_NAME_1":"","GID_2":"GBR.1.35_1","NAME_2":"Gloucestershire","NL_NAME_2":"","GID_3":"GBR.1.35.4_1","NAME_3":"Gloucester","VARNAME_3":"","NL_NAME_3":"","TYPE_3":"Administrative county district","ENGTYPE_3":"Administrative county district","CC_3":"","HASC_3":"GB.GC.GL"}}
+]}

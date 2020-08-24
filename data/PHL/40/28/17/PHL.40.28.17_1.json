@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[121.32816314697277,14.063719749450684],[121.32875061035168,14.064399719238338],[121.32911682128918,14.064949989318848],[121.32816314697277,14.065380096435547],[121.32778930664074,14.065050125122127],[121.32816314697277,14.063719749450684]]]},"properties":{"GID_0":"PHL","NAME_0":"Philippines","GID_1":"PHL.40_1","NAME_1":"Laguna","NL_NAME_1":"","GID_2":"PHL.40.28_1","NAME_2":"San Pablo City","NL_NAME_2":"","GID_3":"PHL.40.28.17_1","NAME_3":"Barangay III-F","VARNAME_3":"Poblacion","NL_NAME_3":"","TYPE_3":"Barangay","ENGTYPE_3":"Village","CC_3":"","HASC_3":""}}
+]}

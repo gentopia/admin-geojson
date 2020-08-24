@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[0.5922901034355164,42.90853881835949],[0.5972474813461872,42.903205871582145],[0.6137306094170185,42.899078369140625],[0.6266047954559895,42.901153564453125],[0.6128512024880592,42.90885543823242],[0.5954946279525757,42.91006851196295],[0.5922901034355164,42.90853881835949]]]},"properties":{"GID_0":"FRA","NAME_0":"France","GID_1":"FRA.11_1","NAME_1":"Occitanie","GID_2":"FRA.11.6_1","NAME_2":"Haute-Garonne","GID_3":"FRA.11.6.2_1","NAME_3":"Saint-Gaudens","GID_4":"FRA.11.6.2.8_1","NAME_4":"Saint-Béat","GID_5":"FRA.11.6.2.8.6_1","NAME_5":"Binos","TYPE_5":"Commune simple","ENGTYPE_5":"Commune","CC_5":""}}
+]}

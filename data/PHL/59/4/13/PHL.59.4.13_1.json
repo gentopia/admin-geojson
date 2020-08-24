@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[117.03922271728516,7.963449954986572],[117.06036376953125,7.966529846191406],[117.06001281738281,7.979629993438721],[117.04930114746094,7.979849815368652],[117.03711700439453,7.979350090026799],[117.03922271728516,7.963449954986572]]]},"properties":{"GID_0":"PHL","NAME_0":"Philippines","GID_1":"PHL.59_1","NAME_1":"Palawan","NL_NAME_1":"","GID_2":"PHL.59.4_1","NAME_2":"Balabac","NL_NAME_2":"","GID_3":"PHL.59.4.13_1","NAME_3":"Poblacion III","VARNAME_3":"","NL_NAME_3":"","TYPE_3":"Barangay","ENGTYPE_3":"Village","CC_3":"","HASC_3":""}}
+]}

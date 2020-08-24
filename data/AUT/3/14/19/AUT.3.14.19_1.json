@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[16.309658050537166,48.092540740966854],[16.311161041259822,48.07489776611334],[16.331840515136776,48.07085037231457],[16.33396339416504,48.10424423217785],[16.31861114501953,48.10991668701172],[16.318164825439453,48.102886199951286],[16.309658050537166,48.092540740966854]]]},"properties":{"GID_0":"AUT","NAME_0":"Austria","GID_1":"AUT.3_1","NAME_1":"Niederösterreich","NL_NAME_1":"","GID_2":"AUT.3.14_1","NAME_2":"Mödling","NL_NAME_2":"","GID_3":"AUT.3.14.19_1","NAME_3":"Wiener Neudorf","VARNAME_3":"","NL_NAME_3":"","TYPE_3":"Gemeinde","ENGTYPE_3":"Municipality","CC_3":"31725","HASC_3":""}}
+]}

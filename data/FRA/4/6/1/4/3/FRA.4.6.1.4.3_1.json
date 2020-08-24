@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[2.6617412567138103,48.0359725952149],[2.7042007446289062,48.02051925659191],[2.7179131507874104,48.024879455566406],[2.728248357772941,48.03684616088873],[2.711656332016048,48.05052947998058],[2.6922082901000977,48.05984878540039],[2.6710746288300697,48.06058502197271],[2.6617412567138103,48.0359725952149]]]},"properties":{"GID_0":"FRA","NAME_0":"France","GID_1":"FRA.4_1","NAME_1":"Centre-Val de Loire","GID_2":"FRA.4.6_1","NAME_2":"Loiret","GID_3":"FRA.4.6.1_1","NAME_3":"Montargis","GID_4":"FRA.4.6.1.4_1","NAME_4":"Châlette-sur-Loing","GID_5":"FRA.4.6.1.4.3_1","NAME_5":"Corquilleroy","TYPE_5":"Commune simple","ENGTYPE_5":"Commune","CC_5":""}}
+]}

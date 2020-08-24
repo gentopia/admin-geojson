@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[4.695850849151611,44.71059417724621],[4.714097976684684,44.71223831176752],[4.72509956359869,44.726730346679744],[4.709954738617,44.74796295166027],[4.7052516937257,44.748722076416016],[4.693498134613037,44.7432098388673],[4.6906023025512695,44.720012664795036],[4.695850849151611,44.71059417724621]]]},"properties":{"GID_0":"FRA","NAME_0":"France","GID_1":"FRA.1_1","NAME_1":"Auvergne-Rhône-Alpes","GID_2":"FRA.1.3_1","NAME_2":"Ardèche","GID_3":"FRA.1.3.2_1","NAME_3":"Privas","GID_4":"FRA.1.3.2.2_1","NAME_4":"Chomérac","GID_5":"FRA.1.3.2.2.8_1","NAME_5":"Saint-Symphorien-sous-Chomérac","TYPE_5":"Commune simple","ENGTYPE_5":"Commune","CC_5":""}}
+]}

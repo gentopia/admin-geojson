@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[121.50618743896484,18.140039443969727],[121.50704193115234,18.142879486083928],[121.51289367675781,18.149209976196346],[121.48095703125011,18.146820068359375],[121.4799728393557,18.134370803833065],[121.50618743896484,18.140039443969727]]]},"properties":{"GID_0":"PHL","NAME_0":"Philippines","GID_1":"PHL.18_1","NAME_1":"Cagayan","NL_NAME_1":"","GID_2":"PHL.18.3_1","NAME_2":"Allacapan","NL_NAME_2":"","GID_3":"PHL.18.3.6_1","NAME_3":"Capalutan","VARNAME_3":"","NL_NAME_3":"","TYPE_3":"Barangay","ENGTYPE_3":"Village","CC_3":"","HASC_3":""}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[-122.10440826416016,51.83773422241211],[-122.10475158691395,51.84034347534191],[-122.10494232177723,51.84374618530279],[-122.12380218505854,51.84334564208979],[-122.12353515624994,51.839118957519645],[-122.12330627441406,51.8375358581543],[-122.10440826416016,51.83773422241211]]]},"properties":{"GID_0":"CAN","NAME_0":"Canada","GID_1":"CAN.2_1","NAME_1":"British Columbia","NL_NAME_1":"","GID_2":"CAN.2.4_1","NAME_2":"Cariboo","NL_NAME_2":"","GID_3":"CAN.2.4.76_1","NAME_3":"Swan Lake  3","VARNAME_3":"","NL_NAME_3":"","TYPE_3":"Réserve Indienne","ENGTYPE_3":"Indian Reserve","CC_3":"","HASC_3":""}}
+]}

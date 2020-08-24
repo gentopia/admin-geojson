@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[4.1112923622132485,45.87993240356445],[4.118323326110897,45.87501907348633],[4.133031845092887,45.87615203857433],[4.152809619903621,45.88660430908209],[4.125577926635856,45.9032440185548],[4.1059889793396,45.89131546020519],[4.1112923622132485,45.87993240356445]]]},"properties":{"GID_0":"FRA","NAME_0":"France","GID_1":"FRA.1_1","NAME_1":"Auvergne-Rhône-Alpes","GID_2":"FRA.1.9_1","NAME_2":"Loire","GID_3":"FRA.1.9.2_1","NAME_3":"Roanne","GID_4":"FRA.1.9.2.4_1","NAME_4":"Néronde","GID_5":"FRA.1.9.2.4.6_1","NAME_5":"Saint-Jodard","TYPE_5":"Commune simple","ENGTYPE_5":"Commune","CC_5":""}}
+]}

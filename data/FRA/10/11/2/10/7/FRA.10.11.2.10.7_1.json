@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[-0.5918932557106018,43.14775466918951],[-0.5886310338973999,43.15779495239258],[-0.5988055467605591,43.169689178466854],[-0.6013688445090679,43.17134475708008],[-0.6067923903464134,43.168361663818416],[-0.6082503795623211,43.15034866333008],[-0.5918932557106018,43.14775466918951]]]},"properties":{"GID_0":"FRA","NAME_0":"France","GID_1":"FRA.10_1","NAME_1":"Nouvelle-Aquitaine","GID_2":"FRA.10.11_1","NAME_2":"Pyrénées-Atlantiques","GID_3":"FRA.10.11.2_1","NAME_3":"Oloron-Sainte-Marie","GID_4":"FRA.10.11.2.10_1","NAME_4":"Oloron-Sainte-Marie-Ouest","GID_5":"FRA.10.11.2.10.7_1","NAME_5":"Gurmençon","TYPE_5":"Commune simple","ENGTYPE_5":"Commune","CC_5":""}}
+]}

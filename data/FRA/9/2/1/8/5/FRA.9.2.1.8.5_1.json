@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[0.7842054963111877,49.30485534667963],[0.7711642384529114,49.30908584594738],[0.7667809128762428,49.30771636962885],[0.7613965868951027,49.2955055236817],[0.7635871171951862,49.289375305175895],[0.7667271494865986,49.28766250610357],[0.7816118001937866,49.29544448852539],[0.7842054963111877,49.30485534667963]]]},"properties":{"GID_0":"FRA","NAME_0":"France","GID_1":"FRA.9_1","NAME_1":"Normandie","GID_2":"FRA.9.2_1","NAME_2":"Eure","GID_3":"FRA.9.2.1_1","NAME_3":"Bernay","GID_4":"FRA.9.2.1.8_1","NAME_4":"Bourgtheroulde-Infreville","GID_5":"FRA.9.2.1.8.5_1","NAME_5":"Bosc-Renoult-en-Roumois","TYPE_5":"Commune simple","ENGTYPE_5":"Commune","CC_5":""}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[-38.620685577392464,-3.889607906341496],[-38.616367340087834,-3.8947629928588867],[-38.60215759277338,-3.8989710807800293],[-38.59700393676752,-3.8821959495544434],[-38.605674743652344,-3.8820250034332275],[-38.620685577392464,-3.889607906341496]]]},"properties":{"GID_0":"BRA","NAME_0":"Brazil","GID_1":"BRA.6_1","NAME_1":"Ceará","NL_NAME_1":"","GID_2":"BRA.6.127_1","NAME_2":"Pacatuba","NL_NAME_2":"","GID_3":"BRA.6.127.4_1","NAME_3":"Senador Carlos Jereissati","VARNAME_3":"","NL_NAME_3":"","TYPE_3":"Distrito","ENGTYPE_3":"District","CC_3":"","HASC_3":""}}
+]}

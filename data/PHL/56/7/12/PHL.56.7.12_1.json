@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[121.33885955810558,16.63726997375494],[121.3671112060548,16.64040946960455],[121.36393737792969,16.647989273071403],[121.34996795654297,16.658809661865234],[121.33782196044922,16.65036964416504],[121.33885955810558,16.63726997375494]]]},"properties":{"GID_0":"PHL","NAME_0":"Philippines","GID_1":"PHL.56_1","NAME_1":"Nueva Vizcaya","NL_NAME_1":"","GID_2":"PHL.56.7_1","NAME_2":"Diadi","NL_NAME_2":"","GID_3":"PHL.56.7.12_1","NAME_3":"Namamparan","VARNAME_3":"","NL_NAME_3":"","TYPE_3":"Barangay","ENGTYPE_3":"Village","CC_3":"","HASC_3":""}}
+]}

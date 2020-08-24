@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[123.7394485473634,13.836020469665527],[123.75080108642578,13.848380088806152],[123.75363159179688,13.865539550781364],[123.73499298095703,13.84484004974371],[123.7294692993164,13.83876037597662],[123.7394485473634,13.836020469665527]]]},"properties":{"GID_0":"PHL","NAME_0":"Philippines","GID_1":"PHL.20_1","NAME_1":"Camarines Sur","NL_NAME_1":"","GID_2":"PHL.20.13_1","NAME_2":"Caramoan","NL_NAME_2":"","GID_3":"PHL.20.13.26_1","NAME_3":"Mampirao","VARNAME_3":"","NL_NAME_3":"","TYPE_3":"Barangay","ENGTYPE_3":"Village","CC_3":"","HASC_3":""}}
+]}

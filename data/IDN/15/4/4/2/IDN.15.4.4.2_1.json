@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[117.07650756835949,3.302648305893001],[117.07743072509788,3.302738666534424],[117.07743072509788,3.3045449256896973],[117.07718658447266,3.3045487403870197],[117.07651519775402,3.3045575618743896],[117.07650756835949,3.302648305893001]]]},"properties":{"GID_0":"IDN","NAME_0":"Indonesia","GID_1":"IDN.15_1","NAME_1":"Kalimantan Timur","GID_2":"IDN.15.4_1","NAME_2":"Bulungan","GID_3":"IDN.15.4.4_1","NAME_3":"Sekatak","GID_4":"IDN.15.4.4.2_1","NAME_4":"Anjar Arip","VARNAME_4":"","TYPE_4":"Desa","ENGTYPE_4":"Village","CC_4":"6407030005"}}
+]}

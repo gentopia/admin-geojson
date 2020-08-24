@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[1.4079160690308754,49.05162429809582],[1.425551652908382,49.06745910644537],[1.429298758506775,49.071624755859375],[1.4149293899536133,49.075557708740234],[1.3989571332932087,49.06304168701172],[1.4079160690308754,49.05162429809582]]]},"properties":{"GID_0":"FRA","NAME_0":"France","GID_1":"FRA.9_1","NAME_1":"Normandie","GID_2":"FRA.9.2_1","NAME_2":"Eure","GID_3":"FRA.9.2.2_1","NAME_3":"Évreux","GID_4":"FRA.9.2.2.16_1","NAME_4":"Vernon-Sud","GID_5":"FRA.9.2.2.16.3_1","NAME_5":"La Heunière","TYPE_5":"Commune simple","ENGTYPE_5":"Commune","CC_5":""}}
+]}

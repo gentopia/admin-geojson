@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[124.9699935913086,11.036600112915153],[124.98413848876953,11.059579849243164],[124.96923065185547,11.061109542846793],[124.96730041503906,11.05111026763916],[124.96819305419933,11.045649528503418],[124.9699935913086,11.036600112915153]]]},"properties":{"GID_0":"PHL","NAME_0":"Philippines","GID_1":"PHL.43_1","NAME_1":"Leyte","NL_NAME_1":"","GID_2":"PHL.43.40_1","NAME_2":"Tanauan","NL_NAME_2":"","GID_3":"PHL.43.40.48_1","NAME_3":"San Victor","VARNAME_3":"","NL_NAME_3":"","TYPE_3":"Barangay","ENGTYPE_3":"Village","CC_3":"","HASC_3":""}}
+]}

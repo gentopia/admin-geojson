@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[122.42357635498058,11.008839607238713],[122.40297698974621,11.01305961608881],[122.40476989746094,10.999930381774846],[122.42024993896484,10.999739646911564],[122.4225769042971,11.004570007324219],[122.42357635498058,11.008839607238713]]]},"properties":{"GID_0":"PHL","NAME_0":"Philippines","GID_1":"PHL.36_1","NAME_1":"Iloilo","NL_NAME_1":"","GID_2":"PHL.36.22_1","NAME_2":"Janiuay","NL_NAME_2":"","GID_3":"PHL.36.22.23_1","NAME_3":"Cunsad","VARNAME_3":"","NL_NAME_3":"","TYPE_3":"Barangay","ENGTYPE_3":"Village","CC_3":"","HASC_3":""}}
+]}

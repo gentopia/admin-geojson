@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[6.6488261222839355,49.002948760986385],[6.6471052169799805,49.006107330322266],[6.629765987396297,49.012123107910156],[6.611095428466797,48.99414443969732],[6.622802734375,48.99411392211914],[6.638069152832031,48.995677947998104],[6.6488261222839355,49.002948760986385]]]},"properties":{"GID_0":"FRA","NAME_0":"France","GID_1":"FRA.6_1","NAME_1":"Grand Est","GID_2":"FRA.6.9_1","NAME_2":"Moselle","GID_3":"FRA.6.9.3_1","NAME_3":"Forbach","GID_4":"FRA.6.9.3.4_1","NAME_4":"Grostenquin","GID_5":"FRA.6.9.3.4.6_1","NAME_5":"Boustroff","TYPE_5":"Commune simple","ENGTYPE_5":"Commune","CC_5":""}}
+]}

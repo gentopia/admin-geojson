@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[122.31726837158203,10.896360397338867],[122.32083129882812,10.904760360717773],[122.31976318359375,10.921010017395076],[122.30724334716808,10.917490005493221],[122.31001281738281,10.8960800170899],[122.31726837158203,10.896360397338867]]]},"properties":{"GID_0":"PHL","NAME_0":"Philippines","GID_1":"PHL.36_1","NAME_1":"Iloilo","NL_NAME_1":"","GID_2":"PHL.36.2_1","NAME_2":"Alimodian","NL_NAME_2":"","GID_3":"PHL.36.2.23_1","NAME_3":"Dao","VARNAME_3":"","NL_NAME_3":"","TYPE_3":"Barangay","ENGTYPE_3":"Village","CC_3":"","HASC_3":""}}
+]}

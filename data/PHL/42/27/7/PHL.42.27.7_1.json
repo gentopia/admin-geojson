@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[124.19724273681652,7.6020798683165935],[124.20115661621094,7.617020130157471],[124.19254302978516,7.630390167236328],[124.18083953857433,7.611110210418815],[124.19463348388672,7.5927400588990395],[124.19724273681652,7.6020798683165935]]]},"properties":{"GID_0":"PHL","NAME_0":"Philippines","GID_1":"PHL.42_1","NAME_1":"Lanao del Sur","NL_NAME_1":"","GID_2":"PHL.42.27_1","NAME_2":"Marogong","NL_NAME_2":"","GID_3":"PHL.42.27.7_1","NAME_3":"Cadayonan","VARNAME_3":"","NL_NAME_3":"","TYPE_3":"Barangay","ENGTYPE_3":"Village","CC_3":"","HASC_3":""}}
+]}

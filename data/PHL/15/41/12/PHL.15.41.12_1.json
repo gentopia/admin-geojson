@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[124.29197692871116,9.774820327758846],[124.30538940429699,9.791720390319767],[124.29811096191418,9.794540405273438],[124.28520965576172,9.781120300293082],[124.29197692871116,9.774820327758846]]]},"properties":{"GID_0":"PHL","NAME_0":"Philippines","GID_1":"PHL.15_1","NAME_1":"Bohol","NL_NAME_1":"","GID_2":"PHL.15.41_1","NAME_2":"Sierra Bullones","NL_NAME_2":"","GID_3":"PHL.15.41.12_1","NAME_3":"Magsaysay","VARNAME_3":"","NL_NAME_3":"","TYPE_3":"Barangay","ENGTYPE_3":"Village","CC_3":"","HASC_3":""}}
+]}

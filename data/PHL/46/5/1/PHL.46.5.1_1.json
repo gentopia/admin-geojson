@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[123.96225738525402,12.06056976318365],[123.96071624755871,12.068829536437988],[123.94879913330078,12.066189765930233],[123.95012664794922,12.05747032165533],[123.96225738525402,12.06056976318365]]]},"properties":{"GID_0":"PHL","NAME_0":"Philippines","GID_1":"PHL.46_1","NAME_1":"Masbate","NL_NAME_1":"","GID_2":"PHL.46.5_1","NAME_2":"Cataingan","NL_NAME_2":"","GID_3":"PHL.46.5.1_1","NAME_3":"Abaca","VARNAME_3":"","NL_NAME_3":"","TYPE_3":"Barangay","ENGTYPE_3":"Village","CC_3":"","HASC_3":""}}
+]}

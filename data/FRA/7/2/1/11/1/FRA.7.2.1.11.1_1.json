@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[4.009415149688834,50.295288085937614],[4.0098915100098225,50.28477096557617],[4.02341461181652,50.280563354492244],[4.031631469726676,50.28081130981445],[4.0248823165893555,50.296283721923885],[4.009415149688834,50.295288085937614]]]},"properties":{"GID_0":"FRA","NAME_0":"France","GID_1":"FRA.7_1","NAME_1":"Hauts-de-France","GID_2":"FRA.7.2_1","NAME_2":"Nord","GID_3":"FRA.7.2.1_1","NAME_3":"Avesnes-sur-Helpe","GID_4":"FRA.7.2.1.11_1","NAME_4":"Maubeuge-Nord","GID_5":"FRA.7.2.1.11.1_1","NAME_5":"Assevent","TYPE_5":"Commune simple","ENGTYPE_5":"Commune","CC_5":""}}
+]}

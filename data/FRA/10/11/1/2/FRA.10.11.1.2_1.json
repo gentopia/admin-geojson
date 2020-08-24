@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[-1.5014142990112305,43.526947021484375],[-1.4918015003203209,43.52091217041021],[-1.4918198585509685,43.51181030273449],[-1.46562743186945,43.516521453857365],[-1.4635146856307983,43.533145904541016],[-1.4796048402785686,43.53917694091797],[-1.5014142990112305,43.526947021484375]]]},"properties":{"GID_0":"FRA","NAME_0":"France","GID_1":"FRA.10_1","NAME_1":"Nouvelle-Aquitaine","GID_2":"FRA.10.11_1","NAME_2":"Pyrénées-Atlantiques","GID_3":"FRA.10.11.1_1","NAME_3":"Bayonne","GID_4":"FRA.10.11.1.2_1","NAME_4":"Bayonne-Nord","GID_5":"FRA.10.11.1.2.1_1","NAME_5":"Boucau","TYPE_5":"Commune simple","ENGTYPE_5":"Commune","CC_5":""}}
+]}

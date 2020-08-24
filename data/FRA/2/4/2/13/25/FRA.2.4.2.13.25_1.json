@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[6.001199722290153,46.81630706787121],[6.006473541259766,46.806331634521484],[6.021636962890625,46.79209518432623],[6.031100273132381,46.79310607910156],[6.029043197631836,46.79573822021479],[6.01066446304327,46.816806793212834],[6.001199722290153,46.81630706787121]]]},"properties":{"GID_0":"FRA","NAME_0":"France","GID_1":"FRA.2_1","NAME_1":"Bourgogne-Franche-Comté","GID_2":"FRA.2.4_1","NAME_2":"Jura","GID_3":"FRA.2.4.2_1","NAME_3":"Lons-le-Saunier","GID_4":"FRA.2.4.2.13_1","NAME_4":"Nozeroy","GID_5":"FRA.2.4.2.13.25_1","NAME_5":"Plénisette","TYPE_5":"Commune simple","ENGTYPE_5":"Commune","CC_5":""}}
+]}

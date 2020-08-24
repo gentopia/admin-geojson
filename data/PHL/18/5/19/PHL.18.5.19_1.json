@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[121.64259338378906,18.355920791625977],[121.64114379882835,18.35606002807623],[121.64105224609375,18.354829788208065],[121.6425018310548,18.354749679565487],[121.64259338378906,18.355920791625977]]]},"properties":{"GID_0":"PHL","NAME_0":"Philippines","GID_1":"PHL.18_1","NAME_1":"Cagayan","NL_NAME_1":"","GID_2":"PHL.18.5_1","NAME_2":"Aparri","NL_NAME_2":"","GID_3":"PHL.18.5.19_1","NAME_3":"Centro 11","VARNAME_3":"Poblacion","NL_NAME_3":"","TYPE_3":"Barangay","ENGTYPE_3":"Village","CC_3":"","HASC_3":""}}
+]}

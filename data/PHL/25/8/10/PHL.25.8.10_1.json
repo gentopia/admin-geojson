@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[123.72180938720703,10.507639884948787],[123.72106170654297,10.5035400390625],[123.71977996826183,10.500370025634766],[123.71930694580078,10.494529724121094],[123.74432373046875,10.484219551086483],[123.72180938720703,10.507639884948787]]]},"properties":{"GID_0":"PHL","NAME_0":"Philippines","GID_1":"PHL.25_1","NAME_1":"Cebu","NL_NAME_1":"","GID_2":"PHL.25.8_1","NAME_2":"Balamban","NL_NAME_2":"","GID_3":"PHL.25.8.10_1","NAME_3":"Cambuhawe","VARNAME_3":"","NL_NAME_3":"","TYPE_3":"Barangay","ENGTYPE_3":"Village","CC_3":"","HASC_3":""}}
+]}

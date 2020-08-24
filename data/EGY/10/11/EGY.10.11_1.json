@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[30.813140869140625,28.0894012451173],[30.796329498291072,28.137195587158146],[30.77272224426264,28.14195060729992],[30.7708358764649,28.11334037780773],[30.80213928222662,28.077793121337947],[30.813140869140625,28.0894012451173]]]},"properties":{"GID_0":"EGY","NAME_0":"Egypt","GID_1":"EGY.10_1","NAME_1":"Al Minya","NL_NAME_1":"","GID_2":"EGY.10.11_1","NAME_2":"New Minya City","VARNAME_2":"","NL_NAME_2":"","TYPE_2":"City","ENGTYPE_2":"Subdivision","CC_2":"","HASC_2":"EG.MN.MJ"}}
+]}

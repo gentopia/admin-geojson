@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[5.0093092918396,49.321155548095646],[5.025878429412842,49.325897216796875],[4.984088897705021,49.33782196044933],[4.980345726013127,49.328853607177734],[4.962926864624137,49.323753356933594],[4.9737696647643475,49.31735610961914],[5.0093092918396,49.321155548095646]]]},"properties":{"GID_0":"FRA","NAME_0":"France","GID_1":"FRA.6_1","NAME_1":"Grand Est","GID_2":"FRA.6.1_1","NAME_2":"Ardennes","GID_3":"FRA.6.1.4_1","NAME_3":"Vouziers","GID_4":"FRA.6.1.4.3_1","NAME_4":"Grandpré","GID_5":"FRA.6.1.4.3.17_1","NAME_5":"Sommerance","TYPE_5":"Commune simple","ENGTYPE_5":"Commune","CC_5":""}}
+]}

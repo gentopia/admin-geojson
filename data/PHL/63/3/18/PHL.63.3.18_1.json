@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[121.45030212402344,16.619070053100643],[121.48037719726574,16.61717033386236],[121.48798370361351,16.633750915527344],[121.45004272460949,16.635829925537223],[121.45030212402344,16.619070053100643]]]},"properties":{"GID_0":"PHL","NAME_0":"Philippines","GID_1":"PHL.63_1","NAME_1":"Quirino","NL_NAME_1":"","GID_2":"PHL.63.3_1","NAME_2":"Diffun","NL_NAME_2":"","GID_3":"PHL.63.3.18_1","NAME_3":"Guribang","VARNAME_3":"","NL_NAME_3":"","TYPE_3":"Barangay","ENGTYPE_3":"Village","CC_3":"","HASC_3":""}}
+]}

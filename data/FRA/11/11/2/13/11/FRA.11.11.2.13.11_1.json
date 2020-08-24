@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[2.729074478149471,42.623184204101676],[2.7211892604829018,42.61229705810558],[2.730990409851131,42.60634231567377],[2.7639114856721108,42.61219024658203],[2.746386051178092,42.62307357788097],[2.73767185211193,42.62527465820324],[2.729074478149471,42.623184204101676]]]},"properties":{"GID_0":"FRA","NAME_0":"France","GID_1":"FRA.11_1","NAME_1":"Occitanie","GID_2":"FRA.11.11_1","NAME_2":"Pyrénées-Orientales","GID_3":"FRA.11.11.2_1","NAME_3":"Perpignan","GID_4":"FRA.11.11.2.13_1","NAME_4":"Thuir","GID_5":"FRA.11.11.2.13.11_1","NAME_5":"Sainte-Colombe-de-la-Commanderie","TYPE_5":"Commune simple","ENGTYPE_5":"Commune","CC_5":""}}
+]}

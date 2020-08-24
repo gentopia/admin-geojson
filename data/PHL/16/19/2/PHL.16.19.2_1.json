@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[125.3836898803711,7.731249809265137],[125.35817718505882,7.752299785613957],[125.31014251708996,7.7295598983765785],[125.37747192382824,7.718190193176326],[125.3836898803711,7.731249809265137]]]},"properties":{"GID_0":"PHL","NAME_0":"Philippines","GID_1":"PHL.16_1","NAME_1":"Bukidnon","NL_NAME_1":"","GID_2":"PHL.16.19_1","NAME_2":"San Fernando","NL_NAME_2":"","GID_3":"PHL.16.19.2_1","NAME_3":"Bulalang","VARNAME_3":"","NL_NAME_3":"","TYPE_3":"Barangay","ENGTYPE_3":"Village","CC_3":"","HASC_3":""}}
+]}

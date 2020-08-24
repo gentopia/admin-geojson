@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[-0.3373403549194336,44.61135101318365],[-0.31975439190853194,44.63188171386719],[-0.3283435404300121,44.636722564697266],[-0.33277180790901184,44.64225006103521],[-0.3608894944190979,44.62993621826166],[-0.35189759731281356,44.61899185180664],[-0.3373403549194336,44.61135101318365]]]},"properties":{"GID_0":"FRA","NAME_0":"France","GID_1":"FRA.10_1","NAME_1":"Nouvelle-Aquitaine","GID_2":"FRA.10.7_1","NAME_2":"Gironde","GID_3":"FRA.10.7.4_1","NAME_3":"Langon","GID_4":"FRA.10.7.4.10_1","NAME_4":"Podensac","GID_5":"FRA.10.7.4.10.4_1","NAME_5":"Cérons","TYPE_5":"Commune simple","ENGTYPE_5":"Commune","CC_5":""}}
+]}

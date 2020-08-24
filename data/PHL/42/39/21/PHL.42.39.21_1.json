@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[124.36302947998047,7.9131298065186115],[124.3538818359375,7.896490097045898],[124.35790252685547,7.8968400955200195],[124.36850738525402,7.9128899574279785],[124.36302947998047,7.9131298065186115]]]},"properties":{"GID_0":"PHL","NAME_0":"Philippines","GID_1":"PHL.42_1","NAME_1":"Lanao del Sur","NL_NAME_1":"","GID_2":"PHL.42.39_1","NAME_2":"Taraka","NL_NAME_2":"","GID_3":"PHL.42.39.21_1","NAME_3":"Lumasa","VARNAME_3":"","NL_NAME_3":"","TYPE_3":"Barangay","ENGTYPE_3":"Village","CC_3":"","HASC_3":""}}
+]}

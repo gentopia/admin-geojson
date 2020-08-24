@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[124.33792877197266,8.037309646606388],[124.31723022460938,8.05442047119152],[124.3146667480471,8.0564603805542],[124.3087387084961,8.04920959472662],[124.31063079833984,8.037670135498104],[124.33792877197266,8.037309646606388]]]},"properties":{"GID_0":"PHL","NAME_0":"Philippines","GID_1":"PHL.42_1","NAME_1":"Lanao del Sur","NL_NAME_1":"","GID_2":"PHL.42.26_1","NAME_2":"Marawi City","NL_NAME_2":"","GID_3":"PHL.42.26.34_1","NAME_3":"Dulay West","VARNAME_3":"","NL_NAME_3":"","TYPE_3":"Barangay","ENGTYPE_3":"Village","CC_3":"","HASC_3":""}}
+]}

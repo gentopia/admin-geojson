@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[2.3683831691741943,45.10185623168957],[2.36273288726818,45.114589691162166],[2.3490610122680664,45.11031723022461],[2.340574026107845,45.09461593627941],[2.34652495384222,45.08903121948248],[2.3585476875305176,45.091434478759766],[2.3683831691741943,45.10185623168957]]]},"properties":{"GID_0":"FRA","NAME_0":"France","GID_1":"FRA.1_1","NAME_1":"Auvergne-Rhône-Alpes","GID_2":"FRA.1.4_1","NAME_2":"Cantal","GID_3":"FRA.1.4.1_1","NAME_3":"Aurillac","GID_4":"FRA.1.4.1.9_1","NAME_4":"Saint-Cernin","GID_5":"FRA.1.4.1.9.1_1","NAME_5":"Besse","TYPE_5":"Commune simple","ENGTYPE_5":"Commune","CC_5":""}}
+]}

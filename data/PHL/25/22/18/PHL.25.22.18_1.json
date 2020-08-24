@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[123.53910064697266,9.811980247497672],[123.54543304443382,9.818099975585994],[123.53151702880882,9.81879043579113],[123.53414916992188,9.812720298767147],[123.53910064697266,9.811980247497672]]]},"properties":{"GID_0":"PHL","NAME_0":"Philippines","GID_1":"PHL.25_1","NAME_1":"Cebu","NL_NAME_1":"","GID_2":"PHL.25.22_1","NAME_2":"Dalaguete","NL_NAME_2":"","GID_3":"PHL.25.22.18_1","NAME_3":"Lumbang","VARNAME_3":"","NL_NAME_3":"","TYPE_3":"Barangay","ENGTYPE_3":"Village","CC_3":"","HASC_3":""}}
+]}

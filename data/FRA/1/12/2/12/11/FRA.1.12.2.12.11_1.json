@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[6.03651666641241,45.63767242431646],[6.088270664215088,45.68252182006836],[6.078191757202092,45.69847869873047],[6.019649505615234,45.65250015258795],[6.03651666641241,45.63767242431646]]]},"properties":{"GID_0":"FRA","NAME_0":"France","GID_1":"FRA.1_1","NAME_1":"Auvergne-Rhône-Alpes","GID_2":"FRA.1.12_1","NAME_2":"Savoie","GID_3":"FRA.1.12.2_1","NAME_3":"Chambéry","GID_4":"FRA.1.12.2.12_1","NAME_4":"Le Châtelard","GID_5":"FRA.1.12.2.12.11_1","NAME_5":"Le Noyer","TYPE_5":"Commune simple","ENGTYPE_5":"Commune","CC_5":""}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[-110.92179870605469,58.40996932983404],[-110.9255752563476,58.40924072265625],[-110.92964935302734,58.40554046630871],[-110.93008422851562,58.40539169311529],[-110.91878509521479,58.40485000610363],[-110.92179870605469,58.40996932983404]]]},"properties":{"GID_0":"CAN","NAME_0":"Canada","GID_1":"CAN.1_1","NAME_1":"Alberta","NL_NAME_1":"","GID_2":"CAN.1.7_1","NAME_2":"Division No. 16","NL_NAME_2":"","GID_3":"CAN.1.7.7_1","NAME_3":"Chipewyan 201D","VARNAME_3":"","NL_NAME_3":"","TYPE_3":"Réserve Indienne","ENGTYPE_3":"Indian Reserve","CC_3":"","HASC_3":""}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[124.8969497680664,10.573490142822322],[124.88939666748058,10.571599960327205],[124.88169860839844,10.57094955444336],[124.83686065673828,10.534040451049862],[124.86279296875,10.509960174560604],[124.8969497680664,10.573490142822322]]]},"properties":{"GID_0":"PHL","NAME_0":"Philippines","GID_1":"PHL.43_1","NAME_1":"Leyte","NL_NAME_1":"","GID_2":"PHL.43.16_1","NAME_2":"Inopacan","NL_NAME_2":"","GID_3":"PHL.43.16.3_1","NAME_3":"Caminto","VARNAME_3":"","NL_NAME_3":"","TYPE_3":"Barangay","ENGTYPE_3":"Village","CC_3":"","HASC_3":""}}
+]}

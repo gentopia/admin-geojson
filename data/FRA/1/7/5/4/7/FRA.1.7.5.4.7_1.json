@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[6.648870468139592,46.38447952270508],[6.6455774307251545,46.397006988525334],[6.638672351837272,46.40541076660162],[6.619571208953857,46.403476715088004],[6.625181674957275,46.39868545532238],[6.619980335235709,46.3941268920899],[6.622734546661377,46.38497924804693],[6.648870468139592,46.38447952270508]]]},"properties":{"GID_0":"FRA","NAME_0":"France","GID_1":"FRA.1_1","NAME_1":"Auvergne-Rhône-Alpes","GID_2":"FRA.1.7_1","NAME_2":"Haute-Savoie","GID_3":"FRA.1.7.5_1","NAME_3":"Thonon-les-Bains","GID_4":"FRA.1.7.5.4_1","NAME_4":"Évian-les-Bains","GID_5":"FRA.1.7.5.4.7_1","NAME_5":"Maxilly-sur-Léman","TYPE_5":"Commune simple","ENGTYPE_5":"Commune","CC_5":""}}
+]}

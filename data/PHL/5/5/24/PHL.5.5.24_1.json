@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[123.629150390625,13.202079772949276],[123.6343994140625,13.214770317077694],[123.62493896484375,13.220499992370662],[123.6183319091798,13.213029861450252],[123.62037658691406,13.210630416870174],[123.629150390625,13.202079772949276]]]},"properties":{"GID_0":"PHL","NAME_0":"Philippines","GID_1":"PHL.5_1","NAME_1":"Albay","NL_NAME_1":"","GID_2":"PHL.5.5_1","NAME_2":"Guinobatan","NL_NAME_2":"","GID_3":"PHL.5.5.24_1","NAME_3":"Maninila","VARNAME_3":"","NL_NAME_3":"","TYPE_3":"Barangay","ENGTYPE_3":"Village","CC_3":"","HASC_3":""}}
+]}

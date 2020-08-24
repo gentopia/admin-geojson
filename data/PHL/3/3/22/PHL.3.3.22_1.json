@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[125.49861907958996,8.665949821472282],[125.51141357421886,8.70020961761486],[125.49688720703136,8.700889587402344],[125.47747039794922,8.687729835510254],[125.47633361816406,8.665980339050407],[125.49861907958996,8.665949821472282]]]},"properties":{"GID_0":"PHL","NAME_0":"Philippines","GID_1":"PHL.3_1","NAME_1":"Agusan del Sur","NL_NAME_1":"","GID_2":"PHL.3.3_1","NAME_2":"Esperanza","NL_NAME_2":"","GID_3":"PHL.3.3.22_1","NAME_3":"Maasin","VARNAME_3":"","NL_NAME_3":"","TYPE_3":"Barangay","ENGTYPE_3":"Village","CC_3":"","HASC_3":""}}
+]}

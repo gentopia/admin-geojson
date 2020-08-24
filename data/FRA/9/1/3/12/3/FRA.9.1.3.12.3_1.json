@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[0.1531571447849842,49.319633483886776],[0.151648610830307,49.3210334777832],[0.14690613746643066,49.320697784423885],[0.13666246831422768,49.327003479003906],[0.1219275444745449,49.313358306884766],[0.1302331686020466,49.307502746582145],[0.1531571447849842,49.319633483886776]]]},"properties":{"GID_0":"FRA","NAME_0":"France","GID_1":"FRA.9_1","NAME_1":"Normandie","GID_2":"FRA.9.1_1","NAME_2":"Calvados","GID_3":"FRA.9.1.3_1","NAME_3":"Lisieux","GID_4":"FRA.9.1.3.12_1","NAME_4":"Pont-l'Évêque","GID_5":"FRA.9.1.3.12.3_1","NAME_5":"Canapville","TYPE_5":"Commune simple","ENGTYPE_5":"Commune","CC_5":""}}
+]}

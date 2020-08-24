@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[121.03235626220714,16.428909301757812],[121.06719970703125,16.434810638427848],[121.06968688964844,16.44737052917486],[121.03241729736328,16.452190399170036],[121.03235626220714,16.428909301757812]]]},"properties":{"GID_0":"PHL","NAME_0":"Philippines","GID_1":"PHL.56_1","NAME_1":"Nueva Vizcaya","NL_NAME_1":"","GID_2":"PHL.56.5_1","NAME_2":"Bambang","NL_NAME_2":"","GID_3":"PHL.56.5.25_1","NAME_3":"Santo Domingo West","VARNAME_3":"","NL_NAME_3":"","TYPE_3":"Barangay","ENGTYPE_3":"Village","CC_3":"","HASC_3":""}}
+]}

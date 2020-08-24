@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[-0.5483414530754089,43.31460571289074],[-0.5522556304930504,43.31928634643566],[-0.5659901499747662,43.317813873291016],[-0.5667880177497295,43.31118011474621],[-0.5446265339850811,43.298320770263615],[-0.5381033420561607,43.30311584472662],[-0.5483414530754089,43.31460571289074]]]},"properties":{"GID_0":"FRA","NAME_0":"France","GID_1":"FRA.10_1","NAME_1":"Nouvelle-Aquitaine","GID_2":"FRA.10.11_1","NAME_2":"Pyrénées-Atlantiques","GID_3":"FRA.10.11.2_1","NAME_3":"Oloron-Sainte-Marie","GID_4":"FRA.10.11.2.7_1","NAME_4":"Monein","GID_5":"FRA.10.11.2.7.2_1","NAME_5":"Cuqueron","TYPE_5":"Commune simple","ENGTYPE_5":"Commune","CC_5":""}}
+]}

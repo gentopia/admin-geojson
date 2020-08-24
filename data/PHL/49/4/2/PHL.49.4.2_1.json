@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[124.8084487915039,8.918250083923283],[124.80328369140625,8.926790237426815],[124.79025268554688,8.925729751587028],[124.79428100585938,8.918299674987907],[124.79649353027355,8.91460990905756],[124.8084487915039,8.918250083923283]]]},"properties":{"GID_0":"PHL","NAME_0":"Philippines","GID_1":"PHL.49_1","NAME_1":"Misamis Oriental","NL_NAME_1":"","GID_2":"PHL.49.4_1","NAME_2":"Binuangan","NL_NAME_2":"","GID_3":"PHL.49.4.2_1","NAME_3":"Kitamban","VARNAME_3":"","NL_NAME_3":"","TYPE_3":"Barangay","ENGTYPE_3":"Village","CC_3":"","HASC_3":""}}
+]}

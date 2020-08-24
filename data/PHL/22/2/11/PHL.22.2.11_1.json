@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[122.7054214477539,11.357439994812125],[122.72545623779297,11.363809585571346],[122.72158813476562,11.381739616394043],[122.70088958740246,11.376219749450797],[122.7054214477539,11.357439994812125]]]},"properties":{"GID_0":"PHL","NAME_0":"Philippines","GID_1":"PHL.22_1","NAME_1":"Capiz","NL_NAME_1":"","GID_2":"PHL.22.2_1","NAME_2":"Dao","NL_NAME_2":"","GID_3":"PHL.22.2.11_1","NAME_3":"Malonoy","VARNAME_3":"","NL_NAME_3":"","TYPE_3":"Barangay","ENGTYPE_3":"Village","CC_3":"","HASC_3":""}}
+]}

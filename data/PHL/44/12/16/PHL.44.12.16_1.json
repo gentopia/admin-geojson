@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[124.4359130859375,7.062809944152889],[124.43299102783214,7.076729774475211],[124.42561340332031,7.077849864959774],[124.4199676513673,7.063230037689152],[124.4359130859375,7.062809944152889]]]},"properties":{"GID_0":"PHL","NAME_0":"Philippines","GID_1":"PHL.44_1","NAME_1":"Maguindanao","NL_NAME_1":"","GID_2":"PHL.44.12_1","NAME_2":"Datu Piang","NL_NAME_2":"","GID_3":"PHL.44.12.16_1","NAME_3":"Montay","VARNAME_3":"","NL_NAME_3":"","TYPE_3":"Barangay","ENGTYPE_3":"Village","CC_3":"","HASC_3":""}}
+]}

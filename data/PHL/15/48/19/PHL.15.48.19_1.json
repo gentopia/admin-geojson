@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[124.22905731201183,9.67737007141119],[124.23145294189453,9.698399543762264],[124.21293640136719,9.698760032653809],[124.21224212646507,9.694450378418026],[124.21101379394531,9.682660102844181],[124.22905731201183,9.67737007141119]]]},"properties":{"GID_0":"PHL","NAME_0":"Philippines","GID_1":"PHL.15_1","NAME_1":"Bohol","NL_NAME_1":"","GID_2":"PHL.15.48_1","NAME_2":"Valencia","NL_NAME_2":"","GID_3":"PHL.15.48.19_1","NAME_3":"La Victoria","VARNAME_3":"","NL_NAME_3":"","TYPE_3":"Barangay","ENGTYPE_3":"Village","CC_3":"","HASC_3":""}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[1.3008621931077187,49.31813049316412],[1.3260554075242226,49.328426361083984],[1.307235240936393,49.349430084228516],[1.2960304021835327,49.342422485351506],[1.2964571714401245,49.32199859619152],[1.3008621931077187,49.31813049316412]]]},"properties":{"GID_0":"FRA","NAME_0":"France","GID_1":"FRA.9_1","NAME_1":"Normandie","GID_2":"FRA.9.2_1","NAME_2":"Eure","GID_3":"FRA.9.2.3_1","NAME_3":"Les Andelys","GID_4":"FRA.9.2.3.3_1","NAME_4":"Fleury-sur-Andelle","GID_5":"FRA.9.2.3.3.6_1","NAME_5":"Douville-sur-Andelle","TYPE_5":"Commune simple","ENGTYPE_5":"Commune","CC_5":""}}
+]}

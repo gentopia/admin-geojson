@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[122.95218658447266,10.669400215148926],[122.95252990722656,10.670160293579158],[122.94998168945324,10.671560287475643],[122.94917297363281,10.669440269470215],[122.95162963867188,10.668089866638184],[122.95218658447266,10.669400215148926]]]},"properties":{"GID_0":"PHL","NAME_0":"Philippines","GID_1":"PHL.51_1","NAME_1":"Negros Occidental","NL_NAME_1":"","GID_2":"PHL.51.1_1","NAME_2":"Bacolod City","NL_NAME_2":"","GID_3":"PHL.51.1.29_1","NAME_3":"Barangay 32","VARNAME_3":"Poblacion","NL_NAME_3":"","TYPE_3":"Barangay","ENGTYPE_3":"Village","CC_3":"","HASC_3":""}}
+]}

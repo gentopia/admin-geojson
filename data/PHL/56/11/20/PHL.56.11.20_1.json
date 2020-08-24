@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[120.83881378173828,16.251600265502873],[120.84084320068371,16.30656051635748],[120.79914093017578,16.311689376830998],[120.7649383544923,16.25386047363287],[120.78529357910156,16.258169174194393],[120.83881378173828,16.251600265502873]]]},"properties":{"GID_0":"PHL","NAME_0":"Philippines","GID_1":"PHL.56_1","NAME_1":"Nueva Vizcaya","NL_NAME_1":"","GID_2":"PHL.56.11_1","NAME_2":"Kayapa","NL_NAME_2":"","GID_3":"PHL.56.11.20_1","NAME_3":"Lawigan","VARNAME_3":"","NL_NAME_3":"","TYPE_3":"Barangay","ENGTYPE_3":"Village","CC_3":"","HASC_3":""}}
+]}

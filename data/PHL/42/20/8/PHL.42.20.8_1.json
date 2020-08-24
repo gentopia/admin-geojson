@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[124.28785705566406,7.764019966125602],[124.28550720214855,7.770939826965275],[124.28426361083984,7.7747998237611],[124.2771987915039,7.774129867553768],[124.28279876708984,7.761849880218506],[124.28785705566406,7.764019966125602]]]},"properties":{"GID_0":"PHL","NAME_0":"Philippines","GID_1":"PHL.42_1","NAME_1":"Lanao del Sur","NL_NAME_1":"","GID_2":"PHL.42.20_1","NAME_2":"Lumbayanague","NL_NAME_2":"","GID_3":"PHL.42.20.8_1","NAME_3":"Casalayan","VARNAME_3":"","NL_NAME_3":"","TYPE_3":"Barangay","ENGTYPE_3":"Village","CC_3":"","HASC_3":""}}
+]}

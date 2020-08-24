@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[4.703531742096061,47.35489273071289],[4.699695587158146,47.36763381958019],[4.685852527618408,47.380496978759766],[4.673601150512752,47.377460479736385],[4.6747660636901855,47.3740119934082],[4.680416584014893,47.35932540893555],[4.688251495361271,47.36195755004883],[4.703531742096061,47.35489273071289]]]},"properties":{"GID_0":"FRA","NAME_0":"France","GID_1":"FRA.2_1","NAME_1":"Bourgogne-Franche-Comté","GID_2":"FRA.2.1_1","NAME_2":"Côte-d'Or","GID_3":"FRA.2.1.2_1","NAME_3":"Dijon","GID_4":"FRA.2.1.2.17_1","NAME_4":"Sombernon","GID_5":"FRA.2.1.2.17.27_1","NAME_5":"Verrey-sous-Drée","TYPE_5":"Commune simple","ENGTYPE_5":"Commune","CC_5":""}}
+]}

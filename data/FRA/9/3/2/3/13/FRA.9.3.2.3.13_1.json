@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[-1.6291426420211224,49.502288818359375],[-1.6092529296874432,49.50123596191412],[-1.5987176895141602,49.516654968261776],[-1.6208505630493164,49.51015090942394],[-1.6314122676848797,49.503696441650334],[-1.6291426420211224,49.502288818359375]]]},"properties":{"GID_0":"FRA","NAME_0":"France","GID_1":"FRA.9_1","NAME_1":"Normandie","GID_2":"FRA.9.3_1","NAME_2":"Manche","GID_3":"FRA.9.3.2_1","NAME_3":"Cherbourg","GID_4":"FRA.9.3.2.3_1","NAME_4":"Bricquebec","GID_5":"FRA.9.3.2.3.13_1","NAME_5":"Saint-Martin-le-Hébert","TYPE_5":"Commune simple","ENGTYPE_5":"Commune","CC_5":""}}
+]}

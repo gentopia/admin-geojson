@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[120.8042678833009,15.60548019409191],[120.79176330566406,15.61769962310791],[120.78426361083984,15.611700057983398],[120.7937469482423,15.59677982330328],[120.79695129394554,15.599129676818961],[120.8042678833009,15.60548019409191]]]},"properties":{"GID_0":"PHL","NAME_0":"Philippines","GID_1":"PHL.55_1","NAME_1":"Nueva Ecija","NL_NAME_1":"","GID_2":"PHL.55.11_1","NAME_2":"Guimba","NL_NAME_2":"","GID_3":"PHL.55.11.62_1","NAME_3":"Tampac II & III","VARNAME_3":"","NL_NAME_3":"","TYPE_3":"Barangay","ENGTYPE_3":"Village","CC_3":"","HASC_3":""}}
+]}

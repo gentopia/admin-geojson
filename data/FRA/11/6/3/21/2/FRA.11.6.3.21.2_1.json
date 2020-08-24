@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[1.7229045629501343,43.34153366088873],[1.7354266643524738,43.33770370483404],[1.7465547323226929,43.343482971191406],[1.7492233514785767,43.34946060180664],[1.730086803436393,43.36299514770508],[1.7168356180191608,43.34946823120117],[1.7229045629501343,43.34153366088873]]]},"properties":{"GID_0":"FRA","NAME_0":"France","GID_1":"FRA.11_1","NAME_1":"Occitanie","GID_2":"FRA.11.6_1","NAME_2":"Haute-Garonne","GID_3":"FRA.11.6.3_1","NAME_3":"Toulouse","GID_4":"FRA.11.6.3.21_1","NAME_4":"Villefranche-de-Lauragais","GID_5":"FRA.11.6.3.21.2_1","NAME_5":"Beauteville","TYPE_5":"Commune simple","ENGTYPE_5":"Commune","CC_5":""}}
+]}

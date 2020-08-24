@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[125.87911987304699,8.624690055847225],[125.87992858886719,8.624799728393612],[125.87904357910156,8.647219657898006],[125.80021667480469,8.647049903869743],[125.79741668701172,8.637140274047965],[125.7996063232423,8.622540473938102],[125.87911987304699,8.624690055847225]]]},"properties":{"GID_0":"PHL","NAME_0":"Philippines","GID_1":"PHL.3_1","NAME_1":"Agusan del Sur","NL_NAME_1":"","GID_2":"PHL.3.6_1","NAME_2":"Prosperidad","NL_NAME_2":"","GID_3":"PHL.3.6.22_1","NAME_3":"San Joaquin","VARNAME_3":"","NL_NAME_3":"","TYPE_3":"Barangay","ENGTYPE_3":"Village","CC_3":"","HASC_3":""}}
+]}

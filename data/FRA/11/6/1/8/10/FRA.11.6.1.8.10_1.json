@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[1.3809490203858559,43.45789337158203],[1.3934851884843056,43.47433090209972],[1.3812729120254517,43.476669311523494],[1.3769831657410236,43.4710426330567],[1.3744072914124104,43.46556854248047],[1.3722828626632122,43.459434509277344],[1.3809490203858559,43.45789337158203]]]},"properties":{"GID_0":"FRA","NAME_0":"France","GID_1":"FRA.11_1","NAME_1":"Occitanie","GID_2":"FRA.11.6_1","NAME_2":"Haute-Garonne","GID_3":"FRA.11.6.1_1","NAME_3":"Muret","GID_4":"FRA.11.6.1.8_1","NAME_4":"Portet-sur-Garonne","GID_5":"FRA.11.6.1.8.10_1","NAME_5":"Villate","TYPE_5":"Commune simple","ENGTYPE_5":"Commune","CC_5":""}}
+]}

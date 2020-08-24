@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[31.258430480957145,30.054605484008732],[31.268442153930607,30.062263488769588],[31.252359390258903,30.060153961181754],[31.251422882080135,30.055894851684684],[31.258430480957145,30.054605484008732]]]},"properties":{"GID_0":"EGY","NAME_0":"Egypt","GID_1":"EGY.11_1","NAME_1":"Al Qahirah","NL_NAME_1":"","GID_2":"EGY.11.24_1","NAME_2":"Bab ash-Sha'riyah","VARNAME_2":"","NL_NAME_2":"","TYPE_2":"Kism","ENGTYPE_2":"Subdivision","CC_2":"","HASC_2":"EG.QH.BE"}}
+]}

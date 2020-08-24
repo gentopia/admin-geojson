@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[30.003902435302848,-3.9239840507506756],[30.00101280212408,-3.9178659915923504],[30.000312805175838,-3.9174389839171795],[29.999488830566406,-3.9216489791870117],[30.00194168090826,-3.923341989517155],[30.003902435302848,-3.9239840507506756]]]},"properties":{"GID_0":"BDI","NAME_0":"Burundi","GID_1":"BDI.16_1","NAME_1":"Rutana","GID_2":"BDI.16.6_1","NAME_2":"Rutana","GID_3":"BDI.16.6.2_1","NAME_3":"Centre-Urbain","GID_4":"BDI.16.6.2.2_1","NAME_4":"Karindo","VARNAME_4":"","TYPE_4":"Sous Colline","ENGTYPE_4":"Sous Colline","CC_4":""}}
+]}

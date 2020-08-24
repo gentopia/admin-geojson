@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[1.5305527448654175,43.50770568847656],[1.5269339084625813,43.509979248046875],[1.5036207437515259,43.50694274902344],[1.4936714172363281,43.499748229980526],[1.4998043775558472,43.490692138671875],[1.5188496112824623,43.498405456543026],[1.5305527448654175,43.50770568847656]]]},"properties":{"GID_0":"FRA","NAME_0":"France","GID_1":"FRA.11_1","NAME_1":"Occitanie","GID_2":"FRA.11.6_1","NAME_2":"Haute-Garonne","GID_3":"FRA.11.6.3_1","NAME_3":"Toulouse","GID_4":"FRA.11.6.3.4_1","NAME_4":"Castanet-Tolosan","GID_5":"FRA.11.6.3.4.10_1","NAME_5":"Péchabou","TYPE_5":"Commune simple","ENGTYPE_5":"Commune","CC_5":""}}
+]}

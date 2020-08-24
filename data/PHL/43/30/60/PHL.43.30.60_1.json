@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[124.50784301757812,11.066160202026367],[124.51624298095703,11.076689720153865],[124.50211334228516,11.077810287475643],[124.47717285156273,11.07931041717535],[124.49588775634777,11.05117034912115],[124.50784301757812,11.066160202026367]]]},"properties":{"GID_0":"PHL","NAME_0":"Philippines","GID_1":"PHL.43_1","NAME_1":"Leyte","NL_NAME_1":"","GID_2":"PHL.43.30_1","NAME_2":"Ormoc City","NL_NAME_2":"","GID_3":"PHL.43.30.60_1","NAME_3":"Esperanza","VARNAME_3":"","NL_NAME_3":"","TYPE_3":"Barangay","ENGTYPE_3":"Village","CC_3":"","HASC_3":""}}
+]}

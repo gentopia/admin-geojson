@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[5.375021934509277,43.30159378051758],[5.39050197601324,43.30939865112305],[5.393184185028133,43.31641387939453],[5.371580600738639,43.32008361816412],[5.369137287139893,43.316726684570256],[5.375021934509277,43.30159378051758]]]},"properties":{"GID_0":"FRA","NAME_0":"France","GID_1":"FRA.13_1","NAME_1":"Provence-Alpes-Côte d'Azur","GID_2":"FRA.13.3_1","NAME_2":"Bouches-du-Rhône","GID_3":"FRA.13.3.4_1","NAME_3":"Marseille","GID_4":"FRA.13.3.4.15_1","NAME_4":"Marseille, 3e arrondissement","GID_5":"FRA.13.3.4.15.1_1","NAME_5":"Marseille, 3e arrondissement","TYPE_5":"Commune simple","ENGTYPE_5":"Commune","CC_5":""}}
+]}

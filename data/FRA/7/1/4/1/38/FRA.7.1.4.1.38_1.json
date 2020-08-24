@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[3.591353178024235,49.35169982910162],[3.587891101837272,49.34614562988287],[3.5938251018525307,49.33814239501959],[3.6035034656525227,49.33878707885748],[3.6203355789185707,49.34630584716797],[3.606416702270508,49.35138320922857],[3.591353178024235,49.35169982910162]]]},"properties":{"GID_0":"FRA","NAME_0":"France","GID_1":"FRA.7_1","NAME_1":"Hauts-de-France","GID_2":"FRA.7.1_1","NAME_2":"Aisne","GID_3":"FRA.7.1.4_1","NAME_3":"Soissons","GID_4":"FRA.7.1.4.1_1","NAME_4":"Braine","GID_5":"FRA.7.1.4.1.38_1","NAME_5":"Vauxtin","TYPE_5":"Commune simple","ENGTYPE_5":"Commune","CC_5":""}}
+]}

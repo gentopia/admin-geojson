@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[3.473147153854484,49.67628860473644],[3.4668476581574623,49.69158935546881],[3.450555324554557,49.69121170043945],[3.4440085887908936,49.68056869506836],[3.44893574714672,49.68025588989269],[3.464029550552425,49.667968750000114],[3.473147153854484,49.67628860473644]]]},"properties":{"GID_0":"FRA","NAME_0":"France","GID_1":"FRA.7_1","NAME_1":"Hauts-de-France","GID_2":"FRA.7.1_1","NAME_2":"Aisne","GID_3":"FRA.7.1.2_1","NAME_3":"Laon","GID_4":"FRA.7.1.2.6_1","NAME_4":"La Fère","GID_5":"FRA.7.1.2.6.7_1","NAME_5":"Courbes","TYPE_5":"Commune simple","ENGTYPE_5":"Commune","CC_5":""}}
+]}

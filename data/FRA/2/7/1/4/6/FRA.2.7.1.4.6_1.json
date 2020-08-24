@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[6.963545322418213,47.615676879882926],[6.963041782379207,47.62971115112316],[6.953549861907902,47.62738037109375],[6.947991371154899,47.62163162231451],[6.949415206909293,47.61493301391607],[6.950142860412598,47.612518310546875],[6.963545322418213,47.615676879882926]]]},"properties":{"GID_0":"FRA","NAME_0":"France","GID_1":"FRA.2_1","NAME_1":"Bourgogne-Franche-Comté","GID_2":"FRA.2.7_1","NAME_2":"Territoire de Belfort","GID_3":"FRA.2.7.1_1","NAME_3":"Belfort","GID_4":"FRA.2.7.1.4_1","NAME_4":"Danjoutin","GID_5":"FRA.2.7.1.4.6_1","NAME_5":"Fontenelle","TYPE_5":"Commune simple","ENGTYPE_5":"Commune","CC_5":""}}
+]}

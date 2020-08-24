@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[2.8226146697998615,49.43857955932623],[2.8457026481629555,49.45183181762695],[2.828927993774357,49.459106445312614],[2.8047928810120197,49.44234466552746],[2.8177528381347656,49.437557220458984],[2.8226146697998615,49.43857955932623]]]},"properties":{"GID_0":"FRA","NAME_0":"France","GID_1":"FRA.7_1","NAME_1":"Hauts-de-France","GID_2":"FRA.7.3_1","NAME_2":"Oise","GID_3":"FRA.7.3.3_1","NAME_3":"Compiègne","GID_4":"FRA.7.3.3.2_1","NAME_4":"Compiègne-Nord","GID_5":"FRA.7.3.3.2.1_1","NAME_5":"Bienville","TYPE_5":"Commune simple","ENGTYPE_5":"Commune","CC_5":""}}
+]}

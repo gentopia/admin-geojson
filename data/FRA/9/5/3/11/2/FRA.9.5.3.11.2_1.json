@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[0.9775488972665016,49.35357666015631],[0.9932827949523926,49.36275100708008],[0.9699952602386475,49.37273025512701],[0.9670420289039612,49.36032485961914],[0.9775488972665016,49.35357666015631]]]},"properties":{"GID_0":"FRA","NAME_0":"France","GID_1":"FRA.9_1","NAME_1":"Normandie","GID_2":"FRA.9.5_1","NAME_2":"Seine-Maritime","GID_3":"FRA.9.5.3_1","NAME_3":"Rouen","GID_4":"FRA.9.5.3.11_1","NAME_4":"Grand-Couronne","GID_5":"FRA.9.5.3.11.2_1","NAME_5":"Hautot-sur-Seine","TYPE_5":"Commune simple","ENGTYPE_5":"Commune","CC_5":""}}
+]}

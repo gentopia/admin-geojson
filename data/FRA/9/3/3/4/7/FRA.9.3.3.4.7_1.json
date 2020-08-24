@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[-1.3885895013809204,48.87545776367199],[-1.3932464122772217,48.853149414062614],[-1.3757258653640179,48.847682952880916],[-1.361939787864685,48.8494491577149],[-1.3650089502334026,48.86684799194336],[-1.3822194337844849,48.87099838256847],[-1.3885895013809204,48.87545776367199]]]},"properties":{"GID_0":"FRA","NAME_0":"France","GID_1":"FRA.9_1","NAME_1":"Normandie","GID_2":"FRA.9.3_1","NAME_2":"Manche","GID_3":"FRA.9.3.3_1","NAME_3":"Coutances","GID_4":"FRA.9.3.3.4_1","NAME_4":"Gavray","GID_5":"FRA.9.3.3.4.7_1","NAME_5":"Le Mesnil-Rogues","TYPE_5":"Commune simple","ENGTYPE_5":"Commune","CC_5":""}}
+]}

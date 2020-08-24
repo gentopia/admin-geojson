@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[0.6509830355643658,49.68342208862305],[0.6650028824806782,49.68648529052746],[0.6788761615754311,49.685791015625],[0.6806206703186035,49.69163131713867],[0.6714565157891457,49.698135375976676],[0.6416986584663391,49.694290161132926],[0.6429442167282104,49.68559265136719],[0.6509830355643658,49.68342208862305]]]},"properties":{"GID_0":"FRA","NAME_0":"France","GID_1":"FRA.9_1","NAME_1":"Normandie","GID_2":"FRA.9.5_1","NAME_2":"Seine-Maritime","GID_3":"FRA.9.5.2_1","NAME_3":"Le Havre","GID_4":"FRA.9.5.2.11_1","NAME_4":"Ourville-en-Caux","GID_5":"FRA.9.5.2.11.1_1","NAME_5":"Ancourteville-sur-Héricourt","TYPE_5":"Commune simple","ENGTYPE_5":"Commune","CC_5":""}}
+]}

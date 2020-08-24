@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[124.11730194091808,7.890409946441764],[124.09996032714855,7.900149822235107],[124.09938049316418,7.90012979507452],[124.11679077148438,7.889530181884879],[124.11730194091808,7.890409946441764]]]},"properties":{"GID_0":"PHL","NAME_0":"Philippines","GID_1":"PHL.42_1","NAME_1":"Lanao del Sur","NL_NAME_1":"","GID_2":"PHL.42.1_1","NAME_2":"Bacolod Kalawi","NL_NAME_2":"","GID_3":"PHL.42.1.4_1","NAME_3":"Barua","VARNAME_3":"","NL_NAME_3":"","TYPE_3":"Barangay","ENGTYPE_3":"Village","CC_3":"","HASC_3":""}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[-0.6036908626556396,48.73704147338873],[-0.5764070749282268,48.75204849243164],[-0.5873013138770489,48.768512725830135],[-0.6013572216033367,48.764373779296875],[-0.6111868619918255,48.76137542724615],[-0.6207231879234314,48.75455856323248],[-0.6036908626556396,48.73704147338873]]]},"properties":{"GID_0":"FRA","NAME_0":"France","GID_1":"FRA.9_1","NAME_1":"Normandie","GID_2":"FRA.9.4_1","NAME_2":"Orne","GID_3":"FRA.9.4.2_1","NAME_3":"Argentan","GID_4":"FRA.9.4.2.9_1","NAME_4":"Flers-Sud","GID_5":"FRA.9.4.2.9.3_1","NAME_5":"La Lande-Patry","TYPE_5":"Commune simple","ENGTYPE_5":"Commune","CC_5":""}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[2.9740989208222004,43.60012435913086],[2.979966878890991,43.56663513183594],[2.983704328537101,43.56453323364269],[2.9988119602203938,43.572704315185604],[2.9851071834564777,43.594341278076115],[2.97761702537548,43.595149993896484],[2.9740989208222004,43.60012435913086]]]},"properties":{"GID_0":"FRA","NAME_0":"France","GID_1":"FRA.11_1","NAME_1":"Occitanie","GID_2":"FRA.11.8_1","NAME_2":"Hérault","GID_3":"FRA.11.8.1_1","NAME_3":"Béziers","GID_4":"FRA.11.8.1.12_1","NAME_4":"Olargues","GID_5":"FRA.11.8.1.12.11_1","NAME_5":"Saint-Martin-de-l'Arçon","TYPE_5":"Commune simple","ENGTYPE_5":"Commune","CC_5":""}}
+]}

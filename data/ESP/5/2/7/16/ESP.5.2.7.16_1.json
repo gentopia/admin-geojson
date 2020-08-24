@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[-3.1905999183654217,42.13306808471691],[-3.197869062423706,42.131298065185604],[-3.19988298416132,42.129394531250114],[-3.1984500885009766,42.12822723388683],[-3.1920270919799236,42.12827682495123],[-3.1905999183654217,42.13306808471691]]]},"properties":{"GID_0":"ESP","NAME_0":"Spain","GID_1":"ESP.5_1","NAME_1":"Castilla y León","GID_2":"ESP.5.2_1","NAME_2":"Burgos","GID_3":"ESP.5.2.7_1","NAME_3":"n.a. (65)","GID_4":"ESP.5.2.7.16_1","NAME_4":"Comunidad de Barbadillo de Herreros, Valderrubio y Villajimeno","VARNAME_4":"","TYPE_4":"Municipality","ENGTYPE_4":"Municipality","CC_4":""}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[2.9836933612824623,50.661228179931754],[3.0027384757995605,50.652351379394645],[3.0075097084046547,50.65347290039068],[3.0106871128082275,50.659538269043026],[2.9942524433135986,50.67323303222656],[2.9793126583099934,50.67095184326172],[2.9836933612824623,50.661228179931754]]]},"properties":{"GID_0":"FRA","NAME_0":"France","GID_1":"FRA.7_1","NAME_1":"Hauts-de-France","GID_2":"FRA.7.2_1","NAME_2":"Nord","GID_3":"FRA.7.2.5_1","NAME_3":"Lille","GID_4":"FRA.7.2.5.14_1","NAME_4":"Quesnoy-sur-Deûle","GID_5":"FRA.7.2.5.14.3_1","NAME_5":"Lompret","TYPE_5":"Commune simple","ENGTYPE_5":"Commune","CC_5":""}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[0.06052097305661164,43.29766845703125],[0.05490615218883477,43.312767028808594],[0.0455680750310421,43.312881469726676],[0.03834939003002091,43.30869674682623],[0.03931250795727692,43.29786682128906],[0.06052097305661164,43.29766845703125]]]},"properties":{"GID_0":"FRA","NAME_0":"France","GID_1":"FRA.11_1","NAME_1":"Occitanie","GID_2":"FRA.11.7_1","NAME_2":"Hautes-Pyrénées","GID_3":"FRA.11.7.3_1","NAME_3":"Tarbes","GID_4":"FRA.11.7.3.2_1","NAME_4":"Bordères-sur-l'Échez","GID_5":"FRA.11.7.3.2.4_1","NAME_5":"Gayan","TYPE_5":"Commune simple","ENGTYPE_5":"Commune","CC_5":""}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[124.45494842529297,8.060919761657715],[124.46849060058594,8.072409629821777],[124.48046112060558,8.085610389709473],[124.47709655761719,8.096309661865178],[124.45034027099621,8.083060264587402],[124.45494842529297,8.060919761657715]]]},"properties":{"GID_0":"PHL","NAME_0":"Philippines","GID_1":"PHL.42_1","NAME_1":"Lanao del Sur","NL_NAME_1":"","GID_2":"PHL.42.37_1","NAME_2":"Tagoloan II","NL_NAME_2":"","GID_3":"PHL.42.37.18_1","NAME_3":"Sigayan","VARNAME_3":"","NL_NAME_3":"","TYPE_3":"Barangay","ENGTYPE_3":"Village","CC_3":"","HASC_3":""}}
+]}

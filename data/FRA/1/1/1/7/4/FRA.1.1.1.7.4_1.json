@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[5.441426753997803,45.91613769531256],[5.428599834442139,45.92206954956049],[5.413707733154354,45.90567779541021],[5.414177894592285,45.896091461181754],[5.446975231170768,45.883258819580135],[5.4515442848205,45.889404296875],[5.441426753997803,45.91613769531256]]]},"properties":{"GID_0":"FRA","NAME_0":"France","GID_1":"FRA.1_1","NAME_1":"Auvergne-Rhône-Alpes","GID_2":"FRA.1.1_1","NAME_2":"Ain","GID_3":"FRA.1.1.1_1","NAME_3":"Belley","GID_4":"FRA.1.1.1.7_1","NAME_4":"Saint-Rambert-en-Bugey","GID_5":"FRA.1.1.1.7.4_1","NAME_5":"Cleyzieu","TYPE_5":"Commune simple","ENGTYPE_5":"Commune","CC_5":""}}
+]}

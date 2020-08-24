@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[121.82160949707043,16.996530532836914],[121.81098937988281,16.995010375976562],[121.81159973144531,16.98144912719738],[121.81387329101562,16.981019973754996],[121.81668090820324,16.98019027709961],[121.82160949707043,16.996530532836914]]]},"properties":{"GID_0":"PHL","NAME_0":"Philippines","GID_1":"PHL.37_1","NAME_1":"Isabela","NL_NAME_1":"","GID_2":"PHL.37.25_1","NAME_2":"Reina Mercedes","NL_NAME_2":"","GID_3":"PHL.37.25.8_1","NAME_3":"Labinab Grande","VARNAME_3":"Poblacion","NL_NAME_3":"","TYPE_3":"Barangay","ENGTYPE_3":"Village","CC_3":"","HASC_3":""}}
+]}

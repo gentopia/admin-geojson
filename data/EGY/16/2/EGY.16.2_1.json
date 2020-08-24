@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[31.703227996826172,30.211654663085994],[31.727518081665153,30.25126457214361],[31.708946228027457,30.272733688354492],[31.66952705383312,30.250366210937557],[31.687660217285156,30.227609634399414],[31.68744468688965,30.20044898986822],[31.703227996826172,30.211654663085994]]]},"properties":{"GID_0":"EGY","NAME_0":"Egypt","GID_1":"EGY.16_1","NAME_1":"Ash Sharqiyah","NL_NAME_1":"محافظة الشرقية‎","GID_2":"EGY.16.2_1","NAME_2":"10 Ramadan 2","VARNAME_2":"Tenth of Ramadan 2 City","NL_NAME_2":"","TYPE_2":"Kism","ENGTYPE_2":"Subdivision","CC_2":"","HASC_2":"EG.SQ.TS"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[122.38352203369152,14.001520156860408],[122.38786315917991,14.001390457153434],[122.39962768554688,14.000820159912166],[122.39282226562523,14.035790443420467],[122.38352203369152,14.001520156860408]]]},"properties":{"GID_0":"PHL","NAME_0":"Philippines","GID_1":"PHL.62_1","NAME_1":"Quezon","NL_NAME_1":"","GID_2":"PHL.62.39_1","NAME_2":"Tagkawayan","NL_NAME_2":"","GID_3":"PHL.62.39.21_1","NAME_3":"Malbog","VARNAME_3":"","NL_NAME_3":"","TYPE_3":"Barangay","ENGTYPE_3":"Village","CC_3":"","HASC_3":""}}
+]}

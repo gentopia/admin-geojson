@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[-1.2134257555007366,49.09637069702154],[-1.1980690956115154,49.10229492187494],[-1.1980220079421997,49.11000442504894],[-1.2072241306304932,49.11269760131836],[-1.22245621681202,49.11161422729498],[-1.2278867959976196,49.106731414795036],[-1.2134257555007366,49.09637069702154]]]},"properties":{"GID_0":"FRA","NAME_0":"France","GID_1":"FRA.9_1","NAME_1":"Normandie","GID_2":"FRA.9.3_1","NAME_2":"Manche","GID_3":"FRA.9.3.4_1","NAME_3":"Saint-Lô","GID_4":"FRA.9.3.4.3_1","NAME_4":"Marigny","GID_5":"FRA.9.3.4.3.4_1","NAME_5":"Le Mesnil-Amey","TYPE_5":"Commune simple","ENGTYPE_5":"Commune","CC_5":""}}
+]}

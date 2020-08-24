@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[121.70163726806652,16.780620574951286],[121.7106170654298,16.79294967651373],[121.70716094970714,16.794799804687557],[121.69827270507812,16.78416061401373],[121.70163726806652,16.780620574951286]]]},"properties":{"GID_0":"PHL","NAME_0":"Philippines","GID_1":"PHL.37_1","NAME_1":"Isabela","NL_NAME_1":"","GID_2":"PHL.37.1_1","NAME_2":"Alicia","NL_NAME_2":"","GID_3":"PHL.37.1.10_1","NAME_3":"Calaocan","VARNAME_3":"Poblacion","NL_NAME_3":"","TYPE_3":"Barangay","ENGTYPE_3":"Village","CC_3":"","HASC_3":""}}
+]}

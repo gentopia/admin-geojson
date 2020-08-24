@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[-1.196141004562378,49.154834747314396],[-1.1907323598861694,49.143814086914176],[-1.1820898056029137,49.14147567749035],[-1.172780513763371,49.166946411132756],[-1.1877723932265667,49.169475555420036],[-1.1921157836913494,49.167667388916016],[-1.196141004562378,49.154834747314396]]]},"properties":{"GID_0":"FRA","NAME_0":"France","GID_1":"FRA.9_1","NAME_1":"Normandie","GID_2":"FRA.9.3_1","NAME_2":"Manche","GID_3":"FRA.9.3.4_1","NAME_3":"Saint-Lô","GID_4":"FRA.9.3.4.6_1","NAME_4":"Saint-Jean-de-Daye","GID_5":"FRA.9.3.4.6.1_1","NAME_5":"Amigny","TYPE_5":"Commune simple","ENGTYPE_5":"Commune","CC_5":""}}
+]}

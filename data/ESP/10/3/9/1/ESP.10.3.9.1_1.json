@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[-0.40359601378440857,39.419006347656364],[-0.3929339945315178,39.41716384887701],[-0.3922179937361534,39.423217773437614],[-0.3944720029830364,39.42607879638683],[-0.39662599563598633,39.4263076782226],[-0.4018999934196472,39.42686843872076],[-0.40359601378440857,39.419006347656364]]]},"properties":{"GID_0":"ESP","NAME_0":"Spain","GID_1":"ESP.10_1","NAME_1":"Comunidad Valenciana","GID_2":"ESP.10.3_1","NAME_2":"Valencia","GID_3":"ESP.10.3.9_1","NAME_3":"Horta Sud Ciutat de Valencia","GID_4":"ESP.10.3.9.1_1","NAME_4":"Benetússer","VARNAME_4":"Benetúser","TYPE_4":"Municipality","ENGTYPE_4":"Municipality","CC_4":""}}
+]}

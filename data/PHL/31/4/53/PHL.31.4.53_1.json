@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[125.46221923828125,11.694219589233398],[125.46634674072277,11.702610015869197],[125.44521331787121,11.705969810485897],[125.43631744384766,11.706680297851562],[125.43573760986328,11.697090148925724],[125.46221923828125,11.694219589233398]]]},"properties":{"GID_0":"PHL","NAME_0":"Philippines","GID_1":"PHL.31_1","NAME_1":"Eastern Samar","NL_NAME_1":"","GID_2":"PHL.31.4_1","NAME_2":"Borongan City","NL_NAME_2":"","GID_3":"PHL.31.4.53_1","NAME_3":"Santa Fe","VARNAME_3":"","NL_NAME_3":"","TYPE_3":"Barangay","ENGTYPE_3":"Village","CC_3":"","HASC_3":""}}
+]}

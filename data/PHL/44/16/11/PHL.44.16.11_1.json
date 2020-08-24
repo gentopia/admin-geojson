@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[124.35334777832031,6.953479766845703],[124.3623733520509,6.972650051117],[124.3498764038086,6.971970081329346],[124.3436965942384,6.956739902496395],[124.35334777832031,6.953479766845703]]]},"properties":{"GID_0":"PHL","NAME_0":"Philippines","GID_1":"PHL.44_1","NAME_1":"Maguindanao","NL_NAME_1":"","GID_2":"PHL.44.16_1","NAME_2":"Guindulungan","NL_NAME_2":"","GID_3":"PHL.44.16.11_1","NAME_3":"Tambunan II","VARNAME_3":"","NL_NAME_3":"","TYPE_3":"Barangay","ENGTYPE_3":"Village","CC_3":"","HASC_3":""}}
+]}

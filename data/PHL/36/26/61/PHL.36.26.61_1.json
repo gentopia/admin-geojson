@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[122.35034942626964,10.807999610900936],[122.34699249267578,10.817179679870605],[122.34105682373047,10.80636024475109],[122.34439849853527,10.802920341491756],[122.35034942626964,10.807999610900936]]]},"properties":{"GID_0":"PHL","NAME_0":"Philippines","GID_1":"PHL.36_1","NAME_1":"Iloilo","NL_NAME_1":"","GID_2":"PHL.36.26_1","NAME_2":"Leon","NL_NAME_2":"","GID_3":"PHL.36.26.61_1","NAME_3":"Mocol","VARNAME_3":"","NL_NAME_3":"","TYPE_3":"Barangay","ENGTYPE_3":"Village","CC_3":"","HASC_3":""}}
+]}

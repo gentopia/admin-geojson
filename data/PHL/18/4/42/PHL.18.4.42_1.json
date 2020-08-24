@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[121.67240905761719,17.819629669189453],[121.67578125,17.831409454345646],[121.66108703613281,17.832420349121207],[121.6661300659182,17.819000244140682],[121.66636657714855,17.819019317626896],[121.67240905761719,17.819629669189453]]]},"properties":{"GID_0":"PHL","NAME_0":"Philippines","GID_1":"PHL.18_1","NAME_1":"Cagayan","NL_NAME_1":"","GID_2":"PHL.18.4_1","NAME_2":"Amulung","NL_NAME_2":"","GID_3":"PHL.18.4.42_1","NAME_3":"Pacac-Grande","VARNAME_3":"","NL_NAME_3":"","TYPE_3":"Barangay","ENGTYPE_3":"Village","CC_3":"","HASC_3":""}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[2.1240532398224445,43.17990875244146],[2.1222474575042725,43.183078765869254],[2.104290723800773,43.18608093261713],[2.103123903274536,43.1860237121582],[2.105025291442871,43.17198944091797],[2.121932268142757,43.17389297485357],[2.1240532398224445,43.17990875244146]]]},"properties":{"GID_0":"FRA","NAME_0":"France","GID_1":"FRA.11_1","NAME_1":"Occitanie","GID_2":"FRA.11.2_1","NAME_2":"Aude","GID_3":"FRA.11.2.1_1","NAME_3":"Carcassonne","GID_4":"FRA.11.2.1.14_1","NAME_4":"Montréal","GID_5":"FRA.11.2.1.14.9_1","NAME_5":"Villeneuve-lès-Montréal","TYPE_5":"Commune simple","ENGTYPE_5":"Commune","CC_5":""}}
+]}

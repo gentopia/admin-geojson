@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[120.4131088256836,14.845069885253963],[120.43168640136741,14.871970176696834],[120.41381072998058,14.883210182189941],[120.40606689453125,14.883569717407227],[120.40447998046886,14.854140281677246],[120.4131088256836,14.845069885253963]]]},"properties":{"GID_0":"PHL","NAME_0":"Philippines","GID_1":"PHL.10_1","NAME_1":"Bataan","NL_NAME_1":"","GID_2":"PHL.10.4_1","NAME_2":"Dinalupihan","NL_NAME_2":"","GID_3":"PHL.10.4.44_1","NAME_3":"Tubo-Tubo","VARNAME_3":"","NL_NAME_3":"","TYPE_3":"Barangay","ENGTYPE_3":"Village","CC_3":"","HASC_3":""}}
+]}

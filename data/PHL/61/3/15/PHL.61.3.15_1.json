@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[119.99208831787121,16.092039108276424],[119.96913146972656,16.093389511108455],[119.96723937988281,16.076299667358512],[119.96942138671886,16.075170516967717],[119.97245025634777,16.07255935668951],[119.99208831787121,16.092039108276424]]]},"properties":{"GID_0":"PHL","NAME_0":"Philippines","GID_1":"PHL.61_1","NAME_1":"Pangasinan","NL_NAME_1":"","GID_2":"PHL.61.3_1","NAME_2":"Alaminos City","NL_NAME_2":"","GID_3":"PHL.61.3.15_1","NAME_3":"Linmansangan","VARNAME_3":"","NL_NAME_3":"","TYPE_3":"Barangay","ENGTYPE_3":"Village","CC_3":"","HASC_3":""}}
+]}

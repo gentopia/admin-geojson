@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[125.56778717041016,10.117670059204045],[125.58606719970703,10.11909008026123],[125.59990692138683,10.119890213012752],[125.59867095947266,10.13601016998291],[125.57315063476574,10.139360427856559],[125.56778717041016,10.117670059204045]]]},"properties":{"GID_0":"PHL","NAME_0":"Philippines","GID_1":"PHL.30_1","NAME_1":"Dinagat Islands","NL_NAME_1":"","GID_2":"PHL.30.4_1","NAME_2":"Libjo","NL_NAME_2":"","GID_3":"PHL.30.4.13_1","NAME_3":"Rosita","VARNAME_3":"","NL_NAME_3":"","TYPE_3":"Barangay","ENGTYPE_3":"Village","CC_3":"","HASC_3":""}}
+]}

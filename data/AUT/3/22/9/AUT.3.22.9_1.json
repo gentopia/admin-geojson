@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[16.457870483398438,48.11684799194347],[16.43991279602062,48.12260818481445],[16.416261672973746,48.1214714050293],[16.418418884277344,48.114372253418026],[16.430801391601562,48.10348510742193],[16.44967842102045,48.11178588867199],[16.457870483398438,48.11684799194347]]]},"properties":{"GID_0":"AUT","NAME_0":"Austria","GID_1":"AUT.3_1","NAME_1":"Niederösterreich","NL_NAME_1":"","GID_2":"AUT.3.22_1","NAME_2":"Wien Umgebung","NL_NAME_2":"","GID_3":"AUT.3.22.9_1","NAME_3":"Lanzendorf","VARNAME_3":"","NL_NAME_3":"","TYPE_3":"Gemeinde","ENGTYPE_3":"Municipality","CC_3":"32409","HASC_3":""}}
+]}

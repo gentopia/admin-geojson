@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[106.65131378173834,10.75812625885004],[106.65879821777355,10.759721755981445],[106.65706634521496,10.762240409851074],[106.6514511108399,10.759222984313908],[106.65131378173834,10.75812625885004]]]},"properties":{"GID_0":"VNM","NAME_0":"Vietnam","GID_1":"VNM.25_1","NAME_1":"Hồ Chí Minh","NL_NAME_1":"","GID_2":"VNM.25.11_1","NAME_2":"Quận 11","NL_NAME_2":"","GID_3":"VNM.25.11.13_1","NAME_3":"Phường 6","VARNAME_3":"Ward 6","NL_NAME_3":"","TYPE_3":"Phường","ENGTYPE_3":"Ward","CC_3":"","HASC_3":""}}
+]}

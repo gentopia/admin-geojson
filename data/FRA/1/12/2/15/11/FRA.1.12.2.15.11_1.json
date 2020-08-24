@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[6.090299129486084,45.49627685546875],[6.1152381896973225,45.51665496826183],[6.107995033264274,45.520992279052734],[6.08582878112793,45.509674072265625],[6.073477745056152,45.503505706787166],[6.08200836181652,45.4930419921875],[6.090299129486084,45.49627685546875]]]},"properties":{"GID_0":"FRA","NAME_0":"France","GID_1":"FRA.1_1","NAME_1":"Auvergne-Rhône-Alpes","GID_2":"FRA.1.12_1","NAME_2":"Savoie","GID_3":"FRA.1.12.2_1","NAME_3":"Chambéry","GID_4":"FRA.1.12.2.15_1","NAME_4":"Montmélian","GID_5":"FRA.1.12.2.15.11_1","NAME_5":"Planaise","TYPE_5":"Commune simple","ENGTYPE_5":"Commune","CC_5":""}}
+]}

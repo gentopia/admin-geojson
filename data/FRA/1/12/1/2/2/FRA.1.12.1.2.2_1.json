@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[6.419489860534782,45.69250869750982],[6.424671649932861,45.71034240722662],[6.410312175750732,45.71428298950201],[6.406571388244629,45.70806884765631],[6.403069972992,45.69382476806652],[6.419489860534782,45.69250869750982]]]},"properties":{"GID_0":"FRA","NAME_0":"France","GID_1":"FRA.1_1","NAME_1":"Auvergne-Rhône-Alpes","GID_2":"FRA.1.12_1","NAME_2":"Savoie","GID_3":"FRA.1.12.1_1","NAME_3":"Albertville","GID_4":"FRA.1.12.1.2_1","NAME_4":"Albertville-Nord","GID_5":"FRA.1.12.1.2.2_1","NAME_5":"Césarches","TYPE_5":"Commune simple","ENGTYPE_5":"Commune","CC_5":""}}
+]}

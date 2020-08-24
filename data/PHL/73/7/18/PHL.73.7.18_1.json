@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[120.99696350097656,5.960370063781795],[121.00356292724621,5.960690021514949],[121.0029067993164,5.974020004272575],[120.99662017822266,5.968239784240723],[120.99696350097656,5.960370063781795]]]},"properties":{"GID_0":"PHL","NAME_0":"Philippines","GID_1":"PHL.73_1","NAME_1":"Sulu","NL_NAME_1":"","GID_2":"PHL.73.7_1","NAME_2":"Maimbung","NL_NAME_2":"","GID_3":"PHL.73.7.18_1","NAME_3":"Lower Tambaking","VARNAME_3":"","NL_NAME_3":"","TYPE_3":"Barangay","ENGTYPE_3":"Village","CC_3":"","HASC_3":""}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[128.49496459960938,1.0166224241257282],[128.49514770507812,1.0253617763519856],[128.4842987060547,1.0252078771591755],[128.4843750000001,1.0162544250488281],[128.49496459960938,1.0166224241257282]]]},"properties":{"GID_0":"IDN","NAME_0":"Indonesia","GID_1":"IDN.18_1","NAME_1":"Maluku Utara","GID_2":"IDN.18.4_1","NAME_2":"Halmahera Timur","GID_3":"IDN.18.4.3_1","NAME_3":"Maba Tengah","GID_4":"IDN.18.4.3.9_1","NAME_4":"Upt Dorosago Sp V","VARNAME_4":"","TYPE_4":"Desa","ENGTYPE_4":"Village","CC_4":"8206041003"}}
+]}

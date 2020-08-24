@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[0.74930655956274,43.06904983520519],[0.7559756040573689,43.065753936767635],[0.7607296705245972,43.057060241699276],[0.7684788107872009,43.06006622314453],[0.7712691426278298,43.06949996948242],[0.7624844312668415,43.07229614257818],[0.74930655956274,43.06904983520519]]]},"properties":{"GID_0":"FRA","NAME_0":"France","GID_1":"FRA.11_1","NAME_1":"Occitanie","GID_2":"FRA.11.6_1","NAME_2":"Haute-Garonne","GID_3":"FRA.11.6.2_1","NAME_3":"Saint-Gaudens","GID_4":"FRA.11.6.2.9_1","NAME_4":"Saint-Gaudens","GID_5":"FRA.11.6.2.9.8_1","NAME_5":"Lespiteau","TYPE_5":"Commune simple","ENGTYPE_5":"Commune","CC_5":""}}
+]}

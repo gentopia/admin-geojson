@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[-0.13270331919187583,49.13066482543945],[-0.12483517080545425,49.1266136169433],[-0.1178412139415741,49.12955093383795],[-0.10763721168035545,49.14366912841808],[-0.12581801414478377,49.144943237304744],[-0.13270331919187583,49.13066482543945]]]},"properties":{"GID_0":"FRA","NAME_0":"France","GID_1":"FRA.9_1","NAME_1":"Normandie","GID_2":"FRA.9.1_1","NAME_2":"Calvados","GID_3":"FRA.9.1.2_1","NAME_3":"Caen","GID_4":"FRA.9.1.2.22_1","NAME_4":"Troarn","GID_5":"FRA.9.1.2.22.4_1","NAME_5":"Canteloup","TYPE_5":"Commune simple","ENGTYPE_5":"Commune","CC_5":""}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[1.5638694763183594,43.42665481567394],[1.5721685886384194,43.43400955200201],[1.5595926046372028,43.447582244873104],[1.5382779836655232,43.443130493164176],[1.5506494045258705,43.4339218139649],[1.5495785474777222,43.42741775512707],[1.5638694763183594,43.42665481567394]]]},"properties":{"GID_0":"FRA","NAME_0":"France","GID_1":"FRA.11_1","NAME_1":"Occitanie","GID_2":"FRA.11.6_1","NAME_2":"Haute-Garonne","GID_3":"FRA.11.6.3_1","NAME_3":"Toulouse","GID_4":"FRA.11.6.3.10_1","NAME_4":"Montgiscard","GID_5":"FRA.11.6.3.10.4_1","NAME_5":"Belbèze-de-Lauragais","TYPE_5":"Commune simple","ENGTYPE_5":"Commune","CC_5":""}}
+]}

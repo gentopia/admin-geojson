@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[123.80909729003918,9.833979606628475],[123.81532287597679,9.829039573669434],[123.82112884521484,9.836569786071834],[123.82044982910156,9.836640357971305],[123.81491088867188,9.837240219116211],[123.80909729003918,9.833979606628475]]]},"properties":{"GID_0":"PHL","NAME_0":"Philippines","GID_1":"PHL.15_1","NAME_1":"Bohol","NL_NAME_1":"","GID_2":"PHL.15.31_1","NAME_2":"Loon","NL_NAME_2":"","GID_3":"PHL.15.31.23_1","NAME_3":"Canhangdon Oriental","VARNAME_3":"","NL_NAME_3":"","TYPE_3":"Barangay","ENGTYPE_3":"Village","CC_3":"","HASC_3":""}}
+]}

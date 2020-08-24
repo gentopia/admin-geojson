@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[124.02713012695312,9.607890129089355],[124.01799774169922,9.60698032379156],[124.01419830322266,9.60521030426031],[124.01336669921886,9.600540161132756],[124.01798248291016,9.59939002990734],[124.02713012695312,9.607890129089355]]]},"properties":{"GID_0":"PHL","NAME_0":"Philippines","GID_1":"PHL.15_1","NAME_1":"Bohol","NL_NAME_1":"","GID_2":"PHL.15.29_1","NAME_2":"Loay","NL_NAME_2":"","GID_3":"PHL.15.29.7_1","NAME_3":"Calvario","VARNAME_3":"","NL_NAME_3":"","TYPE_3":"Barangay","ENGTYPE_3":"Village","CC_3":"","HASC_3":""}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[6.386930465698356,46.29277801513672],[6.37734317779541,46.277748107910156],[6.384399890899715,46.255023956298885],[6.389888286590519,46.249660491943416],[6.416418075561523,46.257987976074276],[6.40081691741949,46.28316116333008],[6.386930465698356,46.29277801513672]]]},"properties":{"GID_0":"FRA","NAME_0":"France","GID_1":"FRA.1_1","NAME_1":"Auvergne-Rhône-Alpes","GID_2":"FRA.1.7_1","NAME_2":"Haute-Savoie","GID_3":"FRA.1.7.5_1","NAME_3":"Thonon-les-Bains","GID_4":"FRA.1.7.5.3_1","NAME_4":"Douvaine","GID_5":"FRA.1.7.5.3.3_1","NAME_5":"Brenthonne","TYPE_5":"Commune simple","ENGTYPE_5":"Commune","CC_5":""}}
+]}

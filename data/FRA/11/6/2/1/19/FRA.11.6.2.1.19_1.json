@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[0.8186620473861694,42.95072937011719],[0.8382678627967834,42.958332061767635],[0.8248037695884136,42.971141815185604],[0.7893737554550739,42.97432327270508],[0.7992232441902729,42.96015548706049],[0.8154261112214272,42.95014953613281],[0.8186620473861694,42.95072937011719]]]},"properties":{"GID_0":"FRA","NAME_0":"France","GID_1":"FRA.11_1","NAME_1":"Occitanie","GID_2":"FRA.11.6_1","NAME_2":"Haute-Garonne","GID_3":"FRA.11.6.2_1","NAME_3":"Saint-Gaudens","GID_4":"FRA.11.6.2.1_1","NAME_4":"Aspet","GID_5":"FRA.11.6.2.1.19_1","NAME_5":"Razecueillé","TYPE_5":"Commune simple","ENGTYPE_5":"Commune","CC_5":""}}
+]}

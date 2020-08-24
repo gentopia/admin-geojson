@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[120.75064849853527,16.128019332885742],[120.75292968750011,16.130039215088004],[120.79931640625,16.188829421997127],[120.76886749267578,16.20137023925787],[120.75750732421886,16.200269699096793],[120.75064849853527,16.128019332885742]]]},"properties":{"GID_0":"PHL","NAME_0":"Philippines","GID_1":"PHL.61_1","NAME_1":"Pangasinan","NL_NAME_1":"","GID_2":"PHL.61.37_1","NAME_2":"San Nicolas","NL_NAME_2":"","GID_3":"PHL.61.37.20_1","NAME_3":"Salpad","VARNAME_3":"","NL_NAME_3":"","TYPE_3":"Barangay","ENGTYPE_3":"Village","CC_3":"","HASC_3":""}}
+]}

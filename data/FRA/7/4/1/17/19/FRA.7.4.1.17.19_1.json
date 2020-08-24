@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[3.0422916412354084,50.25090026855463],[3.036395311355591,50.2694091796875],[3.0343482494354816,50.2667808532716],[3.01864409446722,50.2643928527832],[3.0121285915374756,50.25629425048828],[3.018484115600586,50.24811553955084],[3.0422916412354084,50.25090026855463]]]},"properties":{"GID_0":"FRA","NAME_0":"France","GID_1":"FRA.7_1","NAME_1":"Hauts-de-France","GID_2":"FRA.7.4_1","NAME_2":"Pas-de-Calais","GID_3":"FRA.7.4.1_1","NAME_3":"Arras","GID_4":"FRA.7.4.1.17_1","NAME_4":"Vitry-en-Artois","GID_5":"FRA.7.4.1.17.19_1","NAME_5":"Récourt","TYPE_5":"Commune simple","ENGTYPE_5":"Commune","CC_5":""}}
+]}

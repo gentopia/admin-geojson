@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[3.1748697757720947,49.24977111816406],[3.1327531337738037,49.25551223754894],[3.1192593574524494,49.22871017456055],[3.1227545738220783,49.22653198242193],[3.14073300361639,49.23043060302746],[3.149593591690177,49.22795867919933],[3.1748697757720947,49.24977111816406]]]},"properties":{"GID_0":"FRA","NAME_0":"France","GID_1":"FRA.7_1","NAME_1":"Hauts-de-France","GID_2":"FRA.7.1_1","NAME_2":"Aisne","GID_3":"FRA.7.1.4_1","NAME_3":"Soissons","GID_4":"FRA.7.1.4.8_1","NAME_4":"Villers-Cotterêts","GID_5":"FRA.7.1.4.8.4_1","NAME_5":"Dampleux","TYPE_5":"Commune simple","ENGTYPE_5":"Commune","CC_5":""}}
+]}

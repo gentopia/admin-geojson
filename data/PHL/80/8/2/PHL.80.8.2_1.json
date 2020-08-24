@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[123.53968811035156,8.205240249633846],[123.54902648925781,8.2059202194215],[123.54956817626953,8.21537017822277],[123.5280532836914,8.214679718017635],[123.5282211303711,8.204230308532772],[123.53968811035156,8.205240249633846]]]},"properties":{"GID_0":"PHL","NAME_0":"Philippines","GID_1":"PHL.80_1","NAME_1":"Zamboanga del Sur","NL_NAME_1":"","GID_2":"PHL.80.8_1","NAME_2":"Josefina","NL_NAME_2":"","GID_3":"PHL.80.8.2_1","NAME_3":"Dawa","VARNAME_3":"Diwa","NL_NAME_3":"","TYPE_3":"Barangay","ENGTYPE_3":"Village","CC_3":"","HASC_3":""}}
+]}

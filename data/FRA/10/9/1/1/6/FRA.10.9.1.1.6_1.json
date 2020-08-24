@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[-0.6337513923644451,43.5541038513183],[-0.6258131265640259,43.56272506713867],[-0.6353487968444256,43.58107757568371],[-0.6410466432570843,43.57481002807623],[-0.6578891277312664,43.55974960327154],[-0.6428287625312805,43.55312347412115],[-0.6337513923644451,43.5541038513183]]]},"properties":{"GID_0":"FRA","NAME_0":"France","GID_1":"FRA.10_1","NAME_1":"Nouvelle-Aquitaine","GID_2":"FRA.10.9_1","NAME_2":"Landes","GID_3":"FRA.10.9.1_1","NAME_3":"Dax","GID_4":"FRA.10.9.1.1_1","NAME_4":"Amou","GID_5":"FRA.10.9.1.1.6_1","NAME_5":"Beyries","TYPE_5":"Commune simple","ENGTYPE_5":"Commune","CC_5":""}}
+]}

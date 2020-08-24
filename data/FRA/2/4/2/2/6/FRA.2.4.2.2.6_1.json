@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[5.553775310516414,46.412910461425895],[5.558104991912899,46.415802001953125],[5.557803630828914,46.422439575195426],[5.5447258949279785,46.436176300048885],[5.533432483673096,46.433471679687614],[5.539656162261906,46.417404174804744],[5.553775310516414,46.412910461425895]]]},"properties":{"GID_0":"FRA","NAME_0":"France","GID_1":"FRA.2_1","NAME_1":"Bourgogne-Franche-Comté","GID_2":"FRA.2.4_1","NAME_2":"Jura","GID_3":"FRA.2.4.2_1","NAME_3":"Lons-le-Saunier","GID_4":"FRA.2.4.2.2_1","NAME_4":"Arinthod","GID_5":"FRA.2.4.2.2.6_1","NAME_5":"Chatonnay","TYPE_5":"Commune simple","ENGTYPE_5":"Commune","CC_5":""}}
+]}

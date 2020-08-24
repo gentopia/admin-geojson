@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[2.5738363265990643,48.85338211059576],[2.58252215385437,48.856201171875114],[2.587331533432007,48.865005493164176],[2.567967414856014,48.86594390869152],[2.5668106079100994,48.865722656250114],[2.5669181346894447,48.85771942138683],[2.5738363265990643,48.85338211059576]]]},"properties":{"GID_0":"FRA","NAME_0":"France","GID_1":"FRA.8_1","NAME_1":"Île-de-France","GID_2":"FRA.8.5_1","NAME_2":"Seine-Saint-Denis","GID_3":"FRA.8.5.2_1","NAME_3":"Le Raincy","GID_4":"FRA.8.5.2.9_1","NAME_4":"Noisy-le-Grand","GID_5":"FRA.8.5.2.9.1_1","NAME_5":"Gournay-sur-Marne","TYPE_5":"Commune simple","ENGTYPE_5":"Commune","CC_5":""}}
+]}

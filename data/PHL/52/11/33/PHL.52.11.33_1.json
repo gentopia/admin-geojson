@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[123.22959136962902,10.149709701538143],[123.21734619140625,10.19141960144043],[123.19058990478516,10.172780036926326],[123.2028732299807,10.16543960571289],[123.22959136962902,10.149709701538143]]]},"properties":{"GID_0":"PHL","NAME_0":"Philippines","GID_1":"PHL.52_1","NAME_1":"Negros Oriental","NL_NAME_1":"","GID_2":"PHL.52.11_1","NAME_2":"Guihulngan City","NL_NAME_2":"","GID_3":"PHL.52.11.33_1","NAME_3":"Villegas","VARNAME_3":"","NL_NAME_3":"","TYPE_3":"Barangay","ENGTYPE_3":"Village","CC_3":"","HASC_3":""}}
+]}

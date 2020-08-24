@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[3.1827514171599773,50.25889968872076],[3.1627056598664467,50.25793075561529],[3.1490912437439533,50.26248168945324],[3.147167205810547,50.24622344970709],[3.1747357845306965,50.24142074584972],[3.1717875003814697,50.25149917602545],[3.1827514171599773,50.25889968872076]]]},"properties":{"GID_0":"FRA","NAME_0":"France","GID_1":"FRA.7_1","NAME_1":"Hauts-de-France","GID_2":"FRA.7.2_1","NAME_2":"Nord","GID_3":"FRA.7.2.2_1","NAME_3":"Cambrai","GID_4":"FRA.7.2.2.2_1","NAME_4":"Cambrai-Ouest","GID_5":"FRA.7.2.2.2.2_1","NAME_5":"Aubencheul-au-Bac","TYPE_5":"Commune simple","ENGTYPE_5":"Commune","CC_5":""}}
+]}

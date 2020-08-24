@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[1.683228850364742,49.050712585449276],[1.6676255464553833,49.05840682983404],[1.6449203491211506,49.06431579589855],[1.6279785633087158,49.05755615234381],[1.6283251047135536,49.04807281494152],[1.6351764202117351,49.04038238525396],[1.6429690122605507,49.037410736083984],[1.683228850364742,49.050712585449276]]]},"properties":{"GID_0":"FRA","NAME_0":"France","GID_1":"FRA.8_1","NAME_1":"Île-de-France","GID_2":"FRA.8.8_1","NAME_2":"Yvelines","GID_3":"FRA.8.8.1_1","NAME_3":"Mantes-la-Jolie","GID_4":"FRA.8.8.1.2_1","NAME_4":"Bonnières-sur-Seine","GID_5":"FRA.8.8.1.2.21_1","NAME_5":"Mousseaux-sur-Seine","TYPE_5":"Commune simple","ENGTYPE_5":"Commune","CC_5":""}}
+]}

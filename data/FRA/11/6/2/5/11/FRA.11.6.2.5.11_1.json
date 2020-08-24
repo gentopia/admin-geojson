@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[0.6936410665512653,43.35234451293945],[0.6753211617470356,43.33230590820318],[0.6747188568115234,43.32951354980463],[0.6923114657402607,43.32611846923828],[0.7162348031997681,43.34550857543951],[0.6936410665512653,43.35234451293945]]]},"properties":{"GID_0":"FRA","NAME_0":"France","GID_1":"FRA.11_1","NAME_1":"Occitanie","GID_2":"FRA.11.6_1","NAME_2":"Haute-Garonne","GID_3":"FRA.11.6.2_1","NAME_3":"Saint-Gaudens","GID_4":"FRA.11.6.2.5_1","NAME_4":"Boulogne-sur-Gesse","GID_5":"FRA.11.6.2.5.11_1","NAME_5":"Lunax","TYPE_5":"Commune simple","ENGTYPE_5":"Commune","CC_5":""}}
+]}

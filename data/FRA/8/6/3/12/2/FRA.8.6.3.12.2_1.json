@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[2.291831016540584,49.00632095336914],[2.2831432819367024,49.002952575683594],[2.2827351093293373,48.99984741210949],[2.290335655212459,48.99670791625988],[2.295353889465332,49.00154876708996],[2.291831016540584,49.00632095336914]]]},"properties":{"GID_0":"FRA","NAME_0":"France","GID_1":"FRA.8_1","NAME_1":"Île-de-France","GID_2":"FRA.8.6_1","NAME_2":"Val-d'Oise","GID_3":"FRA.8.6.3_1","NAME_3":"Sarcelles","GID_4":"FRA.8.6.3.12_1","NAME_4":"Soisy-sous-Montmorency","GID_5":"FRA.8.6.3.12.2_1","NAME_5":"Margency","TYPE_5":"Commune simple","ENGTYPE_5":"Commune","CC_5":""}}
+]}

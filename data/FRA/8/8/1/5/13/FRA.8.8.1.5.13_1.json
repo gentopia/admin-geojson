@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[1.8316093683243366,49.03592300415045],[1.8417288064956665,49.05194854736328],[1.8376041650772095,49.058345794677734],[1.8180406093597412,49.05578231811529],[1.8218145370483398,49.04384231567383],[1.8308727741241455,49.03583526611334],[1.8316093683243366,49.03592300415045]]]},"properties":{"GID_0":"FRA","NAME_0":"France","GID_1":"FRA.8_1","NAME_1":"Île-de-France","GID_2":"FRA.8.8_1","NAME_2":"Yvelines","GID_3":"FRA.8.8.1_1","NAME_3":"Mantes-la-Jolie","GID_4":"FRA.8.8.1.5_1","NAME_4":"Limay","GID_5":"FRA.8.8.1.5.13_1","NAME_5":"Montalet-le-Bois","TYPE_5":"Commune simple","ENGTYPE_5":"Commune","CC_5":""}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[-51.23570251464844,-29.366920471191406],[-51.23022842407221,-29.36192321777338],[-51.23931884765619,-29.35434150695795],[-51.26018524169916,-29.350696563720703],[-51.26351928710932,-29.358810424804688],[-51.25788497924799,-29.386049270629883],[-51.23570251464844,-29.366920471191406]]]},"properties":{"GID_0":"BRA","NAME_0":"Brazil","GID_1":"BRA.21_1","NAME_1":"Rio Grande do Sul","NL_NAME_1":"","GID_2":"BRA.21.448_1","NAME_2":"Vale Real","NL_NAME_2":"","GID_3":"BRA.21.448.4_1","NAME_3":"Morro Gaucho","VARNAME_3":"","NL_NAME_3":"","TYPE_3":"Distrito","ENGTYPE_3":"District","CC_3":"","HASC_3":""}}
+]}

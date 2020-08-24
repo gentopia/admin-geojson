@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[123.45976257324219,10.571820259094352],[123.44420623779308,10.578430175781193],[123.4325637817384,10.582900047302303],[123.43125915527355,10.565239906311149],[123.44896697998058,10.554539680480957],[123.45976257324219,10.571820259094352]]]},"properties":{"GID_0":"PHL","NAME_0":"Philippines","GID_1":"PHL.51_1","NAME_1":"Negros Occidental","NL_NAME_1":"","GID_2":"PHL.51.5_1","NAME_2":"Calatrava","NL_NAME_2":"","GID_3":"PHL.51.5.3_1","NAME_3":"Bagacay","VARNAME_3":"","NL_NAME_3":"","TYPE_3":"Barangay","ENGTYPE_3":"Village","CC_3":"","HASC_3":""}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[121.53305816650402,17.548809051513672],[121.56182861328136,17.550970077514705],[121.56134033203125,17.573480606079045],[121.53180694580078,17.569189071655217],[121.53305816650402,17.548809051513672]]]},"properties":{"GID_0":"PHL","NAME_0":"Philippines","GID_1":"PHL.38_1","NAME_1":"Kalinga","NL_NAME_1":"","GID_2":"PHL.38.5_1","NAME_2":"Rizal","NL_NAME_2":"","GID_3":"PHL.38.5.12_1","NAME_3":"San Pedro","VARNAME_3":"","NL_NAME_3":"","TYPE_3":"Barangay","ENGTYPE_3":"Village","CC_3":"","HASC_3":""}}
+]}

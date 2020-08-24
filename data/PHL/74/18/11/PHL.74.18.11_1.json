@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[125.54054260253918,9.672430038452148],[125.51217651367199,9.674519538879395],[125.51158905029308,9.668000221252498],[125.54041290283203,9.665710449218864],[125.54054260253918,9.672430038452148]]]},"properties":{"GID_0":"PHL","NAME_0":"Philippines","GID_1":"PHL.74_1","NAME_1":"Surigao del Norte","NL_NAME_1":"","GID_2":"PHL.74.18_1","NAME_2":"Sison","NL_NAME_2":"","GID_3":"PHL.74.18.11_1","NAME_3":"Tinogpahan","VARNAME_3":"","NL_NAME_3":"","TYPE_3":"Barangay","ENGTYPE_3":"Village","CC_3":"","HASC_3":""}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[125.5775604248048,9.4618501663208],[125.57723999023438,9.456789970397892],[125.59687042236328,9.45508956909174],[125.59629058837902,9.474630355834961],[125.57840728759766,9.47128009796154],[125.5780029296875,9.46720027923584],[125.5775604248048,9.4618501663208]]]},"properties":{"GID_0":"PHL","NAME_0":"Philippines","GID_1":"PHL.74_1","NAME_1":"Surigao del Norte","NL_NAME_1":"","GID_2":"PHL.74.1_1","NAME_2":"Alegria","NL_NAME_2":"","GID_3":"PHL.74.1.7_1","NAME_3":"Julio Ouano","VARNAME_3":"Poblacion","NL_NAME_3":"","TYPE_3":"Barangay","ENGTYPE_3":"Village","CC_3":"","HASC_3":""}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[3.1586811542510986,49.08041000366222],[3.1455533504486652,49.07509231567394],[3.1455991268159096,49.06217193603521],[3.1577868461609455,49.0474472045899],[3.170330762863273,49.05164718627924],[3.181708335876408,49.06216812133789],[3.167881488800049,49.07690048217779],[3.1586811542510986,49.08041000366222]]]},"properties":{"GID_0":"FRA","NAME_0":"France","GID_1":"FRA.8_1","NAME_1":"Île-de-France","GID_2":"FRA.8.4_1","NAME_2":"Seine-et-Marne","GID_3":"FRA.8.4.2_1","NAME_3":"Meaux","GID_4":"FRA.8.4.2.5_1","NAME_4":"Lizy-sur-Ourcq","GID_5":"FRA.8.4.2.5.9_1","NAME_5":"Germigny-sous-Coulombs","TYPE_5":"Commune simple","ENGTYPE_5":"Commune","CC_5":""}}
+]}

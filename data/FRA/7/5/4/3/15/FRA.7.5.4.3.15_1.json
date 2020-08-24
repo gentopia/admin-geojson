@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[2.8514554500580402,49.823097229003906],[2.8487370014190674,49.83130264282232],[2.8250629901885986,49.82537078857416],[2.820887804031429,49.816074371338004],[2.8308176994324867,49.815361022949276],[2.840924024582023,49.81586837768566],[2.8514554500580402,49.823097229003906]]]},"properties":{"GID_0":"FRA","NAME_0":"France","GID_1":"FRA.7_1","NAME_1":"Hauts-de-France","GID_2":"FRA.7.5_1","NAME_2":"Somme","GID_3":"FRA.7.5.4_1","NAME_3":"Péronne","GID_4":"FRA.7.5.4.3_1","NAME_4":"Chaulnes","GID_5":"FRA.7.5.4.3.15_1","NAME_5":"Hyencourt-le-Grand","TYPE_5":"Commune simple","ENGTYPE_5":"Commune","CC_5":""}}
+]}

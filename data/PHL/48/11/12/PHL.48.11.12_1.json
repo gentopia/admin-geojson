@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[123.79326629638683,8.167719841003475],[123.7983169555664,8.172220230102539],[123.79869079589844,8.178290367126522],[123.78569793701172,8.1806898117066],[123.78058624267578,8.164690017700309],[123.79326629638683,8.167719841003475]]]},"properties":{"GID_0":"PHL","NAME_0":"Philippines","GID_1":"PHL.48_1","NAME_1":"Misamis Occidental","NL_NAME_1":"","GID_2":"PHL.48.11_1","NAME_2":"Ozamis City","NL_NAME_2":"","GID_3":"PHL.48.11.12_1","NAME_3":"Capucao C.","VARNAME_3":"","NL_NAME_3":"","TYPE_3":"Barangay","ENGTYPE_3":"Village","CC_3":"","HASC_3":""}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[120.87252807617199,16.98117065429699],[120.86769104003906,16.98822975158697],[120.86604309082043,16.993299484252987],[120.84577178955101,16.998880386352596],[120.84149932861328,16.985919952392578],[120.87252807617199,16.98117065429699]]]},"properties":{"GID_0":"PHL","NAME_0":"Philippines","GID_1":"PHL.50_1","NAME_1":"Mountain Province","NL_NAME_1":"","GID_2":"PHL.50.2_1","NAME_2":"Bauko","NL_NAME_2":"","GID_3":"PHL.50.2.1_1","NAME_3":"Abatan","VARNAME_3":"","NL_NAME_3":"","TYPE_3":"Barangay","ENGTYPE_3":"Village","CC_3":"","HASC_3":""}}
+]}

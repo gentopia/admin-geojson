@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[123.07164001464844,10.270810127258358],[123.07335662841797,10.271989822387695],[123.0741195678711,10.272589683532772],[123.07148742675793,10.27488040924078],[123.07000732421886,10.27361011505127],[123.06939697265636,10.273099899292049],[123.07164001464844,10.270810127258358]]]},"properties":{"GID_0":"PHL","NAME_0":"Philippines","GID_1":"PHL.51_1","NAME_1":"Negros Occidental","NL_NAME_1":"","GID_2":"PHL.51.19_1","NAME_2":"Moises Padilla","NL_NAME_2":"","GID_3":"PHL.51.19.5_1","NAME_3":"Barangay 5","VARNAME_3":"Poblacion","NL_NAME_3":"","TYPE_3":"Barangay","ENGTYPE_3":"Village","CC_3":"","HASC_3":""}}
+]}

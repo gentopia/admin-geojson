@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[5.598990440368709,46.82996749877924],[5.60912132263195,46.839179992675895],[5.600094795227108,46.84640884399414],[5.582796096801758,46.84325027465826],[5.58188629150402,46.84013748168945],[5.581911563873234,46.83626174926752],[5.598990440368709,46.82996749877924]]]},"properties":{"GID_0":"FRA","NAME_0":"France","GID_1":"FRA.2_1","NAME_1":"Bourgogne-Franche-Comté","GID_2":"FRA.2.4_1","NAME_2":"Jura","GID_3":"FRA.2.4.2_1","NAME_3":"Lons-le-Saunier","GID_4":"FRA.2.4.2.19_1","NAME_4":"Sellières","GID_5":"FRA.2.4.2.19.6_1","NAME_5":"Monay","TYPE_5":"Commune simple","ENGTYPE_5":"Commune","CC_5":""}}
+]}

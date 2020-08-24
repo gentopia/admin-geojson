@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[121.00302124023438,18.523469924926815],[121.03382873535156,18.5245304107666],[121.01493835449219,18.53578948974615],[121.006103515625,18.54022026062006],[121.00302124023438,18.523469924926815]]]},"properties":{"GID_0":"PHL","NAME_0":"Philippines","GID_1":"PHL.18_1","NAME_1":"Cagayan","NL_NAME_1":"","GID_2":"PHL.18.24_1","NAME_2":"Santa Praxedes","NL_NAME_2":"","GID_3":"PHL.18.24.10_1","NAME_3":"Sicul","VARNAME_3":"","NL_NAME_3":"","TYPE_3":"Barangay","ENGTYPE_3":"Village","CC_3":"","HASC_3":""}}
+]}

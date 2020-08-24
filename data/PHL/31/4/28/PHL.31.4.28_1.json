@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[125.44445037841808,11.64560985565197],[125.44486236572266,11.649169921875114],[125.44483184814464,11.650910377502555],[125.41192626953125,11.656379699707088],[125.41230010986328,11.64867019653326],[125.44445037841808,11.64560985565197]]]},"properties":{"GID_0":"PHL","NAME_0":"Philippines","GID_1":"PHL.31_1","NAME_1":"Eastern Samar","NL_NAME_1":"","GID_2":"PHL.31.4_1","NAME_2":"Borongan City","NL_NAME_2":"","GID_3":"PHL.31.4.28_1","NAME_3":"Libuton","VARNAME_3":"","NL_NAME_3":"","TYPE_3":"Barangay","ENGTYPE_3":"Village","CC_3":"","HASC_3":""}}
+]}

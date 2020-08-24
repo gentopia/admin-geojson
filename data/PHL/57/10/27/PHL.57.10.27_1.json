@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[121.10646057128906,12.371820449829102],[121.08415222167969,12.428009986877385],[121.05061340332031,12.406189918518123],[121.0765380859375,12.37106037139904],[121.10646057128906,12.371820449829102]]]},"properties":{"GID_0":"PHL","NAME_0":"Philippines","GID_1":"PHL.57_1","NAME_1":"Occidental Mindoro","NL_NAME_1":"","GID_2":"PHL.57.10_1","NAME_2":"San Jose","NL_NAME_2":"","GID_3":"PHL.57.10.27_1","NAME_3":"Mabini","VARNAME_3":"","NL_NAME_3":"","TYPE_3":"Barangay","ENGTYPE_3":"Village","CC_3":"","HASC_3":""}}
+]}

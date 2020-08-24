@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[3.7372577190400307,49.77178573608404],[3.7593131065368084,49.768775939941406],[3.7787389755249023,49.7800025939942],[3.776280879974479,49.78808593750006],[3.7455930709840004,49.79349517822277],[3.7372577190400307,49.77178573608404]]]},"properties":{"GID_0":"FRA","NAME_0":"France","GID_1":"FRA.7_1","NAME_1":"Hauts-de-France","GID_2":"FRA.7.1_1","NAME_2":"Aisne","GID_3":"FRA.7.1.5_1","NAME_3":"Vervins","GID_4":"FRA.7.1.5.6_1","NAME_4":"Sains-Richaumont","GID_5":"FRA.7.1.5.6.1_1","NAME_5":"Berlancourt","TYPE_5":"Commune simple","ENGTYPE_5":"Commune","CC_5":""}}
+]}

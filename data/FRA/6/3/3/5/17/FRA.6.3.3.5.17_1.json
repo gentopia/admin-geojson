@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[7.0541300773620605,48.93685913085943],[7.064109325408992,48.936531066894645],[7.066627502441349,48.93937301635742],[7.066155910492057,48.95884704589855],[7.034235477447567,48.953487396240234],[7.041951179504338,48.94194412231457],[7.0541300773620605,48.93685913085943]]]},"properties":{"GID_0":"FRA","NAME_0":"France","GID_1":"FRA.6_1","NAME_1":"Grand Est","GID_2":"FRA.6.3_1","NAME_2":"Bas-Rhin","GID_3":"FRA.6.3.3_1","NAME_3":"Saverne","GID_4":"FRA.6.3.3.5_1","NAME_4":"Sarre-Union","GID_5":"FRA.6.3.3.5.17_1","NAME_5":"Schopperten","TYPE_5":"Commune simple","ENGTYPE_5":"Commune","CC_5":""}}
+]}

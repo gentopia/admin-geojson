@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[124.96520233154297,11.108830451965332],[124.96251678466797,11.114899635314998],[124.9387893676759,11.112919807434139],[124.94230651855469,11.103960037231388],[124.94513702392578,11.097350120544547],[124.96520233154297,11.108830451965332]]]},"properties":{"GID_0":"PHL","NAME_0":"Philippines","GID_1":"PHL.43_1","NAME_1":"Leyte","NL_NAME_1":"","GID_2":"PHL.43.31_1","NAME_2":"Palo","NL_NAME_2":"","GID_3":"PHL.43.31.6_1","NAME_3":"Cabarasan Daku","VARNAME_3":"","NL_NAME_3":"","TYPE_3":"Barangay","ENGTYPE_3":"Village","CC_3":"","HASC_3":""}}
+]}

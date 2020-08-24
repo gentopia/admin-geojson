@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[120.61253356933605,15.128700256347713],[120.60832977294933,15.132089614868107],[120.60611724853516,15.13097953796398],[120.60315704345726,15.129190444946403],[120.60368347167969,15.127679824829215],[120.6049575805664,15.125430107116642],[120.61253356933605,15.128700256347713]]]},"properties":{"GID_0":"PHL","NAME_0":"Philippines","GID_1":"PHL.60_1","NAME_1":"Pampanga","NL_NAME_1":"","GID_2":"PHL.60.1_1","NAME_2":"Angeles City","NL_NAME_2":"","GID_3":"PHL.60.1.1_1","NAME_3":"Agapito del Rosario","VARNAME_3":"","NL_NAME_3":"","TYPE_3":"Barangay","ENGTYPE_3":"Village","CC_3":"","HASC_3":""}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[1.9158415794373127,49.73674011230469],[1.9164838790893555,49.72800827026367],[1.9327028989793007,49.72134017944336],[1.9454518556595417,49.7261695861817],[1.9445081949234577,49.73630905151373],[1.9158415794373127,49.73674011230469]]]},"properties":{"GID_0":"FRA","NAME_0":"France","GID_1":"FRA.7_1","NAME_1":"Hauts-de-France","GID_2":"FRA.7.5_1","NAME_2":"Somme","GID_3":"FRA.7.5.2_1","NAME_3":"Amiens","GID_4":"FRA.7.5.2.19_1","NAME_4":"Poix-de-Picardie","GID_5":"FRA.7.5.2.19.21_1","NAME_5":"Méréaucourt","TYPE_5":"Commune simple","ENGTYPE_5":"Commune","CC_5":""}}
+]}

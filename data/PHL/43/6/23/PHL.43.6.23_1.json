@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[124.89569091796886,10.336910247802734],[124.89541625976562,10.341779708862362],[124.88826751708996,10.34148979187006],[124.87354278564464,10.334520339965763],[124.89569091796886,10.336910247802734]]]},"properties":{"GID_0":"PHL","NAME_0":"Philippines","GID_1":"PHL.43_1","NAME_1":"Leyte","NL_NAME_1":"","GID_2":"PHL.43.6_1","NAME_2":"Bato","NL_NAME_2":"","GID_3":"PHL.43.6.23_1","NAME_3":"Osmeña","VARNAME_3":"","NL_NAME_3":"","TYPE_3":"Barangay","ENGTYPE_3":"Village","CC_3":"","HASC_3":""}}
+]}

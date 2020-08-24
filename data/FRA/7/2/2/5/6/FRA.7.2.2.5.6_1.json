@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[3.345300197601432,50.03815460205084],[3.353466510772705,50.0553932189942],[3.3495097160339355,50.060192108154354],[3.330794334411678,50.052753448486385],[3.345300197601432,50.03815460205084]]]},"properties":{"GID_0":"FRA","NAME_0":"France","GID_1":"FRA.7_1","NAME_1":"Hauts-de-France","GID_2":"FRA.7.2_1","NAME_2":"Nord","GID_3":"FRA.7.2.2_1","NAME_3":"Cambrai","GID_4":"FRA.7.2.2.5_1","NAME_4":"Clary","GID_5":"FRA.7.2.2.5.6_1","NAME_5":"Dehéries","TYPE_5":"Commune simple","ENGTYPE_5":"Commune","CC_5":""}}
+]}

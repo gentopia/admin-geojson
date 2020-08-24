@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[6.748725414276237,47.493316650390625],[6.745295047760067,47.49597930908203],[6.734449863433838,47.506717681884766],[6.7222437858580975,47.51229858398449],[6.714199066162223,47.51232910156244],[6.713202476501465,47.493770599365234],[6.748725414276237,47.493316650390625]]]},"properties":{"GID_0":"FRA","NAME_0":"France","GID_1":"FRA.2_1","NAME_1":"Bourgogne-Franche-Comté","GID_2":"FRA.2.2_1","NAME_2":"Doubs","GID_3":"FRA.2.2.2_1","NAME_3":"Montbéliard","GID_4":"FRA.2.2.2.8_1","NAME_4":"Montbéliard-Ouest","GID_5":"FRA.2.2.2.8.14_1","NAME_5":"Présentevillers","TYPE_5":"Commune simple","ENGTYPE_5":"Commune","CC_5":""}}
+]}

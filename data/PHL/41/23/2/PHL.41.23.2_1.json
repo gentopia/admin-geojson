@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[123.9278335571289,7.944769859313965],[123.93179321289062,7.950290203094426],[123.93547058105469,7.955510139465446],[123.92755126953136,7.961550235748291],[123.91900634765625,7.951910018921012],[123.9278335571289,7.944769859313965]]]},"properties":{"GID_0":"PHL","NAME_0":"Philippines","GID_1":"PHL.41_1","NAME_1":"Lanao del Norte","NL_NAME_1":"","GID_2":"PHL.41.23_1","NAME_2":"Tubod","NL_NAME_2":"","GID_3":"PHL.41.23.2_1","NAME_3":"Baris","VARNAME_3":"Lumangculob","NL_NAME_3":"","TYPE_3":"Barangay","ENGTYPE_3":"Village","CC_3":"","HASC_3":""}}
+]}

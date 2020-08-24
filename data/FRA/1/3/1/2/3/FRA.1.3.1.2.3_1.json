@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[4.367569923400879,44.578010559082145],[4.348198413848877,44.5918540954591],[4.331651687622127,44.58481597900396],[4.331180572509879,44.57445907592779],[4.3452587127686115,44.57320785522461],[4.367569923400879,44.578010559082145]]]},"properties":{"GID_0":"FRA","NAME_0":"France","GID_1":"FRA.1_1","NAME_1":"Auvergne-Rhône-Alpes","GID_2":"FRA.1.3_1","NAME_2":"Ardèche","GID_3":"FRA.1.3.1_1","NAME_3":"Largentière","GID_4":"FRA.1.3.1.2_1","NAME_4":"Aubenas","GID_5":"FRA.1.3.1.2.3_1","NAME_5":"Fons","TYPE_5":"Commune simple","ENGTYPE_5":"Commune","CC_5":""}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[0.7300095558167072,43.904258728027344],[0.7166489958763691,43.90019989013672],[0.7084500789642334,43.89166259765625],[0.7281676530838013,43.880146026611385],[0.7351458668708801,43.89186859130865],[0.7300095558167072,43.904258728027344]]]},"properties":{"GID_0":"FRA","NAME_0":"France","GID_1":"FRA.11_1","NAME_1":"Occitanie","GID_2":"FRA.11.5_1","NAME_2":"Gers","GID_3":"FRA.11.5.2_1","NAME_3":"Condom","GID_4":"FRA.11.5.2.10_1","NAME_4":"Saint-Clar","GID_5":"FRA.11.5.2.10.8_1","NAME_5":"Magnas","TYPE_5":"Commune simple","ENGTYPE_5":"Commune","CC_5":""}}
+]}

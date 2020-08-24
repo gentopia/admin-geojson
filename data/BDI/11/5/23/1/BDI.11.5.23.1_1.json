@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[29.77910804748541,-4.113534927368107],[29.781454086303768,-4.1063780784606365],[29.777950286865234,-4.105788230895996],[29.77593231201172,-4.1094841957092285],[29.77576065063488,-4.109834194183236],[29.77910804748541,-4.113534927368107]]]},"properties":{"GID_0":"BDI","NAME_0":"Burundi","GID_1":"BDI.11_1","NAME_1":"Makamba","GID_2":"BDI.11.5_1","NAME_2":"Makamba","GID_3":"BDI.11.5.23_1","NAME_3":"Muresi","GID_4":"BDI.11.5.23.1_1","NAME_4":"Bukara","VARNAME_4":"","TYPE_4":"Sous Colline","ENGTYPE_4":"Sous Colline","CC_4":""}}
+]}

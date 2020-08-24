@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[0.4089123010635376,42.82666015625006],[0.40889489650737687,42.83746719360363],[0.3894959688186077,42.84285354614252],[0.3842644095421974,42.83847808837896],[0.3849393427371979,42.826744079589844],[0.3969918787479969,42.828639984130916],[0.4089123010635376,42.82666015625006]]]},"properties":{"GID_0":"FRA","NAME_0":"France","GID_1":"FRA.11_1","NAME_1":"Occitanie","GID_2":"FRA.11.7_1","NAME_2":"Hautes-Pyrénées","GID_3":"FRA.11.7.2_1","NAME_3":"Bagnères-de-Bigorre","GID_4":"FRA.11.7.2.3_1","NAME_4":"Bordères-Louron","GID_5":"FRA.11.7.2.3.15_1","NAME_5":"Vielle-Louron","TYPE_5":"Commune simple","ENGTYPE_5":"Commune","CC_5":""}}
+]}

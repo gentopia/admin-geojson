@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[3.413846254348698,49.78674316406256],[3.422468423843384,49.78392028808605],[3.4314825534821694,49.78657531738287],[3.4311306476593018,49.792568206787166],[3.403714895248413,49.80590820312494],[3.4005720615386963,49.79988098144537],[3.413846254348698,49.78674316406256]]]},"properties":{"GID_0":"FRA","NAME_0":"France","GID_1":"FRA.7_1","NAME_1":"Hauts-de-France","GID_2":"FRA.7.1_1","NAME_2":"Aisne","GID_3":"FRA.7.1.3_1","NAME_3":"Saint-Quentin","GID_4":"FRA.7.1.3.3_1","NAME_4":"Moÿ-de-l'Aisne","GID_5":"FRA.7.1.3.3.7_1","NAME_5":"Châtillon-sur-Oise","TYPE_5":"Commune simple","ENGTYPE_5":"Commune","CC_5":""}}
+]}

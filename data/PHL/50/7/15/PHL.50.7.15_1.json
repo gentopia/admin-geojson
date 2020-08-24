@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[120.92919158935558,17.004060745239315],[120.93766784667969,17.01685905456543],[120.92037963867199,17.025899887085018],[120.92024230957031,17.015060424804744],[120.92919158935558,17.004060745239315]]]},"properties":{"GID_0":"PHL","NAME_0":"Philippines","GID_1":"PHL.50_1","NAME_1":"Mountain Province","NL_NAME_1":"","GID_2":"PHL.50.7_1","NAME_2":"Sabangan","NL_NAME_2":"","GID_3":"PHL.50.7.15_1","NAME_3":"Tambingan","VARNAME_3":"","NL_NAME_3":"","TYPE_3":"Barangay","ENGTYPE_3":"Village","CC_3":"","HASC_3":""}}
+]}

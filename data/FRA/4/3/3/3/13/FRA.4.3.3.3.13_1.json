@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[1.0038193464279743,47.3286018371582],[1.0249099731444744,47.3641090393067],[1.002285838127193,47.37087249755865],[0.9852138161659241,47.3659019470216],[0.9802344441415016,47.36544036865246],[0.967073082923946,47.35109710693371],[0.9620740413666908,47.331306457519645],[1.0038193464279743,47.3286018371582]]]},"properties":{"GID_0":"FRA","NAME_0":"France","GID_1":"FRA.4_1","NAME_1":"Centre-Val de Loire","GID_2":"FRA.4.3_1","NAME_2":"Indre-et-Loire","GID_3":"FRA.4.3.3_1","NAME_3":"Tours","GID_4":"FRA.4.3.3.3_1","NAME_4":"Bléré","GID_5":"FRA.4.3.3.3.13_1","NAME_5":"La Croix-en-Touraine","TYPE_5":"Commune simple","ENGTYPE_5":"Commune","CC_5":""}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[-1.678371548652649,49.4053192138673],[-1.672363519668579,49.407684326171875],[-1.6694936752318768,49.42304611206055],[-1.6634680032728966,49.4314918518067],[-1.6988517045974731,49.422584533691406],[-1.710434913635197,49.41085433959961],[-1.6865422725676922,49.40867614746094],[-1.678371548652649,49.4053192138673]]]},"properties":{"GID_0":"FRA","NAME_0":"France","GID_1":"FRA.9_1","NAME_1":"Normandie","GID_2":"FRA.9.3_1","NAME_2":"Manche","GID_3":"FRA.9.3.2_1","NAME_3":"Cherbourg","GID_4":"FRA.9.3.2.1_1","NAME_4":"Barneville-Carteret","GID_5":"FRA.9.3.2.1.12_1","NAME_5":"Saint-Pierre-d'Arthéglise","TYPE_5":"Commune simple","ENGTYPE_5":"Commune","CC_5":""}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[122.72399139404308,7.866300106048641],[122.72267913818371,7.873010158538818],[122.69954681396496,7.874800205230827],[122.69512176513672,7.862830162048397],[122.72399139404308,7.866300106048641]]]},"properties":{"GID_0":"PHL","NAME_0":"Philippines","GID_1":"PHL.81_1","NAME_1":"Zamboanga Sibugay","NL_NAME_1":"","GID_2":"PHL.81.9_1","NAME_2":"Naga","NL_NAME_2":"","GID_3":"PHL.81.9.18_1","NAME_3":"Sulo","VARNAME_3":"","NL_NAME_3":"","TYPE_3":"Barangay","ENGTYPE_3":"Village","CC_3":"","HASC_3":""}}
+]}

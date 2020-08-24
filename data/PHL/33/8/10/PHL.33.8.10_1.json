@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[121.18238067626953,16.770769119262752],[121.19574737548828,16.78771018981945],[121.17668151855469,16.79294967651373],[121.15467834472656,16.789329528808537],[121.18238067626953,16.770769119262752]]]},"properties":{"GID_0":"PHL","NAME_0":"Philippines","GID_1":"PHL.33_1","NAME_1":"Ifugao","NL_NAME_1":"","GID_2":"PHL.33.8_1","NAME_2":"Lagawe","NL_NAME_2":"","GID_3":"PHL.33.8.10_1","NAME_3":"Luta","VARNAME_3":"","NL_NAME_3":"","TYPE_3":"Barangay","ENGTYPE_3":"Village","CC_3":"","HASC_3":""}}
+]}

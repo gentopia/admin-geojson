@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[0.7957956194877625,49.76956176757818],[0.7737561464310829,49.766418457031364],[0.7622857689856914,49.75138854980469],[0.7893175482749939,49.74959945678711],[0.7963875532150837,49.75904846191406],[0.7957956194877625,49.76956176757818]]]},"properties":{"GID_0":"FRA","NAME_0":"France","GID_1":"FRA.9_1","NAME_1":"Normandie","GID_2":"FRA.9.5_1","NAME_2":"Seine-Maritime","GID_3":"FRA.9.5.3_1","NAME_3":"Rouen","GID_4":"FRA.9.5.3.8_1","NAME_4":"Doudeville","GID_5":"FRA.9.5.3.8.9_1","NAME_5":"Fultot","TYPE_5":"Commune simple","ENGTYPE_5":"Commune","CC_5":""}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[-0.5071489214897156,49.126365661621094],[-0.4869581460952759,49.13545989990246],[-0.4944041967390831,49.13909530639654],[-0.5028148293495178,49.149875640869084],[-0.5080741047859192,49.140224456787166],[-0.5071489214897156,49.126365661621094]]]},"properties":{"GID_0":"FRA","NAME_0":"France","GID_1":"FRA.9_1","NAME_1":"Normandie","GID_2":"FRA.9.1_1","NAME_2":"Calvados","GID_3":"FRA.9.1.2_1","NAME_3":"Caen","GID_4":"FRA.9.1.2.13_1","NAME_4":"Évrecy","GID_5":"FRA.9.1.2.13.22_1","NAME_5":"Tourville-sur-Odon","TYPE_5":"Commune simple","ENGTYPE_5":"Commune","CC_5":""}}
+]}

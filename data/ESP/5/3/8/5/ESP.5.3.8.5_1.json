@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[-6.008546829223633,42.32214736938471],[-6.020363807678223,42.32312011718756],[-6.020658016204834,42.31636047363281],[-6.009312152862492,42.31533432006836],[-6.010006904601994,42.321231842041016],[-6.008546829223633,42.32214736938471]]]},"properties":{"GID_0":"ESP","NAME_0":"Spain","GID_1":"ESP.5_1","NAME_1":"Castilla y León","GID_2":"ESP.5.3_1","NAME_2":"León","GID_3":"ESP.5.3.8_1","NAME_3":"n.a. (155)","GID_4":"ESP.5.3.8.5_1","NAME_4":"Comunidad de Riego de la Vega y Villamontán de la Valduerna","VARNAME_4":"","TYPE_4":"Municipality","ENGTYPE_4":"Municipality","CC_4":""}}
+]}

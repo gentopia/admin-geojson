@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[124.32832336425781,7.911069869995174],[124.32956695556652,7.914500236511174],[124.32302856445312,7.915259838104362],[124.32108306884766,7.910019874572868],[124.3260726928711,7.907249927520866],[124.32705688476562,7.908979892730713],[124.32832336425781,7.911069869995174]]]},"properties":{"GID_0":"PHL","NAME_0":"Philippines","GID_1":"PHL.42_1","NAME_1":"Lanao del Sur","NL_NAME_1":"","GID_2":"PHL.42.39_1","NAME_2":"Taraka","NL_NAME_2":"","GID_3":"PHL.42.39.23_1","NAME_3":"Lumbac Bagoaingud","VARNAME_3":"","NL_NAME_3":"","TYPE_3":"Barangay","ENGTYPE_3":"Village","CC_3":"","HASC_3":""}}
+]}

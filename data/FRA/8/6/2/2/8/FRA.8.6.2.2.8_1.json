@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[2.2163600921631996,49.154376983642635],[2.23341965675354,49.16594314575195],[2.220277070999259,49.17919921875],[2.207177639007682,49.17485427856457],[2.18737363815319,49.173229217529354],[2.1968772411347004,49.167015075683594],[2.2163600921631996,49.154376983642635]]]},"properties":{"GID_0":"FRA","NAME_0":"France","GID_1":"FRA.8_1","NAME_1":"Île-de-France","GID_2":"FRA.8.6_1","NAME_2":"Val-d'Oise","GID_3":"FRA.8.6.2_1","NAME_3":"Pontoise","GID_4":"FRA.8.6.2.2_1","NAME_4":"Beaumont-sur-Oise","GID_5":"FRA.8.6.2.2.8_1","NAME_5":"Ronquerolles","TYPE_5":"Commune simple","ENGTYPE_5":"Commune","CC_5":""}}
+]}

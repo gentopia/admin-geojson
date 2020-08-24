@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[6.703941822052116,47.53226470947271],[6.708959102630672,47.54320907592779],[6.689570426941032,47.54535675048828],[6.676547527313346,47.55028152465826],[6.677314758300895,47.54383468627941],[6.688787460327148,47.53324127197271],[6.703941822052116,47.53226470947271]]]},"properties":{"GID_0":"FRA","NAME_0":"France","GID_1":"FRA.2_1","NAME_1":"Bourgogne-Franche-Comté","GID_2":"FRA.2.2_1","NAME_2":"Doubs","GID_3":"FRA.2.2.2_1","NAME_3":"Montbéliard","GID_4":"FRA.2.2.2.8_1","NAME_4":"Montbéliard-Ouest","GID_5":"FRA.2.2.2.8.19_1","NAME_5":"Semondans","TYPE_5":"Commune simple","ENGTYPE_5":"Commune","CC_5":""}}
+]}

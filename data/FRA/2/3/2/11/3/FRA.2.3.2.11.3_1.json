@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[6.261907100677604,47.43738555908203],[6.263406276702881,47.44607162475586],[6.255028724670524,47.46097564697277],[6.237107276916618,47.450428009033146],[6.237336158752385,47.44696426391613],[6.256552219390926,47.44321823120117],[6.261907100677604,47.43738555908203]]]},"properties":{"GID_0":"FRA","NAME_0":"France","GID_1":"FRA.2_1","NAME_1":"Bourgogne-Franche-Comté","GID_2":"FRA.2.3_1","NAME_2":"Haute-Saône","GID_3":"FRA.2.3.2_1","NAME_3":"Vesoul","GID_4":"FRA.2.3.2.11_1","NAME_4":"Montbozon","GID_5":"FRA.2.3.2.11.3_1","NAME_5":"Besnans","TYPE_5":"Commune simple","ENGTYPE_5":"Commune","CC_5":""}}
+]}

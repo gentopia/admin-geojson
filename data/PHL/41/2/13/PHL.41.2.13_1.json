@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[124.20831298828136,8.108639717102108],[124.20926666259777,8.119179725646973],[124.20024871826183,8.114760398864803],[124.1925277709961,8.1012802124024],[124.20741271972656,8.100709915161133],[124.20831298828136,8.108639717102108]]]},"properties":{"GID_0":"PHL","NAME_0":"Philippines","GID_1":"PHL.41_1","NAME_1":"Lanao del Norte","NL_NAME_1":"","GID_2":"PHL.41.2_1","NAME_2":"Baloi","NL_NAME_2":"","GID_3":"PHL.41.2.13_1","NAME_3":"Matampay","VARNAME_3":"","NL_NAME_3":"","TYPE_3":"Barangay","ENGTYPE_3":"Village","CC_3":"","HASC_3":""}}
+]}

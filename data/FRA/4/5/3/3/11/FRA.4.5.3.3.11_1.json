@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[0.8037465214729309,47.77333068847662],[0.7979087829590412,47.77464294433594],[0.7874572277070229,47.773834228515625],[0.7865006923675537,47.768253326416016],[0.7769842147827148,47.762355804443416],[0.7880464792251587,47.75580215454096],[0.8037465214729309,47.77333068847662]]]},"properties":{"GID_0":"FRA","NAME_0":"France","GID_1":"FRA.4_1","NAME_1":"Centre-Val de Loire","GID_2":"FRA.4.5_1","NAME_2":"Loir-et-Cher","GID_3":"FRA.4.5.3_1","NAME_3":"Vendôme","GID_4":"FRA.4.5.3.3_1","NAME_4":"Montoire-sur-le-Loir","GID_5":"FRA.4.5.3.3.11_1","NAME_5":"Saint-Jacques-des-Guérets","TYPE_5":"Commune simple","ENGTYPE_5":"Commune","CC_5":""}}
+]}

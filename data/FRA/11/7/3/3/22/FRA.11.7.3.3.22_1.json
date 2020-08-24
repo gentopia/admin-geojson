@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[0.46916690468799516,43.27887725830084],[0.4725421667098999,43.27016448974621],[0.469810068607444,43.2678680419923],[0.47800293564807816,43.266117095947266],[0.49341592192644157,43.27730941772472],[0.48433387279521867,43.28643417358404],[0.46916690468799516,43.27887725830084]]]},"properties":{"GID_0":"FRA","NAME_0":"France","GID_1":"FRA.11_1","NAME_1":"Occitanie","GID_2":"FRA.11.7_1","NAME_2":"Hautes-Pyrénées","GID_3":"FRA.11.7.3_1","NAME_3":"Tarbes","GID_4":"FRA.11.7.3.3_1","NAME_4":"Castelnau-Magnoac","GID_5":"FRA.11.7.3.3.22_1","NAME_5":"Organ","TYPE_5":"Commune simple","ENGTYPE_5":"Commune","CC_5":""}}
+]}

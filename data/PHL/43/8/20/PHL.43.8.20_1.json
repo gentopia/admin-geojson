@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[124.92752838134777,10.94180965423584],[124.93493652343773,10.942549705505371],[124.93493652343773,10.949090003967285],[124.93451690673828,10.955030441284293],[124.92939758300781,10.952320098877067],[124.92752838134777,10.94180965423584]]]},"properties":{"GID_0":"PHL","NAME_0":"Philippines","GID_1":"PHL.43_1","NAME_1":"Leyte","NL_NAME_1":"","GID_2":"PHL.43.8_1","NAME_2":"Burauen","NL_NAME_2":"","GID_3":"PHL.43.8.20_1","NAME_3":"Dumalag","VARNAME_3":"Pusod","NL_NAME_3":"","TYPE_3":"Barangay","ENGTYPE_3":"Village","CC_3":"","HASC_3":""}}
+]}

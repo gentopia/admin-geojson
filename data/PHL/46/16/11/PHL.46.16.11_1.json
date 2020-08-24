@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[123.98876190185558,11.879090309143066],[124.01394653320324,11.9022798538208],[124.00528717041016,11.918450355529842],[124.0016784667971,11.914050102233887],[123.9829330444336,11.88988971710205],[123.98876190185558,11.879090309143066]]]},"properties":{"GID_0":"PHL","NAME_0":"Philippines","GID_1":"PHL.46_1","NAME_1":"Masbate","NL_NAME_1":"","GID_2":"PHL.46.16_1","NAME_2":"Pio V. Corpuz","NL_NAME_2":"","GID_3":"PHL.46.16.11_1","NAME_3":"Lampuyang","VARNAME_3":"","NL_NAME_3":"","TYPE_3":"Barangay","ENGTYPE_3":"Village","CC_3":"","HASC_3":""}}
+]}

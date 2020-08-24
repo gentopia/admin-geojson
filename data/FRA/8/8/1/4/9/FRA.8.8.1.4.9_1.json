@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[1.5849072933197021,48.76329803466808],[1.605226397514457,48.76058578491205],[1.6249600648880573,48.749031066894645],[1.621476650238037,48.7645263671875],[1.614959120750541,48.77221298217785],[1.6068590879440876,48.774864196777344],[1.5849072933197021,48.76329803466808]]]},"properties":{"GID_0":"FRA","NAME_0":"France","GID_1":"FRA.8_1","NAME_1":"Île-de-France","GID_2":"FRA.8.8_1","NAME_2":"Yvelines","GID_3":"FRA.8.8.1_1","NAME_3":"Mantes-la-Jolie","GID_4":"FRA.8.8.1.4_1","NAME_4":"Houdan","GID_5":"FRA.8.8.1.4.9_1","NAME_5":"Dannemarie","TYPE_5":"Commune simple","ENGTYPE_5":"Commune","CC_5":""}}
+]}

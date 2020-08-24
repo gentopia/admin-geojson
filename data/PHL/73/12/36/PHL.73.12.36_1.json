@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[120.8992919921875,5.925069808959961],[120.9020004272461,5.929950237274227],[120.90052032470726,5.937089920044059],[120.89337921142578,5.928750038146973],[120.8992919921875,5.925069808959961]]]},"properties":{"GID_0":"PHL","NAME_0":"Philippines","GID_1":"PHL.73_1","NAME_1":"Sulu","NL_NAME_1":"","GID_2":"PHL.73.12_1","NAME_2":"Parang","NL_NAME_2":"","GID_3":"PHL.73.12.36_1","NAME_3":"Taingting","VARNAME_3":"","NL_NAME_3":"","TYPE_3":"Barangay","ENGTYPE_3":"Village","CC_3":"","HASC_3":""}}
+]}

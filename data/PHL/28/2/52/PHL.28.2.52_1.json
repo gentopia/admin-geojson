@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[125.61087799072266,7.05952978134161],[125.61057281494152,7.058320045471191],[125.6114273071289,7.058469772338924],[125.61196899414062,7.0587401390075115],[125.61234283447266,7.059110164642391],[125.61087799072266,7.05952978134161]]]},"properties":{"GID_0":"PHL","NAME_0":"Philippines","GID_1":"PHL.28_1","NAME_1":"Davao del Sur","NL_NAME_1":"","GID_2":"PHL.28.2_1","NAME_2":"Davao City","NL_NAME_2":"","GID_3":"PHL.28.2.52_1","NAME_3":"Barangay 40-D","VARNAME_3":"Poblacion","NL_NAME_3":"","TYPE_3":"Barangay","ENGTYPE_3":"Village","CC_3":"","HASC_3":""}}
+]}

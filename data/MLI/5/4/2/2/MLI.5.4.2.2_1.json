@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[-8.063623428344727,12.621464729309196],[-8.055174827575684,12.65776538848877],[-8.092947006225529,12.62878227233881],[-8.084217071533146,12.622700691223145],[-8.07604789733881,12.622747421264648],[-8.063623428344727,12.621464729309196]]]},"properties":{"GID_0":"MLI","NAME_0":"Mali","GID_1":"MLI.5_1","NAME_1":"Koulikoro","GID_2":"MLI.5.4_1","NAME_2":"Kati","GID_3":"MLI.5.4.2_1","NAME_3":"Kalban-Coro","GID_4":"MLI.5.4.2.2_1","NAME_4":"Dogodouman","VARNAME_4":"","TYPE_4":"Commune","ENGTYPE_4":"Commune","CC_4":""}}
+]}

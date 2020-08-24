@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[123.07820892333996,7.704999923706055],[123.0789794921875,7.716886043548584],[123.06999969482433,7.717780113220215],[123.06790161132824,7.704249858856201],[123.07820892333996,7.704999923706055]]]},"properties":{"GID_0":"PHL","NAME_0":"Philippines","GID_1":"PHL.81_1","NAME_1":"Zamboanga Sibugay","NL_NAME_1":"","GID_2":"PHL.81.2_1","NAME_2":"Buug","NL_NAME_2":"","GID_3":"PHL.81.2.9_1","NAME_3":"Datu Panas","VARNAME_3":"","NL_NAME_3":"","TYPE_3":"Barangay","ENGTYPE_3":"Village","CC_3":"","HASC_3":""}}
+]}

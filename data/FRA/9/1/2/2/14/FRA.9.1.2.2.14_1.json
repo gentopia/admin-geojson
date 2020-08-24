@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[-0.2715848684310913,48.99267196655285],[-0.25209197401994743,49.015972137451286],[-0.2680062353610424,49.023170471191406],[-0.2876151502132416,49.01646041870123],[-0.2815028727054596,48.99357986450201],[-0.2715848684310913,48.99267196655285]]]},"properties":{"GID_0":"FRA","NAME_0":"France","GID_1":"FRA.9_1","NAME_1":"Normandie","GID_2":"FRA.9.1_1","NAME_2":"Calvados","GID_3":"FRA.9.1.2_1","NAME_3":"Caen","GID_4":"FRA.9.1.2.2_1","NAME_4":"Bretteville-sur-Laize","GID_5":"FRA.9.1.2.2.14_1","NAME_5":"Grainville-Langannerie","TYPE_5":"Commune simple","ENGTYPE_5":"Commune","CC_5":""}}
+]}

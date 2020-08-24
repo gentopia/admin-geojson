@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[121.27783203125011,13.119319915771484],[121.30967712402355,13.125340461731014],[121.31009674072277,13.127579689025993],[121.29519653320324,13.128419876098576],[121.27115631103527,13.12633037567133],[121.27783203125011,13.119319915771484]]]},"properties":{"GID_0":"PHL","NAME_0":"Philippines","GID_1":"PHL.58_1","NAME_1":"Oriental Mindoro","NL_NAME_1":"","GID_2":"PHL.58.16_1","NAME_2":"Victoria","NL_NAME_2":"","GID_3":"PHL.58.16.11_1","NAME_3":"Jose Leido Jr.","VARNAME_3":"","NL_NAME_3":"","TYPE_3":"Barangay","ENGTYPE_3":"Village","CC_3":"","HASC_3":""}}
+]}

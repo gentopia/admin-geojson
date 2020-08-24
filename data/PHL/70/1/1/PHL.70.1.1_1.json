@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[124.77990722656261,6.392360210418644],[124.78539276123047,6.388999938964844],[124.79276275634766,6.401430130004883],[124.78080749511719,6.408949851989689],[124.772216796875,6.413849830627498],[124.76603698730469,6.400529861450252],[124.77990722656261,6.392360210418644]]]},"properties":{"GID_0":"PHL","NAME_0":"Philippines","GID_1":"PHL.70_1","NAME_1":"South Cotabato","NL_NAME_1":"","GID_2":"PHL.70.1_1","NAME_2":"Banga","NL_NAME_2":"","GID_3":"PHL.70.1.1_1","NAME_3":"Benitez","VARNAME_3":"Poblacion","NL_NAME_3":"","TYPE_3":"Barangay","ENGTYPE_3":"Village","CC_3":"","HASC_3":""}}
+]}

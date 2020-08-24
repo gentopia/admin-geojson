@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[0.07989799976354561,40.25889587402344],[0.08895999938249588,40.270713806152344],[0.06424000114208184,40.27690505981445],[0.05587999895220719,40.27247619628906],[0.06768199801450692,40.26250076293951],[0.07592699676757775,40.25767135620117],[0.07989799976354561,40.25889587402344]]]},"properties":{"GID_0":"ESP","NAME_0":"Spain","GID_1":"ESP.10_1","NAME_1":"Comunidad Valenciana","GID_2":"ESP.10.2_1","NAME_2":"Castellón","GID_3":"ESP.10.2.7_1","NAME_3":"Plana Alta","GID_4":"ESP.10.2.7.13_1","NAME_4":"Torre Endoménech","VARNAME_4":"La Torre dels Domenges","TYPE_4":"Municipality","ENGTYPE_4":"Municipality","CC_4":""}}
+]}

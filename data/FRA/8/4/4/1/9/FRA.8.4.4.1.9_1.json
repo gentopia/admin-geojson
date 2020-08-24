@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[3.11683821678173,48.37541198730469],[3.122467041015625,48.368633270263615],[3.1398687362671467,48.372600555420036],[3.1354165077209473,48.40555953979498],[3.1272904872894856,48.40897750854498],[3.106242895126286,48.39819335937506],[3.11683821678173,48.37541198730469]]]},"properties":{"GID_0":"FRA","NAME_0":"France","GID_1":"FRA.8_1","NAME_1":"Île-de-France","GID_2":"FRA.8.4_1","NAME_2":"Seine-et-Marne","GID_3":"FRA.8.4.4_1","NAME_3":"Provins","GID_4":"FRA.8.4.4.1_1","NAME_4":"Bray-sur-Seine","GID_5":"FRA.8.4.4.1.9_1","NAME_5":"Gravon","TYPE_5":"Commune simple","ENGTYPE_5":"Commune","CC_5":""}}
+]}

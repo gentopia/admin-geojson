@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[123.36595153808616,7.811669826507625],[123.3829116821289,7.81561994552618],[123.38128662109386,7.816090106964111],[123.3781661987307,7.819690227508545],[123.35726928710938,7.815599918365422],[123.35707092285156,7.809939861297607],[123.36595153808616,7.811669826507625]]]},"properties":{"GID_0":"PHL","NAME_0":"Philippines","GID_1":"PHL.80_1","NAME_1":"Zamboanga del Sur","NL_NAME_1":"","GID_2":"PHL.80.5_1","NAME_2":"Dumalinao","NL_NAME_2":"","GID_3":"PHL.80.5.20_1","NAME_3":"Paglaum","VARNAME_3":"Poblacion","NL_NAME_3":"","TYPE_3":"Barangay","ENGTYPE_3":"Village","CC_3":"","HASC_3":""}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[124.84349060058594,7.871960163116455],[124.8645706176759,7.87693977355957],[124.87525939941418,7.875239849090633],[124.85507202148449,7.926829814910832],[124.8301773071289,7.953380107879639],[124.84349060058594,7.871960163116455]]]},"properties":{"GID_0":"PHL","NAME_0":"Philippines","GID_1":"PHL.16_1","NAME_1":"Bukidnon","NL_NAME_1":"","GID_2":"PHL.16.17_1","NAME_2":"Pangantucan","NL_NAME_2":"","GID_3":"PHL.16.17.19_1","NAME_3":"Portulin","VARNAME_3":"","NL_NAME_3":"","TYPE_3":"Barangay","ENGTYPE_3":"Village","CC_3":"","HASC_3":""}}
+]}

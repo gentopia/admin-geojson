@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[-1.2901135683059124,44.12834930419922],[-1.1857831478118896,44.114578247070256],[-1.1934657096862793,44.1364631652832],[-1.2009525299072266,44.15224075317377],[-1.2391139268875122,44.15429306030285],[-1.2901135683059124,44.12834930419922]]]},"properties":{"GID_0":"FRA","NAME_0":"France","GID_1":"FRA.10_1","NAME_1":"Nouvelle-Aquitaine","GID_2":"FRA.10.9_1","NAME_2":"Landes","GID_3":"FRA.10.9.2_1","NAME_3":"Mont-de-Marsan","GID_4":"FRA.10.9.2.7_1","NAME_4":"Mimizan","GID_5":"FRA.10.9.2.7.2_1","NAME_5":"Bias","TYPE_5":"Commune simple","ENGTYPE_5":"Commune","CC_5":""}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[4.669361591339168,44.917739868164176],[4.63263654708868,44.942329406738395],[4.628169536590633,44.94002532958996],[4.628345489502067,44.91900253295893],[4.638063907623348,44.911090850830135],[4.664666175842399,44.918827056884766],[4.669361591339168,44.917739868164176]]]},"properties":{"GID_0":"FRA","NAME_0":"France","GID_1":"FRA.1_1","NAME_1":"Auvergne-Rhône-Alpes","GID_2":"FRA.1.3_1","NAME_2":"Ardèche","GID_3":"FRA.1.3.3_1","NAME_3":"Tournon-sur-Rhône","GID_4":"FRA.1.3.3.13_1","NAME_4":"Vernoux-en-Vivarais","GID_5":"FRA.1.3.3.13.3_1","NAME_5":"Châteauneuf-de-Vernoux","TYPE_5":"Commune simple","ENGTYPE_5":"Commune","CC_5":""}}
+]}

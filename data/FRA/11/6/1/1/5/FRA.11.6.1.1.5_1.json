@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[1.4757578372954754,43.39680099487305],[1.4796950817108154,43.40985107421875],[1.4770365953446571,43.41469955444336],[1.4624572992325966,43.4069061279298],[1.4652484655381386,43.39757919311529],[1.4757578372954754,43.39680099487305]]]},"properties":{"GID_0":"FRA","NAME_0":"France","GID_1":"FRA.11_1","NAME_1":"Occitanie","GID_2":"FRA.11.6_1","NAME_2":"Haute-Garonne","GID_3":"FRA.11.6.1_1","NAME_3":"Muret","GID_4":"FRA.11.6.1.1_1","NAME_4":"Auterive","GID_5":"FRA.11.6.1.1.5_1","NAME_5":"Labruyère-Dorsa","TYPE_5":"Commune simple","ENGTYPE_5":"Commune","CC_5":""}}
+]}

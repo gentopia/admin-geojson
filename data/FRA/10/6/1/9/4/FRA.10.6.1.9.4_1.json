@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[0.8651707768440247,44.707149505615234],[0.8409471511841957,44.69202804565424],[0.8411003947257996,44.69099426269531],[0.8656432032584576,44.68303298950207],[0.8736387491226196,44.69159698486328],[0.8716568946838379,44.70194244384771],[0.8651707768440247,44.707149505615234]]]},"properties":{"GID_0":"FRA","NAME_0":"France","GID_1":"FRA.10_1","NAME_1":"Nouvelle-Aquitaine","GID_2":"FRA.10.6_1","NAME_2":"Dordogne","GID_3":"FRA.10.6.1_1","NAME_3":"Bergerac","GID_4":"FRA.10.6.1.9_1","NAME_4":"Monpazier","GID_5":"FRA.10.6.1.9.4_1","NAME_5":"Lavalade","TYPE_5":"Commune simple","ENGTYPE_5":"Commune","CC_5":""}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[-0.01179496943950653,44.67866897583002],[-0.010188240557909012,44.67884826660162],[-0.01245843060308971,44.68091964721691],[-0.01179496943950653,44.67866897583002]]]},"properties":{"GID_0":"FRA","NAME_0":"France","GID_1":"FRA.10_1","NAME_1":"Nouvelle-Aquitaine","GID_2":"FRA.10.7_1","NAME_2":"Gironde","GID_3":"FRA.10.7.4_1","NAME_3":"Langon","GID_4":"FRA.10.7.4.8_1","NAME_4":"Monségur","GID_5":"FRA.10.7.4.8.1_1","NAME_5":"Castelmoron-d'Albret","TYPE_5":"Commune simple","ENGTYPE_5":"Commune","CC_5":""}}
+]}

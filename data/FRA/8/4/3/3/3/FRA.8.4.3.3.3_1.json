@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[2.838118553161678,48.55316162109369],[2.818751573562622,48.542606353759766],[2.790785074234009,48.547248840331974],[2.8004207611083984,48.53936767578131],[2.8019633293152424,48.5326766967774],[2.8454892635346027,48.52576828002941],[2.854053020477295,48.528945922851506],[2.838118553161678,48.55316162109369]]]},"properties":{"GID_0":"FRA","NAME_0":"France","GID_1":"FRA.8_1","NAME_1":"Île-de-France","GID_2":"FRA.8.4_1","NAME_2":"Seine-et-Marne","GID_3":"FRA.8.4.3_1","NAME_3":"Melun","GID_4":"FRA.8.4.3.3_1","NAME_4":"Le Châtelet-en-Brie","GID_5":"FRA.8.4.3.3.3_1","NAME_5":"Châtillon-la-Borde","TYPE_5":"Commune simple","ENGTYPE_5":"Commune","CC_5":""}}
+]}

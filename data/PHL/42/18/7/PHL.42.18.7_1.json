@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[124.2295913696289,7.7046098709106445],[124.22580718994152,7.718669891357422],[124.22265625,7.731669902801627],[124.21875762939464,7.729209899902457],[124.22084045410168,7.702600002288875],[124.22196960449241,7.6978001594544025],[124.2295913696289,7.7046098709106445]]]},"properties":{"GID_0":"PHL","NAME_0":"Philippines","GID_1":"PHL.42_1","NAME_1":"Lanao del Sur","NL_NAME_1":"","GID_2":"PHL.42.18_1","NAME_2":"Lumbaca Unayan","NL_NAME_2":"","GID_3":"PHL.42.18.7_1","NAME_3":"Lumbac Dilausan","VARNAME_3":"","NL_NAME_3":"","TYPE_3":"Barangay","ENGTYPE_3":"Village","CC_3":"","HASC_3":""}}
+]}

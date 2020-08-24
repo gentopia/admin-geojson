@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[105.77990722656244,10.029501914978027],[105.78190612792974,10.031292915344352],[105.77646636962885,10.03774452209467],[105.77456665039057,10.03265285491949],[105.7770233154298,10.027043342590389],[105.77990722656244,10.029501914978027]]]},"properties":{"GID_0":"VNM","NAME_0":"Vietnam","GID_1":"VNM.12_1","NAME_1":"Cần Thơ","NL_NAME_1":"","GID_2":"VNM.12.4_1","NAME_2":"Ninh Kiều","NL_NAME_2":"","GID_3":"VNM.12.4.8_1","NAME_3":"An Phú","VARNAME_3":"An Phu","NL_NAME_3":"","TYPE_3":"Phường","ENGTYPE_3":"Ward","CC_3":"","HASC_3":""}}
+]}

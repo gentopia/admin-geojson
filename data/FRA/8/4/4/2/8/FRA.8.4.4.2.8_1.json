@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[3.19451642036438,48.5257568359375],[3.1868987083435627,48.53525924682623],[3.1616806983948322,48.5320396423341],[3.1382784843444824,48.538204193115234],[3.1356985569000244,48.52528762817383],[3.1847302913665203,48.51957321166998],[3.1938812732695965,48.52241897583008],[3.19451642036438,48.5257568359375]]]},"properties":{"GID_0":"FRA","NAME_0":"France","GID_1":"FRA.8_1","NAME_1":"Île-de-France","GID_2":"FRA.8.4_1","NAME_2":"Seine-et-Marne","GID_3":"FRA.8.4.4_1","NAME_3":"Provins","GID_4":"FRA.8.4.4.2_1","NAME_4":"Donnemarie-Dontilly","GID_5":"FRA.8.4.4.2.8_1","NAME_5":"Lizines","TYPE_5":"Commune simple","ENGTYPE_5":"Commune","CC_5":""}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[2.9803531169891926,49.56361389160162],[2.977028131485042,49.55283737182623],[2.9901490211486816,49.56280517578131],[3.0000414848328205,49.563228607177734],[2.989954233169499,49.56947326660162],[2.9803531169891926,49.56361389160162]]]},"properties":{"GID_0":"FRA","NAME_0":"France","GID_1":"FRA.7_1","NAME_1":"Hauts-de-France","GID_2":"FRA.7.3_1","NAME_2":"Oise","GID_3":"FRA.7.3.3_1","NAME_3":"Compiègne","GID_4":"FRA.7.3.3.9_1","NAME_4":"Noyon","GID_5":"FRA.7.3.3.9.15_1","NAME_5":"Pont-l'Évêque","TYPE_5":"Commune simple","ENGTYPE_5":"Commune","CC_5":""}}
+]}

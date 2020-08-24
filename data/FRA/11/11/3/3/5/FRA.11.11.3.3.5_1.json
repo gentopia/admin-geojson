@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[2.427462100982723,42.59148025512695],[2.4177708625793457,42.61038208007824],[2.4109959602356525,42.614749908447266],[2.4066295623779865,42.59886550903332],[2.411745786666984,42.589885711670036],[2.4198956489564125,42.588886260986385],[2.427462100982723,42.59148025512695]]]},"properties":{"GID_0":"FRA","NAME_0":"France","GID_1":"FRA.11_1","NAME_1":"Occitanie","GID_2":"FRA.11.11_1","NAME_2":"Pyrénées-Orientales","GID_3":"FRA.11.11.3_1","NAME_3":"Prades","GID_4":"FRA.11.11.3.3_1","NAME_4":"Prades","GID_5":"FRA.11.11.3.3.5_1","NAME_5":"Codalet","TYPE_5":"Commune simple","ENGTYPE_5":"Commune","CC_5":""}}
+]}

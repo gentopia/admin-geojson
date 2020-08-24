@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[3.9105293750764076,46.06091308593756],[3.918568372726554,46.06047058105469],[3.923311710357666,46.064834594726506],[3.919168949127254,46.07007217407238],[3.915065050125122,46.06916046142584],[3.9105293750764076,46.06091308593756]]]},"properties":{"GID_0":"FRA","NAME_0":"France","GID_1":"FRA.1_1","NAME_1":"Auvergne-Rhône-Alpes","GID_2":"FRA.1.9_1","NAME_2":"Loire","GID_3":"FRA.1.9.2_1","NAME_3":"Roanne","GID_4":"FRA.1.9.2.10_1","NAME_4":"Saint-Haon-le-Châtel","GID_5":"FRA.1.9.2.10.9_1","NAME_5":"Saint-Haon-le-Châtel","TYPE_5":"Chef-lieu canton","ENGTYPE_5":"Commune","CC_5":""}}
+]}

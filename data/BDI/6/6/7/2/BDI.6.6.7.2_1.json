@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[29.08009529113781,-2.827147960662842],[29.07668876647955,-2.820023059844914],[29.074993133545036,-2.8196799755096436],[29.069072723388786,-2.8330769538879395],[29.07321166992199,-2.8326280117033775],[29.074974060058594,-2.8313980102537926],[29.08009529113781,-2.827147960662842]]]},"properties":{"GID_0":"BDI","NAME_0":"Burundi","GID_1":"BDI.6_1","NAME_1":"Cibitoke","GID_2":"BDI.6.6_1","NAME_2":"Rugombo","GID_3":"BDI.6.6.7_1","NAME_3":"Mparambo","GID_4":"BDI.6.6.7.2_1","NAME_4":"Mparambo 1BA","VARNAME_4":"","TYPE_4":"Sous Colline","ENGTYPE_4":"Sous Colline","CC_4":""}}
+]}

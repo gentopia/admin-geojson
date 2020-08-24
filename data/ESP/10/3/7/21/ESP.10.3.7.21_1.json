@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[-0.35999101400375366,39.50363922119146],[-0.35657998919487,39.5077362060548],[-0.3642309904098511,39.511459350585994],[-0.36654201149934806,39.51248168945324],[-0.37184700369829216,39.50962829589855],[-0.36748999357217826,39.50479125976568],[-0.3609009981154827,39.502033233642635],[-0.35999101400375366,39.50363922119146]]]},"properties":{"GID_0":"ESP","NAME_0":"Spain","GID_1":"ESP.10_1","NAME_1":"Comunidad Valenciana","GID_2":"ESP.10.3_1","NAME_2":"Valencia","GID_3":"ESP.10.3.7_1","NAME_3":"Horta Nord","GID_4":"ESP.10.3.7.21_1","NAME_4":"Tavernes Blanques","VARNAME_4":"Tabernes Blanques","TYPE_4":"Municipality","ENGTYPE_4":"Municipality","CC_4":""}}
+]}

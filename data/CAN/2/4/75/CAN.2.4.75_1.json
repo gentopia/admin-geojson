@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[-124.32752227783203,53.1229362487793],[-124.34075927734375,53.123458862304744],[-124.34143829345703,53.118621826171875],[-124.32778930664062,53.11813354492193],[-124.32763671874994,53.11812973022461],[-124.32752227783203,53.1229362487793]]]},"properties":{"GID_0":"CAN","NAME_0":"Canada","GID_1":"CAN.2_1","NAME_1":"British Columbia","NL_NAME_1":"","GID_2":"CAN.2.4_1","NAME_2":"Cariboo","NL_NAME_2":"","GID_3":"CAN.2.4.75_1","NAME_3":"Sundayman's Meadow 3","VARNAME_3":"","NL_NAME_3":"","TYPE_3":"Réserve Indienne","ENGTYPE_3":"Indian Reserve","CC_3":"","HASC_3":""}}
+]}

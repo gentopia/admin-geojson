@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[125.03386688232422,11.8958101272583],[125.04743194580078,11.902330398559684],[125.05937957763672,11.90814018249523],[125.04759216308594,11.920430183410645],[125.03117370605469,11.909390449523983],[125.03386688232422,11.8958101272583]]]},"properties":{"GID_0":"PHL","NAME_0":"Philippines","GID_1":"PHL.66_1","NAME_1":"Samar","NL_NAME_1":"","GID_2":"PHL.66.14_1","NAME_2":"Paranas","NL_NAME_2":"","GID_3":"PHL.66.14.14_1","NAME_3":"Jose Roño","VARNAME_3":"","NL_NAME_3":"","TYPE_3":"Barangay","ENGTYPE_3":"Village","CC_3":"","HASC_3":""}}
+]}

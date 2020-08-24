@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[2.1197941303253742,48.878108978271484],[2.110267400741691,48.8874397277832],[2.1070969104766846,48.889404296875114],[2.1010947227478027,48.88553619384771],[2.104393482208252,48.87293243408209],[2.109398841858024,48.87283706665045],[2.1197941303253742,48.878108978271484]]]},"properties":{"GID_0":"FRA","NAME_0":"France","GID_1":"FRA.8_1","NAME_1":"Île-de-France","GID_2":"FRA.8.8_1","NAME_2":"Yvelines","GID_3":"FRA.8.8.3_1","NAME_3":"Saint-Germain-en-Laye","GID_4":"FRA.8.8.3.9_1","NAME_4":"Marly-le-Roi","GID_5":"FRA.8.8.3.9.1_1","NAME_5":"Le Port-Marly","TYPE_5":"Commune simple","ENGTYPE_5":"Commune","CC_5":""}}
+]}

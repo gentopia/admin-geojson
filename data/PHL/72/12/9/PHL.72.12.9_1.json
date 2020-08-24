@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[124.31181335449241,6.423630237579346],[124.31240844726574,6.440179824829158],[124.31257629394554,6.456250190734863],[124.2987289428711,6.456079959869385],[124.29757690429699,6.423820018768367],[124.31181335449241,6.423630237579346]]]},"properties":{"GID_0":"PHL","NAME_0":"Philippines","GID_1":"PHL.72_1","NAME_1":"Sultan Kudarat","NL_NAME_1":"","GID_2":"PHL.72.12_1","NAME_2":"Sen. Ninoy Aquino","NL_NAME_2":"","GID_3":"PHL.72.12.9_1","NAME_3":"Kiadsam","VARNAME_3":"","NL_NAME_3":"","TYPE_3":"Barangay","ENGTYPE_3":"Village","CC_3":"","HASC_3":""}}
+]}

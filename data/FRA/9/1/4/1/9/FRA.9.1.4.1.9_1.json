@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[-0.708274602889901,49.00217819213873],[-0.7026875019073486,49.01860809326172],[-0.7178760170936016,49.02046966552729],[-0.7348148822783855,49.01354217529308],[-0.7352558374404907,49.01016235351557],[-0.7249922752380371,49.0027236938476],[-0.708274602889901,49.00217819213873]]]},"properties":{"GID_0":"FRA","NAME_0":"France","GID_1":"FRA.9_1","NAME_1":"Normandie","GID_2":"FRA.9.1_1","NAME_2":"Calvados","GID_3":"FRA.9.1.4_1","NAME_3":"Vire","GID_4":"FRA.9.1.4.1_1","NAME_4":"Aunay-sur-Odon","GID_5":"FRA.9.1.4.1.9_1","NAME_5":"La Bigne","TYPE_5":"Commune simple","ENGTYPE_5":"Commune","CC_5":""}}
+]}

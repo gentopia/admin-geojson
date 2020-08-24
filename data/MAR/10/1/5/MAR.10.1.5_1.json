@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[-2.2246708869933514,34.92890930175787],[-2.226151943206787,34.940269470214844],[-2.233854055404663,34.94041824340826],[-2.2351019382476807,34.93531417846691],[-2.2435259819030193,34.934364318847656],[-2.244879961013737,34.927978515625114],[-2.2246708869933514,34.92890930175787]]]},"properties":{"GID_0":"MAR","NAME_0":"Morocco","GID_1":"MAR.10_1","NAME_1":"Oriental","GID_2":"MAR.10.1_1","NAME_2":"Berkane Taourirt","GID_3":"MAR.10.1.5_1","NAME_3":"NA (Ain Erreggada)","GID_4":"MAR.10.1.5.1_1","NAME_4":"Ain Erreggada","VARNAME_4":"","TYPE_4":"Commune Urbaine","ENGTYPE_4":"Urban Commune","CC_4":""}}
+]}

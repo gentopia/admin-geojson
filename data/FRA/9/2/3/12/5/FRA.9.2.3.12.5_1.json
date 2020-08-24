@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[1.159378647804374,49.27247619628906],[1.1923807859421913,49.301334381103516],[1.192237615585384,49.3042449951173],[1.18968760967266,49.30402755737305],[1.1628854274750893,49.306797027588004],[1.159378647804374,49.27247619628906]]]},"properties":{"GID_0":"FRA","NAME_0":"France","GID_1":"FRA.9_1","NAME_1":"Normandie","GID_2":"FRA.9.2_1","NAME_2":"Eure","GID_3":"FRA.9.2.3_1","NAME_3":"Les Andelys","GID_4":"FRA.9.2.3.12_1","NAME_4":"Pont-de-l'Arche","GID_5":"FRA.9.2.3.12.5_1","NAME_5":"Les Damps","TYPE_5":"Commune simple","ENGTYPE_5":"Commune","CC_5":""}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[124.34586334228516,7.037199974060172],[124.34713745117199,7.04220008850109],[124.34964752197277,7.046750068664551],[124.34060668945335,7.047200202941951],[124.3365478515625,7.035659790039119],[124.34586334228516,7.037199974060172]]]},"properties":{"GID_0":"PHL","NAME_0":"Philippines","GID_1":"PHL.44_1","NAME_1":"Maguindanao","NL_NAME_1":"","GID_2":"PHL.44.10_1","NAME_2":"Datu Odin Sinsuat","NL_NAME_2":"","GID_3":"PHL.44.10.11_1","NAME_3":"Dados","VARNAME_3":"","NL_NAME_3":"","TYPE_3":"Barangay","ENGTYPE_3":"Village","CC_3":"","HASC_3":""}}
+]}

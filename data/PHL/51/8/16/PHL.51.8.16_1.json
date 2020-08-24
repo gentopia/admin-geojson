@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[122.98449707031261,10.883279800414982],[122.98040008544922,10.883600234985465],[122.97167205810547,10.888199806213322],[122.97096252441418,10.883970260620117],[122.97913360595703,10.879070281982536],[122.98274993896484,10.876839637756404],[122.98449707031261,10.883279800414982]]]},"properties":{"GID_0":"PHL","NAME_0":"Philippines","GID_1":"PHL.51_1","NAME_1":"Negros Occidental","NL_NAME_1":"","GID_2":"PHL.51.8_1","NAME_2":"Enrique B. Magalona","NL_NAME_2":"","GID_3":"PHL.51.8.16_1","NAME_3":"Poblacion III","VARNAME_3":"Barangay 3","NL_NAME_3":"","TYPE_3":"Barangay","ENGTYPE_3":"Village","CC_3":"","HASC_3":""}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[122.03260803222656,10.776089668273983],[122.02538299560547,10.784740447998047],[122.01689147949241,10.777790069580192],[122.01673889160168,10.772890090942383],[122.02858734130871,10.776379585266113],[122.03260803222656,10.776089668273983]]]},"properties":{"GID_0":"PHL","NAME_0":"Philippines","GID_1":"PHL.6_1","NAME_1":"Antique","NL_NAME_1":"","GID_2":"PHL.6.15_1","NAME_2":"Sibalom","NL_NAME_2":"","GID_3":"PHL.6.15.16_1","NAME_3":"Catmon","VARNAME_3":"","NL_NAME_3":"","TYPE_3":"Barangay","ENGTYPE_3":"Village","CC_3":"","HASC_3":""}}
+]}

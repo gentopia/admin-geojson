@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[123.16834259033203,13.623140335083121],[123.17109680175793,13.625470161438045],[123.17108154296886,13.629770278930721],[123.16423797607422,13.62852001190197],[123.16613769531261,13.622079849243164],[123.16834259033203,13.623140335083121]]]},"properties":{"GID_0":"PHL","NAME_0":"Philippines","GID_1":"PHL.20_1","NAME_1":"Camarines Sur","NL_NAME_1":"","GID_2":"PHL.20.11_1","NAME_2":"Camaligan","NL_NAME_2":"","GID_3":"PHL.20.11.5_1","NAME_3":"San Juan-San Ramon","VARNAME_3":"Poblacion","NL_NAME_3":"","TYPE_3":"Barangay","ENGTYPE_3":"Village","CC_3":"","HASC_3":""}}
+]}

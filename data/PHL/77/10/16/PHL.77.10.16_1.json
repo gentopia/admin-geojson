@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[120.34586334228538,5.138305187225399],[120.33515167236328,5.139877796173209],[120.33457946777344,5.135496139526424],[120.345458984375,5.1314711570740315],[120.34609222412121,5.134089946746769],[120.34586334228538,5.138305187225399]]]},"properties":{"GID_0":"PHL","NAME_0":"Philippines","GID_1":"PHL.77_1","NAME_1":"Tawi-Tawi","NL_NAME_1":"","GID_2":"PHL.77.10_1","NAME_2":"Tandubas","NL_NAME_2":"","GID_3":"PHL.77.10.16_1","NAME_3":"Tangngah","VARNAME_3":"Tangngah Ungus Mata","NL_NAME_3":"","TYPE_3":"Barangay","ENGTYPE_3":"Village","CC_3":"","HASC_3":""}}
+]}

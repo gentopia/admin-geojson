@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[-0.024810440838336945,43.43003845214844],[-0.01443503517651834,43.424880981445256],[-0.004794172011315823,43.431625366210994],[-0.002482528099733372,43.445083618164176],[-0.016534095629992862,43.44394683837885],[-0.024810440838336945,43.43003845214844]]]},"properties":{"GID_0":"FRA","NAME_0":"France","GID_1":"FRA.10_1","NAME_1":"Nouvelle-Aquitaine","GID_2":"FRA.10.11_1","NAME_2":"Pyrénées-Atlantiques","GID_3":"FRA.10.11.3_1","NAME_3":"Pau","GID_4":"FRA.10.11.3.10_1","NAME_4":"Montaner","GID_5":"FRA.10.11.3.10.10_1","NAME_5":"Monségur","TYPE_5":"Commune simple","ENGTYPE_5":"Commune","CC_5":""}}
+]}

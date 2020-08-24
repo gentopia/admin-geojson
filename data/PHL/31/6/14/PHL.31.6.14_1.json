@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[125.46771240234386,12.028189659118596],[125.47075653076183,12.029990196228084],[125.46814727783203,12.036769866943416],[125.46450805664062,12.03534984588623],[125.46771240234386,12.028189659118596]]]},"properties":{"GID_0":"PHL","NAME_0":"Philippines","GID_1":"PHL.31_1","NAME_1":"Eastern Samar","NL_NAME_1":"","GID_2":"PHL.31.6_1","NAME_2":"Dolores","NL_NAME_2":"","GID_3":"PHL.31.6.14_1","NAME_3":"Barangay 7","VARNAME_3":"Poblacion","NL_NAME_3":"","TYPE_3":"Barangay","ENGTYPE_3":"Village","CC_3":"","HASC_3":""}}
+]}

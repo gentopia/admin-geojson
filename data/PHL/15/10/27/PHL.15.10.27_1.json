@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[124.203369140625,10.033670425415096],[124.22471618652355,10.035180091857967],[124.22923278808605,10.056940078735408],[124.2091293334961,10.057089805603141],[124.20282745361328,10.04220962524414],[124.203369140625,10.033670425415096]]]},"properties":{"GID_0":"PHL","NAME_0":"Philippines","GID_1":"PHL.15_1","NAME_1":"Bohol","NL_NAME_1":"","GID_2":"PHL.15.10_1","NAME_2":"Buenavista","NL_NAME_2":"","GID_3":"PHL.15.10.27_1","NAME_3":"Nueva Granada","VARNAME_3":"","NL_NAME_3":"","TYPE_3":"Barangay","ENGTYPE_3":"Village","CC_3":"","HASC_3":""}}
+]}

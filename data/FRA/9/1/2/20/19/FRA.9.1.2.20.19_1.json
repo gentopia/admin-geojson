@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[-0.3878323435783386,48.9332733154298],[-0.3767380118370056,48.9576530456543],[-0.39473837614053764,48.97292327880871],[-0.40232205390930176,48.96680450439459],[-0.40735113620758057,48.94968414306652],[-0.3878323435783386,48.9332733154298]]]},"properties":{"GID_0":"FRA","NAME_0":"France","GID_1":"FRA.9_1","NAME_1":"Normandie","GID_2":"FRA.9.1_1","NAME_2":"Calvados","GID_3":"FRA.9.1.2_1","NAME_3":"Caen","GID_4":"FRA.9.1.2.20_1","NAME_4":"Thury-Harcourt","GID_5":"FRA.9.1.2.20.19_1","NAME_5":"Meslay","TYPE_5":"Commune simple","ENGTYPE_5":"Commune","CC_5":""}}
+]}

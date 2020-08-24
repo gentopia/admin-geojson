@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[121.67642211914085,16.960010528564453],[121.67162322998047,16.96372032165533],[121.66874694824219,16.959199905395508],[121.67056274414074,16.956729888916016],[121.67178344726562,16.957490921020565],[121.67642211914085,16.960010528564453]]]},"properties":{"GID_0":"PHL","NAME_0":"Philippines","GID_1":"PHL.37_1","NAME_1":"Isabela","NL_NAME_1":"","GID_2":"PHL.37.7_1","NAME_2":"Cabatuan","NL_NAME_2":"","GID_3":"PHL.37.7.3_1","NAME_3":"Centro","VARNAME_3":"Poblacion","NL_NAME_3":"","TYPE_3":"Barangay","ENGTYPE_3":"Village","CC_3":"","HASC_3":""}}
+]}

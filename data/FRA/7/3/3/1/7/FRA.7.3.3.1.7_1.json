@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[3.0810935497284504,49.37433242797863],[3.094371318817082,49.37853240966797],[3.0908267498017494,49.398246765136776],[3.0824663639068604,49.39783096313471],[3.077566623687801,49.381565093994254],[3.071831226348877,49.37578582763683],[3.0810935497284504,49.37433242797863]]]},"properties":{"GID_0":"FRA","NAME_0":"France","GID_1":"FRA.7_1","NAME_1":"Hauts-de-France","GID_2":"FRA.7.3_1","NAME_2":"Oise","GID_3":"FRA.7.3.3_1","NAME_3":"Compiègne","GID_4":"FRA.7.3.3.1_1","NAME_4":"Attichy","GID_5":"FRA.7.3.3.1.7_1","NAME_5":"Courtieux","TYPE_5":"Commune simple","ENGTYPE_5":"Commune","CC_5":""}}
+]}

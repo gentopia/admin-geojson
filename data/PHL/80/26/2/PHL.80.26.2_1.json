@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[123.25756072998047,7.878849983215446],[123.25521087646496,7.883090019226074],[123.23562622070312,7.88500022888195],[123.23744201660168,7.869909763336182],[123.25023651123058,7.8649401664734455],[123.25756072998047,7.878849983215446]]]},"properties":{"GID_0":"PHL","NAME_0":"Philippines","GID_1":"PHL.80_1","NAME_1":"Zamboanga del Sur","NL_NAME_1":"","GID_2":"PHL.80.26_1","NAME_2":"Tigbao","NL_NAME_2":"","GID_3":"PHL.80.26.2_1","NAME_3":"Busol","VARNAME_3":"","NL_NAME_3":"","TYPE_3":"Barangay","ENGTYPE_3":"Village","CC_3":"","HASC_3":""}}
+]}

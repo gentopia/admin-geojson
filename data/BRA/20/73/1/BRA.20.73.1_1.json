@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[-35.79889678955078,-6.043089866638184],[-35.77816009521479,-6.015880107879582],[-35.83459854125971,-5.947100162506047],[-35.92463302612299,-6.010635852813664],[-35.821990966796875,-6.0733962059021],[-35.79889678955078,-6.043089866638184]]]},"properties":{"GID_0":"BRA","NAME_0":"Brazil","GID_1":"BRA.20_1","NAME_1":"Rio Grande do Norte","NL_NAME_1":"","GID_2":"BRA.20.73_1","NAME_2":"Lagoas de Velhos","NL_NAME_2":"","GID_3":"BRA.20.73.1_1","NAME_3":"Lagoa de Velhos","VARNAME_3":"","NL_NAME_3":"","TYPE_3":"Distrito","ENGTYPE_3":"District","CC_3":"","HASC_3":""}}
+]}

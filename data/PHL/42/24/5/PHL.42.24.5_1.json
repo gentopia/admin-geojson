@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[124.10836791992199,7.602580070495662],[124.10739135742199,7.606369972229118],[124.09574127197277,7.609149932861442],[124.0903778076173,7.598649978637695],[124.0982131958009,7.597959995269832],[124.10836791992199,7.602580070495662]]]},"properties":{"GID_0":"PHL","NAME_0":"Philippines","GID_1":"PHL.42_1","NAME_1":"Lanao del Sur","NL_NAME_1":"","GID_2":"PHL.42.24_1","NAME_2":"Malabang","NL_NAME_2":"","GID_3":"PHL.42.24.5_1","NAME_3":"Betayan","VARNAME_3":"","NL_NAME_3":"","TYPE_3":"Barangay","ENGTYPE_3":"Village","CC_3":"","HASC_3":""}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[2.58184909820568,50.306064605713004],[2.5838932991027264,50.29616928100597],[2.5978555679321857,50.287128448486385],[2.6006643772124676,50.2881431579591],[2.599341154098454,50.30126571655279],[2.586816549301261,50.307231903076286],[2.58184909820568,50.306064605713004]]]},"properties":{"GID_0":"FRA","NAME_0":"France","GID_1":"FRA.7_1","NAME_1":"Hauts-de-France","GID_2":"FRA.7.4_1","NAME_2":"Pas-de-Calais","GID_3":"FRA.7.4.1_1","NAME_3":"Arras","GID_4":"FRA.7.4.1.6_1","NAME_4":"Avesnes-le-Comte","GID_5":"FRA.7.4.1.6.24_1","NAME_5":"Noyellette","TYPE_5":"Commune simple","ENGTYPE_5":"Commune","CC_5":""}}
+]}

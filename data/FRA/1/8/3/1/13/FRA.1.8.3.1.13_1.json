@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[5.01557826995861,45.35033035278326],[5.050180435180778,45.3588981628418],[5.052896976471004,45.38821411132818],[5.048375606536922,45.39387130737316],[5.004592895507756,45.37341690063482],[5.007717609405518,45.364028930664176],[5.01557826995861,45.35033035278326]]]},"properties":{"GID_0":"FRA","NAME_0":"France","GID_1":"FRA.1_1","NAME_1":"Auvergne-Rhône-Alpes","GID_2":"FRA.1.8_1","NAME_2":"Isère","GID_3":"FRA.1.8.3_1","NAME_3":"Vienne","GID_4":"FRA.1.8.3.1_1","NAME_4":"Beaurepaire","GID_5":"FRA.1.8.3.1.13_1","NAME_5":"Revel-Tourdan","TYPE_5":"Commune simple","ENGTYPE_5":"Commune","CC_5":""}}
+]}

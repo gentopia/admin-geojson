@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[121.08229064941429,5.9869098663331215],[121.07023620605469,5.987689971923942],[121.06884002685547,5.978439807891846],[121.07312774658226,5.978479862213135],[121.08159637451183,5.977819919586182],[121.08229064941429,5.9869098663331215]]]},"properties":{"GID_0":"PHL","NAME_0":"Philippines","GID_1":"PHL.73_1","NAME_1":"Sulu","NL_NAME_1":"","GID_2":"PHL.73.16_1","NAME_2":"Talipao","NL_NAME_2":"","GID_3":"PHL.73.16.41_1","NAME_3":"Samak","VARNAME_3":"","NL_NAME_3":"","TYPE_3":"Barangay","ENGTYPE_3":"Village","CC_3":"","HASC_3":""}}
+]}

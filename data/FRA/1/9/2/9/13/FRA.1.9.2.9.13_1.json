@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[4.004380226135368,45.90644836425787],[4.005346298217773,45.91696548461914],[3.955578565597648,45.916839599609375],[3.9567697048188393,45.910381317138786],[3.977703332901058,45.89775466918951],[4.004380226135368,45.90644836425787]]]},"properties":{"GID_0":"FRA","NAME_0":"France","GID_1":"FRA.1_1","NAME_1":"Auvergne-Rhône-Alpes","GID_2":"FRA.1.9_1","NAME_2":"Loire","GID_3":"FRA.1.9.2_1","NAME_3":"Roanne","GID_4":"FRA.1.9.2.9_1","NAME_4":"Saint-Germain-Laval","GID_5":"FRA.1.9.2.9.13_1","NAME_5":"Saint-Polgues","TYPE_5":"Commune simple","ENGTYPE_5":"Commune","CC_5":""}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[31.895774841308594,26.525968551635742],[31.881526947021484,26.547950744628906],[31.83442115783697,26.521535873413086],[31.85565757751465,26.502771377563477],[31.895774841308594,26.525968551635742]]]},"properties":{"GID_0":"EGY","NAME_0":"Egypt","GID_1":"EGY.27_1","NAME_1":"Suhaj","NL_NAME_1":"","GID_2":"EGY.27.10_1","NAME_2":"New Akhmim City","VARNAME_2":"","NL_NAME_2":"","TYPE_2":"City","ENGTYPE_2":"Subdivision","CC_2":"","HASC_2":"EG.SJ.AJ"}}
+]}

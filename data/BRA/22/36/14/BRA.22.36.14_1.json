@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[-63.86714553833008,-8.735040664672795],[-63.89114379882801,-8.73519229888916],[-63.88432312011719,-8.771485328674316],[-63.856651306152344,-8.786170959472656],[-63.86714553833008,-8.735040664672795]]]},"properties":{"GID_0":"BRA","NAME_0":"Brazil","GID_1":"BRA.22_1","NAME_1":"Rondônia","NL_NAME_1":"","GID_2":"BRA.22.36_1","NAME_2":"Porto Velho","NL_NAME_2":"","GID_3":"BRA.22.36.14_1","NAME_3":"Zona 02","VARNAME_3":"","NL_NAME_3":"","TYPE_3":"Distrito","ENGTYPE_3":"District","CC_3":"","HASC_3":""}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[3.002646207809505,49.97357559204107],[2.995000362396354,49.96970367431652],[2.9882905483246986,49.9581871032716],[3.002296686172599,49.943275451660156],[3.0195865631104084,49.94875335693371],[3.0250182151795,49.9537925720216],[3.002646207809505,49.97357559204107]]]},"properties":{"GID_0":"FRA","NAME_0":"France","GID_1":"FRA.7_1","NAME_1":"Hauts-de-France","GID_2":"FRA.7.5_1","NAME_2":"Somme","GID_3":"FRA.7.5.4_1","NAME_3":"Péronne","GID_4":"FRA.7.5.4.8_1","NAME_4":"Roisel","GID_5":"FRA.7.5.4.8.3_1","NAME_5":"Driencourt","TYPE_5":"Commune simple","ENGTYPE_5":"Commune","CC_5":""}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[122.20881652832043,6.6508498191834065],[122.19911193847668,6.6508498191834065],[122.18940734863281,6.6508498191834065],[122.1922073364259,6.6426000595092205],[122.21264648437511,6.641109943389836],[122.20881652832043,6.6508498191834065]]]},"properties":{"GID_0":"PHL","NAME_0":"Philippines","GID_1":"PHL.9_1","NAME_1":"Basilan","NL_NAME_1":"","GID_2":"PHL.9.1_1","NAME_2":"Akbar","NL_NAME_2":"","GID_3":"PHL.9.1.1_1","NAME_3":"Caddayan","VARNAME_3":"","NL_NAME_3":"","TYPE_3":"Barangay","ENGTYPE_3":"Village","CC_3":"","HASC_3":""}}
+]}

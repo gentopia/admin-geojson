@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[124.34915924072266,7.006299972534123],[124.35579681396484,7.009550094604435],[124.35176086425781,7.017300128936768],[124.33927917480491,7.011859893798885],[124.34249877929688,7.003769874572754],[124.34915924072266,7.006299972534123]]]},"properties":{"GID_0":"PHL","NAME_0":"Philippines","GID_1":"PHL.44_1","NAME_1":"Maguindanao","NL_NAME_1":"","GID_2":"PHL.44.8_1","NAME_2":"Datu Anggal Midtimbang","NL_NAME_2":"","GID_3":"PHL.44.8.1_1","NAME_3":"Adaon","VARNAME_3":"","NL_NAME_3":"","TYPE_3":"Barangay","ENGTYPE_3":"Village","CC_3":"","HASC_3":""}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[1.4185785055160522,48.97472381591797],[1.413061976432914,48.99073028564453],[1.4044609069824787,48.99889373779308],[1.3853584527968792,48.985919952392635],[1.4019645452500527,48.97206497192394],[1.4185785055160522,48.97472381591797]]]},"properties":{"GID_0":"FRA","NAME_0":"France","GID_1":"FRA.9_1","NAME_1":"Normandie","GID_2":"FRA.9.2_1","NAME_2":"Eure","GID_3":"FRA.9.2.2_1","NAME_3":"Évreux","GID_4":"FRA.9.2.2.11_1","NAME_4":"Pacy-sur-Eure","GID_5":"FRA.9.2.2.11.11_1","NAME_5":"Gadencourt","TYPE_5":"Commune simple","ENGTYPE_5":"Commune","CC_5":""}}
+]}

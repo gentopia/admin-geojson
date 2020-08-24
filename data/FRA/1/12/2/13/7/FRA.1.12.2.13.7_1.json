@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[5.681070327758846,45.541385650634766],[5.673336505889893,45.54346466064459],[5.671341419219971,45.53664398193371],[5.677132606506461,45.53099441528326],[5.691109180450553,45.527893066406364],[5.689648628234863,45.538215637206974],[5.681070327758846,45.541385650634766]]]},"properties":{"GID_0":"FRA","NAME_0":"France","GID_1":"FRA.1_1","NAME_1":"Auvergne-Rhône-Alpes","GID_2":"FRA.1.12_1","NAME_2":"Savoie","GID_3":"FRA.1.12.2_1","NAME_3":"Chambéry","GID_4":"FRA.1.12.2.13_1","NAME_4":"Le Pont-de-Beauvoisin","GID_5":"FRA.1.12.2.13.7_1","NAME_5":"Le Pont-de-Beauvoisin","TYPE_5":"Chef-lieu canton","ENGTYPE_5":"Commune","CC_5":""}}
+]}

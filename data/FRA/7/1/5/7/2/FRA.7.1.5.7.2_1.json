@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[4.030580997467098,49.7846565246582],[4.0513019561768715,49.79150390625006],[4.036482810974178,49.814975738525334],[4.025334358215332,49.80051422119152],[4.026593208313102,49.79407119750982],[4.030580997467098,49.7846565246582]]]},"properties":{"GID_0":"FRA","NAME_0":"France","GID_1":"FRA.7_1","NAME_1":"Hauts-de-France","GID_2":"FRA.7.1_1","NAME_2":"Aisne","GID_3":"FRA.7.1.5_1","NAME_3":"Vervins","GID_4":"FRA.7.1.5.7_1","NAME_4":"Vervins","GID_5":"FRA.7.1.5.7.2_1","NAME_5":"Bancigny","TYPE_5":"Commune simple","ENGTYPE_5":"Commune","CC_5":""}}
+]}

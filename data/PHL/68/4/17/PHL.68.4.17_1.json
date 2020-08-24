@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[123.63210296630871,9.187459945678768],[123.6465072631836,9.194609642028922],[123.64676666259777,9.199999809265194],[123.64396667480469,9.20180988311779],[123.63066864013672,9.199170112609863],[123.63210296630871,9.187459945678768]]]},"properties":{"GID_0":"PHL","NAME_0":"Philippines","GID_1":"PHL.68_1","NAME_1":"Siquijor","NL_NAME_1":"","GID_2":"PHL.68.4_1","NAME_2":"Maria","NL_NAME_2":"","GID_3":"PHL.68.4.17_1","NAME_3":"Pisong A","VARNAME_3":"","NL_NAME_3":"","TYPE_3":"Barangay","ENGTYPE_3":"Village","CC_3":"","HASC_3":""}}
+]}

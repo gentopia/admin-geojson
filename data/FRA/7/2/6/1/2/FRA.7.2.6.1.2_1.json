@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[3.4983563423157875,50.3815155029298],[3.5110397338867756,50.37646484375],[3.5183103084565346,50.38860702514654],[3.5114803314208984,50.395011901855526],[3.5059721469880287,50.40032958984381],[3.494097232818717,50.39392471313482],[3.4983563423157875,50.3815155029298]]]},"properties":{"GID_0":"FRA","NAME_0":"France","GID_1":"FRA.7_1","NAME_1":"Hauts-de-France","GID_2":"FRA.7.2_1","NAME_2":"Nord","GID_3":"FRA.7.2.6_1","NAME_3":"Valenciennes","GID_4":"FRA.7.2.6.1_1","NAME_4":"Anzin","GID_5":"FRA.7.2.6.1.2_1","NAME_5":"Beuvrages","TYPE_5":"Commune simple","ENGTYPE_5":"Commune","CC_5":""}}
+]}
